@@ -1,4 +1,4 @@
-# run-agent-lead-intelligence.ps1
+﻿# run-agent-lead-intelligence.ps1
 # Agent Lead Intelligence — Business Ascension™
 # Prospection à l'échelle (skill lead-intelligence)
 
