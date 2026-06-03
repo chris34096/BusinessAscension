@@ -56,6 +56,11 @@ $($Budget.Substring(0, [Math]::Min(2000, $Budget.Length)))
 
 ### RAPPORT SETTING VENDREDI SOIR :
 $VendrediSoir
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au format defini ci-dessus. Ne pose AUCUNE question, ne propose AUCUNE option. Genere tout, maintenant.
 "@
 
 # Exécution claude -p

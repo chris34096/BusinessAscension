@@ -49,6 +49,11 @@ $PipelineContent
 ---
 Génère les messages de check-in pour tous les clients dont le statut contient "Actif" ou "Signé / Actif".
 Si aucun client actif, réponds : "Aucun client actif cette semaine."
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au format defini ci-dessus. Ne pose AUCUNE question, ne propose AUCUNE option. Genere tout, maintenant.
 "@
 
 Write-Host "Génération check-ins..." -ForegroundColor Yellow

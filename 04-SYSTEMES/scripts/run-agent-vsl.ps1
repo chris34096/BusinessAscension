@@ -97,6 +97,11 @@ $TranscriptContent
 
 ---
 Produis l'analyse complète en 9 sections.
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au format defini ci-dessus. Ne pose AUCUNE question, ne propose AUCUNE option. Genere tout, maintenant.
 "@
 
 if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir | Out-Null }

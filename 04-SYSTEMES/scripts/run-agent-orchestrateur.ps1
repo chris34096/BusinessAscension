@@ -97,6 +97,11 @@ $LastCheckin
 
 Analyse tous ces éléments. Applique ton processus en 5 étapes.
 Génère le Daily Brief complet dans le format exact spécifié.
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au format defini ci-dessus. Ne pose AUCUNE question, ne propose AUCUNE option. Genere tout, maintenant.
 "@
 
 # ─── EXÉCUTION CLAUDE ─────────────────────────────────────────────────────────

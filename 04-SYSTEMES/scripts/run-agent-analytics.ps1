@@ -37,7 +37,7 @@ $Okrs       = Read-FileOrEmpty $OkrFile "okrs.md"
 $Calendrier = Read-FileOrEmpty $CalendrierFile "calendrier-editorial.md"
 $Pipeline   = Read-FileOrEmpty $PipelineFile "pipeline-suivi.md"
 
-$FullContext = "$Prompt`n`n---`n## KPIs DASHBOARD`n`n$Kpis`n`n---`n## OKRs DU TRIMESTRE`n`n$Okrs`n`n---`n## CALENDRIER EDITORIAL`n`n$Calendrier`n`n---`n## PIPELINE COMMERCIAL`n`n$Pipeline`n`n---`nGenere le rapport analytics complet pour la semaine $WeekNum ($Date)."
+$FullContext = "$Prompt`n`n---`n## KPIs DASHBOARD`n`n$Kpis`n`n---`n## OKRs DU TRIMESTRE`n`n$Okrs`n`n---`n## CALENDRIER EDITORIAL`n`n$Calendrier`n`n---`n## PIPELINE COMMERCIAL`n`n$Pipeline`n`n---`nGenere le rapport analytics complet pour la semaine $WeekNum ($Date). Tu es en mode autonome (headless) : ne pose AUCUNE question, ne propose AUCUNE option, produis directement le rapport entier maintenant."
 
 Write-Host "Generation du rapport..."
 if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir | Out-Null }

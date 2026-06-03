@@ -64,6 +64,11 @@ $VeilleData
 ---
 Génère le rapport de veille complet pour la semaine $WeekNum ($Date).
 Si des données sont manquantes, fais la synthèse avec ce qui est disponible + utilise ta connaissance des concurrents BA™ (Musy, Baer, Clouet, Hormozi, etc.) pour compléter. Indique clairement les lacunes de collecte avec une suggestion pratique.
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au format defini ci-dessus. Ne pose AUCUNE question, ne propose AUCUNE option. Genere tout, maintenant.
 "@
 
 # Étape 3 : Génération et sauvegarde

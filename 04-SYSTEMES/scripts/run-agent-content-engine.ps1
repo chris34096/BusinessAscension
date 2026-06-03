@@ -31,6 +31,11 @@ $Voix
 
 ### CONTENU D'ATTRACTION (référence) :
 $Attraction
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au format defini ci-dessus. Ne pose AUCUNE question, ne propose AUCUNE option. Genere tout, maintenant.
 "@
 
 Write-Host "Envoi à Claude..."
