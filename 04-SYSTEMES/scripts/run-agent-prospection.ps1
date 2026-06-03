@@ -40,6 +40,11 @@ $SopProspect
 
 ### COLD DM PLAYBOOK :
 $ColdDM
+
+---
+
+## EXECUTE MAINTENANT
+Tu es en mode autonome (headless). Genere DIRECTEMENT le rapport de prospection complet du jour, au format defini dans "FORMAT DE SORTIE". Ne pose AUCUNE question, ne propose AUCUNE option, n'attends aucune confirmation. Produis le rapport entier, maintenant.
 "@
 
 # Exécution claude -p
