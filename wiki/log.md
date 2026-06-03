@@ -1,4 +1,15 @@
-﻿## 2026-06-03 (session 21) — REBOOT COMPLET — Modèle Tom Pearson
+﻿## 2026-06-03 (session 22) — Purge ancien, GitHub, GHL pages, skills
+
+- **Purge complète de l'ancien vocabulaire** dans ~80 fichiers : Inner Architecture (Starter/Program/Protocol), SAFe Agile, PI Planning/Review, background corporate (Dalenys/DLG/Tradamax/filiales), Appel Clarté, Inside Freedom — tout supprimé. Seuls subsistent les notes "ne pas utiliser" dans CLAUDE.md et christofer-perez.md.
+- **6 fichiers supprimés** : `_archive/` (2), `wiki/concepts/inner-architecture-protocol.md`, `page-iap-copy.md`, `page-starter-copy.md`, `script-closing.md` (v1).
+- **GitHub** : projet poussé sur github.com/chris34096/BusinessAscension (main). `.gitignore` créé, `telegram-config.ps1` (secret) exclu + version `.example.ps1`. Doublons `Ascension™/` et `CODE/` nettoyés.
+- **4 prompts GHL créés** : `/commencer`, `/deviens-entrepreneur`, `/construis-la-marque`, `/merci`. Anciens `prompt-ghl-studio-page*` supprimés.
+- **18 skills installés** dans ~/.claude/skills (dont 01-axis → 05-vertex, frameworks business FR).
+- **Post build-in-public** écrit par Chris → sauvegardé en mémoire (matériau voix réelle).
+
+---
+
+## 2026-06-03 (session 21) — REBOOT COMPLET — Modèle Tom Pearson
 
 - **Décision stratégique majeure :** Reboot complet du positionnement et de toutes les offres. Modèle Tom Pearson (becometheman01.com + buildthebrand01.com) adopté comme référence directe.
 - **Nouveaux noms officiels :**
