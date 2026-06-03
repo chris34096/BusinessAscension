@@ -1,0 +1,29 @@
+# === SECRETS — NE JAMAIS VERSIONNER ===
+04-SYSTEMES/scripts/telegram-config.ps1
+*.env
+*.key
+*.pem
+*.token
+
+# === CACHES & OUTILS LOCAUX ===
+graphify-out/
+.playwright-mcp/
+.claude/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/.trash/
+
+# === OS ===
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === PYTHON ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === NODE (si applicable) ===
+node_modules/
