@@ -1,7 +1,11 @@
 # Ma Cible — Portrait final
-> Version 10.0 — Juin 2026
-> Reboot complet : modèle Tom Pearson · deux ICP · business-first · vendre par message
+> Version 11.0 — Juin 2026
+> Modèle Tom Pearson × Julien Musy/Empowerment · deux ICP · low ticket en entrée
 > Wiki : [[icp-cible]] · [[funnel-acquisition]] · [[tom-pearson]]
+
+> **Modèle de livraison par porte (v10) :**
+> - **ICP 1 → Porte 1 (organique pur)** : on construit offre·avatar·positionnement·identité + systèmes contenu LinkedIn/Instagram/YouTube interconnectés → **communauté + CA récurrent**. MRR 3/6/12 mois, prix public. Entrée via **low ticket 7–27€** (vidéo).
+> - **ICP 2 → Porte 2 (scale)** : on scale la Porte 1 + acquisition payante (ads/webinaire/challenge/VSL) + recrutement + automatisation. Parcours unique 12 mois, prix par appel.
 
 ---
 

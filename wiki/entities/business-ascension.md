@@ -23,21 +23,22 @@ updated: 2026-06-03
 
 ---
 
+## LOW TICKET — entrée BA™
+Produit vidéo 7–27€ qui enseigne la méthode · offre auto-liquidante (finance l'acquisition) · première marche du funnel.
+
 ## LES 2 OFFRES
 
 ### Deviens l'Entrepreneur™
-- **Cible :** 0→10K€/mois
-- **Format :** Abonnement · Groupe + modules · Prix public
-- **Plans :** 3 mois (997€) · 6 mois (1 497€) · 12 mois (2 497€) — PIF ou mensuel
-- **Accès :** Immédiat après inscription · Protocole sous 48h
-- **Miroir :** becometheman01.com (Tom Pearson)
+- **Cible :** 0→10K€/mois · **Organique pur**
+- **Format :** MRR · 3 mois (997€) · 6 mois (1 497€) · 12 mois (2 497€) — PIF ou versements · Prix public
+- **Contenu :** fondations (offre · avatar · positionnement · identité) + lead magnet + systèmes contenu LinkedIn/Instagram/YouTube interconnectés → omniprésence → **communauté + CA récurrent**
+- **Inspiration :** Julien Musy "Funnel & Freedom" / Empowerment + MRR Tom Pearson
 
 ### Construis la Marque™
-- **Cible :** 10K→100K€/mois
-- **Format :** Mentorship · Candidature uniquement · Pas de prix public
-- **3 niveaux :** Signature + Mastermind · Blackroom Consulting · Sur-mesure
-- **Prix bêta :** 4 997€
-- **Miroir :** buildthebrand01.com (Tom Pearson)
+- **Cible :** 10K→100K€/mois · **Scale**
+- **Format :** Parcours unique · 12 mois · Candidature · **Prix par appel** (pas de prix public)
+- **Contenu :** scale de la Porte 1 + acquisition payante (ads · webinaire · challenge · VSL) + recrutement (sortir de l'opérationnel) + automatisation · mindset continue
+- **Inspiration :** Julien Musy "Millionnaire Lion / Infinity" + mentorship Tom Pearson
 
 ---
 
@@ -67,13 +68,15 @@ updated: 2026-06-03
 ## FUNNEL
 
 ```
-Contenu organique (Instagram · LinkedIn · YouTube)
+Low ticket 7–27€ (vidéo · auto-liquidant) → acquiert ~gratuitement
+    ↓
+Lead magnet + Contenu organique (Instagram · LinkedIn · YouTube interconnectés)
     ↓
 Leads entrants présoldés → DM → Conversation → Client fermé
     ↓
-Deviens l'Entrepreneur™ (0→10K, abonnement)
+Deviens l'Entrepreneur™ (0→10K · organique · MRR)
     ↓
-Construis la Marque™ (10K→100K, candidature)
+Construis la Marque™ (10K→100K · scale · 12 mois · prix par appel)
     ↓
 Scale Ascension (clients avancés)
 ```

@@ -8,7 +8,8 @@ updated: 2026-06-03
 
 # ICP — Cible Business Ascension™
 
-> Deux ICP · Deux portes · Reboot Juin 2026
+> Deux ICP · Deux portes · v10 (Tom Pearson × Musy/Empowerment)
+> ICP 1 → Porte 1 organique pur (communauté + MRR), entrée low ticket 7–27€ · ICP 2 → Porte 2 scale (ads + recrutement + automatisation), 12 mois prix par appel
 
 ---
 

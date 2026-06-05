@@ -259,10 +259,11 @@ La révélation crée plus de confiance que la réassurance.
 
 > *"Je veux être leader du marché français de l'accompagnement des entrepreneurs. Ensuite, le marché anglophone et hispanophone. Des séminaires dans le monde entier. Des retraites business immersives — une semaine enfermés dans une maison, breathwork, nutrition, sport, et on ne fait que bosser sur l'entreprise et sur la personne. Je veux un portfolio d'entreprises. Je veux faire une grosse, grosse différence."*
 
-**Modèle structurel cible (Tom Pearson — modélisé Juin 2026) :**
-- Porte 1 : 0 → 10K€/mois — abonnement + modules (Deviens l'Entrepreneur™)
-- Porte 2 : 10K → 100K€/mois — mentorship candidature (Construis la Marque™)
-- Différence assumée : Tom = lifestyle/physique masculin. BA™ = business + marketing + identité, tous genres, France d'abord.
+**Modèle structurel cible (Tom Pearson × Julien Musy/Empowerment — v10, Juin 2026) :**
+- Low ticket 7–27€ (vidéo, auto-liquidant) → entrée du funnel
+- Porte 1 : 0 → 10K€/mois — organique pur (offre·avatar·positionnement·identité + systèmes contenu LI/IG/YT interconnectés → communauté) — MRR 3/6/12 mois (Deviens l'Entrepreneur™)
+- Porte 2 : 10K → 100K€/mois — scale (ads + recrutement + automatisation) — parcours unique 12 mois, prix par appel (Construis la Marque™)
+- Mindset (breathwork·hypnose·reconditionnement) dans les DEUX portes.
 
 ---
 
