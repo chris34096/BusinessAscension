@@ -1,4 +1,4 @@
-﻿# Rapport Prospection — 2026-06-03 (mercredi)
+# Rapport Prospection — 2026-06-03 (mercredi)
 
 ## PIPELINE — État actuel
 Pipeline vide en statut actif (phase bêta, début de remplissage). Aucun prospect en RELANCE EN COURS, aucun audit booké, aucun en réflexion. **Priorité absolue aujourd'hui : génération de flux entrant via prospection cold sur Instagram + LinkedIn.** Objectif jour : 10 DMs cold envoyés, 5 commentaires stratégiques, 1 story/post publié.
