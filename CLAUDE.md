@@ -32,18 +32,20 @@
 ## CE QU'EST BUSINESS ASCENSION™
 
 **Positionnement :** Business et marketing pour entrepreneurs — avec l'identité comme levier d'exécution.
-**Modèle de référence :** Tom Pearson (Become The Man · Build The Brand) adapté au marché francophone.
+**Modèle de référence :** Tom Pearson (structure 2 portes + MRR) × Julien Musy / Empowerment (organique pur → scale).
 
 **Les 2 piliers — dans le produit, pas dans le pitch :**
-- **Identité & Exécution** — Breathwork · Hypnose · PNL · Neurosciences. Ce que l'IA ne peut pas faire. Ce qui débloque l'exécution à la source.
-- **Business & Marketing** — Offre · Contenu · Leads entrants · Vendre par message · BOS 6 pôles.
+- **Identité & Exécution** — Breathwork · Hypnose · PNL · Neurosciences · Reconditionnement. Présent en Porte 1 ET Porte 2.
+- **Business & Marketing** — Offre · Positionnement · Contenu · Leads entrants · Vendre par message · BOS 6 pôles.
+
+**Low ticket BA™ (7–27€) :** produit vidéo qui enseigne la méthode · offre auto-liquidante (finance l'acquisition) · première marche du funnel → ascension vers Porte 1 puis Porte 2.
 
 **Les 2 offres :**
 
 | Offre | Nom | Cible | Modèle |
 |---|---|---|---|
-| Porte 1 | **Deviens l'Entrepreneur™** | 0→10K€/mois | Abonnement · Groupe + modules · Prix public |
-| Porte 2 | **Construis la Marque™** | 10K→100K€/mois | Candidature · Mentorship · Pas de prix public |
+| Porte 1 | **Deviens l'Entrepreneur™** | 0→10K€/mois | Organique pur · MRR 3/6/12 mois (1× ou versements) · Prix public · Objectif : communauté + CA récurrent |
+| Porte 2 | **Construis la Marque™** | 10K→100K€/mois | Scale (ads + recrutement + automatisation) · Parcours unique 12 mois · Candidature · Prix par appel |
 
 **Entry point public — business-first :**
 > "Transforme ta valeur en une marque à 10K–100K€/mois. Des leads qui rentrent. Vendre par message."
@@ -83,8 +85,9 @@ Le contenu montre le résultat. Le produit livre le chemin.
 
 | Terme | Statut | Règle |
 |---|---|---|
-| **Deviens l'Entrepreneur™** | ✅ Nom officiel | Porte 1 — abonnement — 0→10K |
-| **Construis la Marque™** | ✅ Nom officiel | Porte 2 — mentorship — 10K→100K |
+| **Deviens l'Entrepreneur™** | ✅ Nom officiel | Porte 1 — organique pur — MRR — 0→10K |
+| **Construis la Marque™** | ✅ Nom officiel | Porte 2 — scale — parcours unique 12 mois — 10K→100K |
+| **Low ticket** | ✅ Produit vidéo 7–27€ | Entrée auto-liquidante du funnel BA™ |
 | **Business Ascension™** | ✅ Nom de la marque | Toujours avec ™ en formel |
 | **Scale Ascension** | ✅ Étape 7 + continuité | Réservé aux clients ayant complété |
 | **Audit offert** | ✅ Nom public unique | TOUJOURS ce nom en externe |
@@ -110,7 +113,7 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 │   ├── _fondations/
 │   │   ├── ma-cible.md             ← v10.0 ✅  ← 2 ICP · Deviens l'Entrepreneur / Construis la Marque
 │   │   ├── ma-voix.md              ← v9.0 ✅
-│   │   ├── mes-offres.md           ← v9.0 ✅  ← Reboot Tom Pearson · MRR + candidature
+│   │   ├── mes-offres.md           ← v10.0 ✅  ← Musy/Empowerment × Tom Pearson · low ticket · P1 organique / P2 scale
 │   │   ├── lead-magnet-4-goulots.md ← v1.0 ✅
 │   │   ├── lead-magnets.md         ← v1.0 ✅
 │   │   ├── voc-langage-client.md   ← v1.0 ✅
