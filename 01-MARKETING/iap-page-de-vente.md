@@ -58,53 +58,24 @@
 
 ---
 
-## UNE CANDIDATURE — TROIS NIVEAUX
+## UN PARCOURS UNIQUE — 12 MOIS
 
-**H2 :** Chaque entrepreneur entre au bon niveau.
+**H2 :** On scale ce que tu as déjà construit. Ensemble, 12 mois.
 
-*Tu candidatures une fois. On choisit ensemble le niveau qui correspond à où tu en es et où tu vas.*
+*Construis la Marque™, c'est le passage de 10K à 100K€/mois : on amplifie l'organique avec l'acquisition payante, on te sort de l'opérationnel, et on automatise.*
 
----
-
-**— Niveau I · Signature Program + Mastermind**
-*The Foundation*
-
-Pour celui qui est prêt à installer le système complet entouré d'entrepreneurs sérieux.
-
-- ◆ Le système complet en 8 étapes — structuré et guidé
-- ◆ Communauté mastermind d'opérateurs qui construisent à tes côtés
-- ◆ Identité, offre, contenu, vente et scale — construit autour de toi
-- ◆ Coaching groupe et feedback direct sur ta construction
+**Ce qu'on installe :**
+- ◆ **Acquisition payante** — ADS · webinaire · challenge · VSL : on amplifie et on accélère ce que l'organique a lancé
+- ◆ **Recrutement** — on recrute les bonnes personnes pour te sortir de l'opérationnel
+- ◆ **Automatisation** — toutes les tâches récurrentes systématisées
+- ◆ **Identité / mindset (continue)** — breathwork · hypnose · reconditionnement à un niveau supérieur
+- ◆ **Le système complet en 8 étapes** — construit autour de toi, accès direct à Chris
 
 ---
 
-**— Niveau II · Blackroom Consulting**
-*The Acceleration · Le plus choisi*
+> *Parcours unique · Engagement 12 mois · Pas de prix public · L'investissement se décide lors de ton appel.*
 
-Pour l'opérateur qui veut Chris dans la salle sur la stratégie, l'offre et la croissance.
-
-- ◆ Tout le Niveau I — Signature Program + Mastermind
-- ◆ Consulting direct avec Chris sur ta construction spécifique
-- ◆ Architecture d'offre, positionnement et stratégie de scale — hands on
-- ◆ Accès prioritaire et ligne directe avec Chris
-
----
-
-**— Niveau III · Sur-mesure · Construit avec toi**
-*The Partnership*
-
-Pour celui qui veut le brand engineering conçu et construit au plus haut niveau.
-
-- ◆ Tout le Niveau II — Blackroom Consulting
-- ◆ La marque construite avec toi, done-for-you là où ça compte
-- ◆ Pages, funnels, systèmes de contenu et infrastructure gérés
-- ◆ Le niveau d'accès et de partenariat le plus profond avec Chris
-
----
-
-> *Pas de prix public · Le niveau et l'investissement se décident lors de ton appel.*
-
-**[Bouton] → Trouve ton niveau — Candidater →**
+**[Bouton] → Candidater →**
 
 ---
 
@@ -172,7 +143,7 @@ Deux minutes. Une courte candidature pour que je sache qui tu es et ce que tu co
 On clarifie exactement où tu en es, ce que tu veux construire, et le gap entre les deux.
 
 **— 03 · Tu choisis ton niveau.**
-Signature, Blackroom ou Sur-mesure. On verrouille le bon niveau pour où tu en es.
+On valide ensemble que c'est le bon moment, et on définit l'investissement.
 
 **— 04 · On construit.**
 On se met au travail. Le système, les offres, le contenu, le scale. Autour de toi.

@@ -21,7 +21,7 @@ Fondations de marque, acquisition sur tous les canaux.
 **Fondations**
 - [Ma cible — Portrait final](01-MARKETING/_fondations/ma-cible.md)
 - [Ma voix — Référentiel de style](01-MARKETING/_fondations/ma-voix.md)
-- [Mes offres — Architecture finale](01-MARKETING/_fondations/mes-offres.md) ← v8.0 ✅ 2 piliers (Inner Work · Business) + Starter™ + IAP™ 3 niveaux + Lead Magnets
+- [Mes offres — Architecture finale](01-MARKETING/_fondations/mes-offres.md) ← v10.0 ✅ Musy/Empowerment × Tom Pearson · Low ticket 7-27€ · Porte 1 organique (MRR) · Porte 2 scale (12 mois, prix par appel)
 - [Lead Magnet — Les 4 goulots de l'entrepreneur qui stagne](01-MARKETING/_fondations/lead-magnet-4-goulots.md)
 - [VOC — Langage exact du client idéal](01-MARKETING/_fondations/voc-langage-client.md)
 - [Page Principale — Copy complet](01-MARKETING/_fondations/page-principale-copy.md) ← Tom Pearson style, 7 sections, 8 croyances, headline + 3 profils + mécanisme

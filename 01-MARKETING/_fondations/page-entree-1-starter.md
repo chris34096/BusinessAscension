@@ -58,10 +58,12 @@
 
 **Ce que tu construis :**
 - Une offre catégorie à part — que personne ne peut copier
-- Un contenu qui pré-vend — des leads entrants, pas sortants
+- Ton avatar et ton positionnement — précis, qui filtrent les bons clients
+- Ton identité d'entrepreneur — débloquée à la source (breathwork · hypnose · reconditionnement)
+- Des **systèmes de contenu par plateforme** — LinkedIn, Instagram, YouTube, chacun avec sa méthode propre, **interconnectés** → omniprésence
+- Une **communauté qui te suit** — ton moteur de croissance et de CA récurrent
 - Vendre par message — fermer des clients depuis ton téléphone
 - Un CA régulier et prévisible — plus de montagnes russes
-- Une identité d'entrepreneur — complète, alignée, qui tient dans le temps
 
 ---
 

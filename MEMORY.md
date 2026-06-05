@@ -70,15 +70,21 @@
 
 **2 piliers :** Inner Work (breathwork · hypnose · MAP · PNL · neurosciences) · Business (BOS 6 pôles + acquisition)
 
-**Deviens l'Entrepreneur™ — porte d'entrée 1 :**
-- Groupe + modules + lives bi-mensuels + breathwork mensuel
-- 997€ / 1 497€ / 2 497€ PIF — 367€ / 297€ / 247€ mensuel
-- Labels : "Entrée" / "Le plus choisi" / "Meilleure valeur + tous les nouveaux modules inclus"
-- Copy : *"Ce n'est pas une formation que tu achètes. C'est un accès à moi."*
+**⚠️ MODÈLE v10 (Juin 2026) — Musy/Empowerment × Tom Pearson :**
 
-**Construis la Marque™ — 3 niveaux :** Signature+Mastermind / Blackroom / Sur-mesure
+**Low ticket BA™ 7–27€ :** produit vidéo qui enseigne la méthode · auto-liquidant · entrée du funnel.
+
+**Deviens l'Entrepreneur™ — Porte 1 (0→10K) · ORGANIQUE PUR :**
+- On construit : offre · avatar · positionnement · identité (breathwork/hypnose/reconditionnement) + lead magnet + systèmes contenu LinkedIn/Instagram/YouTube **interconnectés** → omniprésence → **communauté + CA récurrent**
+- MRR : 997€ / 1 497€ / 2 497€ PIF — ou versements 3/6/12 — prix public
+- Inspiration : Musy "Funnel & Freedom" / Empowerment
+
+**Construis la Marque™ — Porte 2 (10K→100K) · SCALE :**
+- = scale de la Porte 1 + acquisition payante (ads/webinaire/challenge/VSL) + recrutement (sortir de l'opérationnel) + automatisation · mindset continue
+- **Parcours unique 12 mois** (plus de 3 niveaux) · prix par appel uniquement
+- Inspiration : Musy "Millionnaire Lion / Infinity"
+
 **Les 8 étapes BA™ formalisées.**
-**2 Lead Magnets :** PDF "La Main Invisible" + Masterclass "Les 8 étapes".
 
 ### Benchmarking Tom Pearson — analyse complète
 
