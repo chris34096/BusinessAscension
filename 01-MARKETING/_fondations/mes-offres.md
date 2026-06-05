@@ -70,7 +70,7 @@ C'est la première marche du funnel BA™ : il qualifie, il donne un premier ré
 | **12 mois** *(meilleure valeur)* | 2 497€ | 12 × 247€ |
 
 > Payable en 1 fois OU en 3 / 6 / 12 versements selon le plan · Accès immédiat · Protocole personnalisé sous 48h.
-> *(Tarifs hérités du modèle Tom Pearson — à revalider lors du calibrage final.)*
+> *(Tarifs validés — Juin 2026.)*
 
 **Garantie :** roadmap construite + premier résultat mesurable à 30 jours, sinon remboursement intégral.
 
