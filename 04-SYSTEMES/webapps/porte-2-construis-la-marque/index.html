@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Construis la Marque™ — Business Ascension™</title>
+<meta name="description" content="Transforme ta valeur et ton histoire en une marque à 10K–100K€/mois. Mentorship 1-to-1 avec Chris. Candidature uniquement." />
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<style>
+:root{
+  --bg:#08070B; --bg2:#0E0D13; --glass:rgba(24,24,32,.5); --ink:#EDEBE4; --muted:#8E8A82;
+  --gold:#C9A84C; --gold-lt:#E8C46A; --plat:#D9D4C7; --line:rgba(217,212,199,.13);
+  --serif:'Playfair Display',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+::selection{background:var(--gold);color:#08070B}
+a{color:inherit;text-decoration:none}
+h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.04;letter-spacing:-.01em}
+.muted{color:var(--muted)}
+
+.mesh{position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(50% 50% at 50% 0%,rgba(201,168,76,.14),transparent 65%),radial-gradient(40% 40% at 85% 90%,rgba(217,212,199,.05),transparent 70%)}
+.grain{position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.055;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+#three{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.95}
+.wrap{position:relative;z-index:2;max-width:1180px;margin:0 auto;padding:0 28px}
+.eyebrow{font-size:.7rem;letter-spacing:.36em;text-transform:uppercase;color:var(--gold-lt);font-weight:600}
+
+nav{position:fixed;top:0;left:0;right:0;z-index:30}
+.nav-in{margin:14px 24px;padding:12px 24px;display:flex;justify-content:space-between;align-items:center;max-width:1180px;margin-left:auto;margin-right:auto;
+  background:var(--glass);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:100px}
+.brand{font-family:var(--serif);font-size:1.02rem}.brand b{color:var(--gold-lt);font-weight:600}
+.btn{display:inline-flex;align-items:center;gap:.5em;font-weight:600;font-size:.95rem;padding:.85em 1.7em;border-radius:100px;transition:.25s;cursor:pointer;border:1px solid transparent}
+.btn-gold{background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#08070B;box-shadow:0 10px 36px -10px rgba(201,168,76,.6)}
+.btn-gold:hover{transform:translateY(-2px);box-shadow:0 18px 50px -10px rgba(201,168,76,.78)}
+.btn-ghost{border-color:var(--line);color:var(--ink);background:var(--glass);backdrop-filter:blur(10px)}
+.btn-ghost:hover{border-color:var(--plat);color:var(--plat)}
+
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:170px 0 100px}
+.hero h1{font-size:clamp(2.6rem,6.4vw,5.6rem);max-width:14ch;margin:.3em 0}
+.hero h1 em{font-style:italic;color:var(--gold-lt)}
+.hero .sub{font-size:clamp(1.02rem,1.4vw,1.22rem);max-width:680px;margin-top:1.5em;color:var(--ink)}
+.steps{display:flex;gap:28px;flex-wrap:wrap;justify-content:center;margin-top:2.3em;font-size:.82rem;letter-spacing:.04em;color:var(--muted)}
+.steps b{color:var(--gold-lt);font-family:var(--serif)}
+.hero-cta{margin-top:2.6em}
+.note{font-size:.8rem;color:var(--muted);margin-top:1.4em;letter-spacing:.02em}
+
+.rev{opacity:0;transform:translateY(28px);transition:opacity 1s cubic-bezier(.16,1,.3,1),transform 1s cubic-bezier(.16,1,.3,1)}
+.rev.in{opacity:1;transform:none}
+section{padding:108px 0;position:relative}
+.sec-head{max-width:760px;margin:0 auto 60px;text-align:center}
+.sec-head .eyebrow{display:block;margin-bottom:18px}
+.sec-head h2{font-size:clamp(2rem,4.2vw,3.5rem)}
+
+.glass{background:var(--glass);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid var(--line);border-radius:20px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.stat{padding:28px 22px;text-align:center}
+.stat b{font-family:var(--serif);font-size:1.7rem;color:var(--gold-lt);display:block}
+.stat span{font-size:.8rem;color:var(--muted)}
+
+.install{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;max-width:920px;margin:0 auto}
+.icard{padding:30px 28px;transition:.3s}.icard:hover{border-color:var(--gold-lt);transform:translateY(-4px)}
+.icard h3{font-size:1.3rem;margin-bottom:.4em;color:var(--gold-lt)}
+.icard p{color:var(--muted);font-size:.96rem}
+
+.grid8{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.step{padding:30px;transition:.3s}.step:hover{border-color:var(--gold-lt);transform:translateY(-4px)}
+.step .n{font-family:var(--serif);font-size:1rem;color:var(--gold);letter-spacing:.08em}
+.step h3{font-size:1.3rem;margin:.4em 0 .35em}.step p{font-size:.94rem;color:var(--muted)}
+
+.value{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:20px;overflow:hidden;max-width:900px;margin:0 auto}
+.vrow{background:var(--bg2);padding:30px 34px;display:grid;grid-template-columns:auto 1fr;gap:24px;align-items:start}
+.vrow .rn{font-family:var(--serif);font-size:1.6rem;color:var(--gold)}
+.vrow h3{font-size:1.2rem;margin-bottom:.3em}.vrow p{color:var(--muted);font-size:.96rem}
+
+.process{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.pcard{padding:28px;text-align:center}.pcard .n{font-family:var(--serif);color:var(--gold-lt);font-size:1.4rem}
+.pcard h3{font-size:1.1rem;margin:.4em 0}.pcard p{font-size:.88rem;color:var(--muted)}
+
+.forwho{max-width:820px;margin:0 auto;list-style:none}
+.forwho li{padding:20px 0;border-bottom:1px solid var(--line);display:flex;gap:16px;font-size:1.06rem}
+.forwho li::before{content:"◆";color:var(--gold-lt);flex:0 0 auto}
+
+.final{text-align:center;padding:150px 0}
+.final h2{font-size:clamp(2.4rem,5.5vw,4.6rem);max-width:900px;margin:0 auto .4em}
+.final h2 em{font-style:italic;color:var(--gold-lt)}
+footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:var(--muted);font-size:.82rem}
+@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.install,.grid8,.process{grid-template-columns:1fr}.vrow{grid-template-columns:1fr;gap:8px}.hero{padding-top:140px}}
+@media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
+</style>
+</head>
+<body>
+<div class="mesh"></div><canvas id="three"></canvas><div class="grain"></div>
+
+<nav><div class="nav-in">
+  <div class="brand">Business Ascension™ · <b>Construis la Marque™</b></div>
+  <a href="#candidature" class="btn btn-gold">Candidater</a>
+</div></nav>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="eyebrow rev">Pour entrepreneurs, high performers, coaches & consultants</div>
+    <h1 class="rev">Transforme ta valeur en une <em>marque à 10K–100K€/mois.</em></h1>
+    <p class="sub rev">Une marque catégorie à part qui te ressemble vraiment. Des leads entrants chaque jour. Vendre par message. Des systèmes de scale. La façon la plus sophistiquée de construire au plus haut niveau — autour de qui tu es déjà.</p>
+    <div class="steps rev"><span><b>01</b> · Candidater</span><span><b>02</b> · On se parle</span><span><b>03</b> · On construit · 12 mois</span></div>
+    <div class="hero-cta rev"><a href="#candidature" class="btn btn-gold">Candidater pour travailler avec Chris →</a></div>
+    <div class="note rev">Candidature uniquement · Conversation 1-to-1 avec Chris · Pas de prix public</div>
+  </header>
+
+  <section style="padding-top:0">
+    <div class="stats">
+      <div class="glass stat rev"><b>10K–100K+</b><span>Par mois · ce qu'on construit</span></div>
+      <div class="glass stat rev"><b>8 étapes</b><span>Système propriétaire</span></div>
+      <div class="glass stat rev"><b>1-to-1</b><span>Accès direct à Chris</span></div>
+      <div class="glass stat rev"><b>12 mois</b><span>Parcours unique</span></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Un parcours unique · 12 mois</span><h2>On scale ce que tu as déjà construit.</h2><p class="muted" style="margin-top:16px">Le passage de 10K à 100K€/mois : on amplifie l'organique avec l'acquisition payante, on te sort de l'opérationnel, et on automatise.</p></div>
+    <div class="install">
+      <div class="glass icard rev"><h3>Acquisition payante</h3><p>ADS · webinaire · challenge · VSL : on amplifie et on accélère ce que l'organique a lancé.</p></div>
+      <div class="glass icard rev"><h3>Recrutement</h3><p>On recrute les bonnes personnes pour te sortir de l'opérationnel.</p></div>
+      <div class="glass icard rev"><h3>Automatisation</h3><p>Toutes les tâches récurrentes systématisées.</p></div>
+      <div class="glass icard rev"><h3>Identité · mindset (continue)</h3><p>Breathwork · hypnose · reconditionnement à un niveau supérieur.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Le mécanisme</span><h2>Le système en 8 étapes.</h2><p class="muted" style="margin-top:16px">Pas du coaching. Un système propriétaire. Chaque entrepreneur suit le même process.</p></div>
+    <div class="grid8">
+      <div class="glass step rev"><div class="n">01</div><h3>Diagnostic d'Exécution</h3><p>On cartographie qui tu es, ce qui bloque, le goulot qui coûte tout le reste.</p></div>
+      <div class="glass step rev"><div class="n">02</div><h3>Architecture de l'Offre</h3><p>Une offre catégorie à part. Deux niveaux : une qui scale par le prix, une par le volume.</p></div>
+      <div class="glass step rev"><div class="n">03</div><h3>Machine à Leads</h3><p>De "je ne te connais pas" à "j'ai besoin d'acheter chez toi". Des leads entrants quotidiens.</p></div>
+      <div class="glass step rev"><div class="n">04</div><h3>Infrastructure de Conversion</h3><p>Pages, VSLs et assets au standard premium. Transformer le trafic en clients fermés, vite.</p></div>
+      <div class="glass step rev"><div class="n">05</div><h3>Vendre par Message</h3><p>Ferme des clients premium depuis ton téléphone. Le contenu les a pré-vendus.</p></div>
+      <div class="glass step rev"><div class="n">06</div><h3>Système de Delivery</h3><p>Des résultats meilleurs que n'importe qui dans ton marché — sans que tes heures scalent.</p></div>
+      <div class="glass step rev"><div class="n">07</div><h3>Scale Ascension</h3><p>Backend ecosystem qui multiplie la valeur lifetime. Paid où ça fait sens.</p></div>
+      <div class="glass step rev"><div class="n">08</div><h3>Blueprint d'Exécution</h3><p>Le système entier condensé en une non-négociable quotidienne.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Ce que ça te donne vraiment</span><h2>La marque est le véhicule.</h2></div>
+    <div class="value">
+      <div class="vrow rev"><div class="rn">I</div><div><h3>Des leads entrants déjà convaincus sur toi</h3><p>Plus de chasse. Ton contenu qualifie et pré-vend — la conversation porte sur la logistique, pas la conviction.</p></div></div>
+      <div class="vrow rev"><div class="rn">II</div><div><h3>Un CA qui reflète ta vraie valeur</h3><p>Quand identité, offre et mécanisme sont alignés, le prix devient évident. Pas négocié. Évident.</p></div></div>
+      <div class="vrow rev"><div class="rn">III</div><div><h3>Une marque qui t'appartient complètement</h3><p>Identity-first : c'est la tienne. Tellement alignée avec qui tu es que te montrer semble inévitable.</p></div></div>
+      <div class="vrow rev"><div class="rn">IV</div><div><h3>Le temps et la liberté géographique</h3><p>Quand l'écosystème d'offres tourne, le pipeline ne dépend plus de ta localisation ni de tes heures.</p></div></div>
+      <div class="vrow rev"><div class="rn">V</div><div><h3>La confiance de savoir exactement ce que tu fais</h3><p>Quand tu as l'architecture, tu arrêtes de douter. Tu exécutes.</p></div></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Comment ça se passe</span><h2>Quatre étapes. Ensuite on construit.</h2></div>
+    <div class="process">
+      <div class="glass pcard rev"><div class="n">01</div><h3>Remplis la candidature</h3><p>Deux minutes. Pour que je sache qui tu es avant qu'on se parle.</p></div>
+      <div class="glass pcard rev"><div class="n">02</div><h3>On se parle</h3><p>On clarifie où tu en es, ce que tu veux construire, et le gap entre les deux.</p></div>
+      <div class="glass pcard rev"><div class="n">03</div><h3>On valide le fit</h3><p>On confirme ensemble que c'est le bon moment, et on définit l'investissement.</p></div>
+      <div class="glass pcard rev"><div class="n">04</div><h3>On construit</h3><p>Le système, les offres, le contenu, le scale. Autour de toi. 12 mois.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Pour qui c'est construit</span><h2>Lis ça attentivement. Si c'est toi — candidature.</h2></div>
+    <ul class="forwho rev">
+      <li>Tu as une vraie valeur, expertise ou histoire — et il est temps de construire quelque chose de sérieux autour</li>
+      <li>Tu veux devenir ta propre catégorie. Identity-led. Pas un clone dans un espace encombré</li>
+      <li>Tu as déjà une marque ou un business et tu veux la scaler correctement</li>
+      <li>Tu veux des leads entrants présoldés — des acheteurs déjà convaincus, alignés, prêts</li>
+      <li>Tu comprends que la proximité avec quelqu'un qui a construit est le chemin le plus rapide</li>
+      <li>Tu es prêt à avancer maintenant. Pas à y réfléchir. Prêt.</li>
+    </ul>
+  </section>
+
+  <section class="final" id="candidature">
+    <div class="eyebrow rev" style="margin-bottom:18px">La décision</div>
+    <h2 class="rev">Tu sais déjà que <em>c'est ton move.</em></h2>
+    <p class="muted rev" style="max-width:640px;margin:0 auto 2.4em">Tu n'as pas lu jusqu'ici par accident. L'entrepreneur que tu construis est de l'autre côté d'une seule conversation.</p>
+    <div class="hero-cta rev"><a href="#" class="btn btn-gold">Candidater pour travailler avec Chris →</a></div>
+    <div class="note rev">Candidature uniquement · Conversation 1-to-1 avec Chris · Pas de prix public</div>
+  </section>
+</div>
+
+<footer><div class="wrap">Construis la Marque™ · Business Ascension™ — Tu démarres ? <a href="../porte-1-deviens-entrepreneur/" style="color:var(--gold-lt)">Deviens l'Entrepreneur™ →</a></div></footer>
+
+<script>
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.1});
+document.querySelectorAll('.rev').forEach((el,i)=>{el.style.transitionDelay=(i%4*70)+'ms';io.observe(el)});
+
+if(!matchMedia('(prefers-reduced-motion:reduce)').matches){(function(){
+  const canvas=document.getElementById('three');
+  const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:true});
+  renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+  const scene=new THREE.Scene(),cam=new THREE.PerspectiveCamera(45,innerWidth/innerHeight,.1,100);cam.position.z=9;
+  function size(){renderer.setSize(innerWidth,innerHeight);cam.aspect=innerWidth/innerHeight;cam.updateProjectionMatrix()}size();addEventListener('resize',size);
+  const grp=new THREE.Group();grp.position.y=.6;scene.add(grp);
+  const d=new THREE.DodecahedronGeometry(2.7,0);
+  grp.add(new THREE.LineSegments(new THREE.WireframeGeometry(d),new THREE.LineBasicMaterial({color:0xC9A84C,transparent:true,opacity:.30})));
+  grp.add(new THREE.Mesh(d,new THREE.MeshBasicMaterial({color:0x0c0b10,transparent:true,opacity:.55})));
+  const o=new THREE.OctahedronGeometry(1.5,0);
+  const inner=new THREE.LineSegments(new THREE.WireframeGeometry(o),new THREE.LineBasicMaterial({color:0xE8C46A,transparent:true,opacity:.5}));
+  grp.add(inner);
+  const N=520,pos=new Float32Array(N*3);
+  for(let i=0;i<N;i++){const r=4.5+Math.random()*5,t=Math.random()*6.283,p=Math.acos(2*Math.random()-1);pos[i*3]=r*Math.sin(p)*Math.cos(t);pos[i*3+1]=r*Math.sin(p)*Math.sin(t);pos[i*3+2]=r*Math.cos(p);}
+  const pg=new THREE.BufferGeometry();pg.setAttribute('position',new THREE.BufferAttribute(pos,3));
+  const pts=new THREE.Points(pg,new THREE.PointsMaterial({color:0xD9D4C7,size:.022,transparent:true,opacity:.55}));scene.add(pts);
+  let mx=0,my=0;addEventListener('mousemove',e=>{mx=e.clientX/innerWidth-.5;my=e.clientY/innerHeight-.5});
+  (function loop(){requestAnimationFrame(loop);
+    grp.rotation.y+=.0022;grp.rotation.x+=.0010;inner.rotation.y-=.006;inner.rotation.z+=.004;pts.rotation.y+=.0006;
+    cam.position.x+=(mx*1.4-cam.position.x)*.035;cam.position.y+=(-my*1.1-cam.position.y)*.035;cam.lookAt(grp.position);renderer.render(scene,cam)})();
+})();}
+</script>
+</body>
+</html>

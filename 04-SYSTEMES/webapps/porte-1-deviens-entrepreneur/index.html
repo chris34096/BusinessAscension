@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Deviens l'Entrepreneur™ — Business Ascension™</title>
+<meta name="description" content="Tes premiers 10K€/mois réguliers — construits autour de qui tu es. Une offre qui se vend, un contenu qui pré-vend, un système pour vendre par message." />
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<style>
+:root{
+  --bg:#0E0B07; --bg2:#16110A; --glass:rgba(38,30,18,.42); --ink:#F5EEDD; --muted:#A99B7C;
+  --gold:#CA8A04; --gold-lt:#E8C46A; --gold-soft:#F0D9A0; --line:rgba(201,168,76,.16);
+  --serif:'Playfair Display',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+::selection{background:var(--gold);color:#0E0B07}
+a{color:inherit;text-decoration:none}
+h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.05;letter-spacing:-.01em}
+.muted{color:var(--muted)}
+
+.mesh{position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(55% 45% at 78% 12%,rgba(202,138,4,.20),transparent 70%),radial-gradient(45% 40% at 10% 88%,rgba(232,196,106,.08),transparent 70%)}
+.grain{position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.05;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+#three{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.92}
+.wrap{position:relative;z-index:2;max-width:1180px;margin:0 auto;padding:0 28px}
+.eyebrow{font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;color:var(--gold-lt);font-weight:600}
+
+nav{position:fixed;top:0;left:0;right:0;z-index:30;transition:.3s}
+.nav-in{max-width:1180px;margin:14px auto;padding:12px 24px;display:flex;justify-content:space-between;align-items:center;
+  background:var(--glass);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:100px;margin-left:24px;margin-right:24px}
+.brand{font-family:var(--serif);font-size:1.02rem}.brand b{color:var(--gold-lt);font-weight:600}
+.btn{display:inline-flex;align-items:center;gap:.5em;font-weight:600;font-size:.95rem;padding:.85em 1.7em;border-radius:100px;transition:.25s;cursor:pointer;border:1px solid transparent}
+.btn-gold{background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;box-shadow:0 10px 34px -10px rgba(202,138,4,.6)}
+.btn-gold:hover{transform:translateY(-2px);box-shadow:0 16px 44px -10px rgba(202,138,4,.75)}
+.btn-ghost{border-color:var(--line);color:var(--ink);background:var(--glass);backdrop-filter:blur(10px)}
+.btn-ghost:hover{border-color:var(--gold-lt);color:var(--gold-lt)}
+
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:160px 0 90px}
+.hero h1{font-size:clamp(3rem,8vw,7rem);margin:.22em 0}
+.hero h1 em{font-style:italic;color:var(--gold-lt)}
+.hero .sub{font-size:clamp(1.05rem,1.5vw,1.3rem);max-width:600px;margin-top:1.4em}
+.steps{display:flex;gap:26px;flex-wrap:wrap;margin-top:2.3em;font-size:.84rem;letter-spacing:.03em;color:var(--muted)}
+.steps b{color:var(--gold-lt);font-family:var(--serif)}
+.hero-cta{display:flex;gap:14px;flex-wrap:wrap;margin-top:2.6em}
+
+.rev{opacity:0;transform:translateY(28px);transition:opacity 1s cubic-bezier(.16,1,.3,1),transform 1s cubic-bezier(.16,1,.3,1)}
+.rev.in{opacity:1;transform:none}
+section{padding:110px 0;position:relative}
+.sec-head{max-width:740px;margin-bottom:60px}
+.sec-head .eyebrow{display:block;margin-bottom:18px}
+.sec-head h2{font-size:clamp(2rem,4.2vw,3.5rem)}
+
+.glass{background:var(--glass);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid var(--line);border-radius:20px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.stat{padding:28px 24px}
+.stat b{font-family:var(--serif);font-size:1.9rem;color:var(--gold-lt);display:block}
+.stat span{font-size:.82rem;color:var(--muted)}
+
+.build{display:grid;grid-template-columns:1.05fr 1fr;gap:56px;align-items:start}
+.build ul{list-style:none}
+.build li{padding:18px 0;border-bottom:1px solid var(--line);display:flex;gap:16px;font-size:1.05rem}
+.build li::before{content:"";flex:0 0 7px;height:7px;margin-top:.6em;border-radius:50%;background:var(--gold-lt);box-shadow:0 0 12px var(--gold)}
+
+.grid8{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.step{padding:32px;transition:.3s}
+.step:hover{border-color:var(--gold-lt);transform:translateY(-4px)}
+.step .n{font-family:var(--serif);font-size:1rem;color:var(--gold);letter-spacing:.08em}
+.step h3{font-size:1.35rem;margin:.45em 0 .35em}
+.step p{font-size:.95rem;color:var(--muted)}
+
+.quote{max-width:840px;margin:0 auto;text-align:center;padding:60px 40px}
+.quote p{font-family:var(--serif);font-size:clamp(1.6rem,3.2vw,2.6rem);font-style:italic;line-height:1.28}
+.quote .by{margin-top:22px;color:var(--gold-lt);letter-spacing:.06em;font-size:.85rem}
+
+.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.plan{padding:38px 30px;position:relative;transition:.3s}
+.plan:hover{transform:translateY(-6px);border-color:var(--gold-lt)}
+.plan.feat{border-color:var(--gold);background:linear-gradient(180deg,rgba(60,44,12,.5),rgba(22,17,10,.5))}
+.badge{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;font-size:.64rem;font-weight:700;letter-spacing:.12em;padding:6px 16px;border-radius:100px;text-transform:uppercase}
+.plan .dur{font-family:var(--serif);font-size:1.5rem}
+.plan .price{font-family:var(--serif);font-size:3rem;color:var(--gold-lt);margin:.15em 0}
+.plan .price small{font-size:1rem;color:var(--muted)}
+.plan .pif{font-size:.9rem;color:var(--muted);margin-bottom:22px}
+.plan .btn{width:100%;justify-content:center;margin-top:6px}
+
+.faq-item{border-bottom:1px solid var(--line);padding:26px 4px;cursor:pointer}
+.faq-q{display:flex;justify-content:space-between;gap:20px;font-family:var(--serif);font-size:1.2rem}
+.faq-q .pl{color:var(--gold-lt);transition:.3s}
+.faq-a{max-height:0;overflow:hidden;transition:max-height .4s ease;color:var(--muted)}
+.faq-item.open .faq-a{max-height:240px;padding-top:14px}
+.faq-item.open .pl{transform:rotate(45deg)}
+
+.final{text-align:center;padding:140px 0}
+.final h2{font-size:clamp(2.4rem,5.5vw,4.6rem);max-width:920px;margin:0 auto .4em}
+.final h2 em{font-style:italic;color:var(--gold-lt)}
+footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:var(--muted);font-size:.82rem}
+@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.build,.grid8,.plans{grid-template-columns:1fr}.hero{padding-top:130px}}
+@media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
+</style>
+</head>
+<body>
+<div class="mesh"></div><canvas id="three"></canvas><div class="grain"></div>
+
+<nav><div class="nav-in">
+  <div class="brand">Business Ascension™ · <b>Deviens l'Entrepreneur™</b></div>
+  <a href="#plans" class="btn btn-gold">Rejoindre</a>
+</div></nav>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="eyebrow rev">Business Ascension™ · Porte 1</div>
+    <h1 class="rev">Deviens<br>l'<em>Entrepreneur.</em></h1>
+    <p class="sub rev">Tes <strong>premiers 10K€/mois réguliers</strong> — construits autour de qui tu es. Une offre qui se vend. Un contenu qui pré-vend. Un système pour vendre par message.</p>
+    <div class="steps rev"><span><b>01</b> · Regarde la vidéo</span><span><b>02</b> · Choisis ton plan</span><span><b>03</b> · Accès immédiat</span></div>
+    <div class="hero-cta rev"><a href="#plans" class="btn btn-gold">Voir les plans →</a><a href="#build" class="btn btn-ghost">Ce qu'on construit</a></div>
+  </header>
+
+  <section style="padding-top:0">
+    <div class="stats">
+      <div class="glass stat rev"><b>2 piliers</b><span>Identité + Business en simultané</span></div>
+      <div class="glass stat rev"><b>Hebdo</b><span>Mises à jour du protocole</span></div>
+      <div class="glass stat rev"><b>48h</b><span>De l'inscription à ton plan</span></div>
+      <div class="glass stat rev"><b>Mensuel</b><span>Session live avec Chris</span></div>
+    </div>
+  </section>
+
+  <section id="build">
+    <div class="build">
+      <div class="sec-head rev" style="margin:0">
+        <span class="eyebrow">Ce qu'on construit</span>
+        <h2>Identité. Business. Acquisition.<br>Construits en parallèle.</h2>
+        <p class="muted" style="margin-top:18px">Pour les entrepreneurs, coaches et consultants prêts à aller all-in sur chaque pilier à la fois.</p>
+      </div>
+      <ul class="rev">
+        <li>Une offre catégorie à part — que personne ne peut copier</li>
+        <li>Ton avatar et ton positionnement — précis, qui filtrent les bons clients</li>
+        <li>Ton identité débloquée à la source — breathwork · hypnose · reconditionnement</li>
+        <li>Des systèmes de contenu par plateforme — LinkedIn, Instagram, YouTube, interconnectés → omniprésence</li>
+        <li>Une communauté qui te suit — ton moteur de croissance et de CA récurrent</li>
+        <li>Vendre par message — fermer des clients depuis ton téléphone</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Le mécanisme</span><h2>Les 8 étapes. Comment on y arrive.</h2></div>
+    <div class="grid8">
+      <div class="glass step rev"><div class="n">01</div><h3>Diagnostic d'Exécution</h3><p>Ce qui bloque. Le goulot qui coûte tout le reste. En 30 minutes on sait exactement où agir.</p></div>
+      <div class="glass step rev"><div class="n">02</div><h3>Architecture de l'Offre</h3><p>Une offre précise, calibrée pour ton marché et ta voix. Positionnée pour être catégorie à part.</p></div>
+      <div class="glass step rev"><div class="n">03</div><h3>Machine à Leads</h3><p>Un contenu engineeré pour pré-vendre. Les bonnes personnes arrivent déjà convaincues.</p></div>
+      <div class="glass step rev"><div class="n">04</div><h3>Infrastructure de Conversion</h3><p>Pages et assets construits pour transformer le trafic en clients fermés, vite.</p></div>
+      <div class="glass step rev"><div class="n">05</div><h3>Vendre par Message</h3><p>Ferme des clients depuis ton téléphone. Le contenu a fait le travail avant qu'ils t'écrivent.</p></div>
+      <div class="glass step rev"><div class="n">06</div><h3>Système de Delivery</h3><p>Un delivery qui produit des résultats — sans que tes heures scalent avec tes clients.</p></div>
+      <div class="glass step rev"><div class="n">07</div><h3>Scale Ascension</h3><p>Backend qui multiplie la valeur lifetime. Plus de trafic, plus de leads. Les deux qui s'accumulent.</p></div>
+      <div class="glass step rev"><div class="n">08</div><h3>Blueprint d'Exécution</h3><p>Les actions à fort levier, dans le bon ordre. Tu sais toujours quoi faire ensuite.</p></div>
+    </div>
+  </section>
+
+  <section><div class="glass quote rev">
+    <p>"Ce n'est pas une formation que tu achètes. <em style="color:var(--gold-lt)">C'est un accès à moi.</em>"</p>
+    <div class="by">Chris — Business Ascension™</div>
+  </div></section>
+
+  <section id="plans">
+    <div class="sec-head rev" style="text-align:center;margin:0 auto 56px"><span class="eyebrow">Les plans</span><h2>Quel plan tu prends ?</h2><p class="muted" style="margin-top:16px">Mêmes modules. Même build personnalisé. Même accès à moi. PIF ou mensuel.</p></div>
+    <div class="plans">
+      <div class="glass plan rev"><div class="dur">3 mois</div><div class="muted" style="font-size:.9rem">Entrée. Le système en mains.</div><div class="price">997€<small> PIF</small></div><div class="pif">ou 3 × 367€/mois</div><a href="#" class="btn btn-ghost">Choisir 3 mois</a></div>
+      <div class="glass plan feat rev"><div class="badge">Le plus choisi</div><div class="dur">6 mois</div><div class="muted" style="font-size:.9rem">Cycle complet. Le temps d'ancrer.</div><div class="price">1 497€<small> PIF</small></div><div class="pif">ou 6 × 297€/mois · économise 300€+</div><a href="#" class="btn btn-gold">Choisir 6 mois</a></div>
+      <div class="glass plan rev"><div class="dur">12 mois</div><div class="muted" style="font-size:.9rem">Meilleure valeur. Année complète.</div><div class="price">2 497€<small> PIF</small></div><div class="pif">ou 12 × 247€/mois · économise 450€+</div><a href="#" class="btn btn-ghost">Choisir 12 mois</a></div>
+    </div>
+    <p class="muted rev" style="text-align:center;margin-top:34px;font-size:.9rem;max-width:760px;margin-left:auto;margin-right:auto">Chaque plan : modules complets · build personnalisé avec Chris · mises à jour hebdo · live mensuel · communauté privée · IA · <strong style="color:var(--ink)">BONUS — Les 8 étapes pour tes premiers 10K€/mois</strong>.<br>Garantie : roadmap construite + premier résultat à 30 jours, sinon remboursement intégral.</p>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Questions</span><h2>Ce que tu te demandes.</h2></div>
+    <div class="rev">
+      <div class="faq-item"><div class="faq-q"><span>Le build est vraiment personnalisé ou c'est un template ?</span><span class="pl">+</span></div><div class="faq-a">Entièrement personnalisé. Je lis ton onboarding personnellement. Je construis ton protocole, ta roadmap, tes premières actions — autour de toi. Mis à jour chaque semaine.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>Combien de temps avant d'avoir accès ?</span><span class="pl">+</span></div><div class="faq-a">Instantané. La seconde où tu t'inscris, tous les modules sont débloqués. Le même jour, l'onboarding. Ton protocole personnalisé sous 48h.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>PIF ou mensuel ?</span><span class="pl">+</span></div><div class="faq-a">PIF si tu peux — coût total moins élevé. Mensuel si le cash flow compte ce mois-ci. Même accès dans les deux cas.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>Je fais déjà 5K€+/mois, c'est encore pour moi ?</span><span class="pl">+</span></div><div class="faq-a">Si tu fais 0–5K€/mois avec des revenus irréguliers — oui. Si tu fais déjà 5K€+/mois et veux scaler vers 100K€/mois — regarde Construis la Marque™.</div></div>
+    </div>
+  </section>
+
+  <section class="final">
+    <h2 class="rev">Tes premiers 10K€/mois réguliers. <em>La seule façon de vraiment construire.</em></h2>
+    <p class="muted rev" style="max-width:600px;margin:0 auto 2.4em">Une offre qui se vend. Des leads qui rentrent. Vendre par message. Construit 1-to-1 avec moi.</p>
+    <div class="hero-cta rev" style="justify-content:center"><a href="#plans" class="btn btn-gold">Rejoindre maintenant →</a></div>
+  </section>
+</div>
+
+<footer><div class="wrap">Deviens l'Entrepreneur™ · Business Ascension™ — Tu fais déjà 10K€+/mois ? <a href="../porte-2-construis-la-marque/" style="color:var(--gold-lt)">Construis la Marque™ →</a></div></footer>
+
+<script>
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
+document.querySelectorAll('.rev').forEach((el,i)=>{el.style.transitionDelay=(i%4*70)+'ms';io.observe(el)});
+document.querySelectorAll('.faq-item').forEach(f=>f.onclick=()=>f.classList.toggle('open'));
+
+if(!matchMedia('(prefers-reduced-motion:reduce)').matches){(function(){
+  const canvas=document.getElementById('three');
+  const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:true});
+  renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+  const scene=new THREE.Scene(),cam=new THREE.PerspectiveCamera(45,innerWidth/innerHeight,.1,100);cam.position.z=8;
+  function size(){renderer.setSize(innerWidth,innerHeight);cam.aspect=innerWidth/innerHeight;cam.updateProjectionMatrix()}size();addEventListener('resize',size);
+  const geo=new THREE.IcosahedronGeometry(2.6,1);
+  const wire=new THREE.LineSegments(new THREE.WireframeGeometry(geo),new THREE.LineBasicMaterial({color:0xCA8A04,transparent:true,opacity:.34}));
+  const core=new THREE.Mesh(geo,new THREE.MeshBasicMaterial({color:0x14100a,transparent:true,opacity:.5}));
+  const grp=new THREE.Group();grp.add(core);grp.add(wire);grp.position.set(2.7,.4,0);scene.add(grp);
+  const N=440,pos=new Float32Array(N*3);
+  for(let i=0;i<N;i++){const r=4+Math.random()*4,t=Math.random()*6.283,p=Math.acos(2*Math.random()-1);pos[i*3]=r*Math.sin(p)*Math.cos(t);pos[i*3+1]=r*Math.sin(p)*Math.sin(t);pos[i*3+2]=r*Math.cos(p);}
+  const pg=new THREE.BufferGeometry();pg.setAttribute('position',new THREE.BufferAttribute(pos,3));
+  const pts=new THREE.Points(pg,new THREE.PointsMaterial({color:0xE8C46A,size:.028,transparent:true,opacity:.7}));pts.position.copy(grp.position);scene.add(pts);
+  let mx=0,my=0;addEventListener('mousemove',e=>{mx=e.clientX/innerWidth-.5;my=e.clientY/innerHeight-.5});
+  (function loop(){requestAnimationFrame(loop);grp.rotation.y+=.0028;grp.rotation.x+=.0014;pts.rotation.y-=.0009;
+    cam.position.x+=(mx*1.2-cam.position.x)*.04;cam.position.y+=(-my-cam.position.y)*.04;cam.lookAt(grp.position);renderer.render(scene,cam)})();
+})();}
+</script>
+</body>
+</html>
