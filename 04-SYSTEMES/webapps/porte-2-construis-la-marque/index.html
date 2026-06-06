@@ -56,6 +56,7 @@ nav{position:fixed;top:0;left:0;right:0;z-index:30}
 
 .rev{opacity:0;transform:translateY(28px);transition:opacity 1s cubic-bezier(.16,1,.3,1),transform 1s cubic-bezier(.16,1,.3,1)}
 .rev.in{opacity:1;transform:none}
+.word{display:inline-block;white-space:nowrap}
 .reveal-ltr{display:inline-block;opacity:0;transform:translateY(.55em);animation:ltrRise .7s cubic-bezier(.16,1,.3,1) forwards}
 @keyframes ltrRise{to{opacity:1;transform:none}}
 @media(prefers-reduced-motion:reduce){.reveal-ltr{animation:none;opacity:1;transform:none}}
@@ -102,7 +103,8 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
 .testi wistia-player{border-radius:14px;overflow:hidden;display:block}
 .testi .nm{font-family:var(--serif);font-size:1.15rem;margin-top:14px;padding:0 6px;text-align:left}
 .testi .nm span{color:var(--muted);font-size:.85rem;font-family:var(--sans);display:block;margin-top:2px}
-@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.install,.grid8,.process,.testi-grid{grid-template-columns:1fr}.vrow{grid-template-columns:1fr;gap:8px}.hero{padding-top:140px}}
+.about-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;max-width:1000px;margin:0 auto}
+@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.install,.grid8,.process,.testi-grid,.about-grid{grid-template-columns:1fr}.vrow{grid-template-columns:1fr;gap:8px}.hero{padding-top:140px}}
 @media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
 </style>
 </head>
@@ -110,15 +112,15 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
 <div class="mesh"></div><canvas id="three"></canvas><div class="grain"></div>
 
 <nav><div class="nav-in">
-  <div class="brand">Business Ascension™ · <b>Construis la Marque™</b></div>
+  <div class="brand" style="display:flex;align-items:center;gap:11px"><img src="../assets/logo.png" alt="Business Ascension™" style="height:38px;width:auto" onerror="this.style.display='none';document.getElementById('bt').style.display='inline'"><b id="bt" style="display:none">Business Ascension™ ·</b> <span style="color:var(--muted);font-size:.95rem">Construis la Marque™</span></div>
   <a href="#candidature" class="btn btn-gold">Candidater</a>
 </div></nav>
 
 <div class="wrap">
   <header class="hero">
     <div class="eyebrow rev">Pour entrepreneurs, hauts performeurs, coachs & consultants</div>
-    <h1 class="title-split">Transforme ta valeur en une <em>marque à 10K–100K€/mois.</em></h1>
-    <p class="sub rev">Une marque catégorie à part qui te ressemble vraiment. Des leads entrants chaque jour. Vendre par message. Des systèmes pour scaler. La façon la plus sophistiquée de construire au plus haut niveau, autour de qui tu es déjà.</p>
+    <h1 class="title-split">Transforme ta valeur<br>en une <em>marque à<br>10K&nbsp;–&nbsp;100K€/mois.</em></h1>
+    <p class="sub rev">Une marque qui ne ressemble à aucune autre parce qu'elle te ressemble. Des leads qui entrent sans que tu coures après. Des ventes par message, comme une conversation entre deux personnes qui se comprennent. Et des systèmes qui scalent quand tu dors.<br><br>C'est ça, construire au plus haut niveau : pas en copiant les autres, mais en bâtissant autour de qui tu es déjà.</p>
     <div class="steps rev"><span><b>01</b> · Candidater</span><span><b>02</b> · On se parle</span><span><b>03</b> · On construit · 12 mois</span></div>
     <div class="hero-cta rev"><a href="#candidature" class="btn btn-gold">Candidater pour travailler avec Chris →</a></div>
     <div class="note rev">Candidature uniquement · Conversation en tête-à-tête avec Chris · Pas de prix public</div>
@@ -128,7 +130,7 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
     <div class="stats">
       <div class="glass stat rev"><b>10K–100K+</b><span>Par mois · ce qu'on construit</span></div>
       <div class="glass stat rev"><b>8 étapes</b><span>Système propriétaire</span></div>
-      <div class="glass stat rev"><b>En direct</b><span>Accès direct à Chris</span></div>
+      <div class="glass stat rev"><b>1:1</b><span>Accès direct à Chris</span></div>
       <div class="glass stat rev"><b>12 mois</b><span>Parcours unique</span></div>
     </div>
   </section>
@@ -191,6 +193,18 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
   </section>
 
   <section>
+    <div class="about-grid">
+      <div class="rev">
+        <span class="eyebrow">Qui c'est</span>
+        <h2 style="margin:14px 0 18px">Tu travailles avec celui qui a construit.</h2>
+        <p class="muted">Formé à l'hypnose, la PNL, le breathwork et les neurosciences. J'ai accompagné des entrepreneurs à débloquer ce qui les freinait, et j'ai construit le système qui rend le chiffre prévisible.</p>
+        <p class="muted" style="margin-top:14px">La proximité avec quelqu'un qui a déjà bâti, c'est le chemin le plus court. Pendant 12 mois, on construit ta marque ensemble.</p>
+      </div>
+      <div class="glass rev" style="padding:12px"><img src="../assets/chris-portrait.jpg" alt="Chris, fondateur de Business Ascension" style="width:100%;border-radius:14px;display:block" onerror="this.parentElement.style.display='none'"></div>
+    </div>
+  </section>
+
+  <section>
     <div class="sec-head rev"><span class="eyebrow">Le coût réel</span><h2>Rester où tu es n'a rien de sûr.</h2></div>
     <div class="grid8">
       <div class="glass step rev"><div class="n">01</div><h3>Une autre année de CA mal aligné</h3><p>Capable de plus. Gagnant moins. L'écart se creuse dans le mauvais sens chaque mois.</p></div>
@@ -210,13 +224,16 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
     </div>
   </section>
 
-  <section class="final" id="candidature">
-    <div class="eyebrow rev" style="margin-bottom:18px">La décision</div>
-    <h2 class="rev">Tu sais déjà que <em>c'est ton move.</em></h2>
-    <p class="muted rev" style="max-width:640px;margin:0 auto 2.4em">Tu n'as pas lu jusqu'ici par accident. L'entrepreneur que tu construis est de l'autre côté d'une seule conversation.</p>
-    <div class="hero-cta rev"><a href="#" class="btn btn-gold">Candidater pour travailler avec Chris →</a></div>
-    <div class="note rev">Candidature uniquement · Conversation 1-to-1 avec Chris · Pas de prix public</div>
+  <section class="final" id="candidature" style="padding-bottom:90px">
+    <div class="eyebrow rev" style="margin-bottom:18px">La candidature</div>
+    <h2 class="rev">Tu sais déjà que <em>c'est ton moment.</em></h2>
+    <p class="muted rev" style="max-width:640px;margin:0 auto 1.4em">Tu n'as pas lu jusqu'ici par accident. L'entrepreneur que tu construis est de l'autre côté d'une seule conversation. Remplis la candidature, je la lis moi-même.</p>
+    <div class="note rev" style="margin-bottom:30px">Candidature uniquement · Conversation en tête-à-tête avec Chris · Pas de prix public</div>
+    <div class="glass rev" style="max-width:760px;margin:0 auto;padding:14px;text-align:left">
+      <iframe src="https://api.leadconnectorhq.com/widget/form/B0ATKuBXA4tC55rtqIln" style="width:100%;height:1472px;border:none;border-radius:12px" id="inline-B0ATKuBXA4tC55rtqIln" data-form-id="B0ATKuBXA4tC55rtqIln" title="Business Ascension - Candidature"></iframe>
+    </div>
   </section>
+  <script src="https://link.msgsndr.com/js/form_embed.js"></script>
 </div>
 
 <footer><div class="wrap">Construis la Marque™ · Business Ascension™, Tu démarres ? <a href="../porte-1-deviens-entrepreneur/" style="color:var(--gold-lt)">Deviens l'Entrepreneur™ →</a></div></footer>
@@ -224,8 +241,11 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
 <script>
 (function(){const h1=document.querySelector('.title-split');if(!h1)return;let i=0;
   const walk=(src,dst)=>{src.childNodes.forEach(n=>{
-    if(n.nodeType===3){n.textContent.split('').forEach(ch=>{if(ch===' '){dst.appendChild(document.createTextNode(' '));return}
-      const s=document.createElement('span');s.className='reveal-ltr';s.textContent=ch;s.style.animationDelay=(i++*0.04)+'s';dst.appendChild(s)})}
+    if(n.nodeType===3){n.textContent.split(/(\s+)/).forEach(part=>{if(!part)return;
+      if(/^\s+$/.test(part)){dst.appendChild(document.createTextNode(part));return}
+      const w=document.createElement('span');w.className='word';
+      part.split('').forEach(ch=>{const s=document.createElement('span');s.className='reveal-ltr';s.textContent=ch;s.style.animationDelay=(i++*0.04)+'s';w.appendChild(s)});
+      dst.appendChild(w)})}
     else if(n.tagName==='BR'){dst.appendChild(document.createElement('br'))}
     else{const el=document.createElement(n.tagName);if(n.getAttribute('style'))el.setAttribute('style',n.getAttribute('style'));walk(n,el);dst.appendChild(el)}})};
   const frag=document.createElement('span');walk(h1,frag);h1.textContent='';h1.appendChild(frag);})();
