@@ -1,148 +1,136 @@
 # VSL Porte 1 — Deviens l'Entrepreneur™ (0 → 10K€/mois)
-> Version 1.0 — Juin 2026
-> Pour la page /deviens-entrepreneur · Cible ICP 1
-> Durée cible : 10-14 min · Face caméra · Voix Chris
-> Principe : apporter un max de valeur (enseigner le vrai mécanisme) → enrôlement automatique
+> Version 2.0 — Juin 2026
+> Pour la page Porte 1 · Cible ICP 1
+> Durée cible : 5-7 min · Face caméra · Voix Chris
+> Trame : Perfect Webinar condensé × close Kennedy (Hook → Story → Mécanisme → 3 Croyances → Preuve → Stack → Close)
+> Angle : identique à la page Porte 1 (organique pur · communauté · premiers 10K réguliers · vendre par message)
 > Wiki : [[icp-cible]] · [[voix-chris]] · [[funnel-acquisition]]
 
 ---
 
-## STRUCTURE
-HOOK → QUI JE SUIS → LE VRAI PROBLÈME → LE MÉCANISME (valeur) → LA PREUVE → L'OFFRE → CTA
+## [0:00 → 0:25] HOOK
+
+**[B-ROLL : Chris face caméra, plan serré. Pas d'intro.]**
+
+Tu fais du contenu. T'as une offre. Et pourtant, les clients rentrent toujours pas de façon régulière.
+
+Un mois ça rentre, le mois d'après c'est le creux. Les dents de scie.
+
+Reste 6 minutes avec moi. Je vais te montrer pourquoi ça patine, et le système exact pour que ton chiffre devienne prévisible. Sans travailler plus. Sans une formation de plus.
+
+**[ÉCRAN : "Pourquoi ton business fait les dents de scie (et comment l'arrêter)"]**
 
 ---
 
-## [0:00 → 0:30] HOOK
-
-Si tu fais du contenu, que t'as une offre, et que les clients rentrent toujours pas de façon régulière —
-
-reste avec moi 10 minutes.
-
-Parce que je vais te montrer exactement pourquoi ton business fait les dents de scie. Un mois ça rentre, le mois d'après c'est le creux.
-
-Et surtout : le système précis pour que ça devienne prévisible — sans travailler plus, sans nouvelle formation, sans courir après chaque client.
-
-[PAUSE — REGARD CAMÉRA]
-
----
-
-## [0:30 → 1:30] QUI JE SUIS
+## [0:25 → 1:25] ORIGIN STORY
 
 Je m'appelle Christofer Perez.
 
-Je suis formé à l'hypnose, la PNL, le breathwork, les neurosciences. J'ai accompagné plus de 350 personnes en transformation profonde.
+Formé à l'hypnose, la PNL, le breathwork, les neurosciences. Et pourtant, pendant des années, j'ai vécu des mois à 12 000€ suivis de mois à zéro.
 
-Et pourtant — j'ai vécu des mois à 12 000€ suivis de mois à zéro. Pas une fois. Plusieurs fois.
+J'avais les connaissances. J'avais été accompagné par les meilleurs.
 
-J'avais les connaissances. J'avais été formé par les meilleurs.
+**[ÉCRAN : "12 000€… puis 0€. Encore."]**
 
-Le problème, c'était pas ce que je savais. C'était que je faisais tout SAUF ce qui me ramenait des clients.
+Le problème, c'était pas ce que je savais. C'était que je passais mes journées à tout faire — sauf ce qui me ramenait des clients.
 
-Ce que j'ai compris en sortant de là — et que je vais te donner aujourd'hui — c'est ce qui change tout.
-
----
-
-## [1:30 → 3:30] LE VRAI PROBLÈME
-
-Voilà ce que je vois chez 9 entrepreneurs sur 10 qui galèrent à passer un cap.
-
-Ils pensent que leur problème, c'est :
-- pas assez de contenu
-- pas la bonne stratégie
-- pas assez de discipline
-
-Et donc ils en font PLUS. Plus de Reels. Plus de posts. Plus de formations.
-
-Et ça change rien.
-
-Parce que le vrai problème est ailleurs. Il est en deux endroits, en même temps.
-
-**Un :** ton contenu informe, mais il ne pré-vend pas. Les gens te suivent, apprennent un truc, hochent la tête, et scrollent. Ils achètent pas — parce que rien ne les a amenés à se dire "j'ai besoin de cette personne, spécifiquement".
-
-**Deux :** même quand tu sais ce qu'il faut faire, quelque chose t'empêche de le faire de façon constante. C'est pas un manque de volonté. C'est plus profond — c'est un pattern d'identité.
-
-Tant que tu travailles pas ces deux choses EN MÊME TEMPS, ça patine.
+Le jour où j'ai compris ça, j'ai construit un système. Et le chiffre est devenu régulier. C'est ce système que je te donne maintenant.
 
 ---
 
-## [3:30 → 7:00] LE MÉCANISME (VALEUR PURE)
+## [1:25 → 2:55] LE MÉCANISME (LE "ONE THING")
 
-Maintenant je te donne le système concret. Note bien.
+Un business qui ramène des clients de façon prévisible tient sur trois choses connectées. Note bien.
 
-Un business qui ramène des clients de façon prévisible repose sur trois choses connectées :
+**[ÉCRAN : "1 · Offre claire — 2 · Contenu qui pré-vend — 3 · Vendre par message"]**
 
-**1. Une offre claire qui répond à un vrai désir du marché.**
-Pas une offre "complète" qui essaie de tout faire. Une offre précise, qui résout un problème que ta cible veut résoudre maintenant. Si ton offre est floue, tout le reste s'effondre.
+**Un. Une offre claire.** Pas une offre qui essaie de tout faire. Une offre précise, qui résout un problème que ta cible veut régler maintenant. Si ton offre est floue, tout le reste s'effondre.
 
-**2. Un contenu qui installe une croyance — pas juste de l'info.**
-Chaque pièce de contenu doit faire bouger une croyance chez celui qui regarde. "People don't buy things, they buy beliefs." Quand ton contenu installe les bonnes croyances, les gens arrivent dans tes DMs déjà convaincus.
+**Deux. Un contenu qui installe une croyance.** Pas juste de l'info. Les gens te suivent, apprennent un truc, hochent la tête, et scrollent. Un contenu qui pré-vend fait bouger une croyance à chaque fois. Résultat : les bonnes personnes arrivent dans tes messages déjà convaincues.
 
-**3. Vendre par message.**
-Une fois que le contenu a fait le travail, tu fermes la vente en conversation. Pas en pitchant. En diagnostiquant. Tu poses deux questions, tu comprends où est le blocage, et tu proposes seulement si c'est aligné. Pas d'appels forcés. Pas de pression.
+**Trois. Vendre par message.** Une fois que le contenu a fait le travail, tu closes en conversation. Tu poses deux questions, tu comprends le blocage, et tu proposes seulement si c'est aligné. Pas d'appels forcés. Pas de pression.
 
-Ces trois-là ensemble, c'est ce qui transforme un compte qui poste dans le vide en business qui ramène des clients chaque semaine.
-
-Et il y a une quatrième chose, en dessous : ton identité d'entrepreneur. Parce que tu peux avoir le meilleur système — si à l'intérieur quelque chose te freine (peur de la visibilité, de vendre, de prendre ta place), tu ne l'exécuteras pas. C'est pour ça qu'on travaille les deux en même temps.
+Ces trois-là ensemble, c'est ce qui transforme un compte qui poste dans le vide en business qui ramène des clients chaque semaine. Et autour, on construit une communauté qui te suit — ton moteur de chiffre récurrent.
 
 ---
 
-## [7:00 → 9:00] LA PREUVE + LA LIGNE DANS LE SABLE
+## [2:55 → 4:25] LES 3 CROYANCES À CASSER
 
-L'ancien chemin, c'est ce que la plupart font :
-- Formation après formation → information sans transformation
-- Travailler le mindset seul → ça monte, ça retombe
-- Travailler le business seul → la structure est là mais l'exécution sabote
-- Faire plus de contenu → du volume sans système
+Si t'as pas encore tes 10K réguliers, c'est sûrement à cause d'une de ces trois croyances. On les casse une par une.
 
-Le nouveau chemin : identité + business, en même temps, chaque semaine. Avec une offre claire, un contenu qui pré-vend, et la vente par message.
+**[ÉCRAN : "Croyance n°1"]**
+**"Il me faut plus de contenu, plus de formation."**
+Faux. T'en sais déjà assez. Tout le monde peut faire de l'argent. C'est pas une question de connaissances, c'est une question de système. Plus de volume sans système, c'est juste plus de bruit.
 
-[EXEMPLE CLIENT — à insérer dès résultats documentés]
-Un client bloqué, qui ne prospectait pas — on a clarifié son offre, restructuré son contenu, et installé la vente par message. Résultat : CA en hausse, prospection relancée, stabilité reconstruite.
+**[ÉCRAN : "Croyance n°2"]**
+**"Si je sais quoi faire, je devrais y arriver seul."**
+Faux. Même quand tu sais, quelque chose t'empêche d'exécuter de façon constante. C'est pas un manque de volonté. C'est un pattern ancré — peur de te montrer, de vendre, de prendre ta place. On le débloque à la source, avec le breathwork et l'hypnose. C'est ça que les autres ne font pas.
+
+**[ÉCRAN : "Croyance n°3"]**
+**"L'organique et la vente par message, c'est pas assez solide."**
+Faux. C'est la façon la plus saine de construire tes premiers 10K. Pas de budget pub à cramer. Une marque autour de qui tu es, une communauté qui t'achète, et un chiffre qui tient — parce qu'il vient de toi, pas d'un robinet que tu loues.
 
 ---
 
-## [9:00 → 11:00] L'OFFRE — Deviens l'Entrepreneur™
+## [4:25 → 5:05] LA PREUVE
 
-Si ce que je viens de décrire te parle, voilà comment je peux t'aider concrètement.
+**[B-ROLL : extraits des témoignages clients]**
 
-J'ai construit **Deviens l'Entrepreneur™** — un accompagnement pour atteindre tes premiers 10K€/mois réguliers, construit autour de qui tu es.
+C'est exactement ce qu'on a construit avec Houssem, Élodie, Yanis, Mariel.
 
-Tu reçois :
-- Les 8 étapes du système — en modules, accès immédiat
-- Un diagnostic personnalisé et une roadmap construite sous 48h
+Pas des théoriciens. Des entrepreneurs qui étaient à ta place, qui ont clarifié leur offre, structuré leur contenu, installé la vente par message — et qui en parlent mieux que moi.
+
+**[ÉCRAN : "Écoute-les sur la page →"]**
+
+---
+
+## [5:05 → 6:05] LE STACK — Deviens l'Entrepreneur™
+
+Si ça te parle, voilà comment je t'aide concrètement.
+
+**Deviens l'Entrepreneur™.** On construit, ensemble, tes premiers 10K€/mois réguliers — autour de qui tu es.
+
+**[ÉCRAN : liste qui apparaît ligne par ligne]**
+- Les 8 étapes du système, en modules, accès immédiat
+- Ton diagnostic et ta feuille de route personnalisée sous 48h
 - Deux sessions live par mois avec moi
-- Une session d'inner work mensuelle — breathwork, hypnose, PNL — pour débloquer l'exécution à la source
+- Une session d'identité mensuelle — breathwork, hypnose — pour débloquer l'exécution
+- Tes systèmes de contenu LinkedIn, Instagram, YouTube, interconnectés
 - Une communauté d'entrepreneurs qui construisent en même temps que toi
 
 Ce n'est pas une formation que tu achètes. C'est un accès à moi.
 
-Tu choisis ton rythme : 3, 6 ou 12 mois. Paiement unique ou mensuel. À partir de 367€/mois.
-
-Et il y a une garantie : si à 30 jours tu n'as pas ta roadmap construite et un premier résultat mesurable, je te rembourse intégralement.
+Tu choisis ton rythme : 3, 6 ou 12 mois. En une fois ou en mensualités. À partir de 247€/mois.
 
 ---
 
-## [11:00 → 12:00] CTA
+## [6:05 → 6:45] LE CLOSE
 
-Voilà ce que tu fais maintenant.
+**[ÉCRAN : "Garantie 30 jours"]**
 
-En dessous de cette vidéo, tu as le lien pour choisir ton plan et commencer aujourd'hui. Accès immédiat. Ton protocole personnalisé sous 48h.
+Et il y a une garantie. Si à 30 jours t'as pas ta feuille de route construite et un premier résultat concret, je te rembourse tout. Le risque, c'est moi qui le prends.
 
-Si tu hésites encore, ou si tu veux qu'on regarde ta situation ensemble avant — réserve l'Audit offert. 30 minutes, gratuit. Je te nomme exactement ce qui bloque, même si on ne travaille pas ensemble.
+**[CTA BOUTON : "Voir les plans →"]**
 
-La seule chose qui compte maintenant : décider. Les entrepreneurs qui avancent le plus vite ont décidé vite. Pas parce qu'ils avaient toutes les réponses — parce que décider vite, c'est déjà la première preuve qu'ils exécutent différemment.
+En dessous, tu choisis ton plan et tu commences aujourd'hui. Accès immédiat, protocole sous 48h.
 
-On se voit de l'autre côté.
+Et si tu veux qu'on regarde ta situation avant — réserve ton Audit offert. 30 minutes, offert. Je te nomme exactement ce qui bloque, même si on travaille pas ensemble.
+
+**[ÉCRAN : "Le prochain, c'est toi."]**
+
+La seule chose qui compte maintenant : décider. Ceux qui avancent le plus vite, c'est ceux qui décident vite. On se voit de l'autre côté.
 
 ---
 
 ## RÈGLES DE TOURNAGE
-- Pas d'intro ("bonjour bienvenue") — démarrer direct sur le hook
-- Parler à une personne, pas à un public
-- Phrases courtes, assertions directes, zéro "ça dépend"
-- Mots interdits : liberté financière, revenus passifs, système clé en main, programme seul
-- VOC : dents de scie, creux, ça patine, prévisible
+- Pas d'intro. Démarrer direct sur le hook.
+- Parler à une personne, pas à un public. Tutoiement.
+- Phrases courtes, assertions directes, zéro "ça dépend".
+- On dit **closer / convertir**, jamais "fermer des clients".
+- Mots interdits : liberté financière, revenus passifs, système clé en main, programme seul.
+- VOC : dents de scie, creux, ça patine, prévisible, goulot.
+- Pas de tiret cadratin à l'écran.
 
 ---
 
-*VSL Porte 1 · Deviens l'Entrepreneur™ · v1.0 · Juin 2026 · Business Ascension™*
+*VSL Porte 1 · Deviens l'Entrepreneur™ · v2.0 · Juin 2026 · Business Ascension™*
