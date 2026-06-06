@@ -8,6 +8,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://fast.wistia.com/player.js" async></script>
+<script src="https://fast.wistia.com/embed/zy7jxmz90n.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/4hlujiu0vh.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/7hjg9wvzup.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/q9d8hwqua3.js" async type="module"></script>
 <style>
 :root{
   --bg:#0E0B07; --bg2:#16110A; --glass:rgba(38,30,18,.42); --ink:#F5EEDD; --muted:#A99B7C;
@@ -99,7 +104,13 @@ section{padding:110px 0;position:relative}
 .final h2{font-size:clamp(2.4rem,5.5vw,4.6rem);max-width:920px;margin:0 auto .4em}
 .final h2 em{font-style:italic;color:var(--gold-lt)}
 footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:var(--muted);font-size:.82rem}
-@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.build,.grid8,.plans{grid-template-columns:1fr}.hero{padding-top:130px}}
+.testi-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;max-width:980px;margin:0 auto}
+.testi{padding:14px}
+.testi wistia-player{border-radius:14px;overflow:hidden;display:block}
+.testi .nm{font-family:var(--serif);font-size:1.15rem;margin-top:14px;padding:0 6px}
+.testi .nm span{color:var(--muted);font-size:.85rem;font-family:var(--sans);display:block;margin-top:2px}
+.proof-line{text-align:center;color:var(--muted);font-size:.92rem;margin-top:30px}
+@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.build,.grid8,.plans,.testi-grid{grid-template-columns:1fr}.hero{padding-top:130px}}
 @media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
 </style>
 </head>
@@ -166,6 +177,17 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
     <div class="by">Chris — Business Ascension™</div>
   </div></section>
 
+  <section id="resultats">
+    <div class="sec-head rev" style="text-align:center;margin:0 auto 50px"><span class="eyebrow">Ils l'ont fait</span><h2>Ils étaient à ta place. Écoute-les.</h2></div>
+    <div class="testi-grid">
+      <div class="glass testi rev"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem<span>Client Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Cliente Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Client Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel<span>Cliente Business Ascension™</span></div></div>
+    </div>
+    <p class="proof-line rev">Le prochain, c'est toi. Choisis ton plan en dessous.</p>
+  </section>
+
   <section id="plans">
     <div class="sec-head rev" style="text-align:center;margin:0 auto 56px"><span class="eyebrow">Les plans</span><h2>Quel plan tu prends ?</h2><p class="muted" style="margin-top:16px">Mêmes modules. Même build personnalisé. Même accès à moi. PIF ou mensuel.</p></div>
     <div class="plans">
@@ -183,6 +205,16 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
       <div class="faq-item"><div class="faq-q"><span>Combien de temps avant d'avoir accès ?</span><span class="pl">+</span></div><div class="faq-a">Instantané. La seconde où tu t'inscris, tous les modules sont débloqués. Le même jour, l'onboarding. Ton protocole personnalisé sous 48h.</div></div>
       <div class="faq-item"><div class="faq-q"><span>PIF ou mensuel ?</span><span class="pl">+</span></div><div class="faq-a">PIF si tu peux — coût total moins élevé. Mensuel si le cash flow compte ce mois-ci. Même accès dans les deux cas.</div></div>
       <div class="faq-item"><div class="faq-q"><span>Je fais déjà 5K€+/mois, c'est encore pour moi ?</span><span class="pl">+</span></div><div class="faq-a">Si tu fais 0–5K€/mois avec des revenus irréguliers — oui. Si tu fais déjà 5K€+/mois et veux scaler vers 100K€/mois — regarde Construis la Marque™.</div></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Le vrai coût</span><h2>Attendre te coûte plus cher que le plan.</h2></div>
+    <div class="grid8">
+      <div class="glass step rev"><div class="n">01</div><h3>Un mois de plus en dents de scie</h3><p>Tu refais le même mois stressant. Tu vises le 1er, tu pries pour le 15.</p></div>
+      <div class="glass step rev"><div class="n">02</div><h3>Tes clients achètent ailleurs</h3><p>Pendant que tu hésites, ils choisissent quelqu'un de moins bon que toi. Juste mieux positionné.</p></div>
+      <div class="glass step rev"><div class="n">03</div><h3>Ton contenu ne ramène toujours rien</h3><p>Sans système, le volume ne devient jamais des clients. Tu postes, tu attends, rien ne rentre.</p></div>
+      <div class="glass step rev"><div class="n">04</div><h3>Un seul client rembourse le plan</h3><p>La vraie question : combien te coûte chaque mois où tu ne l'as pas signé ?</p></div>
     </div>
   </section>
 

@@ -8,6 +8,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://fast.wistia.com/player.js" async></script>
+<script src="https://fast.wistia.com/embed/zy7jxmz90n.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/4hlujiu0vh.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/7hjg9wvzup.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/q9d8hwqua3.js" async type="module"></script>
 <style>
 :root{
   --bg:#08070B; --bg2:#0E0D13; --glass:rgba(24,24,32,.5); --ink:#EDEBE4; --muted:#8E8A82;
@@ -89,7 +94,12 @@ section{padding:108px 0;position:relative}
 .final h2{font-size:clamp(2.4rem,5.5vw,4.6rem);max-width:900px;margin:0 auto .4em}
 .final h2 em{font-style:italic;color:var(--gold-lt)}
 footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:var(--muted);font-size:.82rem}
-@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.install,.grid8,.process{grid-template-columns:1fr}.vrow{grid-template-columns:1fr;gap:8px}.hero{padding-top:140px}}
+.testi-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;max-width:980px;margin:0 auto}
+.testi{padding:14px}
+.testi wistia-player{border-radius:14px;overflow:hidden;display:block}
+.testi .nm{font-family:var(--serif);font-size:1.15rem;margin-top:14px;padding:0 6px;text-align:left}
+.testi .nm span{color:var(--muted);font-size:.85rem;font-family:var(--sans);display:block;margin-top:2px}
+@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.install,.grid8,.process,.testi-grid{grid-template-columns:1fr}.vrow{grid-template-columns:1fr;gap:8px}.hero{padding-top:140px}}
 @media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
 </style>
 </head>
@@ -175,6 +185,26 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
       <li>Tu comprends que la proximité avec quelqu'un qui a construit est le chemin le plus rapide</li>
       <li>Tu es prêt à avancer maintenant. Pas à y réfléchir. Prêt.</li>
     </ul>
+  </section>
+
+  <section>
+    <div class="sec-head rev"><span class="eyebrow">Le coût réel</span><h2>Rester où tu es n'a rien de sûr.</h2></div>
+    <div class="grid8">
+      <div class="glass step rev"><div class="n">01</div><h3>Une autre année de CA mal aligné</h3><p>Capable de plus. Gagnant moins. Le gap se creuse dans le mauvais sens chaque mois.</p></div>
+      <div class="glass step rev"><div class="n">02</div><h3>Tes futurs clients trouvent quelqu'un d'autre</h3><p>Chaque semaine sans le bon positionnement, c'est de la confiance qui va à une autre marque.</p></div>
+      <div class="glass step rev"><div class="n">03</div><h3>Le gap identitaire pèse plus lourd</h3><p>Tu vois l'entrepreneur que tu devrais être. La distance se lit dans tes prix et tes closes.</p></div>
+      <div class="glass step rev"><div class="n">04</div><h3>Un seul client efface l'investissement</h3><p>Un deal fermé via la bonne offre te rembourse plusieurs fois en 60 jours.</p></div>
+    </div>
+  </section>
+
+  <section id="resultats">
+    <div class="sec-head rev"><span class="eyebrow">Les résultats</span><h2>Ils ont arrêté de courir après les clients.</h2><p class="muted" style="margin-top:16px">Écoute-les te raconter ce qui a changé.</p></div>
+    <div class="testi-grid">
+      <div class="glass testi rev"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem<span>Client Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Cliente Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Client Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel<span>Cliente Business Ascension™</span></div></div>
+    </div>
   </section>
 
   <section class="final" id="candidature">
