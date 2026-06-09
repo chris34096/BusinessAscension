@@ -31,7 +31,7 @@ Synthèse v5.0 de l'analyse concurrentielle BA™. 5 archétypes marché. BA™ 
 
 ## L'espace de BA™ — Zone E non occupée
 
-> **Entry point :** "Tu sais quoi faire. Mais tu ne le fais pas de façon constante." + "revenus imprévisibles" (VOC spontané cible)
+> **Entry point :** "Tu sais quoi faire. Mais tu ne le fais pas de façon constante." + "revenus en pointillé" (VOC spontané cible)
 > **Mécanisme :** désactivation des blocages d'exécution + reconstruction BOS — **simultanément**
 > **Différenciateur absolu :** "simultané" (inner + outer dans la même semaine, pas séquentiel)
 

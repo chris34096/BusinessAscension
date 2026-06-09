@@ -93,7 +93,7 @@ Durée précise + transformation d'identité = urgence + curiosité.
 - "En 23 minutes, tu seras impossible à vaincre"
 
 **Adaptations BA™ :**
-- "En 18 minutes, tu comprends exactement pourquoi ton business fait des imprévisibilité"
+- "En 18 minutes, tu comprends exactement pourquoi ton business fait des à-coups"
 - "En 12 minutes, tu identifies le goulot qui bloque tes revenus"
 - "En 25 minutes, tu vois ton Business Operating System tel qu'il est vraiment"
 - Note : ne pas copier le registre "PSYCHO/dieu" — pas la cible BA™. Registre = identité d'exécution.
@@ -112,7 +112,7 @@ Assertion qui va à l'inverse du sens commun → curiosité obligatoire.
 **Adaptations BA™ :**
 - "Pourquoi travailler plus détruit la régularité de tes revenus"
 - "La raison pour laquelle ta meilleure offre te bloque"
-- "Pourquoi les entrepreneurs les plus compétents restent dans l'imprévisibilité"
+- "Pourquoi les entrepreneurs les plus compétents restent dans l'irrégularité"
 - "Arrête d'optimiser ta stratégie — optimise ça à la place"
 
 ---
@@ -125,7 +125,7 @@ Renommer le problème en perte concrète. Le statu quo a un prix.
 
 **Adaptations BA™ :**
 - "Tu paies une taxe invisible chaque mois que le goulot reste non identifié"
-- "Le coût invisible des imprévisibilité (ce que personne ne calcule)"
+- "Le coût invisible des à-coups (ce que personne ne calcule)"
 - "Chaque mois de creux = une taxe que tu paies sans t'en rendre compte"
 
 ---
@@ -167,7 +167,7 @@ La douleur de ceux qui ont déjà "réussi" mais ressentent encore un manque.
 | Inner OU Business (séquentiel) | Inner + Business **simultané** |
 | "Mindset" en solo | Les 8 étapes BA™ — identité + business simultané |
 | Vendre des méthodes / outils | Diagnostiquer → prescrire → le client implémente |
-| Chiffres US / anglophone | Chiffres et VOC marché FR (imprévisibilité, goulot, ça patine) |
+| Chiffres US / anglophone | Chiffres et VOC marché FR (irrégularité, goulot, ça patine) |
 | Lifestyle proof (Bali, voiture, etc.) | Résultats business concrets + transformation identité |
 | Contenu généraliste tous entrepreneurs | Cible précise : entrepreneurs 3-15K€/mois irréguliers |
 
@@ -177,13 +177,13 @@ La douleur de ceux qui ont déjà "réussi" mais ressentent encore un manque.
 
 ### Série "SANS"
 1. **"Le CA prévisible SANS changer d'offre (pourquoi ta stratégie n'est pas le problème)"**
-2. **"Comment sortir des imprévisibilité SANS recommencer de zéro"**
+2. **"Comment sortir des à-coups SANS recommencer de zéro"**
 3. **"Passer de l'irrégulier au flux constant SANS recruter ni externaliser"**
 
 ### Série Contre-intuitif
 4. **"Pourquoi les entrepreneurs les plus compétents restent bloqués à 5K€/mois irréguliers"**
 5. **"Arrête d'optimiser ta stratégie. Optimise ça à la place."**
-6. **"La vraie raison pour laquelle ton business fait des imprévisibilité (ce n'est pas ce que tu crois)"**
+6. **"La vraie raison pour laquelle ton business fait des à-coups (ce n'est pas ce que tu crois)"**
 
 ### Série Histoire personnelle
 7. **"Des mois à 12 000€, des mois à zéro — ce que ces 2 ans m'ont vraiment appris"**
@@ -191,7 +191,7 @@ La douleur de ceux qui ont déjà "réussi" mais ressentent encore un manque.
 
 ### Série Taxe invisible
 9. **"Tu paies une taxe invisible chaque mois que le premier goulot reste non identifié"**
-10. **"Le coût réel des imprévisibilité (personne ne calcule ce chiffre)"**
+10. **"Le coût réel des à-coups (personne ne calcule ce chiffre)"**
 
 ### Série Temps + diagnostic
 11. **"En 17 minutes, tu identifies exactement ce qui bloque la régularité de tes revenus"**

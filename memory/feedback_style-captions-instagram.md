@@ -54,7 +54,7 @@ Abonne-toi
 > En parallèle.
 > Chaque semaine.
 >
-> Si tu en as marre de subir ton CA imprévisible commente « IDENTITÉ » et je t'offre une analyse complète de ce qui bloque
+> Si tu en as marre de subir ton CA en pointillé commente « IDENTITÉ » et je t'offre une analyse complète de ce qui bloque
 >
 > Abonne-toi
 

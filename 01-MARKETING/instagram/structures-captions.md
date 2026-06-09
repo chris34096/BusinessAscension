@@ -128,7 +128,7 @@ Si la tension n'est pas créée dans les 125 premiers caractères, la suite n'es
 >
 > Commente « [MOT EN MAJUSCULES] » et je te l'envoie directement.
 
-**Keywords validés BA™ :** IDENTITÉ · imprévisibilité · GOULOT · DIAGNOSTIC · SYSTEM
+**Keywords validés BA™ :** IDENTITÉ · irrégularité · GOULOT · DIAGNOSTIC · SYSTEM
 
 **Usage :** CTA final de TOUT post — quelle que soit la structure principale
 

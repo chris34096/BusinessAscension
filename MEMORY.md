@@ -246,7 +246,7 @@ Les documents ma-cible v8, ma-voix v8, mes-offres v7 ont été reconstruits depu
 - Métaphore Don Quichotte (men — action sans résultat) vient de Chris
 - Métaphore Introspectrice bloquée (women — réflexion sans action) vient de Chris
 - "Bouffer ma part de marché" est une vraie formulation naturelle
-- "imprévisibilité" pour revenus imprévisibles est son expression spontanée
+- "imprévisibilité" pour revenus en pointillé est son expression spontanée
 - La frustration envers le marché (fausses promesses, absence de structure) est authentique — à utiliser dans le contenu
 
 ### Contexte historique
@@ -559,7 +559,7 @@ LinkedIn v3.0 et Instagram v2.0 réécrits en intégrant les expressions verbati
 
 **Positionnement définitivement confirmé : Angle C + Porte d'entrée B**
 - Angle C = travail intérieur (système nerveux) + structure business (mécanique) en simultané
-- Porte d'entrée B = le problème concret : revenus imprévisibles
+- Porte d'entrée B = le problème concret : des revenus qui montent et descendent
 - Règle absolue : entrer par la douleur concrète, révéler le mécanisme après la reconnaissance
 - JAMAIS pitcher le mécanisme (les 8 étapes, identité + business) avant que le prospect ait reconnu son problème
 
@@ -581,7 +581,7 @@ LinkedIn v3.0 et Instagram v2.0 réécrits en intégrant les expressions verbati
 - Rythme : phrases courtes, retours à la ligne agressifs, marqueurs naturels préservés
 - Séquence obligatoire : leur langage (reconnaissance) → le mécanisme (révélation)
 - Première ligne : frappe directement, sans warm-up, sans intro
-- Marqueurs naturels : "en gros", "en fait", "vraiment", "donc", "voilà", "boîte", "imprévisibilité", "goulot"
+- Marqueurs naturels : "en gros", "en fait", "vraiment", "donc", "voilà", "boîte", "irrégularité", "goulot"
 
 **Garrett J White — 4 éléments à intégrer dans BA™**
 1. **Communauté** → Scale Ascension phase 3 — la communauté comme produit, pas comme bonus
@@ -597,7 +597,7 @@ LinkedIn v3.0 et Instagram v2.0 réécrits en intégrant les expressions verbati
 
 **Concurrent francophone le plus dangereux : Julien Musy**
 - 10M€+ générés dans ses propres businesses, 650K€/mois à l'apogée
-- Différenciation avec BA™ : entrée "crise de sens" (Musy) vs. "crise d'exécution/revenus imprévisibles" (BA™)
+- Différenciation avec BA™ : entrée "crise de sens" (Musy) vs. "crise d'exécution/des revenus jamais pareils d'un mois à l'autre" (BA™)
 - Cette différence DOIT être visible dans chaque contenu — pas juste dans les pages de vente
 
 **Validation marché — réponse à la question "s'il n'y a personne c'est peut-être qu'il n'y a pas de marché"**

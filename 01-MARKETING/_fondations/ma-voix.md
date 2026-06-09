@@ -30,7 +30,7 @@ Je sais comment fonctionne l'être humain qui dirige une entreprise — et comme
 - Il mélange le registre direct et le registre passionné — parfois dans la même phrase.
 
 **Son diagnostic naturel en DM / premier contact :**
-Quand quelqu'un lui parle de revenus imprévisibles, Chris pose deux questions dans cet ordre :
+Quand quelqu'un lui parle de revenus en pointillé, Chris pose deux questions dans cet ordre :
 1. *"Est-ce que tu postes ? Est-ce que tu es visible sur les réseaux sociaux ?"*
 2. *"Combien de DM tu fais par jour ? Combien de personnes tu contactes ?"*
 

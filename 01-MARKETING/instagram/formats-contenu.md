@@ -42,7 +42,7 @@ La cible (entrepreneur qui stagne, qui a déjà tout essayé) est méfiante des 
 - "Ce que personne te dit sur l'imprévisibilité."
 - "T'as pas un problème de stratégie. T'as un problème d'identité d'exécution."
 
-**Séquence hook obligatoire :** Commence par ce que la cible vit (imprévisibilité, ça patine, coup de collier) → jamais par le mécanisme ou l'offre.
+**Séquence hook obligatoire :** Commence par ce que la cible vit (irrégularité, ça patine, coup de collier) → jamais par le mécanisme ou l'offre.
 
 **CTA optimal :** "Commente AUDIT" ou "Commente GOULOT"
 
@@ -84,7 +84,7 @@ La cible BA™ est analytique — elle aime les frameworks et les listes. Ce for
 - Durée : 45-90 secondes (3-5 items max)
 
 **Angles BA™ à exploiter :**
-- "3 signes que tu es dans l'imprévisibilité chroniques"
+- "3 signes que tu es dans l'irrégularité chroniques"
 - "4 goulots qui empêchent ton business de tourner sans toi"
 - "5 comportements du Don Quichotte entrepreneur (et comment en sortir)"
 - "3 raisons pour lesquelles les formations ne suffisent pas"
@@ -219,7 +219,7 @@ liberté financière · revenus passifs · système clé en main · tu mérites 
 programme (seul) · vouvoiement · montant CA chiffré
 
 **VOC à intégrer dans chaque format (au moins 1-2 expressions) :**
-imprévisibilité · creux · coup de collier · te payer le 1er du mois · ça patine
+irrégularité · creux · coup de collier · te payer le 1er du mois · ça patine
 tourner en rond · sables mouvants · cage dorée · culpabilité sourde
 goulot · prévisible · régulier · que ça tourne sans moi
 

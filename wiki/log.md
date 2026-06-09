@@ -292,7 +292,7 @@
   - `00-STRATEGIE/vision-empire.md` (v2.0)
   - `00-STRATEGIE/analyse-concurrentielle.md` (v4.0)
 - **Conflits détectés :** aucun
-- **Observations :** Premier ingest complet. Toutes les pages ont `confidence: high` sauf les inférences compétitives taggées medium. L'angle "imprévisibilité + désactivation SN + construction BOS simultanée" n'est revendiqué par aucun concurrent identifié — angle unique confirmé.
+- **Observations :** Premier ingest complet. Toutes les pages ont `confidence: high` sauf les inférences compétitives taggées medium. L'angle "irrégularité + désactivation SN + construction BOS simultanée" n'est revendiqué par aucun concurrent identifié — angle unique confirmé.
 
 ---
 

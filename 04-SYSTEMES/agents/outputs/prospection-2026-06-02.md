@@ -26,7 +26,7 @@ Aucune relance — pipeline vide.
 
 ---
 
-### Profil 1 — Coach business / consultant en croissance (revenus imprévisibles)
+### Profil 1 — Coach business / consultant en croissance (revenus en pointillé)
 
 - **Signal à chercher :** Posts ou stories qui parlent de "mois inégaux", "j'ai eu un bon mois et là c'est plat", "je travaille beaucoup mais les résultats ne suivent pas", caption du type "la difficulté de l'entrepreneuriat" sans solution claire
 - **Plateforme :** Instagram
@@ -36,7 +36,7 @@ Aucune relance — pipeline vide.
 **DM Instagram prêt :**
 > "Hé [prénom], j'ai vu ton post sur [les mois inégaux / la régularité]. Ce que tu décris — exactement ce que j'analyse en premier quand je regarde un business.
 >
-> J'ai un contenu court là-dessus — ça pointe ce qui crée vraiment l'imprévisibilité. Ça te parle que je t'envoie ça ?"
+> J'ai un contenu court là-dessus — ça pointe ce qui crée vraiment l'irrégularité. Ça te parle que je t'envoie ça ?"
 
 **DM LinkedIn prêt :**
 > "Hé [prénom], j'ai lu ton post sur [la régularité / la croissance irrégulière]. Ce que tu décris, c'est le symptôme le plus courant que je vois chez les coachs et consultants qui ont déjà un business qui tourne.
@@ -159,7 +159,7 @@ Aucune relance — pipeline vide.
 
 ## ACTION PRIORITAIRE #1
 
-Ouvre Instagram maintenant, tape `#coachbusiness` dans la recherche, identifie 3 profils qui ont posté sur les revenus imprévisibles dans les 7 derniers jours, envoie le DM Profil 1 adapté à chacun.
+Ouvre Instagram maintenant, tape `#coachbusiness` dans la recherche, identifie 3 profils qui ont posté sur les des revenus qui montent et descendent dans les 7 derniers jours, envoie le DM Profil 1 adapté à chacun.
 
 ---
 

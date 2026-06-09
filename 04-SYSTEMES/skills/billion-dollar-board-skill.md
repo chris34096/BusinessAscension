@@ -132,7 +132,7 @@ J1: Contact initial | J2: Appel | J3: Video message | J7: Check-in | J14: Case s
 #### THE SMALLEST VIABLE MARKET
 - Plus le focus est serré, meilleurs les resultats
 - ICP doit dire "c'est exactement pour moi" + non-ICP "ce n'est pas pour moi"
-- **BA SVM :** Entrepreneurs/coachs/consultants FR dont le business tourne mais CA imprévisible
+- **BA SVM :** Entrepreneurs/coachs/consultants FR dont le business tourne mais CA en pointillé
 
 #### THE STORY FRAMEWORK
 1. Status Quo (realite actuelle)
@@ -284,7 +284,7 @@ Les 3 doivent etre alignes. Diagnostiquer lequel est casse :
 - Wrong Market -> excellent message, mauvaises personnes ciblees
 - Wrong Media -> bon message, bonne cible, mauvaise plateforme
 
-**BA diagnostic :** Message (imprévisibilité -> simultaneite) FORT. Market (entrepreneurs FR avec revenus) PRECISE. Media (LinkedIn + Instagram) A VALIDER par les KPIs.
+**BA diagnostic :** Message (irrégularité -> simultaneite) FORT. Market (entrepreneurs FR avec revenus) PRECISE. Media (LinkedIn + Instagram) A VALIDER par les KPIs.
 
 #### MAGNETIC MARKETING SYSTEM
 1. **Capture Attention** (lead magnet irrésistible)

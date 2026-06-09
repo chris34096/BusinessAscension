@@ -40,7 +40,7 @@ Ce nom est fixé dans la nomenclature officielle BA™ — il ne change pas.
 | Bloc | Durée | Objectif |
 |---|---|---|
 | **1. Accueil + cadre** | 2 min | Poser le cadre : pas de pression, diagnostic réel |
-| **2. Diagnostic de situation** | 8 min | CA, imprévisibilité, ce qui a déjà été essayé, le vrai blocage |
+| **2. Diagnostic de situation** | 8 min | CA, irrégularité, ce qui a déjà été essayé, le vrai blocage |
 | **3. Cartographie du business** | 8 min | Cartographier acquisition → conversion → delivery → inner |
 | **4. La vérité** | 5 min | Nommer ce que personne n'a nommé — créer "cette personne me voit vraiment" |
 | **5. Présentation + closing** | 7 min | Présenter Construis la Marque™ si aligné, sans pression |

@@ -294,7 +294,7 @@ Ce qui se passe :
 ---
 
 **C'est pour toi si :**
-→ Ton business tourne, mais tes revenus sont imprévisible
+→ Ton business tourne, mais tes revenus sont en pointillé
 → Tu as déjà investi dans des accompagnements — ça t'a donné des outils, pas des résultats durables
 → Tu travailles beaucoup. Ce qui compte vraiment n'avance pas.
 

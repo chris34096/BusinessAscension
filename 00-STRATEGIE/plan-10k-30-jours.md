@@ -56,7 +56,7 @@
 
 **Actions quotidiennes non-négociables :**
 - Publier 1 contenu LinkedIn ou Instagram
-- 50 DMs (ciblage : entrepreneurs posts imprévisibilité, revenus imprévisibles, coaching/consulting)
+- 50 DMs (ciblage : entrepreneurs posts imprévisibilité, revenus en pointillé, coaching/consulting)
 - Speed to lead < 5 min sur chaque réponse
 - Appliquer qualification 5 questions avant tout booking
 - Objectif : 5 audits bookés, 4 présents
@@ -105,12 +105,12 @@
 
 ### LinkedIn — Série "SANS"
 1. "Le CA prévisible SANS changer d'offre"
-2. "Sortir des imprévisibilité SANS recommencer de zéro"
+2. "Sortir des à-coups SANS recommencer de zéro"
 3. "Gagner régulier SANS coup de collier supplémentaire"
 
 ### Reels Instagram — Série "Taxe invisible"
 1. "Tu paies une taxe invisible chaque mois que le goulot reste non identifié"
-2. "Le coût réel des imprévisibilité — personne ne calcule ce chiffre"
+2. "Le coût réel des à-coups — personne ne calcule ce chiffre"
 
 ### Post LinkedIn viral à adapter
 "Dupliquer ta voix dans Claude en 7 étapes (même si t'as peur de paraître générique)"

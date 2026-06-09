@@ -45,7 +45,7 @@ sources:
 
 ## VOC CIBLE À UTILISER
 
-`imprévisibilité` · `creux` · `coup de collier` · `ça patine` · `tourner en rond` · `prévisible` · `régulier` · `que ça tourne sans moi` · `vendre par message` · `leads entrants` · `catégorie à part`
+`irrégularité` · `creux` · `coup de collier` · `ça patine` · `tourner en rond` · `prévisible` · `régulier` · `que ça tourne sans moi` · `vendre par message` · `leads entrants` · `catégorie à part`
 
 ---
 

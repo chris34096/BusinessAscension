@@ -17,7 +17,7 @@
 **Arc narratif sur 4 semaines :**
 - S1 (J1-7) — **Le vrai problème** : ce n'est pas le mindset ni le volume
 - S2 (J8-14) — **Le mécanisme** : vendre par message, leads entrants, contenu qui pré-vend
-- S3 (J15-21) — **La prévisibilité** : sortir des imprévisibilité avec le système (8 étapes)
+- S3 (J15-21) — **La prévisibilité** : sortir des à-coups avec le système (8 étapes)
 - S4 (J22-28) — **Catégorie à part** : marque, autorité, preuve, identité
 - J29-30 — **Conversion** : Audit offert, beta, passage à l'action
 
@@ -67,7 +67,7 @@
 ---
 
 ## JOUR 4
-**🎥 YouTube :** "l'imprévisibilité : pourquoi ton CA fait les imprévisibilité (et comment l'arrêter)"
+**🎥 YouTube :** "l'irrégularité : pourquoi ton CA fait les imprévisibilité (et comment l'arrêter)"
 → Angle : mécanisme de l'irrégularité. Pas de système d'acquisition prévisible.
 
 **📱 Reel 1 :** Hook — *"Un mois à 8K. Le mois d'après à 1500. Et tu bosses autant. Ça te parle ?"*
@@ -75,7 +75,7 @@
 **🎠 Carrousel :** "Anatomie d'un mois imprévisible" → le cycle : bon mois → on arrête de prospecter → creux → coup de collier → répète.
 
 **💼 LinkedIn 1 :** Hook — *"Ton business a grandi. Mais ta structure, elle, est restée à la case départ."*
-**💼 LinkedIn 2 :** Story — un client (anonymisé) qui vivait l'imprévisibilité → ce qu'on a changé.
+**💼 LinkedIn 2 :** Story — un client (anonymisé) qui vivait l'irrégularité → ce qu'on a changé.
 
 ---
 
@@ -297,7 +297,7 @@
 
 **📱 Reel 1 :** Hook — *"Un business prévisible en 1 phrase."*
 **📱 Reel 2 :** Hook — *"3 signes que ton business est prêt à scaler."*
-**🎠 Carrousel :** "Business imprévisible vs prévisible : 7 différences."
+**🎠 Carrousel :** "business en pointillé vs prévisible : 7 différences."
 
 **💼 LinkedIn 1 :** Hook — *"Récap : les piliers d'un CA prévisible."*
 **💼 LinkedIn 2 :** Engagement — *"Ton CA est prévisible à combien de % aujourd'hui ?"*

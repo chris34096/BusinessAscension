@@ -154,7 +154,7 @@ CTA (40-60s)    → Une seule action. "Postule pour un Audit offert en bio."
 | Mardi | Croyances vs système nerveux | "Travailler sur tes croyances, c'est bien. Désactiver à la source, c'est autre chose." |
 | Mercredi | Le breathwork et l'exécution | "Ton corps sait avant toi pourquoi tu procrastines." |
 | Jeudi | Les 5 livrables concrets | "Voilà exactement ce que t'as à la fin des 3 mois." |
-| Vendredi | l'imprévisibilité | "Des mois à 12k€. Des mois à zéro. Ce que les deux m'ont appris." |
+| Vendredi | l'irrégularité | "Des mois à 12k€. Des mois à zéro. Ce que les deux m'ont appris." |
 
 ### Semaine 3 — Thème : La structure qui manque
 

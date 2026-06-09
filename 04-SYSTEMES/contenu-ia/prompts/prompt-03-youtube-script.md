@@ -88,7 +88,7 @@ Rappel des 3-4 points. Transition : "Tu as maintenant [modèle]. La question : q
 
 CHAMP LINGUISTIQUE — Palette élargie
 
-VOC cible (toujours présent) : imprévisibilité · ça patine · coup de collier · goulot · creux · cage dorée · culpabilité sourde · que ça tourne sans moi · prévisible · régulier
+VOC cible (toujours présent) : irrégularité · ça patine · coup de collier · goulot · creux · cage dorée · culpabilité sourde · que ça tourne sans moi · prévisible · régulier
 
 Registres à intégrer (1 dominant par vidéo) :
 • Architectural : ossature · fondations · pilier · porteur · tracé · gabarit · armature
