@@ -1,4 +1,19 @@
-﻿## 2026-06-03 (session 22) — Purge ancien, GitHub, GHL pages, skills
+﻿## 2026-06-09 (session 23) — Sites Vercel + VSL v2 + VOC v2 + purge "dents de scie"
+
+- **2 sites premium déployés sur Vercel** (dark luxury, Playfair + Hanken Grotesk, 3D Three.js morphing, verre dépoli, titre animé lettre par lettre) :
+  - Porte 1 : porte-1-deviens-entrepreneur-chris34096s-projects.vercel.app
+  - Porte 2 : porte-2-construis-la-marque-chris34096s-projects.vercel.app
+  - + quiz de routage (Supabase live) et page Audit offert (booking GHL) — pas encore déployés.
+- **Témoignages vidéo** (Houssem, Élodie, Yanis, Mariel) + **form candidature GHL** intégrés. Logo + photos Chris.
+- **VSL v2** (Porte 1 & 2) : trame Perfect Webinar × close Kennedy, 5-7 min, 3 croyances, indications écran. Porte 1 reframée 0→10K.
+- **3 systèmes de contenu** (LinkedIn/Instagram/YouTube) : value-first, Coach Mike, Max Tornow 5-6-30.
+- **VOC v2** : lexique LARGE par porte, issu de recherche marché réelle (Finary, Qonto, Le Board, Substacks, Reddit, YouTube).
+- **GRAND NETTOYAGE :** "dents de scie / instable" = ancien système → **supprimé** (Porte 1 part de 0, Porte 2 = plafond de verre). Purge 63 fichiers + polish 39 fichiers (158 variations anti-doublon). 6 fichiers obsolètes + concept `dents-de-scie` supprimés. Commits jusqu'à 40e8480.
+- Skills ajoutés : marketing (44), context-engineering (15), stop-slop, ui-ux-pro-max.
+
+---
+
+## 2026-06-03 (session 22) — Purge ancien, GitHub, GHL pages, skills
 
 - **Purge complète de l'ancien vocabulaire** dans ~80 fichiers : Inner Architecture (Starter/Program/Protocol), SAFe Agile, PI Planning/Review, background corporate (Dalenys/DLG/Tradamax/filiales), Appel Clarté, Inside Freedom — tout supprimé. Seuls subsistent les notes "ne pas utiliser" dans CLAUDE.md et christofer-perez.md.
 - **6 fichiers supprimés** : `_archive/` (2), `wiki/concepts/inner-architecture-protocol.md`, `page-iap-copy.md`, `page-starter-copy.md`, `script-closing.md` (v1).
