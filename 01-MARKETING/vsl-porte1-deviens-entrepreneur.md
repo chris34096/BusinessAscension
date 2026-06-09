@@ -12,13 +12,13 @@
 
 **[B-ROLL : Chris face caméra, plan serré. Pas d'intro.]**
 
-Tu fais du contenu. T'as une offre. Et pourtant, les clients rentrent toujours pas de façon régulière.
+Tu veux vivre de ton activité. Faire tes premiers 10K€ par mois, réguliers, construits autour de qui tu es.
 
-Un mois ça rentre, le mois d'après c'est le creux. Les dents de scie.
+Mais aujourd'hui, les clients ne rentrent pas encore vraiment. Tu postes, tu attends, et il se passe pas grand-chose.
 
-Reste 6 minutes avec moi. Je vais te montrer pourquoi ça patine, et le système exact pour que ton chiffre devienne prévisible. Sans travailler plus. Sans une formation de plus.
+Reste 6 minutes avec moi. Je vais te montrer le système exact pour aller de presque zéro à tes premiers 10K€/mois réguliers. Sans budget pub. Sans une formation de plus.
 
-**[ÉCRAN : "Pourquoi ton business fait les dents de scie (et comment l'arrêter)"]**
+**[ÉCRAN : "De 0 à tes premiers 10K€/mois réguliers"]**
 
 ---
 
@@ -128,7 +128,7 @@ La seule chose qui compte maintenant : décider. Ceux qui avancent le plus vite,
 - Phrases courtes, assertions directes, zéro "ça dépend".
 - On dit **closer / convertir**, jamais "fermer des clients".
 - Mots interdits : liberté financière, revenus passifs, système clé en main, programme seul.
-- VOC : dents de scie, creux, ça patine, prévisible, goulot.
+- VOC : premiers 10K réguliers, construit autour de qui tu es, vendre par message, communauté, goulot. (On ne parle plus de "dents de scie" — l'ICP Porte 1 part de ~0.)
 - Pas de tiret cadratin à l'écran.
 
 ---
