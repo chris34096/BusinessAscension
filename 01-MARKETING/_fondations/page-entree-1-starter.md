@@ -63,7 +63,7 @@
 - Des **systèmes de contenu par plateforme** — LinkedIn, Instagram, YouTube, chacun avec sa méthode propre, **interconnectés** → omniprésence
 - Une **communauté qui te suit** — ton moteur de croissance et de CA récurrent
 - Vendre par message — fermer des clients depuis ton téléphone
-- Un CA régulier et prévisible — plus de montagnes russes
+- Un CA régulier et prévisible — plus de imprévisibilité
 
 ---
 
@@ -208,7 +208,7 @@ PIF si tu peux. Coût total moins élevé. Une décision. Fait. Mensuel si le ca
 Oui. Message moi ou l'équipe dans la communauté quand tu es prêt — on verrouille ton prochain plan au tarif membre.
 
 **"Je fais déjà du CA. Est-ce que c'est encore pour moi ?"**
-Si tu fais 0–5K€/mois avec des revenus irréguliers — oui. Si tu fais déjà 5K€+/mois et tu veux scaler vers 100K€/mois — regarde [Construis la Marque™] →
+Si tu fais 0–5K€/mois avec des revenus imprévisibles — oui. Si tu fais déjà 5K€+/mois et tu veux scaler vers 100K€/mois — regarde [Construis la Marque™] →
 
 ---
 

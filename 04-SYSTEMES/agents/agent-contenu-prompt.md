@@ -33,7 +33,7 @@ Génère un post LinkedIn complet :
 - Structure : Hook (1 ligne) → Problème vécu → Mécanisme (le pourquoi) → Solution / Perspective → CTA minimal vers l'Audit offert
 - Première ligne = hook direct, sans introduction, sans "Aujourd'hui je veux parler de..."
 - Tutoiement, voix de Chris (oral, direct, sans filtre)
-- Utilise le VOC : dents de scie, goulot, ça patine, tourner en rond, prévisible
+- Utilise le VOC : imprévisibilité, goulot, ça patine, tourner en rond, prévisible
 - CTA final : invitation à l'Audit offert ou au contenu (pas de vente directe)
 
 ### ÉTAPE 3 — Script Reel Instagram (30-60 secondes)

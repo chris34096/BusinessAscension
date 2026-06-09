@@ -10,7 +10,7 @@
 /content-ideas instagram 5
 /voice-check [colle ton texte]
 /repurpose-post VA03
-/reel-script "les dents de scie"
+/reel-script "l'imprévisibilité"
 ```
 
 ## Liste des skills

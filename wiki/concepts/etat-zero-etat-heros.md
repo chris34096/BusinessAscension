@@ -40,7 +40,7 @@ Le gap entre les deux = ce que BA™ adresse avec les 8 étapes — identité + 
 **Ce n'est pas "entrepreneur"** — trop vague. L'État Zéro BA™ est :
 
 - Business qui tourne déjà (revenus existants, pas un débutant)
-- CA en dents de scie — mois à 8–12K€, mois à 2–3K€ ou zéro
+- CA imprévisible — mois à 8–12K€, mois à 2–3K€ ou zéro
 - Sait quoi faire — mais ne le fait pas de façon constante
 - Actif, occupé, plein d'efforts → résultats non proportionnels à l'énergie dépensée
 - Syndrome de l'imposteur actif : "Est-ce que je mérite vraiment de faire 30–50K/mois ?"
@@ -70,7 +70,7 @@ Cibler le problème intermédiaire (un cran en dessous) :
 
 | Désir final | Problème intermédiaire à cibler |
 |---|---|
-| Doubler son CA | Exécution inconstante, dents de scie |
+| Doubler son CA | Exécution inconstante, imprévisibilité |
 | Gagner plus sans s'épuiser | Charge mentale, décisions sabotées |
 | Se payer le 1er du mois | Blocage d'exposition, évitement ancré |
 | Déléguer | Incapacité à lâcher, tout reposer sur soi |
@@ -81,7 +81,7 @@ Les outils (breathwork, hypnose, PNL, neurosciences) = véhicules. Ils n'apparai
 
 ## Déclaration d'Autorité Cible BA™ (version officielle)
 
-> **"J'aide les entrepreneurs dont le business tourne déjà mais dont le CA reste en dents de scie, à construire un flux prévisible — en désactivant les blocages qui sabotent leur exécution et en structurant les 6 pôles de leur business en même temps."**
+> **"J'aide les entrepreneurs dont le business tourne déjà mais dont le CA reste imprévisible, à construire un flux prévisible — en désactivant les blocages qui sabotent leur exécution et en structurant les 6 pôles de leur business en même temps."**
 
 **Version condensée (contenu public) :**
 > "Tu sais quoi faire. Mais tu ne le fais pas de façon constante. C'est ça que je travaille."
@@ -103,7 +103,7 @@ Chaque script Q&A suit implicitement ce framework :
 | "Il coupe du vent" | Occupé sans résultats | Action qui expose, résultats réels |
 | "T'as tout pour réussir. Ça patine." | Compétence sans résultats | Mur tombé → CA monte |
 | "Mon coach savait moins que moi" | Savoir sans exécution | Exécution constante, militaire |
-| "Mois à 12 000€. J'ai tout dépensé." | Imposteur, dents de scie | Identité alignée, boule de neige |
+| "Mois à 12 000€. J'ai tout dépensé." | Imposteur, imprévisibilité | Identité alignée, boule de neige |
 | "J'ai pas les moyens" | Coût de l'inaction = 50K perdus | Investissement une fois → gap comblé |
 
 ---

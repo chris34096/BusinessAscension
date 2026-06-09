@@ -30,7 +30,7 @@ Je sais comment fonctionne l'être humain qui dirige une entreprise — et comme
 - Il mélange le registre direct et le registre passionné — parfois dans la même phrase.
 
 **Son diagnostic naturel en DM / premier contact :**
-Quand quelqu'un lui parle de revenus irréguliers, Chris pose deux questions dans cet ordre :
+Quand quelqu'un lui parle de revenus imprévisibles, Chris pose deux questions dans cet ordre :
 1. *"Est-ce que tu postes ? Est-ce que tu es visible sur les réseaux sociaux ?"*
 2. *"Combien de DM tu fais par jour ? Combien de personnes tu contactes ?"*
 
@@ -82,7 +82,7 @@ Les 8 croyances à installer avant l'Audit offert → voir `vsl-script.md`.
 **Règle absolue du branding (validée Juin 2026) :**
 - Hook = assertion de croyance (identity-first)
 - JAMAIS : douleur énumérée en ouverture, liste de symptômes en slide 1
-- "Dents de scie", "goulot", "ça patine" = VOC de reconnaissance → slides 2-3, pas l'ouverture
+- Douleur cible (Porte 1 : "ne pas décoller" · Porte 2 : "plafond de verre") = VOC de reconnaissance → slides 2-3, pas l'ouverture
 - Headline de marque (site) : **"Deviens l'entrepreneur. Construis le système."**
 - Headline de marque (réseaux — triptique validé Juin 2026) : **"Deviens l'entrepreneur. Construis le système. Vis ta vie."**
 
@@ -152,7 +152,8 @@ Ces phrases sont sorties spontanément. Ce sont mes vraies formulations — à u
 | *"Au final"* | Pour tirer la conclusion |
 | *"Boîte"* | Au lieu de "entreprise" en contexte informel |
 | *"Don Quichotte"* | Métaphore pour l'action sans direction |
-| *"Dents de scie"* | Revenus irréguliers |
+| *"plafond de verre"* | Le cap business qui résiste (Porte 2) |
+| *"vivoter / décoller"* | Vit mal de son activité / vise ses premiers 10K (Porte 1) |
 | *"Goulot d'étranglement"* | Blocage business précis |
 | *"Bottleneck"* | Idem, version anglaise |
 | *"Bouffer"* | Conquérir le marché agressivement |
@@ -168,7 +169,7 @@ Ces phrases sont sorties spontanément. Ce sont mes vraies formulations — à u
 
 ## 9. LES 6 REGISTRES LINGUISTIQUES
 
-> Un registre dominant par contenu. Le VOC cible (dents de scie, goulot, ça patine...) reste dans TOUS les contenus — les registres s'ajoutent, ne remplacent pas.
+> Un registre dominant par contenu. Le VOC cible (Porte 1 : vivoter, décoller · Porte 2 : plafond de verre, goulot...) reste dans TOUS les contenus, les registres s'ajoutent, ne remplacent pas.
 
 | Registre | Mots-clés |
 |---|---|
@@ -251,7 +252,7 @@ La révélation crée plus de confiance que la réassurance.
 > *"J'ai accompagné plus de 350 personnes à se libérer de ce qui les bloquait à l'intérieur. Et ce que j'ai compris, c'est que quand tu changes l'entrepreneur, ça descend dans l'entreprise."*
 
 **Sur ma propre fluctuation :**
-> *"Malgré toutes mes compétences, je voyais que je stagnais, que le CA était en dents de scie. Ce qui me manquait, c'était l'acquisition client. Une fois que j'ai quelqu'un en appel, je close. Le problème, c'était la visibilité."*
+> *"Malgré toutes mes compétences, je voyais que je stagnais, que le CA était imprévisible. Ce qui me manquait, c'était l'acquisition client. Une fois que j'ai quelqu'un en appel, je close. Le problème, c'était la visibilité."*
 
 ---
 

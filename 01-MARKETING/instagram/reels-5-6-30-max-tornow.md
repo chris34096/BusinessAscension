@@ -58,7 +58,7 @@ CTA : *"Commente SYSTÈME."*
 *Template #5 · TOF/MOF · listicle de reconnaissance, 30-45s. Crée le "c'est moi".*
 
 **Reel 2.1** [TOF]
-Hook : *"3 signes que ton business est en dents de scie (et que tu le sais pas encore)."*
+Hook : *"3 signes que ton business est imprévisible (et que tu le sais pas encore)."*
 Corps : 1. Un bon mois te rend euphorique, un mauvais te panique. 2. Tu prospectes seulement quand t'as plus de clients. 3. Tu sais jamais ce que tu vas gagner le mois prochain.
 CTA : *"T'en reconnais combien ? Commente."*
 
@@ -138,7 +138,7 @@ Corps : On t'a vendu "travaille moins, gagne plus". La réalité : sans système
 CTA : *"Commente LIBERTÉ."*
 
 **Reel 4.3** [MOF]
-Hook : *"2 mensonges qui te gardent dans les dents de scie."*
+Hook : *"2 mensonges qui te gardent dans l'imprévisibilité."*
 Corps : Mensonge 1 : "c'est normal d'avoir des hauts et des bas." Non. Mensonge 2 : "il faut juste plus de discipline." Non. Il te faut un flux d'acquisition prévisible.
 CTA : *"Commente FLUX."*
 

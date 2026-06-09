@@ -26,7 +26,7 @@ Quand quelqu'un arrive en Audit offert, il a déjà consommé 5 à 10 contenus. 
 **Angle :** "T'as fait tout ce qu'il faut. Et pourtant."
 - Le Don Quichotte qui travaille 12h/jour sans résultats
 - L'Introspectrice qui comprend tout mais n'avance pas
-- Les dents de scie de revenus inexpliquées
+- l'imprévisibilité de revenus inexpliquées
 - L'entrepreneur occupé qui confond activité et progrès
 
 **Exemple de hook :**
@@ -154,7 +154,7 @@ CTA (40-60s)    → Une seule action. "Postule pour un Audit offert en bio."
 | Mardi | Croyances vs système nerveux | "Travailler sur tes croyances, c'est bien. Désactiver à la source, c'est autre chose." |
 | Mercredi | Le breathwork et l'exécution | "Ton corps sait avant toi pourquoi tu procrastines." |
 | Jeudi | Les 5 livrables concrets | "Voilà exactement ce que t'as à la fin des 3 mois." |
-| Vendredi | Les dents de scie | "Des mois à 12k€. Des mois à zéro. Ce que les deux m'ont appris." |
+| Vendredi | l'imprévisibilité | "Des mois à 12k€. Des mois à zéro. Ce que les deux m'ont appris." |
 
 ### Semaine 3 — Thème : La structure qui manque
 

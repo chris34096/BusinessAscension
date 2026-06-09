@@ -76,7 +76,7 @@ Tu veux qu'on fasse à ta place. Tu veux "voir avant de t'engager". Tu n'es pas 
 
 ## LES 3 PROFILS
 
-**Profil 1 — Le CA existe. Mais c'est les dents de scie.**
+**Profil 1 — Le CA existe. Mais c'est l'imprévisibilité.**
 
 Ton business génère. Mais le flux n'est pas régulier. Tu travailles autant dans les bons et les mauvais mois.
 

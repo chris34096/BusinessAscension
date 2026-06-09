@@ -18,7 +18,7 @@ Aucune relance active. Pipeline à remplir from scratch.
 > Salut [prénom], j'ai vu ton Reel sur [sujet précis] — ce que tu décris sur les mois inégaux, c'est exactement le goulot que je vois chez 80% des coaches que j'accompagne. J'ai un truc court là-dessus, je te l'envoie ?
 
 **DM LinkedIn prêt :**
-> Salut [prénom], merci pour la connexion. J'ai lu ton post sur [sujet] — la partie sur [détail spécifique] résonne avec ce que je vois tous les jours. Question directe : tes revenus sont prévisibles en ce moment, ou t'es encore dans les dents de scie ? Pas de pitch, juste curieux.
+> Salut [prénom], merci pour la connexion. J'ai lu ton post sur [sujet] — la partie sur [détail spécifique] résonne avec ce que je vois tous les jours. Question directe : tes revenus sont prévisibles en ce moment, ou t'es encore dans l'imprévisibilité ? Pas de pitch, juste curieux.
 
 ---
 
@@ -46,7 +46,7 @@ Aucune relance active. Pipeline à remplir from scratch.
 > Hé [prénom], j'ai regardé ton contenu — t'as une vraie audience qui t'écoute. Le switch entre "j'ai des followers" et "j'ai un CA prévisible", c'est précisément le travail que je fais. T'es partant que je t'envoie un truc dessus ?
 
 **DM LinkedIn prêt :**
-> Salut [prénom], ton contenu sur [sujet] est dense. Curieux : t'as monétisé cette expertise de façon prévisible ou c'est encore en dents de scie ? Je pose la question parce que c'est exactement ce que je débloque chez les experts comme toi.
+> Salut [prénom], ton contenu sur [sujet] est dense. Curieux : t'as monétisé cette expertise de façon prévisible ou c'est encore imprévisible ? Je pose la question parce que c'est exactement ce que je débloque chez les experts comme toi.
 
 ---
 

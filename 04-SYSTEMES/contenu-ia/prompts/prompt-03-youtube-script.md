@@ -35,7 +35,7 @@ B. STRUCTURE NARRATIVE — Identifie si les vidéos respectent déjà :
 
 C. VOIX ET CHAMP LINGUISTIQUE — Recense :
 - Les expressions naturelles de Chris (en gros, en fait, vraiment, donc, voilà, boîte, goulot)
-- Le VOC cible présent (dents de scie, ça patine, coup de collier, goulot, creux, cage dorée)
+- Le VOC cible présent (imprévisibilité, ça patine, coup de collier, goulot, creux, cage dorée)
 - Les registres linguistiques absents à intégrer (architectural, athlétique, hydraulique, combat, chirurgie)
 
 D. CE QUI REND CES VIDÉOS DIFFÉRENTES
@@ -88,7 +88,7 @@ Rappel des 3-4 points. Transition : "Tu as maintenant [modèle]. La question : q
 
 CHAMP LINGUISTIQUE — Palette élargie
 
-VOC cible (toujours présent) : dents de scie · ça patine · coup de collier · goulot · creux · cage dorée · culpabilité sourde · que ça tourne sans moi · prévisible · régulier
+VOC cible (toujours présent) : imprévisibilité · ça patine · coup de collier · goulot · creux · cage dorée · culpabilité sourde · que ça tourne sans moi · prévisible · régulier
 
 Registres à intégrer (1 dominant par vidéo) :
 • Architectural : ossature · fondations · pilier · porteur · tracé · gabarit · armature
@@ -136,7 +136,7 @@ Après chaque publication YouTube : exporte le transcript depuis YouTube Studio 
 ## IDÉES TYPE
 
 - "Comment j'ai stabilisé mes revenus SANS changer d'offre, SANS recruter, SANS recommencer de zéro"
-- "Les dents de scie — le vrai mécanisme (pas le mindset, pas la stratégie)"
+- "l'imprévisibilité — le vrai mécanisme (pas le mindset, pas la stratégie)"
 - "En 17 minutes tu vas comprendre pourquoi tes formations n'ont pas suffi"
 - "Le BOS en 6 pôles — comment identifier celui qui bloque tout le reste"
 - "L'archétype Don Quichotte : l'entrepreneur qui travaille sans avancer"

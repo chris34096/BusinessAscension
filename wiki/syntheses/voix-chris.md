@@ -39,13 +39,13 @@ sources:
 
 ## MARQUEURS DE LANGAGE
 
-`en gros` · `en fait` · `vraiment` · `donc` · `voilà` · `boîte` · `dents de scie` · `goulot` · `ça patine` · `bouffer le marché` · `copy-coller` · `le méta` · `straightforward`
+`en gros` · `en fait` · `vraiment` · `donc` · `voilà` · `boîte` · `imprévisibilité` · `goulot` · `ça patine` · `bouffer le marché` · `copy-coller` · `le méta` · `straightforward`
 
 ---
 
 ## VOC CIBLE À UTILISER
 
-`dents de scie` · `creux` · `coup de collier` · `ça patine` · `tourner en rond` · `prévisible` · `régulier` · `que ça tourne sans moi` · `vendre par message` · `leads entrants` · `catégorie à part`
+`imprévisibilité` · `creux` · `coup de collier` · `ça patine` · `tourner en rond` · `prévisible` · `régulier` · `que ça tourne sans moi` · `vendre par message` · `leads entrants` · `catégorie à part`
 
 ---
 

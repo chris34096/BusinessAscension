@@ -85,7 +85,7 @@ Ce que ça change quand les 4 sont réglés :
 → Des prospects qualifiés qui arrivent régulièrement
 → Un taux de conversion qui monte
 → Un business qui tourne sans tout reposer sur toi
-→ Un CA prévisible — pas des dents de scie
+→ Un CA prévisible — pas des imprévisibilité
 ```
 
 **SLIDE 7 — CTA**

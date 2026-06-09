@@ -27,7 +27,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 **Adaptation BA™ :**
 > "Les [5] meilleurs signaux que ton business est prêt à scaler — et que tu ignores parce que t'es encore dans la survie."
 
-> "Les [3] meilleures décisions que j'ai prises pour sortir des dents de scie. La première, personne ne m'en avait parlé."
+> "Les [3] meilleures décisions que j'ai prises pour sortir des imprévisibilité. La première, personne ne m'en avait parlé."
 
 **Pilier :** Pilier 4 (Résultat) — Jeudi
 **Template script :**
@@ -44,7 +44,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 **Principe :** Prévenir l'erreur avant qu'elle coûte. Positionne en expert.
 
 **Adaptation BA™ :**
-> "[5] erreurs à ne plus faire quand ton CA est en dents de scie. La #[3] coûte des mois entiers."
+> "[5] erreurs à ne plus faire quand ton CA est imprévisible. La #[3] coûte des mois entiers."
 
 > "[3] choses à arrêter immédiatement si tu veux un revenu prévisible. La plupart des coachs ne te les diront jamais."
 
@@ -69,7 +69,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 
 **Pilier :** Pilier 1 (Le Pattern) — Lundi
 **Template script :**
-- Hook : "[X] erreurs que font les entrepreneurs [qualificatif VOC — qui tournent en rond / qui font des dents de scie]"
+- Hook : "[X] erreurs que font les entrepreneurs [qualificatif VOC — qui tournent en rond / qui font des imprévisibilité]"
 - Ancre personnelle : "Je les ai vues [chez X clients / chez moi / en accompagnant 350 personnes]."
 - Erreur [X] : [Description VOC] — Correction : [Solution précise]
 - CTA : "T'en reconnais combien ? Dis-moi en commentaire."
@@ -119,7 +119,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 **Principe :** Rendre la transformation copiable. Bridge entre situation actuelle et résultat.
 
 **Adaptation BA™ :**
-> "[3] étapes pour passer de revenus en dents de scie à un CA prévisible. L'étape [1] est celle que tout le monde saute."
+> "[3] étapes pour passer de revenus imprévisibles à un CA prévisible. L'étape [1] est celle que tout le monde saute."
 
 > "[5] étapes que j'ai suivies pour construire un business qui ne dépend plus de mes coups de collier."
 
@@ -172,9 +172,9 @@ Chaque template est mappé à un Pilier et une Structure caption.
 **Principe :** Taxonomie = éducation + identification. Fort pour la segmentation.
 
 **Adaptation BA™ :**
-> "[3] types d'entrepreneurs qui font des dents de scie — et ce qui est différent dans chaque cas."
+> "[3] types d'entrepreneurs qui font des imprévisibilité — et ce qui est différent dans chaque cas."
 
-> "[4] types de blocages qui maintiennent ton CA instable. Lequel est le tien ?"
+> "[4] types de blocages qui maintiennent ton CA imprévisible. Lequel est le tien ?"
 
 **Pilier :** Pilier 1 (Le Pattern) / Pilier 3 (Mécanisme)
 **Template script :**
@@ -242,7 +242,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 **Adaptation BA™ :**
 > "[5] choses à ne jamais faire quand tu veux stabiliser ton CA. La #[4] est celle que tout le monde fait au mauvais moment."
 
-> "[3] choses à ne jamais confondre si tu veux sortir des dents de scie pour de bon."
+> "[3] choses à ne jamais confondre si tu veux sortir des imprévisibilité pour de bon."
 
 **Pilier :** Pilier 1 / Pilier 3
 **Template script :**
@@ -340,7 +340,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 **Adaptation BA™ :**
 > "Ce que ça fait de réaliser que ton problème n'était pas ta stratégie depuis le début."
 
-> "Ce que ça fait d'avoir enfin un mois régulier après des années de dents de scie."
+> "Ce que ça fait d'avoir enfin un mois régulier après des années de imprévisibilité."
 
 > "Ce que ça fait de voir son CA se stabiliser sans avoir changé son offre ni son marché."
 
@@ -382,7 +382,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 
 > "Et si ta vraie contrainte était à 30 minutes d'une solution ?"
 
-> "Et si les dents de scie n'avaient rien à voir avec ton marché ?"
+> "Et si l'imprévisibilité n'avaient rien à voir avec ton marché ?"
 
 > "Et si la prochaine stratégie n'était pas la réponse — encore une fois ?"
 
@@ -504,7 +504,7 @@ Chaque template est mappé à un Pilier et une Structure caption.
 - Biais d'action → "Tu confonds activité et progrès. Le pattern Don Quichotte."
 - Biais de confirmation → "Tu gardes les preuves que ton blocage vient de l'extérieur."
 - Biais du coût irrécupérable → "Tu continues parce que t'as déjà investi — pas parce que ça marche."
-- Faux consensus → "Tu penses que tous les entrepreneurs ressentent les dents de scie. Faux."
+- Faux consensus → "Tu penses que tous les entrepreneurs ressentent l'imprévisibilité. Faux."
 
 **Pilier :** Pilier 3 (Mécanisme) — Mercredi
 **Structure caption :** Structure 8 (Contre-intuitif) ou Structure 6 (Liste)

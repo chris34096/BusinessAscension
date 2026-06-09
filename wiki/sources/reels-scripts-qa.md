@@ -70,7 +70,7 @@ Format · Topic · Seed · Substance · Spoken hook · Visual hook · Text hook 
 
 Stimulation (0–2s) → Captivation → Anticipation → Validation → Affection → Révélation
 
-BA™ construit étapes 5–6 via : dents de scie → mécanisme → solution simultanée.
+BA™ construit étapes 5–6 via : imprévisibilité → mécanisme → solution simultanée.
 
 ---
 
@@ -87,7 +87,7 @@ Feu d'artifice (écrire la fin en premier) · Hook magique (0–2s) · Détectiv
 | 1 | "Il coupe du vent." | Pas de la paresse — évitement ancré | "Il fait tout ce qu'il faut pour ne pas faire ce qu'il doit faire." |
 | 2 | "T'as tout pour réussir. Ça patine." | Pas manque de compétence — blocage d'exposition | "tu refais ton offre pour la six-centième fois" · "Tu butes tu butes tu butes" · "C'est là où j'interviens." |
 | 3 | "Mon coach savait moins que moi. Il avait plus de résultats." | Intelligence peut bloquer l'action | "Juste il a tourné." · "Je sais pas quoi, à l'époque." · "Et c'est le Gap." |
-| 4 | "Mois à 12 000€. J'ai tout dépensé." | Dents de scie = problème de mérite ressenti | "comme si j'étais un imposteur" · "Est-ce que je mérite de faire 20, 30, 40, 50 000€ ?" · "c'est une boule de neige qui s'enchaîne" |
+| 4 | "Mois à 12 000€. J'ai tout dépensé." | imprévisibilité = problème de mérite ressenti | "comme si j'étais un imposteur" · "Est-ce que je mérite de faire 20, 30, 40, 50 000€ ?" · "c'est une boule de neige qui s'enchaîne" |
 | 5 | "J'ai pas les moyens de me faire accompagner." | Tu peux pas te permettre de NE PAS te faire accompagner | "On va faire le calcul ensemble, toi et moi." · "C'est ce coût de l'inaction qui va te détruire." |
 
 ---

@@ -94,7 +94,7 @@ Si la tension n'est pas créée dans les 125 premiers caractères, la suite n'es
 ```
 
 **Template BA™ :**
-> [Situation en VOC exact — dents de scie, ça patine, etc.]
+> [Situation en VOC exact — imprévisibilité, ça patine, etc.]
 >
 > [Ce que ça coûte réellement — temps, argent, énergie]
 > [Ce qui l'énerve le plus : il a fait ce qu'on lui a dit et pourtant]
@@ -128,7 +128,7 @@ Si la tension n'est pas créée dans les 125 premiers caractères, la suite n'es
 >
 > Commente « [MOT EN MAJUSCULES] » et je te l'envoie directement.
 
-**Keywords validés BA™ :** IDENTITÉ · DENTS DE SCIE · GOULOT · DIAGNOSTIC · SYSTEM
+**Keywords validés BA™ :** IDENTITÉ · imprévisibilité · GOULOT · DIAGNOSTIC · SYSTEM
 
 **Usage :** CTA final de TOUT post — quelle que soit la structure principale
 

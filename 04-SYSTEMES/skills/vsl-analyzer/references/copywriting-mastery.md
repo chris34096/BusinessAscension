@@ -30,7 +30,7 @@
 **Objectif :** Le viewer doit penser "il me parle exactement à moi".
 
 **Règles :**
-- Utiliser le VOC exact (dents de scie, creux, coup de collier, ça patine, tourner en rond)
+- Utiliser le VOC exact (imprévisibilité, creux, coup de collier, ça patine, tourner en rond)
 - Décrire le comportement observable, pas le sentiment
 - Nommer le paradoxe : "tu travailles plus que jamais et les résultats ne suivent pas"
 - Valider l'intelligence : "ce n'est pas un problème de compétences"

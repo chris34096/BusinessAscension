@@ -186,7 +186,7 @@ Utiliser 1 registre dominant par vidéo. Ne pas tout mélanger.
 | **Identité/Neurologie** | câblage · programme intérieur · boucle · pattern · déclencheur · réponse automatique · ancrage · recâblage |
 | **Précision/Chirurgie** | diagnostic · incision · point de bascule · variable · constante · calibrage · ajustement · seuil |
 
-**Règle :** Le VOC cible (dents de scie, ça patine, coup de collier, goulot) reste présent dans tous les formats.
+**Règle :** Le VOC cible (imprévisibilité, ça patine, coup de collier, goulot) reste présent dans tous les formats.
 Les registres élargis s'ajoutent — ils ne remplacent pas.
 
 ---

@@ -44,7 +44,7 @@ Abonne-toi
 > Le marché qui répond positivement à ton offre
 > Les clients qui sont satisfaits
 >
-> Et pourtant les mois sont en dents de scie depuis trop longtemps.
+> Et pourtant les mois sont imprévisible depuis trop longtemps.
 >
 > Le problème n'est pas ta stratégie.
 >
@@ -54,7 +54,7 @@ Abonne-toi
 > En parallèle.
 > Chaque semaine.
 >
-> Si tu en as marre de subir ton CA en dents de scie commente « IDENTITÉ » et je t'offre une analyse complète de ce qui bloque
+> Si tu en as marre de subir ton CA imprévisible commente « IDENTITÉ » et je t'offre une analyse complète de ce qui bloque
 >
 > Abonne-toi
 

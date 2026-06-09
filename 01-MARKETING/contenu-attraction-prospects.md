@@ -94,7 +94,7 @@ Post repositionnement de Chris (voir mémoire `content_build-in-public-post`). P
 
 ## RÈGLES
 - 1 idée par pièce · hook = promesse + friction · 1 croyance installée
-- Voix Chris : direct, oral, tutoiement, VOC (dents de scie, creux, ça patine, goulot)
+- Voix Chris : direct, oral, tutoiement, VOC (imprévisibilité, creux, ça patine, goulot)
 - CTA "Commente X" sur Instagram (mécanique algo two-step validée)
 - Interdits : liberté financière, revenus passifs, système clé en main, programme seul
 

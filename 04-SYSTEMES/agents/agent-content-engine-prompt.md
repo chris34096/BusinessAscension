@@ -36,7 +36,7 @@ Produis pour la source du jour :
 ### ÉTAPE 3 — Vérifie la voix
 - Tutoiement, oral, direct
 - 1 idée par pièce, 1 croyance installée
-- VOC intégré (dents de scie, creux, ça patine, goulot, prévisible)
+- VOC intégré (imprévisibilité, creux, ça patine, goulot, prévisible)
 - Zéro mot interdit
 
 ---

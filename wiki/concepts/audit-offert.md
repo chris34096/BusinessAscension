@@ -25,7 +25,7 @@ Point d'entrée commercial unique de BA™. 30 minutes de diagnostic réel, grat
 
 Appel visio de 30 minutes. Gratuit. Sur candidature (formulaire de qualification avant l'appel).
 
-Chris analyse le business — CA des 3 derniers mois, instabilité, ce qui a déjà été essayé, où l'argent entre et où il fuit. Le prospect repart avec quelque chose de concret **quelle que soit la suite**. Si c'est aligné, Construis la Marque™ est présenté. Sinon, Chris le dit et donne une direction précise.
+Chris analyse le business — CA des 3 derniers mois, imprévisibilité, ce qui a déjà été essayé, où l'argent entre et où il fuit. Le prospect repart avec quelque chose de concret **quelle que soit la suite**. Si c'est aligné, Construis la Marque™ est présenté. Sinon, Chris le dit et donne une direction précise.
 
 **Ce que c'est fondamentalement :** un diagnostic. Pas une promesse de valeur vague. Pas un appel de closing habillé.
 
@@ -40,7 +40,7 @@ Ce nom est fixé dans la nomenclature officielle BA™ — il ne change pas.
 | Bloc | Durée | Objectif |
 |---|---|---|
 | **1. Accueil + cadre** | 2 min | Poser le cadre : pas de pression, diagnostic réel |
-| **2. Diagnostic de situation** | 8 min | CA, instabilité, ce qui a déjà été essayé, le vrai blocage |
+| **2. Diagnostic de situation** | 8 min | CA, imprévisibilité, ce qui a déjà été essayé, le vrai blocage |
 | **3. Cartographie du business** | 8 min | Cartographier acquisition → conversion → delivery → inner |
 | **4. La vérité** | 5 min | Nommer ce que personne n'a nommé — créer "cette personne me voit vraiment" |
 | **5. Présentation + closing** | 7 min | Présenter Construis la Marque™ si aligné, sans pression |

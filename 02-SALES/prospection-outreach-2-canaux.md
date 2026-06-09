@@ -34,7 +34,7 @@
 **Signaux :**
 | Signal | Ce que ça révèle |
 |---|---|
-| "J'ai du mal à être régulier" | Dents de scie → reconnaissance |
+| "J'ai du mal à être régulier" | imprévisibilité → reconnaissance |
 | Poste beaucoup, vend peu | Contenu ne pré-vend pas |
 | Parle de passion sans parler de CA | Pas encore monétisé |
 | "Comment vous trouvez des clients ?" | Signal d'achat direct |

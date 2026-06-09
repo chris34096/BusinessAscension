@@ -128,7 +128,7 @@ La seule chose qui compte maintenant : décider. Ceux qui avancent le plus vite,
 - Phrases courtes, assertions directes, zéro "ça dépend".
 - On dit **closer / convertir**, jamais "fermer des clients".
 - Mots interdits : liberté financière, revenus passifs, système clé en main, programme seul.
-- VOC : premiers 10K réguliers, construit autour de qui tu es, vendre par message, communauté, goulot. (On ne parle plus de "dents de scie" — l'ICP Porte 1 part de ~0.)
+- VOC : premiers 10K réguliers, construit autour de qui tu es, vendre par message, communauté, goulot. (On ne parle plus de "imprévisibilité" — l'ICP Porte 1 part de ~0.)
 - Pas de tiret cadratin à l'écran.
 
 ---

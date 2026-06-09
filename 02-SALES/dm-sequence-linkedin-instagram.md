@@ -105,7 +105,7 @@ Tes revenus — ils sont réguliers en ce moment, ou tu connais les hauts et les
 ### MESSAGE 4 — Audit offert (Après réponse diagnostic)
 *Adapter selon leur réponse — reprendre leurs mots exacts*
 
-**Si ils confirment revenus irréguliers / instabilité :**
+**Si ils confirment revenus imprévisibles / imprévisibilité :**
 ```
 [Prénom], c'est exactement ce que je pensais.
 

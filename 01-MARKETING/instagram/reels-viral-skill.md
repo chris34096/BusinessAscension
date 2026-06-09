@@ -375,7 +375,7 @@ Commente GOULOT — je t'envoie le guide gratuit en DM.
 
 ---
 
-## REEL 4 — "Ce que tes dents de scie te disent vraiment"
+## REEL 4 — "Ce que tes imprévisibilité te disent vraiment"
 
 > **Pattern source :** Matis Clouet — transparence radicale sur les chiffres + preuve avant explication
 > **Angle BA™ :** l'irrégularité du CA = symptôme d'un pôle manquant, pas d'un manque d'effort
@@ -391,7 +391,7 @@ Mois à zéro.
 
 J'ai vécu ça.
 
-Ce pattern — les dents de scie —
+Ce pattern — l'imprévisibilité —
 c'est pas un problème d'effort.
 C'est le symptôme d'un pôle qui manque.
 
@@ -431,7 +431,7 @@ Quand j'avais des clients — je délivrais.
 Quand je délivrais — je ne prospectais plus.
 Quand la mission se terminait — le pipeline était vide.
 
-Dents de scie.
+imprévisibilité.
 Chaque fois.
 
 Le problème n'était pas l'effort.
@@ -478,7 +478,7 @@ Audit offert — lien en bio.
 ---
 
 # HOOKS & FORMATS — Référentiel Creator Factory
-> Source : Creator Factory (Alex Adler) — adapté à la niche Business Ascension™ (entrepreneurs, revenus irréguliers)
+> Source : Creator Factory (Alex Adler) — adapté à la niche Business Ascension™ (entrepreneurs, revenus imprévisibles)
 > Version 1.0 — Mai 2026
 
 ---
@@ -491,8 +491,8 @@ Audit offert — lien en bio.
 | Type | Mécanique | Exemples BA™ |
 |---|---|---|
 | **Orienté action** | Ordre direct, instruction percutante | "Arrête de refaire ton offre si tu veux des clients ce mois-ci." |
-| **Curiosité** | Avant-goût sans révéler l'info — cliffhanger | "Personne te parle de ça sur les dents de scie." |
-| **Controversé / Anti-mythe** | Contre une croyance populaire | "Travailler plus fort ne règle pas les revenus irréguliers." |
+| **Curiosité** | Avant-goût sans révéler l'info — cliffhanger | "Personne te parle de ça sur l'imprévisibilité." |
+| **Controversé / Anti-mythe** | Contre une croyance populaire | "Travailler plus fort ne règle pas les revenus imprévisibles." |
 
 ---
 
@@ -513,7 +513,7 @@ Audit offert — lien en bio.
 | Type | Mécanique | Exemples BA™ |
 |---|---|---|
 | **Format liste** | X points clairs et numérotés | "3 goulots qui expliquent pourquoi ça patine malgré l'effort." |
-| **How-To / Tutoriel** | Étape par étape pour un résultat | "Comment passer de revenus en dents de scie à un flux prévisible." |
+| **How-To / Tutoriel** | Étape par étape pour un résultat | "Comment passer de revenus imprévisibles à un flux prévisible." |
 | **Erreurs à éviter** | Met en lumière une erreur fréquente | "L'erreur n°1 qui fait que ton CA reste imprévisible." |
 
 ---
@@ -547,10 +547,10 @@ Audit offert — lien en bio.
 |---|---|---|
 | **Liste** | Contenu structuré en points numérotés | "Les 4 goulots qui bloquent l'entrepreneur qui stagne" |
 | **Problème / Solution** | Identifie un problème précis → propose la solution | "Tes revenus patinent → voilà le 2ème goulot" |
-| **Transformation** | Avant / Après — évolution marquante | "De dents de scie à flux prévisible — ce qui a changé" |
+| **Transformation** | Avant / Après — évolution marquante | "De imprévisibilité à flux prévisible — ce qui a changé" |
 | **Tutoriel** | Étape par étape — pédagogique | "Comment construire ton pôle Marketing en 3 étapes" |
 | **Storytelling** | Histoire personnelle ou client — émotion | "Des mois à 12 000€, des mois à zéro — ce que j'ai compris" |
-| **Myth-Busting** | Casse une croyance populaire — affirmation forte | "Non, travailler plus ne règle pas les revenus irréguliers" |
+| **Myth-Busting** | Casse une croyance populaire — affirmation forte | "Non, travailler plus ne règle pas les revenus imprévisibles" |
 
 ---
 
@@ -567,7 +567,7 @@ Récupère un hook qui a performé. Analyse sa structure : rythme, émotion, int
 |---|---|
 | "Arrête de faire ça si tu veux des résultats." | "Si t'es entrepreneur, arrête de faire ça si tu veux des revenus réguliers." |
 | "Ce que personne ne te dit sur la croissance." | "Ce que personne te dit si tu veux que ton business tourne sans toi." |
-| "L'erreur n°1 qui tue ta croissance." | "L'erreur n°1 qui maintient tes revenus en dents de scie." |
+| "L'erreur n°1 qui tue ta croissance." | "L'erreur n°1 qui maintient tes revenus imprévisibles." |
 
 **Méthode 2 : Intègre un pain point exact (VOC)**
 
@@ -592,7 +592,7 @@ Récupère un hook qui a performé. Analyse sa structure : rythme, émotion, int
 
 ### Étape 3 — Apporte ta touche BA™
 
-1. **Histoire perso** — Chris a vécu les dents de scie, les mois à zéro, les mois à 12 000€ — utiliser ces anecdotes réelles
+1. **Histoire perso** — Chris a vécu l'imprévisibilité, les mois à zéro, les mois à 12 000€ — utiliser ces anecdotes réelles
 2. **Humour / Situation relatable** — Don Quichotte qui combat des moulins = l'entrepreneur occupé sans résultats
 3. **Univers visuel cohérent** — couleurs, typo, fond — identifiable en 1 seconde
 4. **Twist inattendu** — finir par une révélation contre-intuitive qui pousse au partage
@@ -655,7 +655,7 @@ Cibler le problème intermédiaire — un cran en dessous du désir final :
 
 | Désir final (ne pas cibler) | Problème intermédiaire (cibler) |
 |---|---|
-| Doubler son CA | Exécution inconstante, dents de scie |
+| Doubler son CA | Exécution inconstante, imprévisibilité |
 | Gagner plus sans s'épuiser | Charge mentale, décisions sabotées |
 | Se payer le 1er du mois | Blocage d'exposition, évitement ancré |
 | Déléguer, sortir du faire | Incapacité à lâcher, tout reposer sur soi |
@@ -680,7 +680,7 @@ Le breathwork / hypnose / neurosciences / PNL = **véhicule**, jamais le message
 | 5 | **Affection** | Attachement à la personnalité | Énergie, résolution de problèmes concrets, cohérence |
 | 6 | **Révélation** | Conditionnement : ton nom = dopamine | Valeur répétée sur un thème précis → réflexe pavlovien |
 
-**BA™ :** étapes 5 et 6 se construisent par la répétition du diagnostic précis — dents de scie → mécanisme → solution simultanée.
+**BA™ :** étapes 5 et 6 se construisent par la répétition du diagnostic précis — imprévisibilité → mécanisme → solution simultanée.
 
 ---
 
@@ -709,7 +709,7 @@ Le breathwork / hypnose / neurosciences / PNL = **véhicule**, jamais le message
 | # | Attribut | Description | Exemple BA™ |
 |---|---|---|---|
 | 1 | **Format** | Type global de vidéo | Face caméra / Storytelling / Myth-busting |
-| 2 | **Sujet (Topic)** | 2–3 mots, thème central | "revenus irréguliers" / "blocage exécution" |
+| 2 | **Sujet (Topic)** | 2–3 mots, thème central | "revenus imprévisibles" / "blocage exécution" |
 | 3 | **Graine (Seed)** | 1 phrase qui résume l'intérêt | "Pourquoi tu travailles beaucoup sans résultats stables" |
 | 4 | **Substance** | Faits + exemples + *contrarian take* | Stats perso + mécanisme BA™ + "simultané" |
 | 5 | **Spoken hook** | Premières phrases dites | "Tu travailles. T'as pas de clients." |
@@ -943,9 +943,9 @@ Je t'envoie le diagnostic en DM.
 | Attribut | Valeur |
 |---|---|
 | Format | Face caméra, one-take, ton intime |
-| Topic | Imposteur + argent + dents de scie |
+| Topic | Imposteur + argent + imprévisibilité |
 | Seed | "Le bon mois suivi du vide — c'est pas de l'irresponsabilité, c'est un blocage d'identité" |
-| Contrarian take | Les dents de scie ne sont pas un problème de stratégie — c'est un problème de mérite ressenti |
+| Contrarian take | l'imprévisibilité ne sont pas un problème de stratégie — c'est un problème de mérite ressenti |
 | Spoken hook | "Il y a des moments où je fais de bons mois. Je suis super heureux. Et je vais tout dépenser." |
 | Text hook | **"Mois à 12 000€. J'ai tout dépensé."** |
 | Visual hook | Chris face caméra, ton confessionnel |
@@ -1071,10 +1071,10 @@ Utilise l'émotion d'injustice — "ils sont moins bons mais ils ont plus" — p
 
 **Mécanique :** nomme la jalousie/injustice → reformule en diagnostic → ouvre la curiosité sur le mécanisme.
 
-## Hook Montagnes Russes (Format "Si tu…")
+## Hook imprévisibilité (Format "Si tu…")
 Cible précisément le profil ICP avec ses symptômes exacts — il se reconnaît immédiatement.
 
-> "Si ton business tourne déjà mais que tu vis dans l'angoisse de pas savoir ce que le mois prochain va donner — voilà la vraie raison pourquoi ça reste en dents de scie."
+> "Si ton business tourne déjà mais que tu vis dans l'angoisse de pas savoir ce que le mois prochain va donner — voilà la vraie raison pourquoi ça reste imprévisible."
 
 **Règle :** jamais de montant précis ("3-15K€") — "ton business tourne déjà" + symptôme précis suffit.
 
@@ -1117,7 +1117,7 @@ Pattern → rupture → promesse. Minimal, factuel, sans adjectives.
 | **Storytelling personnel** | Histoire première personne, immersive — parcours de Chris ou client | Credibilité, preuve de transformation, contenu le plus partagé |
 | **Problem Solver** | Nomme la douleur → agite → introduit la solution | Scripts Q&A, Reels courts d'acquisition |
 | **Case Study Explainer** | Processus exact utilisé pour obtenir un résultat spécifique | Bêta clients, preuve avant/après, contenu éducatif |
-| **Breakdown** | Analyse d'un mécanisme, d'un comportement, d'un concept | Dents de scie, Don Quichotte, Gap exécution — concepts BA™ |
+| **Breakdown** | Analyse d'un mécanisme, d'un comportement, d'un concept | imprévisibilité, Don Quichotte, Gap exécution — concepts BA™ |
 | **Low-Lift** | Scénarios, tier lists, "3 niveaux" — peu de montage | Intercaler entre les formats longs, tester des angles rapidement |
 
 **Habillage visuel recommandé pour BA™ :**

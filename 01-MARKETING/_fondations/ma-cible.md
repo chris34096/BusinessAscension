@@ -35,11 +35,11 @@ Avant tout, avant les mécanismes — ce qu'ils veulent entendre.
 Entrepreneur, coach, consultant, expert — homme ou femme. À 0–5K€/mois. Il a de la valeur. Il ne sait pas encore comment la monétiser de façon prévisible.
 
 **Ce qu'il vit :**
-- Des mois irréguliers — parfois bien, souvent pas
+- Pas encore de clients réguliers. Il démarre, ou il stagne loin de ses premiers 10K
 - Il fait du contenu mais les clients ne rentrent pas vraiment
 - Il vend, mais en chauffant, en appelant, en relançant
-- Il a déjà essayé des formations — ça l'a informé, pas transformé
-- Il veut des leads entrants. Il veut vendre par message. Il ne sait pas comment construire ça
+- Il a déjà essayé des formations qui l'ont informé, pas transformé
+- Il veut des leads entrants, vendre par message. Il ne sait pas comment construire ça
 
 **Ce qui le bloque :**
 Son offre n'est pas claire. Son contenu ne pré-vend pas. Il n'a pas de système de conversion par message. Et quelque chose à l'intérieur l'empêche d'exécuter de façon constante — même quand il sait quoi faire.
@@ -54,7 +54,7 @@ Ses premiers 10K€/mois réguliers. Construits autour de qui il est. Sans chang
 
 **Signaux d'identification en DM :**
 - "J'arrive pas à être régulier"
-- "J'ai des clients mais c'est pas stable"
+- "Je galère à signer des clients régulièrement"
 - "Je veux vendre sans avoir à faire des appels tout le temps"
 - "J'ai pas de vrai système"
 - "Je sais quoi faire mais je le fais pas"
@@ -67,7 +67,7 @@ Ses premiers 10K€/mois réguliers. Construits autour de qui il est. Sans chang
 Entrepreneur, coach, consultant, expert — qui fait déjà du CA. 5K€+/mois. Il a prouvé son concept. Il veut scaler. Il veut une marque catégorie à part. Il veut des leads entrants quotidiens. Il veut vendre par message à des tarifs premium.
 
 **Ce qu'il vit :**
-- Il fait du CA — mais c'est des dents de scie. Pas prévisible
+- Il fait du CA, mais jamais deux mois pareils. Rien de prévisible
 - Il court encore après ses clients au lieu que ce soit l'inverse
 - Son contenu ne convertit pas vraiment — il informe mais ne pré-vend pas
 - Il sait qu'il est sous-évalué mais ne sait pas comment monter le prix

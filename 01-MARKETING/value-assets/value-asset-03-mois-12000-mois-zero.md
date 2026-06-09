@@ -13,7 +13,7 @@
 > Des mois à 12 000€. Des mois à zéro. Ce que j'ai compris.
 
 **Titre alternatif A/B test :**
-> J'avais toutes les compétences. Mon CA était en dents de scie. Voilà pourquoi.
+> J'avais toutes les compétences. Mon CA était imprévisible. Voilà pourquoi.
 
 **Thumbnail :**
 Photo Chris, fond sombre. Texte : **"12 000€... PUIS ZÉRO"** (blanc). Expression : honnête, pas dramatique — quelqu'un qui raconte quelque chose de vrai.
@@ -58,7 +58,7 @@ Pour aller plus loin :
 ```
 
 **Tags :**
-revenus en dents de scie, entrepreneur qui stagne, business coaching france, compétences vs système, christofer perez, business ascension, histoire entrepreneur, acquisition client entrepreneur, coaching business en ligne
+revenus imprévisibles, entrepreneur qui stagne, business coaching france, compétences vs système, christofer perez, business ascension, histoire entrepreneur, acquisition client entrepreneur, coaching business en ligne
 
 ---
 
@@ -102,7 +102,7 @@ La réponse était non.
 
 Mon acquisition reposait sur deux choses : le bouche-à-oreille et l'élan de certains mois. Quand l'élan était là, les clients venaient. Quand il n'était pas là — rien.
 
-C'est exactement ce que j'appelle les revenus en dents de scie. Et maintenant que je le vois chez d'autres, je comprends pourquoi c'est si difficile à identifier de l'intérieur : t'as toujours une explication logique. Elle est vraie — mais incomplète.
+C'est exactement ce que j'appelle les revenus imprévisibles. Et maintenant que je le vois chez d'autres, je comprends pourquoi c'est si difficile à identifier de l'intérieur : t'as toujours une explication logique. Elle est vraie — mais incomplète.
 
 ---
 
@@ -160,7 +160,7 @@ C'est pour ça que j'ai créé Business Ascension™. Pas pour vendre un program
 
 *[Ton qui revient au présent — concret, pas lyrique]*
 
-Aujourd'hui, mes mois ne sont plus en dents de scie. Pas parce que j'ai trouvé la bonne motivation. Parce que j'ai un système.
+Aujourd'hui, mes mois ne sont plus imprévisible. Pas parce que j'ai trouvé la bonne motivation. Parce que j'ai un système.
 
 Il y a un flux d'acquisition qui tourne — prévisible. Il y a un script de closing testé. Il y a des SOPs qui documentent comment je livre. Il y a des KPIs que je regarde chaque semaine.
 
@@ -176,7 +176,7 @@ Et c'est exactement ce que je construis avec les entrepreneurs dans Business Asc
 
 *[Direct. Pas de surenchère.]*
 
-Si tu te reconnais dans ce que je viens de décrire — les revenus en dents de scie, les compétences qui sont là mais les résultats qui ne suivent pas.
+Si tu te reconnais dans ce que je viens de décrire — les revenus imprévisibles, les compétences qui sont là mais les résultats qui ne suivent pas.
 
 L'Audit offert, c'est 30 minutes. Gratuit. Un diagnostic réel de ton business.
 
@@ -216,7 +216,7 @@ Durée : 60-75s · CTA : "Audit offert — lien en bio"
 **Short 1 :** *"J'avais tout sur le papier. Voilà ce qui manquait."*
 → Extrait condensé situation de départ + révélation. 45s.
 
-**Short 2 :** *"Mes revenus étaient en dents de scie. Pas pour la raison que je pensais."*
+**Short 2 :** *"Mes revenus étaient imprévisible. Pas pour la raison que je pensais."*
 → Extrait condensé moment pivot. 50s.
 
 ---

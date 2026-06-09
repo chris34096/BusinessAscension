@@ -108,7 +108,7 @@ J+7 max — Session Sprint 0 (90 min)
 
 1. Décris ton business en 3 phrases. Ce que tu vends, à qui, comment.
 2. Quel est ton CA moyen mensuel ces 3 derniers mois ?
-3. C'est stable ou en dents de scie ? Décris les variations.
+3. C'est stable ou imprévisible ? Décris les variations.
 4. Combien d'heures tu travailles par semaine ? Sur quoi tu passes le plus de temps ?
 5. C'est quoi ta source principale de clients en ce moment ?
 

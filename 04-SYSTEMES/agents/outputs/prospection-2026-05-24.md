@@ -78,7 +78,7 @@ Coach certifié (PNL, hypnose, kinésiologie, ostéo...) + a des témoignages cl
 ### Profil 4 — Entrepreneur e-commerce / infoprenneur avec business qui tourne
 
 **Signal à chercher :**
-CA visible (mentionne des chiffres ou des deals) + posts qui parlent de scale mais avec des formulations "j'essaie", "on verra" + publications sur les outils (tunnel de vente, email marketing, pub Meta) mais résultats en dents de scie + a acheté des formations (le mentionne).
+CA visible (mentionne des chiffres ou des deals) + posts qui parlent de scale mais avec des formulations "j'essaie", "on verra" + publications sur les outils (tunnel de vente, email marketing, pub Meta) mais résultats imprévisible + a acheté des formations (le mentionne).
 
 **Plateforme :** Instagram
 

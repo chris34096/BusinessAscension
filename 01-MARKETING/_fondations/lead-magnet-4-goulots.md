@@ -52,7 +52,7 @@ Tu connais ce sentiment.
 
 Tu bosses. Tu poste du contenu. Tu prends des appels. Tu améliore ton offre. Tu te formes. T'as peut-être même investi dans des accompagnements.
 
-Et pourtant — les revenus sont en dents de scie. Ce mois c'est bien, le mois d'après c'est la panique. Tu sais que tu pourrais faire mieux, mais tu vois pas exactement où ça bloque.
+Et pourtant — les revenus sont imprévisible. Ce mois c'est bien, le mois d'après c'est la panique. Tu sais que tu pourrais faire mieux, mais tu vois pas exactement où ça bloque.
 
 Ce n'est pas un problème de motivation. Ce n'est pas un problème de compétences. C'est un problème de goulot.
 
@@ -294,7 +294,7 @@ Ce qui se passe :
 ---
 
 **C'est pour toi si :**
-→ Ton business tourne, mais tes revenus sont en dents de scie
+→ Ton business tourne, mais tes revenus sont imprévisible
 → Tu as déjà investi dans des accompagnements — ça t'a donné des outils, pas des résultats durables
 → Tu travailles beaucoup. Ce qui compte vraiment n'avance pas.
 

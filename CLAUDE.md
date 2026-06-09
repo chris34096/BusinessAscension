@@ -13,7 +13,7 @@
 - A accompagné plus de 350 personnes en transformation profonde
 - Accompagné lui-même par des coachs qui font plusieurs millions par an
 - A vécu lui-même la fluctuation des revenus — des mois à 12 000€, des mois à zéro
-- A construit le système pour passer de revenus irréguliers à un CA prévisible
+- A construit le système pour passer de revenus imprévisibles à un CA prévisible
 
 **⚠️ Ce qu'on ne mentionne plus dans le contenu public :**
 - Le background corporate (filiales, SAFe Agile, Dalenys, DLG, Tradamax) — supprimé du pitch
@@ -252,11 +252,14 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 Ces mots sont authentiques à la formation et au background de Chris (hypnose, PNL, neurosciences). Ils filtrent naturellement la bonne audience.
 
 **Mots du VOC à intégrer systématiquement :**
-`dents de scie` · `creux` · `coup de collier` · `te payer le 1er du mois` · `ça patine` · `tourner en rond` · `sables mouvants` · `cage dorée` · `culpabilité sourde` · `goulot` · `prévisible` · `régulier` · `que ça tourne sans moi`
+**Porte 1 :** `vivoter` · `décoller` · `le SMIC de LinkedIn` · `les clients se font attendre` · `sans me cramer` · `me payer chaque mois sans angoisse`
+**Porte 2 :** `plafond de verre` · `vendre son temps` · `bande passante` · `tunnel opérationnel` · `charge mentale` · `que ça tourne sans toi`
+**Les deux :** `goulot` · `le frein à main` · `prévisible` · `régulier` · `une machine qui roule`
+> Lexique LARGE anti-répétition : voir `01-MARKETING/_fondations/voc-langage-client.md` §6 (varier à chaque contenu).
 
 **Référentiel VOC complet :** `01-MARKETING/_fondations/voc-langage-client.md`
 
-**Ses marqueurs naturels :** en gros, en fait, vraiment, donc, voilà, boîte, goulot d'étranglement, bottleneck, dents de scie, Don Quichotte, bouffer (le marché)
+**Ses marqueurs naturels :** en gros, en fait, vraiment, donc, voilà, boîte, goulot d'étranglement, bottleneck, plafond de verre, Don Quichotte, bouffer (le marché)
 
 **Champ lexical élargi — 6 registres (1 dominant par contenu, validé Mai 2026) :**
 - Architectural : ossature · fondations · pilier · armature · tracé · gabarit · béton · porteur
@@ -266,7 +269,7 @@ Ces mots sont authentiques à la formation et au background de Chris (hypnose, P
 - Identité/Neurologie : câblage · boucle · pattern · déclencheur · ancrage · recâblage · programme intérieur
 - Précision/Chirurgie : diagnostic · incision · point de bascule · calibrage · seuil · variable · constante
 
-Règle : le VOC cible (dents de scie, goulot, ça patine...) reste dans TOUS les contenus. Les registres s'ajoutent — ne remplacent pas.
+Règle : le VOC cible (Porte 1 : vivoter, décoller, le SMIC de LinkedIn · Porte 2 : plafond de verre, vendre son temps, goulot...) reste dans TOUS les contenus. Les registres s'ajoutent, ne remplacent pas.
 
 **Nouveaux mots validés (Tom Pearson — Mai 2026) :**
 catégorie à part · un-de-un · densité · puissance d'intention · compression du temps · brûler les étapes · effet de levier cumulatif · leads entrants · vente par attraction · inattaquable · économie propre
@@ -276,9 +279,9 @@ catégorie à part · un-de-un · densité · puissance d'intention · compressi
 **Séquence obligatoire :** Leur langage (ce qu'ils vivent) → Le mécanisme (ce qui se passe vraiment)
 
 **BRANDING — RÈGLE ABSOLUE (Tom Pearson intégré, validé 2026-06-02) :**
-Le branding de BA™ = **Business + Identité en simultané**. Pas "dents de scie".
+Le branding de BA™ = **Business + Identité en simultané**. Pas la douleur étalée en ouverture.
 - Hook carousel/reel/post = assertion de croyance (identity-first) — JAMAIS douleur énumérée en slide 1
-- "Dents de scie", "goulot", "ça patine" = VOC de reconnaissance → slides 2-3 uniquement
+- Douleur cible (Porte 1 : "ne pas décoller" · Porte 2 : "plafond de verre") = VOC de reconnaissance → slides 2-3 uniquement
 - Headline de marque = "Deviens l'entrepreneur. Construis le système."
 - Chaque contenu installe UNE des 8 croyances BA™ (voir vsl-script.md)
 - Tom Pearson : "People don't buy things. They buy beliefs." → s'applique à TOUT le contenu
@@ -301,7 +304,7 @@ Le branding de BA™ = **Business + Identité en simultané**. Pas "dents de sci
 
 **Système de contenu IA (Style Hormozi) :** `04-SYSTEMES/contenu-ia/` — Créer un Projet Claude sur claude.ai, uploader `business-context.txt` + `voc-verbatim.txt`, coller le prompt du format voulu, donner une idée. L'IA fournit l'exécution — toi tu fournis toujours l'idée.
 
-**Wiki — accès rapide :** [[christofer-perez]] · [[business-ascension]] · [[icp-cible]] · [[inner-architecture-protocol]] · [[dents-de-scie]] · [[bos-6-poles]] · [[don-quichotte-archetype]] · [[introspectatrice-archetype]] · [[goulot-etranglement]] · [[audit-offert]] · [[funnel-acquisition]] · [[voix-chris]] · [[value-assets]] · [[concurrence-francophone]]
+**Wiki — accès rapide :** [[christofer-perez]] · [[business-ascension]] · [[icp-cible]] · [[inner-architecture-protocol]] · [[bos-6-poles]] · [[don-quichotte-archetype]] · [[introspectatrice-archetype]] · [[goulot-etranglement]] · [[audit-offert]] · [[funnel-acquisition]] · [[voix-chris]] · [[value-assets]] · [[concurrence-francophone]]
 
 ---
 

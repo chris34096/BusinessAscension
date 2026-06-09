@@ -55,7 +55,7 @@ YouTube = **intention de recherche + autorité long terme + capital SEO permanen
 
 **Exemples de titres :**
 - "Pourquoi tu travailles 60h/semaine et ton CA ne bouge pas"
-- "Le vrai problème derrière les revenus en dents de scie"
+- "Le vrai problème derrière les revenus imprévisibles"
 - "Pourquoi les formations ne changent rien (et ce qui marche vraiment)"
 - "Don Quichotte entrepreneur : le pattern qui détruit plus de business qu'on ne croit"
 
@@ -109,7 +109,7 @@ YouTube = **intention de recherche + autorité long terme + capital SEO permanen
 
 **Exemples de titres :**
 - "J'ai accompagné 350 personnes. Voilà ce que ça m'a appris sur le business solo."
-- "Des mois à 12 000€. Des mois à zéro. Ce que j'ai compris sur les revenus en dents de scie."
+- "Des mois à 12 000€. Des mois à zéro. Ce que j'ai compris sur les revenus imprévisibles."
 - "350 personnes accompagnées. Ce que j'ai vu revenir systématiquement."
 - "Pourquoi j'ai tout reconstruit pour construire le Business Operating System des entrepreneurs"
 
@@ -141,7 +141,7 @@ YouTube = **intention de recherche + autorité long terme + capital SEO permanen
 - Timestamps si vidéo > 10 min
 
 **Tags :** 10-15 tags — du plus précis au plus large
-> ex : "coach business france", "business operating system", "entrepreneur revenus irréguliers", "revenus entrepreneur", "goulot d'étranglement business"
+> ex : "coach business france", "business operating system", "entrepreneur revenus imprévisibles", "revenus entrepreneur", "goulot d'étranglement business"
 
 **Thumbnail :**
 - Visage de Chris + texte court (3-5 mots max)

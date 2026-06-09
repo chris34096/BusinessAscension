@@ -1,6 +1,6 @@
 ---
 wiki_type: concept
-name: Dents de scie
+name: imprévisibilité
 slug: dents-de-scie
 created: 2026-05-23
 updated: 2026-05-23
@@ -15,7 +15,7 @@ related:
   - [[business-ascension]]
 ---
 
-# Dents de scie
+# imprévisibilité
 Métaphore VOC désignant l'alternance imprévisible de bons et mauvais mois de chiffre d'affaires chez l'entrepreneur qui stagne. C'est **l'entry point principal** de [[business-ascension]] le symptôme le plus nommé par la cible.
 
 ## Définition opérationnelle
@@ -42,7 +42,7 @@ L'entrepreneur fait des mois à X€ suivis de mois à X/2 ou moins, sans compre
 
 ## La thèse BA™ sur la cause
 
-Les dents de scie ne sont pas causées par :
+l'imprévisibilité ne sont pas causées par :
 - Un problème de discipline
 - Un problème de stratégie
 - Un problème de marché
@@ -52,9 +52,9 @@ Elles sont causées par le fait que l'inner et l'outer ne sont jamais traités s
 
 ## Usage dans le contenu
 
-- **En hook d'ouverture** : "Les mois en dents de scie depuis trop longtemps." → crée la reconnaissance immédiate
+- **En hook d'ouverture** : "Les mois imprévisible depuis trop longtemps." → crée la reconnaissance immédiate
 - **Comme pivot** (Structure PAS) : "Le problème n'est pas ta stratégie. C'est qu'on n'a jamais réglé les deux côtés en même temps."
-- **Comme CTA keyword** : "Commente DENTS DE SCIE et je t'offre un diagnostic."
+- **Comme CTA keyword** : "Commente imprévisibilité et je t'offre un diagnostic."
 
 ## Observations
 

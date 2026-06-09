@@ -21,7 +21,7 @@ updated: 2026-06-03
 - A accompagné plus de 350 personnes en transformation profonde
 - Accompagné lui-même par des coachs qui font plusieurs millions par an
 - A vécu la fluctuation des revenus — des mois à 12 000€, des mois à zéro
-- A construit le système pour passer de revenus irréguliers à un CA prévisible
+- A construit le système pour passer de revenus imprévisibles à un CA prévisible
 
 **⚠️ Ce qu'on ne mentionne plus dans le contenu public :**
 - Le background corporate (filiales, SAFe Agile, Dalenys, DLG, Tradamax)
@@ -33,7 +33,7 @@ updated: 2026-06-03
 
 **Style :** Direct. Oral. Sans filtre. Tutoiement systématique.
 
-**Marqueurs naturels :** en gros · en fait · vraiment · donc · voilà · boîte · goulot · dents de scie · bouffer le marché · copy-coller · le méta
+**Marqueurs naturels :** en gros · en fait · vraiment · donc · voilà · boîte · goulot · imprévisibilité · bouffer le marché · copy-coller · le méta
 
 **Première ligne de tout contenu :** frappe directement — ne présente pas, ne chauffe pas.
 

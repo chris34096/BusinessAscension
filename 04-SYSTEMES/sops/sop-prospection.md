@@ -27,7 +27,7 @@
 
 **Signaux positifs :**
 - Entrepreneur / coach / consultant / expert avec un business visible
-- Posts qui parlent de stagnation, de difficulté à scaler, de revenus irréguliers
+- Posts qui parlent de stagnation, de difficulté à scaler, de revenus imprévisibles
 - A déjà investi dans des formations (le mentionne dans ses posts)
 - Activité récente (posts dans les 2 dernières semaines)
 - Business qui tourne — pas quelqu'un qui se lance

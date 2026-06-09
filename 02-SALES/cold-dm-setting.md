@@ -11,7 +11,7 @@
 |---|---|---|---|
 | VA01 — La vraie raison pour laquelle tu stagnes | Stagnation malgré l'effort | Comprendre ce qui bloque vraiment | "je travaille beaucoup mais..." |
 | VA02 — Pourquoi 10 formations ne suffisent pas | Trop de contenu, zéro résultat | Sortir de l'accumulation d'infos | "j'ai déjà fait des accompagnements" |
-| VA03 — Des mois à 12 000€, des mois à zéro | Revenus irréguliers / dents de scie | Régularité, prévisibilité | "les mois sont inégaux" |
+| VA03 — Des mois à 12 000€, des mois à zéro | revenus imprévisibles / imprévisibilité | Régularité, prévisibilité | "les mois sont inégaux" |
 | VA04 — Le Business Operating System | Pas de structure solide | Un business qui tourne sans eux | "je gère tout moi-même" |
 | VA05 — Don Quichotte entrepreneur | Activité intense sans résultats | Efficacité, direction claire | "j'ai l'impression de tourner en rond" |
 | VA06 — Le switch | Pas de croissance CA malgré les efforts | Développer le CA concrètement | "je n'arrive pas à scaler" |
@@ -63,7 +63,7 @@ CTA MINIMAL      → "est-ce que ça t'intéresse que je te l'envoie ?"
 **Template A — Résultat structurel**
 > "Hé [prénom], je vais pas te faire perdre du temps.
 >
-> On a aidé [prénom client] à passer de revenus en dents de scie à un flux prévisible — en 8 semaines, en travaillant sur les deux blocages en même temps.
+> On a aidé [prénom client] à passer de revenus imprévisibles à un flux prévisible — en 8 semaines, en travaillant sur les deux blocages en même temps.
 >
 > J'ai une vidéo de 2 min qui explique exactement comment on a fait — pas de pitch, juste le mécanisme. Est-ce que ça t'intéresse que je te l'envoie ?"
 
@@ -77,7 +77,7 @@ CTA MINIMAL      → "est-ce que ça t'intéresse que je te l'envoie ?"
 **Template C — Résultat général (phase bêta, sans cas client documenté)**
 > "Hé [prénom], court et direct.
 >
-> Je construis le Business Operating System d'entrepreneurs dont les revenus sont en dents de scie. Je débloque ce qui coince à l'intérieur ET je structure le business à l'extérieur — en même temps, chaque semaine.
+> Je construis le Business Operating System d'entrepreneurs dont les revenus sont imprévisible. Je débloque ce qui coince à l'intérieur ET je structure le business à l'extérieur — en même temps, chaque semaine.
 >
 > J'ai une vidéo de 2 min qui explique l'approche. Ça te parle ou pas du tout ?"
 
@@ -160,7 +160,7 @@ Après 1-2 échanges de valeur. Prospect engagé mais pas encore qualifié forme
 >
 > J'ai vu [élément spécifique de leur profil/contenu]. Ce que tu fais dans [domaine], ça m'intéresse — j'accompagne des entrepreneurs dans cette situation précisément.
 >
-> Je t'envoie pas de pitch. Juste : est-ce que les revenus en dents de scie c'est quelque chose que tu vis en ce moment ?"
+> Je t'envoie pas de pitch. Juste : est-ce que les revenus imprévisibles c'est quelque chose que tu vis en ce moment ?"
 
 **Si oui → passer à Soft Pitch ou VA pertinent**
 
@@ -217,7 +217,7 @@ Après 1-2 échanges de valeur. Prospect engagé mais pas encore qualifié forme
 ### Message de relance finale (J+30)
 > "Hé [prénom], dernier message de ma part sur ce sujet.
 >
-> Si le timing est pas bon là — pas de problème, je comprends. Si à un moment les revenus irréguliers deviennent le sujet prioritaire, tu sais où me trouver.
+> Si le timing est pas bon là — pas de problème, je comprends. Si à un moment les revenus imprévisibles deviennent le sujet prioritaire, tu sais où me trouver.
 >
 > Bonne continuation."
 

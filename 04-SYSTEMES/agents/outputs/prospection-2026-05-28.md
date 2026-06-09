@@ -26,7 +26,7 @@ Pipeline vierge ce jour. Aucun prospect en cours de s├®quence, aucune relance
 
 ### Profil 1 ÔÇö Coach business / freelance qui parle de r├®gularit├®
 
-- **Signal ├á chercher :** Posts qui mentionnent "mois en dents de scie", "revenus irr├®guliers", "certains mois ├á X, d'autres ├á z├®ro", "je comprends pas pourquoi ├ºa marche pas tous les mois"
+- **Signal ├á chercher :** Posts qui mentionnent "mois imprévisible", "revenus irr├®guliers", "certains mois ├á X, d'autres ├á z├®ro", "je comprends pas pourquoi ├ºa marche pas tous les mois"
 - **Plateforme :** Instagram
 - **Value Asset :** VA03 ÔÇö Des mois ├á 12 000Ôé¼, des mois ├á z├®ro
 - **Goulot probable :** Acquisition (pas de syst├¿me de g├®n├®ration de prospects r├®gulier)

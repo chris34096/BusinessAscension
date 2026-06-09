@@ -39,10 +39,10 @@ La cible (entrepreneur qui stagne, qui a déjà tout essayé) est méfiante des 
 **Angles BA™ à exploiter :**
 - "J'ai accompagné X entrepreneurs. Voici ce que j'ai vu chez tous ceux qui stagnent."
 - "La vraie raison pour laquelle tu travailles plus mais tu gagnes pas plus."
-- "Ce que personne te dit sur les dents de scie."
+- "Ce que personne te dit sur l'imprévisibilité."
 - "T'as pas un problème de stratégie. T'as un problème d'identité d'exécution."
 
-**Séquence hook obligatoire :** Commence par ce que la cible vit (dents de scie, ça patine, coup de collier) → jamais par le mécanisme ou l'offre.
+**Séquence hook obligatoire :** Commence par ce que la cible vit (imprévisibilité, ça patine, coup de collier) → jamais par le mécanisme ou l'offre.
 
 **CTA optimal :** "Commente AUDIT" ou "Commente GOULOT"
 
@@ -84,7 +84,7 @@ La cible BA™ est analytique — elle aime les frameworks et les listes. Ce for
 - Durée : 45-90 secondes (3-5 items max)
 
 **Angles BA™ à exploiter :**
-- "3 signes que tu es dans les dents de scie chroniques"
+- "3 signes que tu es dans l'imprévisibilité chroniques"
 - "4 goulots qui empêchent ton business de tourner sans toi"
 - "5 comportements du Don Quichotte entrepreneur (et comment en sortir)"
 - "3 raisons pour lesquelles les formations ne suffisent pas"
@@ -176,7 +176,7 @@ Crée de la tension narrative (la cible veut savoir ce qui est en #1). Chaque it
 - Durée : 60-90 secondes
 
 **Angles BA™ à exploiter :**
-- "5 façons de régler les dents de scie — du moins efficace au plus puissant"
+- "5 façons de régler l'imprévisibilité — du moins efficace au plus puissant"
 - "Les 4 types d'investissement pour scaler — de la pire à la meilleure décision"
 
 ---
@@ -219,7 +219,7 @@ liberté financière · revenus passifs · système clé en main · tu mérites 
 programme (seul) · vouvoiement · montant CA chiffré
 
 **VOC à intégrer dans chaque format (au moins 1-2 expressions) :**
-dents de scie · creux · coup de collier · te payer le 1er du mois · ça patine
+imprévisibilité · creux · coup de collier · te payer le 1er du mois · ça patine
 tourner en rond · sables mouvants · cage dorée · culpabilité sourde
 goulot · prévisible · régulier · que ça tourne sans moi
 

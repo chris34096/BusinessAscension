@@ -17,7 +17,7 @@ updated: 2026-06-03
 
 **Qui :** Entrepreneur, coach, consultant, expert. 0–5K€/mois. A de la valeur. Ne sait pas encore comment la monétiser de façon prévisible.
 
-**Ce qu'il vit :** Revenus irréguliers · contenu sans conversion · vend en chauffant · formations sans résultat · veut des leads entrants · veut vendre par message.
+**Ce qu'il vit :** revenus imprévisibles · contenu sans conversion · vend en chauffant · formations sans résultat · veut des leads entrants · veut vendre par message.
 
 **Ce qui le bloque :** Offre pas claire · contenu qui ne pré-vend pas · pas de système de conversion par message.
 
@@ -35,7 +35,7 @@ updated: 2026-06-03
 
 **Qui :** Entrepreneur, coach, consultant, expert. 5K€+/mois. A prouvé son concept. Veut scaler. Veut une marque catégorie à part.
 
-**Ce qu'il vit :** CA en dents de scie · court encore après ses clients · contenu qui informe sans pré-vendre · se sent sous-évalué.
+**Ce qu'il vit :** CA imprévisible · court encore après ses clients · contenu qui informe sans pré-vendre · se sent sous-évalué.
 
 **Ce qui le bloque :** Positionnement trop faible · offre non architecturée pour scaler · pas de système de conversion par message.
 

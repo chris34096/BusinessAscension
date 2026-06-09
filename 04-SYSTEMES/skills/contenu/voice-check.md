@@ -23,7 +23,7 @@ Cherche : "liberté financière" / "revenus passifs" / "système clé en main" /
 → Liste chaque occurrence avec la ligne et la correction recommandée.
 
 2. VOC CLIENT PRÉSENT
-Cherche au moins 2 expressions parmi : dents de scie · ça patine · coup de collier · te payer le 1er du mois · sables mouvants · cage dorée · goulot · que ça tourne sans moi · tourner en rond · culpabilité sourde · prévisible · régulier
+Cherche au moins 2 expressions parmi : imprévisibilité · ça patine · coup de collier · te payer le 1er du mois · sables mouvants · cage dorée · goulot · que ça tourne sans moi · tourner en rond · culpabilité sourde · prévisible · régulier
 → Liste celles présentes. Si aucune : signale "VOC manquant — ajouter une expression verbatim".
 
 3. SÉQUENCE RESPECTÉE

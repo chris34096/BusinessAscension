@@ -42,7 +42,7 @@ Si tu te reconnais dans ce que je décris :
 ```
 
 **Tags :**
-coach business france, comment développer son CA, switch entrepreneur, business ascension, christofer perez, stagnation business, revenus irréguliers, structurer son business, inner architecture
+coach business france, comment développer son CA, switch entrepreneur, business ascension, christofer perez, stagnation business, revenus imprévisibles, structurer son business, inner architecture
 
 ---
 

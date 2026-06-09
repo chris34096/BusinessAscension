@@ -79,7 +79,7 @@ Tout le monde revendique "business + mindset + performance + identité". Seule l
 
 ### Verdict marché
 
-**Le marché est réel.** Les concurrents de Zone D (Musy, Baer, Bichet) prouvent qu'un entrepreneur est prêt à payer 5 000-12 000€ pour un accompagnement qui combine performance et monde intérieur. L'absence de concurrent francophone dominant sur l'angle précis "exécution bloquée + revenus irréguliers + reconstruction de la mécanique" est une opportunité — pas un signal d'absence de marché.
+**Le marché est réel.** Les concurrents de Zone D (Musy, Baer, Bichet) prouvent qu'un entrepreneur est prêt à payer 5 000-12 000€ pour un accompagnement qui combine performance et monde intérieur. L'absence de concurrent francophone dominant sur l'angle précis "exécution bloquée + revenus imprévisibles + reconstruction de la mécanique" est une opportunité — pas un signal d'absence de marché.
 
 ⚠️ **Avertissement brutal :** Le marché ne sera prouvé que par les 3-5 premiers clients signés et documentés. Tout ce qui précède est une condition nécessaire, pas suffisante.
 
@@ -287,7 +287,7 @@ Son Retreat 5 jours avec hébergement dans les Alpes suisses (Mürren, sans voit
 ### Leila Hormozi — Acquisition.com
 **Positionnement :** Leadership, opérations, scaling des équipes. "Le CEO qui construit les systèmes pour que le business tourne sans toi."
 
-**Relation avec Business Ascension™ :** Complémentaire, pas concurrent. Sa cible est au-delà du stade "revenus irréguliers" — elle parle aux entrepreneurs qui ont déjà une équipe. L'ICP de Chris n'est pas encore là.
+**Relation avec Business Ascension™ :** Complémentaire, pas concurrent. Sa cible est au-delà du stade "revenus imprévisibles" — elle parle aux entrepreneurs qui ont déjà une équipe. L'ICP de Chris n'est pas encore là.
 
 ---
 
@@ -381,7 +381,7 @@ La combinaison suivante n'existe dans le marché francophone chez **aucun** des 
 **+**
 **Construction simultanée de la mécanique business** (un business qui tourne et te paie chaque mois — dans la même semaine, pas séquentiel)
 **+**
-**Avatar défini par le schéma, pas par le revenu** — l'entrepreneur bloqué à l'exécution, dont les revenus sont en dents de scie.
+**Avatar défini par le schéma, pas par le revenu** — l'entrepreneur bloqué à l'exécution, dont les revenus sont imprévisible.
 
 ### La porte d'entrée confirmée (Angle C, Entrée B)
 
@@ -413,7 +413,7 @@ La combinaison suivante n'existe dans le marché francophone chez **aucun** des 
 | **Max Piccinini** | Énergie et état émotionnel (NLP/séminaires). Pas de diagnostic d'exécution ni de structure business |
 | **Jean & Jody** | Relation et sens. Pas orienté performance commerciale |
 | **Jody Cavalie** | Outils similaires mais niche coachs. Pas de reconstruction business |
-| **Julien Musy** | Concurrent le plus proche. Entrée : alignement/essence (Musy) vs. exécution bloquée/revenus irréguliers (BA™). 10M€ track record vs. en construction. 10 mois vs. 3 mois |
+| **Julien Musy** | Concurrent le plus proche. Entrée : alignement/essence (Musy) vs. exécution bloquée/revenus imprévisibles (BA™). 10M€ track record vs. en construction. 10 mois vs. 3 mois |
 | **Mehdi Baer** | Mécanisme inverse (attraction subconscient/énergie). Cible débutants inclus. Vocabulaire 5D/ésotérique vs. pragmatique |
 | **Pierre David / AHP** | Préparation mentale sport → business. Cible PDG/athlètes élites |
 | **Marvin Ndiaye** | Revenue tier 200K-3M€. Mastermind communautaire, pas travail sur le programme intérieur |
@@ -421,7 +421,7 @@ La combinaison suivante n'existe dans le marché francophone chez **aucun** des 
 | **Camille Bichet** | Dual-track conceptuellement proche. Femmes uniquement, cible 40K€/mois |
 | **Garrett J. White** | Dual-track similaire mais US/anglophone, avatar marié+enfants uniquement. Pas concurrent — source d'apprentissage modèle |
 | **Alex Hormozi** | Purement tactique, anglophone. Prépare involontairement le terrain pour Chris |
-| **Leila Hormozi** | Opérations et équipes. Cible au-delà du stade revenus irréguliers |
+| **Leila Hormozi** | Opérations et équipes. Cible au-delà du stade revenus imprévisibles |
 | **Russell Brunson** | Funnels et marketing digital. Purement outil/système — pas diagnostic |
 | **Dan Martell** | Niche SaaS/tech. Avatar complètement différent |
 | **Brendon Burchard** | Habitudes cognitives et comportementales. Large, mass market. Pas de profondeur chirurgicale |
@@ -466,9 +466,9 @@ Les verbatims les plus récurrents dans le marché francophone (confirmés par l
 - "Je plafonne" — utilisé partout, non différenciant
 - "Passer au niveau supérieur" — saturé
 - "Système nerveux" — encore rare dans le business coaching (Epanessence l'effleure, Musy le met dans son slug mais ne le développe pas)
-- "Revenus en dents de scie" — exprimé partout dans l'audience, **jamais revendiqué comme point d'entrée par un concurrent couplé au travail intérieur**
+- "revenus imprévisibles" — exprimé partout dans l'audience, **jamais revendiqué comme point d'entrée par un concurrent couplé au travail intérieur**
 
-**Lecture :** Le verbatim "revenus en dents de scie" est viscéralement ressenti par la cible, mais aucun concurrent ne l'a revendiqué comme point d'entrée unique couplé à la reconstruction simultanée. C'est le bord d'attaque de Business Ascension™.
+**Lecture :** Le verbatim "revenus imprévisibles" est viscéralement ressenti par la cible, mais aucun concurrent ne l'a revendiqué comme point d'entrée unique couplé à la reconstruction simultanée. C'est le bord d'attaque de Business Ascension™.
 
 ---
 
@@ -536,7 +536,7 @@ Pas coach mindset. Pas coach business. Pas thérapeute. Pas formateur.
 > "Tu sais quoi faire. Mais tu ne le fais pas de façon constante."
 ou : "Pourquoi tes revenus montent et s'effondrent alors que tu fais déjà de l'argent."
 
-"Dents de scie" reste le VOC spontané de la cible — le mot qu'elle utilise. L'entry point, c'est ce mot + le mécanisme.
+"imprévisibilité" reste le VOC spontané de la cible — le mot qu'elle utilise. L'entry point, c'est ce mot + le mécanisme.
 
 ### Différenciateur central
 > **"Simultané."** Inner + outer en même temps. Pas séquentiel.
@@ -556,7 +556,7 @@ C'est le seul concurrent qui fait les deux dans la même semaine, chaque semaine
 Plus on utilise "trauma", "hypnose", "PNL" en front → plus on perd les entrepreneurs rationnels (le cœur de l'ICP). Ces mots restent en back-end et dans l'accompagnement. Jamais en hook.
 
 **Risque 2 — "Musy copy indirect"**
-Si le positionnement reste flou sur le mécanisme → on sera perçu comme "Musy + business". Protection : nommer "simultané" explicitement dans chaque prise de position publique. L'entrée par "revenus instables" (concret) vs "alignement/essence" (abstrait) doit être viscéralement claire.
+Si le positionnement reste flou sur le mécanisme → on sera perçu comme "Musy + business". Protection : nommer "simultané" explicitement dans chaque prise de position publique. L'entrée par "revenus imprévisible" (concret) vs "alignement/essence" (abstrait) doit être viscéralement claire.
 
 **Risque 3 — Fenêtre d'ancrage limitée**
 "Exécution Identity System" et "Inner Blockage Specialist" sont des espaces non occupés — mais pas pour longtemps. 6-12 mois pour ancrer le vocabulaire comme propre à BA™.

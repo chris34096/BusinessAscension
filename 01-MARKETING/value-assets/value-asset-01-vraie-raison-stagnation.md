@@ -58,7 +58,7 @@ Pour aller plus loin :
 ```
 
 **Tags :**
-coach business france, business operating system, entrepreneur qui stagne, revenus en dents de scie, goulot d'étranglement business, coaching business, business ascension, christofer perez, entrepreneur freelance, structurer son business
+coach business france, business operating system, entrepreneur qui stagne, revenus imprévisibles, goulot d'étranglement business, coaching business, business ascension, christofer perez, entrepreneur freelance, structurer son business
 
 ---
 

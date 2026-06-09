@@ -50,7 +50,7 @@ Bloc 5 — Présentation + closing (7 min)
 ## BLOC 2 — DIAGNOSTIC DE SITUATION
 **⏱ 8 minutes**
 
-**Objectif :** Comprendre la réalité — CA, instabilité, patterns, ce qui a déjà été essayé.
+**Objectif :** Comprendre la réalité — CA, imprévisibilité, patterns, ce qui a déjà été essayé.
 
 ---
 
@@ -65,7 +65,7 @@ Bloc 5 — Présentation + closing (7 min)
 ### Questions de creusage (selon ce qui sort)
 
 **Sur le CA et la stabilité :**
-> "C'est quoi tes revenus ces 3 derniers mois ? Et c'est stable ou c'est en dents de scie ?"
+> "C'est quoi tes revenus ces 3 derniers mois ? Et c'est stable ou c'est imprévisible ?"
 
 **Sur le temps passé :**
 > "Tu travailles combien d'heures par semaine en ce moment ? Et sur quoi tu passes le plus de temps ?"

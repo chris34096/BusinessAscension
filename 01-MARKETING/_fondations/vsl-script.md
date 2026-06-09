@@ -13,7 +13,7 @@ Avant de regarder les chiffres ou cliquer sur un CTA, le prospect doit avoir ces
 1. Le vrai problème n'est pas la stratégie — c'est l'architecture en dessous
 2. Les formations seules n'ont pas fonctionné pour une raison précise (information ≠ transformation)
 3. Il y a un goulot précis qui bloque tout le reste — et il est identifiable en 30 minutes
-4. Identité + business travaillés séquentiellement = l'ancienne façon de faire → les dents de scie persistent
+4. Identité + business travaillés séquentiellement = l'ancienne façon de faire → l'imprévisibilité persistent
 5. Identité + business travaillés simultanément = seul chemin qui tient dans la durée
 6. Christofer a vu ce pattern des centaines de fois — il sait exactement où tu en es
 7. L'Audit offert est sans risque — c'est un diagnostic, pas une vente
@@ -23,7 +23,7 @@ Avant de regarder les chiffres ou cliquer sur un CTA, le prospect doit avoir ces
 
 ## [0:00 → 0:30] HOOK — Pas d'intro. La réalité immédiate.
 
-Je vais te montrer exactement pourquoi ton CA fait les montagnes russes — et comment des entrepreneurs, des coachs et des consultants comme toi ont construit un flux prévisible sans travailler plus, sans changer d'offre, sans recommencer de zéro.
+Je vais te montrer exactement pourquoi ton CA fait les imprévisibilité — et comment des entrepreneurs, des coachs et des consultants comme toi ont construit un flux prévisible sans travailler plus, sans changer d'offre, sans recommencer de zéro.
 
 [PAUSE — REGARD CAMERA]
 
@@ -57,7 +57,7 @@ Mais le problème va plus loin que ça.
 
 La plupart des approches sur le marché font les deux rails séquentiellement. D'abord le mindset. Ensuite le business. Ou l'inverse. Et là où ça coince : les deux rails se sabotent mutuellement si on ne les travaille pas en même temps. Tu peux avoir les meilleurs outils business — si ton câblage intérieur déclenche des boucles d'évitement, les outils restent sur l'étagère. Tu peux travailler ton mindset pendant des mois — si la structure du business est bancale, le progrès s'évapore.
 
-Résultat : les creux reviennent. Les dents de scie persistent. Pas parce que tu manques d'intelligence ou de travail. Mais parce que personne ne t'a jamais travaillé les deux en même temps.
+Résultat : les creux reviennent. l'imprévisibilité persistent. Pas parce que tu manques d'intelligence ou de travail. Mais parce que personne ne t'a jamais travaillé les deux en même temps.
 
 ---
 
@@ -66,7 +66,7 @@ Résultat : les creux reviennent. Les dents de scie persistent. Pas parce que tu
 Si tu regardes cette vidéo, tu es probablement dans l'un de ces trois cas.
 
 **Premier cas.**
-Ton business tourne. T'as des clients, t'as du CA. Mais c'est les dents de scie. Un mois à 8 000€. Le suivant à 2 000€. Tu travailles autant dans les deux cas. Tu sais que t'as quelque chose de solide — mais tu ne comprends pas pourquoi le flux n'est jamais prévisible. Tu veux stabiliser ça. Puis scaler. Sans avoir l'impression de porter tout ça seul.
+Ton business tourne. T'as des clients, t'as du CA. Mais c'est l'imprévisibilité. Un mois à 8 000€. Le suivant à 2 000€. Tu travailles autant dans les deux cas. Tu sais que t'as quelque chose de solide — mais tu ne comprends pas pourquoi le flux n'est jamais prévisible. Tu veux stabiliser ça. Puis scaler. Sans avoir l'impression de porter tout ça seul.
 
 [EXEMPLE CLIENT — profil stabilisation]
 J'ai travaillé avec un consultant indépendant qui faisait entre 4 000 et 9 000€ par mois depuis 18 mois. Le pattern était régulier : un bon mois, un mauvais mois, un bon mois. Ce qu'on a trouvé : son goulot n'était pas dans son acquisition — c'était dans son système de delivery qui l'épuisait, ce qui l'empêchait de prospecter en période chargée. On a restructuré la delivery en semaine 3. Le mois suivant, il a eu son meilleur mois depuis le lancement.
@@ -124,7 +124,7 @@ On règle le goulot prioritaire. Avec une précision chirurgicale. Et on install
 **Semaines 7-12 : L'architecture complète.**
 On construit le Business Operating System complet. Les 6 pôles alignés. Un flux d'acquisition prévisible. Une delivery qui ne t'épuise pas. Et un système qui continue à tourner même quand tu lèves le pied.
 
-À la fin des 12 semaines : ton Business Playbook est documenté. Ton business tourne avec une ossature. Et les dents de scie ont une explication — et une solution — pour chacune d'elles.
+À la fin des 12 semaines : ton Business Playbook est documenté. Ton business tourne avec une ossature. Et l'imprévisibilité ont une explication — et une solution — pour chacune d'elles.
 
 ---
 
@@ -141,7 +141,7 @@ Le diagnostic n'est pas une formalité. C'est le point de bascule.
 ## [13:00 → 14:30] EASY NEXT YES — 3 CTAs selon la température
 
 **Si tu découvres Business Ascension™ aujourd'hui :**
-Commence par regarder les vidéos sur la chaîne. Je t'explique exactement le mécanisme — les dents de scie, le goulot, le BOS. Commence par celle-là : [lien vidéo recommandée].
+Commence par regarder les vidéos sur la chaîne. Je t'explique exactement le mécanisme — l'imprévisibilité, le goulot, le BOS. Commence par celle-là : [lien vidéo recommandée].
 
 **Si tu regardes depuis un moment et que t'as reconnu ton profil dans cette vidéo :**
 Commente AUDIT en dessous. Je t'envoie les informations pour un diagnostic de 30 minutes. Gratuit. Sans engagement, sans pitch.

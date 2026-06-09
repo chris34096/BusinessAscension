@@ -13,7 +13,7 @@
 - [[don-quichotte-archetype]] — Archétype entrepreneur actif sans résultats
 - [[introspectatrice-archetype]] — Archétype entrepreneur réflexif sans déploiement
 - [[goulot-etranglement]] — Taxonomie diagnostique : 4 goulots, test, 2 sources
-- [[etat-zero-etat-heros]] — Transformation : dents de scie → flux prévisible
+- [[etat-zero-etat-heros]] — Transformation : imprévisibilité → flux prévisible
 
 ## Sources
 - [[value-assets]] — Catalogue des 6 scripts vidéo YouTube + repurposing

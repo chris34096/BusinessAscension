@@ -58,7 +58,7 @@ Détail complet : `structure-video-youtube.md` · `vsl-script.md`.
 ## 5. LES 4 TYPES DE VIDÉOS
 
 ### A — LE MÉCANISME (autorité fondatrice)
-Enseigne une des 8 étapes ou un pilier (vendre par message, machine à leads, les dents de scie...). C'est le cœur. *(cf. VA01-VA06)*
+Enseigne une des 8 étapes ou un pilier (vendre par message, machine à leads, l'imprévisibilité...). C'est le cœur. *(cf. VA01-VA06)*
 
 ### B — LE "COMMENT" TACTIQUE (Want fort)
 "Comment passer à 10K€/mois réguliers" / "Comment vendre par message". Promesse directe + méthode complète.

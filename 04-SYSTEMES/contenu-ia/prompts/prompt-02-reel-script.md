@@ -95,7 +95,7 @@ Si un script ressemble à du coaching générique, recommence.
 ## IDÉES TYPE
 
 - "Court : tu sais quoi faire mais tu ne le fais pas — pourquoi"
-- "Court : les dents de scie — ce que c'est vraiment"
+- "Court : l'imprévisibilité — ce que c'est vraiment"
 - "Narratif : ma pire période — des mois à 12K€ puis à zéro"
 - "Narratif : Don Quichotte — le profil de l'entrepreneur qui s'épuise sans résultats"
 - "Court : 10 formations plus tard, zéro résultat — voilà ce qui manquait"

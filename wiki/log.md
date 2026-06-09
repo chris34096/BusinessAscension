@@ -246,7 +246,7 @@
 ## 2026-05-24 — INGEST : Hooks taxonomy + Structure 5 étapes + Lead Magnet + Formats vidéo
 
 - **Pages créées :** aucune
-- **Fichiers BA™ enrichis :** `reels-viral-skill.md` — 4 nouvelles sections ajoutées : TAXONOMIE DES HOOKS (Jalousie/Montagnes Russes/Douleur-Rêve), STRUCTURE 5 ÉTAPES, FORMATS VIDÉO catalogue, LEAD MAGNET Iceberg + Scaling Funnel + séquence email 5 jours
+- **Fichiers BA™ enrichis :** `reels-viral-skill.md` — 4 nouvelles sections ajoutées : TAXONOMIE DES HOOKS (Jalousie/imprévisibilité/Douleur-Rêve), STRUCTURE 5 ÉTAPES, FORMATS VIDÉO catalogue, LEAD MAGNET Iceberg + Scaling Funnel + séquence email 5 jours
 - **Conflits détectés :** framework externe proposait breathwork/neurosciences explicitement dans les hooks → violation CLAUDE.md → hooks corrigés en voix BA™ (résultats business, pas les outils)
 - **Observations :** Structure 5 étapes (Hook → Contre-courant → Re-Hook "Mais" → Solution → CTA natif) + Embedded Truths (certitude absolue dans les formulations) = framework script opérationnel réutilisable pour tous les prochains scripts. Hook Jalousie ("moins bons que toi mais plus de résultats") est l'angle le plus fort pour l'ICP BA™.
 
@@ -257,7 +257,7 @@
 - **Pages créées :** [[etat-zero-etat-heros]]
 - **Fichiers BA™ enrichis :** `reels-viral-skill.md` — Règle 8 (One Standard Deviation Away) + section TRUST LADDER + section TECHNIQUES DE TOURNAGE
 - **Conflits détectés :** aucun — One Standard Deviation Away confirme et précise les règles existantes (Text Hook > Spoken Hook, pas de breathwork en hook)
-- **Observations :** La Déclaration d'Autorité Cible BA™ officielle formalisée : "J'aide les entrepreneurs dont le business tourne déjà mais dont le CA reste en dents de scie, à construire un flux prévisible — en désactivant les blocages qui sabotent leur exécution et en structurant les 6 pôles de leur business en même temps." Trust Ladder : CTA dans les 30 premiers % (+300% conversion). Proof signaling documenté avec preuves concrètes disponibles pour Chris (missions réelles, 350 personnes accompagnées).
+- **Observations :** La Déclaration d'Autorité Cible BA™ officielle formalisée : "J'aide les entrepreneurs dont le business tourne déjà mais dont le CA reste imprévisible, à construire un flux prévisible — en désactivant les blocages qui sabotent leur exécution et en structurant les 6 pôles de leur business en même temps." Trust Ladder : CTA dans les 30 premiers % (+300% conversion). Proof signaling documenté avec preuves concrètes disponibles pour Chris (missions réelles, 350 personnes accompagnées).
 
 ---
 
@@ -292,7 +292,7 @@
   - `00-STRATEGIE/vision-empire.md` (v2.0)
   - `00-STRATEGIE/analyse-concurrentielle.md` (v4.0)
 - **Conflits détectés :** aucun
-- **Observations :** Premier ingest complet. Toutes les pages ont `confidence: high` sauf les inférences compétitives taggées medium. L'angle "dents de scie + désactivation SN + construction BOS simultanée" n'est revendiqué par aucun concurrent identifié — angle unique confirmé.
+- **Observations :** Premier ingest complet. Toutes les pages ont `confidence: high` sauf les inférences compétitives taggées medium. L'angle "imprévisibilité + désactivation SN + construction BOS simultanée" n'est revendiqué par aucun concurrent identifié — angle unique confirmé.
 
 ---
 

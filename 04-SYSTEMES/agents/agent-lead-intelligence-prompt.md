@@ -34,7 +34,7 @@ Tu es l'Agent Lead Intelligence de Business Ascension™. Ton job : identifier, 
 ### ÉTAPE 2 — Scoring (skill lead-intelligence)
 Pour chaque profil, score 1-10 sur :
 - **Fit ICP** : correspond à ICP 1 ou 2 ?
-- **Signal de douleur** : exprime un blocage (dents de scie, pas de système, plafond) ?
+- **Signal de douleur** : exprime un blocage (imprévisibilité, pas de système, plafond) ?
 - **Pouvoir d'achat** : business actif générant des revenus ?
 - **Accessibilité** : actif récemment, ouvert au DM ?
 

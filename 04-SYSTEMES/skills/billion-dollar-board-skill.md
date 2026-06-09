@@ -132,7 +132,7 @@ J1: Contact initial | J2: Appel | J3: Video message | J7: Check-in | J14: Case s
 #### THE SMALLEST VIABLE MARKET
 - Plus le focus est serré, meilleurs les resultats
 - ICP doit dire "c'est exactement pour moi" + non-ICP "ce n'est pas pour moi"
-- **BA SVM :** Entrepreneurs/coachs/consultants FR dont le business tourne mais CA en dents de scie
+- **BA SVM :** Entrepreneurs/coachs/consultants FR dont le business tourne mais CA imprévisible
 
 #### THE STORY FRAMEWORK
 1. Status Quo (realite actuelle)
@@ -141,12 +141,12 @@ J1: Contact initial | J2: Appel | J3: Video message | J7: Check-in | J14: Case s
 4. Philosophical Problem (injustice plus grande)
 5. The Change (transformation promise)
 
-**BA story :** Tu sais quoi faire (status quo) -> dents de scie (external) -> culpabilite sourde (internal) -> les coachs te vendent du mindset OU du systeme, jamais les deux en meme temps (philosophical) -> simultaneite Inner Work + BOS (the change)
+**BA story :** Tu sais quoi faire (status quo) -> imprévisibilité (external) -> culpabilite sourde (internal) -> les coachs te vendent du mindset OU du systeme, jamais les deux en meme temps (philosophical) -> simultaneite Inner Work + BOS (the change)
 
 #### POSITIONING STATEMENT
 "[BRAND] is for [SPECIFIC PEOPLE] who believe [WORLDVIEW]. Unlike [ALTERNATIVE], we [KEY DIFFERENCE] so that [OUTCOME]."
 
-**BA version :** "Business Ascension est pour les entrepreneurs dont le business tourne mais dont le CA reste en dents de scie, qui croient que la racine du probleme est simultanement interieure et exterieure. Contrairement aux coachs mindset ou aux consultants business, on desactive les blocages ET on construit le BOS en meme temps, pour passer d'un CA impredictible a un flux regulier."
+**BA version :** "Business Ascension est pour les entrepreneurs dont le business tourne mais dont le CA reste imprévisible, qui croient que la racine du probleme est simultanement interieure et exterieure. Contrairement aux coachs mindset ou aux consultants business, on desactive les blocages ET on construit le BOS en meme temps, pour passer d'un CA impredictible a un flux regulier."
 
 #### PERMISSION MARKETING LADDER
 Stranger -> Knows you -> Gives permission -> Buys -> Loyal -> Raving fan
@@ -284,7 +284,7 @@ Les 3 doivent etre alignes. Diagnostiquer lequel est casse :
 - Wrong Market -> excellent message, mauvaises personnes ciblees
 - Wrong Media -> bon message, bonne cible, mauvaise plateforme
 
-**BA diagnostic :** Message (dents de scie -> simultaneite) FORT. Market (entrepreneurs FR avec revenus) PRECISE. Media (LinkedIn + Instagram) A VALIDER par les KPIs.
+**BA diagnostic :** Message (imprévisibilité -> simultaneite) FORT. Market (entrepreneurs FR avec revenus) PRECISE. Media (LinkedIn + Instagram) A VALIDER par les KPIs.
 
 #### MAGNETIC MARKETING SYSTEM
 1. **Capture Attention** (lead magnet irrésistible)
@@ -308,7 +308,7 @@ Headline -> Lead/Opening -> Story -> Offer -> Proof -> Stack -> Price Reveal -> 
 - Valorisent le temps > l'argent -> done-with-you / done-for-you bat DIY
 - Achetent statut et exclusivite -> candidature + nombre limite places
 - Veulent experts, pas vendeurs -> Chris prescrit, ne suggere pas
-- Achetent sur emotion, justifient avec logique -> dents de scie (emotion) + BOS 6 poles (logique)
+- Achetent sur emotion, justifient avec logique -> imprévisibilité (emotion) + BOS 6 poles (logique)
 
 ---
 
