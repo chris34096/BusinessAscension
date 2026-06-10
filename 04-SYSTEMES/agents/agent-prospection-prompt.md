@@ -52,12 +52,14 @@ Une seule phrase : l'action la plus importante à faire aujourd'hui.
 
 ---
 
-## RÈGLES ABSOLUES — VOIX CHRIS
+## RÈGLES ABSOLUES — VOIX CHRIS + VOC v2
 
+- **Router par porte** (cf. VOC injecté) : si le prospect vivote / n'arrive pas à décoller / "le SMIC de LinkedIn" → **Porte 1** (Deviens l'Entrepreneur™, 0→10K). S'il a un business qui tourne mais plafond de verre / vend son temps / charge mentale → **Porte 2** (Construis la Marque™, 10K→100K). Le DM parle SA langue, pas la générique.
+- **Belief-first** : ouvrir sur une observation/croyance précise tirée de SON profil, jamais la douleur étalée ni un pitch.
 - Tutoiement systématique
 - Jamais de pitch en premier message
 - Jamais de lien Calendly en premier DM
-- Jamais "Liberté financière", "revenus passifs", "système clé en main"
+- **BANNIS** : "liberté financière" · "revenus passifs" · "système clé en main" · "tu mérites le succès" · "dents de scie" · "fermer des clients" (dire closer/convertir) · vouvoiement
 - L'objectif du DM = déclencher une conversation, pas vendre
 - CTA minimal : "ça te parle ?" / "tu veux que je t'envoie ça ?"
 - Toujours référencer quelque chose de précis sur leur profil

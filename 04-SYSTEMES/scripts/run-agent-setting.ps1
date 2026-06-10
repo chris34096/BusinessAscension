@@ -23,6 +23,7 @@ $Pipeline    = Get-Content "$ProjectRoot\02-SALES\pipeline-suivi.md" -Raw -Encod
 $SopSetting  = Get-Content "$ProjectRoot\04-SYSTEMES\sops\sop-setting.md" -Raw -Encoding UTF8
 $Objections  = Get-Content "$ProjectRoot\02-SALES\objections-repertoire.md" -Raw -Encoding UTF8
 $PromptBase  = Get-Content "$ProjectRoot\04-SYSTEMES\agents\agent-setting-prompt.md" -Raw -Encoding UTF8
+$VOC         = Get-Content "$ProjectRoot\01-MARKETING\_fondations\voc-langage-client.md" -Raw -Encoding UTF8
 
 # Rapport prospection du matin (si disponible)
 $ProspectionMatin = "Aucun rapport disponible pour aujourd'hui."
@@ -51,6 +52,9 @@ $($Objections.Substring(0, [Math]::Min(2000, $Objections.Length)))
 
 ### RAPPORT PROSPECTION DU MATIN :
 $ProspectionMatin
+
+### LANGAGE CLIENT — VOC v2 (parler la langue exacte du prospect selon sa porte) :
+$VOC
 
 ---
 

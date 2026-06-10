@@ -23,6 +23,7 @@ $Pipeline    = Get-Content "$ProjectRoot\02-SALES\pipeline-suivi.md" -Raw -Encod
 $SopProspect = Get-Content "$ProjectRoot\04-SYSTEMES\sops\sop-prospection.md" -Raw -Encoding UTF8
 $ColdDM      = Get-Content "$ProjectRoot\02-SALES\cold-dm-setting.md" -Raw -Encoding UTF8
 $PromptBase  = Get-Content "$ProjectRoot\04-SYSTEMES\agents\agent-prospection-prompt.md" -Raw -Encoding UTF8
+$VOC         = Get-Content "$ProjectRoot\01-MARKETING\_fondations\voc-langage-client.md" -Raw -Encoding UTF8
 
 # Construction du prompt complet
 $Prompt = @"
@@ -40,6 +41,9 @@ $SopProspect
 
 ### COLD DM PLAYBOOK :
 $ColdDM
+
+### LANGAGE CLIENT — VOC v2 (piocher les mots EXACTS selon la porte du prospect, varier) :
+$VOC
 
 ---
 

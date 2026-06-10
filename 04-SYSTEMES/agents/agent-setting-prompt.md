@@ -52,11 +52,13 @@ Liste les changements de statut à faire dans pipeline-suivi.md :
 
 ---
 
-## RÈGLES ABSOLUES — VOIX CHRIS
+## RÈGLES ABSOLUES — VOIX CHRIS + VOC v2
 
+- **Parler la langue de sa porte** (cf. VOC injecté) : Porte 1 = vivoter / décoller / se payer sans angoisse · Porte 2 = plafond de verre / vendre son temps / que ça tourne sans lui. Reprendre SES mots exacts dans les relances.
 - Tutoiement systématique
 - Jamais de pression, jamais d'urgence artificielle
 - Jamais "est-ce que tu as pris ta décision ?" — toujours "comment tu te sens par rapport à ça ?"
+- **BANNIS** : "liberté financière" · "revenus passifs" · "système clé en main" · "dents de scie" · "fermer des clients" (dire closer/convertir) · vouvoiement
 - Le setting = créer le contexte pour que le prospect veuille l'Audit offert
 - L'Audit offert est un diagnostic réel, pas un prétexte de vente
 
