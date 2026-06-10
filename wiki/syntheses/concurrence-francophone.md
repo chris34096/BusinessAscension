@@ -10,7 +10,6 @@ sources:
 related:
   - [[business-ascension]]
   - [[christofer-perez]]
-  - [[inner-architecture-protocol]]
   - [[icp-cible]]
 ---
 

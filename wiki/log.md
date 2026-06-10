@@ -1,4 +1,16 @@
-﻿## 2026-06-10 — INGEST : YAP Guide + Guide Viralité 2026
+﻿## 2026-06-10 — LINT : purge liens cassés (dents-de-scie + inner-architecture-protocol) + reframe v10
+- **Liens cassés réparés** (pages supprimées au reboot) : `[[dents-de-scie]]` → `[[etat-zero-etat-heros]]` · `[[inner-architecture-protocol]]` → `[[business-ascension]]`. Dédup là où le successeur était déjà présent.
+- **Concepts wiki nettoyés** : don-quichotte, introspectatrice, goulot-etranglement, etat-zero-etat-heros (self-link retiré), audit-offert, bos-6-poles, concurrence-francophone, sources value-assets + reels-scripts-qa.
+- **Fichiers opérationnels** : 6 value-assets (frontmatter Wiki + SEO keywords "inner architecture" supprimés), 4 SOPs, agent-checkin-prompt, CLAUDE.md (arbre + accès rapide), INDEX.md, wiki/SCHEMA.md (exemples).
+- **Reframe v10 contenu-ia** : `business-context.txt` réécrit (2 portes, business-first, SUPPRESSION background corporate + IAP/SAFe + "dents de scie" + single-ICP) · `voc-verbatim.txt` restructuré par porte + enrichi recherche 2026 (Le Board "vendre son temps", Cap Clair "bloqué au même niveau", Finary revenus 1500-5000€ irréguliers).
+- **Scripts agents** : `search_veille.py` (requêtes Exa → VOC v2 plafond/vivoter) · `run-bot-telegram.ps1` (exemple → plafond de verre).
+- Recherche : 2 WebSearch FR 2026 confirmant le modèle v10 (Flavie Prévot/Le Board, Cap Clair, Benjamin Clerget).
+- **Conservé en l'état (historique)** : `MEMORY.md` + `wiki/log.md` — changelogs, ne pas falsifier l'audit trail.
+- Conflits détectés : aucun. Reste : seul l'historique mentionne encore les anciens noms (volontaire).
+
+---
+
+## 2026-06-10 — INGEST : YAP Guide + Guide Viralité 2026
 - Pages créées : [[tunnel-tofu-mofu-bofu]] (concept), [[yap-framework]] (source)
 - Pages modifiées : [[index]] (Concepts + Sources + count 17→19)
 - Sources opérationnelles : `01-MARKETING/_fondations/yap-framework.md` v1.1 (§7 tunnel 4/3/3 + §8 exécution virale ajoutés)

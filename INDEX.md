@@ -234,9 +234,10 @@ Couche de connaissance cumulative — synthèses, entités, concepts clés.
 - [[icp-cible]] — Profil ICP, archétypes, objections, triggers
 
 **Concepts**
-- [[inner-architecture-protocol]] — Mécanisme central, 4 phases SAFe, livrables
-- [[dents-de-scie]] — Entry point BA™, définition, expressions VOC
 - [[bos-6-poles]] — Business Operating System, 6 pôles, roadmap
+- [[etat-zero-etat-heros]] — Transformation : imprévisibilité → flux prévisible
+- [[goulot-etranglement]] — Les 4 goulots, diagnostic, test
+- [[tunnel-tofu-mofu-bofu]] — Distribution contenu 4/3/3, mapping étage→style YAP→CTA
 - [[don-quichotte-archetype]] — Archétype entrepreneur actif sans résultats, VOC, 4 comportements
 
 **Sources**

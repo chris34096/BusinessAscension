@@ -1,44 +1,54 @@
 VOC VERBATIM — BUSINESS ASCENSION™
 ======================================
 Langage exact de la cible. À utiliser dans tout le contenu.
-Source principale : voc-langage-client.md + sessions terrain Mai 2026.
+Source : voc-langage-client.md (v2) + recherche marché 2026 (Finary, Le Board, Cap Clair) + sessions terrain.
+Modèle v10 : 2 portes. Porte 1 = Deviens l'Entrepreneur™ (0→10K). Porte 2 = Construis la Marque™ (10K→100K).
 
 ---
 
-EXPRESSIONS — REVENUS IRRÉGULIERS
+PORTE 1 — DEVIENS L'ENTREPRENEUR (0→10K · vivoter → décoller)
 
-"Un mois à 8 000€, le mois suivant à zéro."
-"Un mois à 12 000€, le mois d'après à zéro."
-"Les dents de scie."
-"Je fais des coups de collier puis des creux."
-"Ça monte, ça descend, ça monte, ça descend."
-"Je n'arrive pas à me payer le 1er du mois tranquillement."
-"J'ai pas de visibilité sur le mois prochain."
+"Je vivote."
+"Je n'arrive pas à décoller."
+"C'est le SMIC de LinkedIn."
+"Un mois à 1 500€, le mois suivant à 4 000€, complètement imprévisible."
+"Les clients se font attendre."
+"Je veux me payer chaque mois sans angoisse."
+"Je travaille sans me cramer."
+"J'ai des likes mais pas de clients."
+"Je sais quoi faire. Mais je ne le fais pas de façon constante."
 
 ---
 
-EXPRESSIONS — STAGNATION
+PORTE 2 — CONSTRUIS LA MARQUE (10K→100K · plafond → scale)
+
+"Je suis bloqué au même niveau de revenus."
+"J'ai un plafond de verre."
+"Je vends mon temps."
+"Je veux vendre le moins de temps possible."
+"Tout repose sur moi."
+"Si je m'arrête, tout s'effondre."
+"Je veux que ça tourne sans moi."
+"Je veux accélérer sans m'épuiser."
+"Je suis dans le tunnel opérationnel, j'ai plus de bande passante."
+"La charge mentale me bouffe."
+"J'ai l'impression d'être dans une cage dorée — le CA est là mais je suis prisonnier."
+
+---
+
+LES DEUX — STAGNATION / EXÉCUTION
 
 "Ça patine."
 "Je tourne en rond."
 "J'avance mais je n'arrive nulle part."
-"Je sais quoi faire. Mais je ne le fais pas de façon constante."
-"Je fais tout ce qui ne me rapporte pas d'argent."
+"Je fais des coups de collier puis des creux."
 "C'est comme si j'avançais dans des sables mouvants."
-
----
-
-EXPRESSIONS — CAGE / CULPABILITÉ
-
-"J'ai l'impression d'être dans une cage dorée."
-"Je suis devenu un tyran pour moi-même."
+"Je fais tout ce qui ne me rapporte pas d'argent."
 "Culpabilité sourde dès que je lève le pied."
-"Si je m'arrête, tout s'effondre."
-"Je travaille pour mon business, pas avec lui."
 
 ---
 
-EXPRESSIONS — FORMATIONS PASSÉES / DÉCEPTION
+LES DEUX — FORMATIONS PASSÉES / DÉCEPTION
 
 "J'ai fait 10 formations. Zéro résultat concret."
 "C'est plus qu'une formation, c'est un débloqueur d'idées." (ce qu'ils veulent vraiment)
@@ -48,7 +58,7 @@ EXPRESSIONS — FORMATIONS PASSÉES / DÉCEPTION
 
 ---
 
-EXPRESSIONS — COMPARAISON / DOUTE
+LES DEUX — COMPARAISON / DOUTE
 
 "Qu'est-ce qu'eux ont que moi j'ai pas ?"
 "Je les vois poster leurs résultats. Et moi ?"
@@ -57,13 +67,15 @@ EXPRESSIONS — COMPARAISON / DOUTE
 
 ---
 
-EXPRESSIONS — CE QU'ILS VEULENT
+LES DEUX — CE QU'ILS VEULENT
 
 "Que ça tourne sans moi."
 "Que ce soit prévisible."
 "Que je sache à quoi m'attendre le mois prochain."
 "Avoir un vrai système, pas juste des outils."
-"Te payer le 1er du mois tranquille."
+"Des leads qui rentrent tout seuls."
+"Vendre par message, sans avoir à courir après."
+"Me payer le 1er du mois tranquille."
 
 ---
 
@@ -75,6 +87,7 @@ MOTS-CLÉS INTERDITS — ACTIVENT LA MÉFIANCE
 "Tu mérites le succès"
 "Vivre de ta passion"
 "Automatise ton business pendant que tu dors"
+"Dents de scie" (en système — ancien angle, supprimé)
 
 ---
 

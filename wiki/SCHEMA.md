@@ -29,9 +29,9 @@ wiki/
 │   └── icp-cible.md
 │
 ├── concepts/            ← Mécanismes, frameworks, terminologie BA™
-│   ├── inner-architecture-protocol.md
-│   ├── dents-de-scie.md
-│   └── bos-6-poles.md
+│   ├── bos-6-poles.md
+│   ├── etat-zero-etat-heros.md
+│   └── tunnel-tofu-mofu-bofu.md
 │
 ├── sources/             ← Notes sur des ressources externes ingérées
 │   └── [source-name].md
@@ -69,12 +69,12 @@ related:
 ## 4. CONVENTIONS D'ÉCRITURE
 
 ### 4.1 Nommage des fichiers
-- Kebab-case uniquement : `inner-architecture-protocol.md`, `dents-de-scie.md`
+- Kebab-case uniquement : `tunnel-tofu-mofu-bofu.md`, `etat-zero-etat-heros.md`
 - Jamais d'espaces, jamais de majuscules dans le nom de fichier
 
 ### 4.2 Liens internes
 - Format Obsidian : `[[slug-de-la-page]]`
-- Exemple : `[[christofer-perez]]`, `[[inner-architecture-protocol]]`
+- Exemple : `[[christofer-perez]]`, `[[bos-6-poles]]`
 - Un lien vers une page qui n'existe pas encore est permis — c'est un signal de création future
 
 ### 4.3 Marqueurs spéciaux
@@ -191,9 +191,9 @@ Quand Chris pose une question ou demande une analyse :
 - [[icp-cible]] — Profil ICP, archétypes, objections, triggers d'achat
 
 ## Concepts
-- [[inner-architecture-protocol]] — Mécanisme central du programme, 4 phases, SAFe
-- [[dents-de-scie]] — Entry point BA™, définition, expressions cousines
 - [[bos-6-poles]] — Business Operating System, 6 pôles, livrables
+- [[etat-zero-etat-heros]] — Transformation : imprévisibilité → flux prévisible
+- [[tunnel-tofu-mofu-bofu]] — Distribution contenu 4/3/3, mapping étage→CTA
 
 ## Sources
 [vide au démarrage]

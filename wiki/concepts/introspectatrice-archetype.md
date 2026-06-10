@@ -11,8 +11,8 @@ sources:
 related:
   - [[icp-cible]]
   - [[don-quichotte-archetype]]
-  - [[dents-de-scie]]
-  - [[inner-architecture-protocol]]
+  - [[etat-zero-etat-heros]]
+  - [[business-ascension]]
 ---
 
 # L'Introspectrice bloquée — Archétype entrepreneur
@@ -38,7 +38,7 @@ La subtilité : elle n'est pas paresseuse. Elle *travaille*. Mais son énergie v
 
 La réflexion est devenue une zone de confort. Tant qu'elle perfectionne, elle n'est pas obligée de se confronter à la réalité du marché. C'est du perfectionnisme fonctionnel — une forme d'évitement indétectable de l'extérieur parce qu'elle *paraît* travailler.
 
-**Ce qui bloque :** des patterns ancrés dans le système nerveux qui associent la visibilité à un risque (jugement, rejet, exposition). L'[[inner-architecture-protocol]] traite ces patterns à la source — pas au niveau cognitif.
+**Ce qui bloque :** des patterns ancrés dans le système nerveux qui associent la visibilité à un risque (jugement, rejet, exposition). L'[[business-ascension]] traite ces patterns à la source — pas au niveau cognitif.
 
 ## Le langage de l'Introspectrice (VOC)
 
@@ -62,7 +62,7 @@ La réflexion est devenue une zone de confort. Tant qu'elle perfectionne, elle n
 | Frustrée par le manque de mouvement | Frustré par le manque de résultats |
 | L'évitement passe par la réflexion | L'évitement passe par l'action dispersée |
 
-Les deux arrivent au même endroit : les [[dents-de-scie]], ou l'absence totale de décollage.
+Les deux arrivent au même endroit : les [[etat-zero-etat-heros]], ou l'absence totale de décollage.
 
 ## Ce qu'elle a déjà essayé
 
@@ -79,5 +79,5 @@ Des formations, des coachings de développement personnel, des accompagnements m
 ## Liens
 - [[icp-cible]] — l'un des 2 archétypes principaux
 - [[don-quichotte-archetype]] — l'archétype symétrique, chemin opposé vers le même résultat
-- [[dents-de-scie]] — ou absence de décollage — symptôme partagé
-- [[inner-architecture-protocol]] — ce qui traite le pattern à la source
+- [[etat-zero-etat-heros]] — ou absence de décollage — symptôme partagé
+- [[business-ascension]] — ce qui traite le pattern à la source

@@ -4,7 +4,7 @@
 > Source : conseil direct Thais Lior — "Faire une vidéo : comment je peux t'aider à faire un switch et t'accompagner à faire du CA"
 > Objectif : faire comprendre concrètement ce que Chris fait et comment ça fonctionne → CTA Audit offert
 > Repurposing : 2 Reels courts · 1 carousel LinkedIn · 1 post écrit LinkedIn
-> Wiki : [[inner-architecture-protocol]] · [[business-ascension]]
+> Wiki : [[business-ascension]]
 
 ---
 
@@ -42,7 +42,7 @@ Si tu te reconnais dans ce que je décris :
 ```
 
 **Tags :**
-coach business france, comment développer son CA, switch entrepreneur, business ascension, christofer perez, stagnation business, revenus en pointillé, structurer son business, inner architecture
+coach business france, comment développer son CA, switch entrepreneur, business ascension, christofer perez, stagnation business, revenus en pointillé, structurer son business, business operating system
 
 ---
 

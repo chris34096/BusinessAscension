@@ -2,7 +2,7 @@
 > Version 1.0 — Mai 2026
 > S'applique à chaque signature de contrat client.
 > Durée : 15 minutes par client.
-> Wiki : [[business-ascension]] · [[inner-architecture-protocol]]
+> Wiki : [[business-ascension]]
 
 ---
 

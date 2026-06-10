@@ -2,7 +2,7 @@
 > Version 1.0 — Mai 2026
 > S'active dès confirmation du paiement.
 > Durée : 30 minutes.
-> Wiki : [[inner-architecture-protocol]] · [[icp-cible]]
+> Wiki : [[business-ascension]] · [[icp-cible]]
 
 ---
 

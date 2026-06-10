@@ -2,7 +2,7 @@
 > Version 1.0 — Mai 2026
 > S'applique à chaque session individuelle de 90 minutes.
 > Durée de préparation : 10 min avant. Durée de clôture : 10 min après.
-> Wiki : [[inner-architecture-protocol]] · [[bos-6-poles]]
+> Wiki : [[business-ascension]] · [[bos-6-poles]]
 
 ---
 

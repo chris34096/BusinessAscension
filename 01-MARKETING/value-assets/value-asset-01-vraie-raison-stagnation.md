@@ -3,7 +3,7 @@
 > Version 1.0 — Mai 2026
 > Objectif : identifier le mécanisme réel derrière la stagnation → CTA Audit offert
 > Repurposing : 4 Reels · 2 LinkedIn posts · 3 Shorts
-> Wiki : [[dents-de-scie]] · [[inner-architecture-protocol]] · [[icp-cible]]
+> Wiki : [[etat-zero-etat-heros]] · [[business-ascension]] · [[icp-cible]]
 
 ---
 

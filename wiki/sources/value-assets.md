@@ -3,7 +3,7 @@ wiki_type: source
 name: Value Assets BA™ — Catalogue
 slug: value-assets
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-06-10
 confidence: high
 sources:
   - 01-MARKETING/value-assets/value-asset-01-vraie-raison-stagnation.md
@@ -13,8 +13,7 @@ sources:
   - 01-MARKETING/value-assets/value-asset-05-don-quichotte-entrepreneur.md
   - 01-MARKETING/value-assets/value-asset-06-switch-chiffre-affaires.md
 related:
-  - [[dents-de-scie]]
-  - [[inner-architecture-protocol]]
+  - [[etat-zero-etat-heros]]
   - [[icp-cible]]
   - [[bos-6-poles]]
   - [[christofer-perez]]
@@ -28,7 +27,7 @@ related:
 ## VA01 — La vraie raison pour laquelle tu stagnes malgré l'effort
 - **Format :** Diagnostic YouTube — 12-15 min
 - **Angle :** Le mécanisme réel derrière la stagnation — les 4 goulots + les deux côtés non traités en même temps
-- **Concepts :** [[dents-de-scie]] · [[inner-architecture-protocol]] · [[icp-cible]]
+- **Concepts :** [[etat-zero-etat-heros]] · [[business-ascension]] · [[icp-cible]]
 - **Repurposing :** 4 Reels · 2 LinkedIn · 3 Shorts
 - **Fichier :** `01-MARKETING/value-assets/value-asset-01-vraie-raison-stagnation.md`
 
@@ -42,14 +41,14 @@ related:
 ## VA03 — Des mois à 12 000€. Des mois à zéro.
 - **Format :** Story Personnelle — 12-15 min
 - **Angle :** Histoire réelle de Chris — crédibilité via vulnérabilité, non performative
-- **Concepts :** [[christofer-perez]] · [[dents-de-scie]]
+- **Concepts :** [[christofer-perez]] · [[etat-zero-etat-heros]]
 - **Repurposing :** 3 Reels · 2 LinkedIn · 2 Shorts
 - **Fichier :** `01-MARKETING/value-assets/value-asset-03-mois-12000-mois-zero.md`
 
 ## VA04 — Le Business Operating System : les 6 pôles
 - **Format :** Méthode — 15-20 min
 - **Angle :** Introduction du livrable concret — ce que le client repart avec, démontre la profondeur
-- **Concepts :** [[bos-6-poles]] · [[inner-architecture-protocol]]
+- **Concepts :** [[bos-6-poles]] · [[business-ascension]]
 - **Repurposing :** 4 Reels · 2 LinkedIn · 3 Shorts
 - **Fichier :** `01-MARKETING/value-assets/value-asset-04-business-operating-system-6-poles.md`
 
@@ -63,7 +62,7 @@ related:
 ## VA06 — Comment je peux t'aider à faire un switch
 - **Format :** Vidéo personnelle — connexion + mécanisme
 - **Angle :** Explication concrète du modèle BA™ — ce que Chris fait exactement et pourquoi c'est différent
-- **Concepts :** [[inner-architecture-protocol]] · [[business-ascension]]
+- **Concepts :** [[business-ascension]]
 - **Repurposing :** 2 Reels · 1 carousel LinkedIn · 1 post LinkedIn
 - **Fichier :** `01-MARKETING/value-assets/value-asset-06-switch-chiffre-affaires.md`
 

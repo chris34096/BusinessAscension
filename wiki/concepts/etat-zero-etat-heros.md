@@ -3,15 +3,13 @@ wiki_type: concept
 name: État Zéro → État Héros
 slug: etat-zero-etat-heros
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-06-10
 confidence: high
 sources:
   - 01-MARKETING/_fondations/ma-cible.md
   - 01-MARKETING/_fondations/mes-offres.md
   - 01-MARKETING/instagram/reels-viral-skill.md
 related:
-  - [[dents-de-scie]]
-  - [[inner-architecture-protocol]]
   - [[icp-cible]]
   - [[voix-chris]]
   - [[reels-scripts-qa]]
@@ -118,8 +116,7 @@ Chaque script Q&A suit implicitement ce framework :
 
 ## Liens
 
-→ [[dents-de-scie]] — expression principale de l'État Zéro
-→ [[inner-architecture-protocol]] — mécanisme qui opère la transition
+→ [[business-ascension]] — le programme qui opère la transition (identité + business)
 → [[bos-6-poles]] — structure de l'État Héros
 → [[icp-cible]] — profil complet de qui vit cet État Zéro
 → [[reels-scripts-qa]] — 5 scripts construits sur ce framework

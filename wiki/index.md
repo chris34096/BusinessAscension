@@ -8,7 +8,6 @@
 
 ## Concepts
 - [[audit-offert]] — Point d'entrée commercial, 30 min gratuit, diagnostic réel
-- [[dents-de-scie]] — Entry point VOC BA™, définition, expressions cousines
 - [[bos-6-poles]] — Business Operating System, 6 pôles
 - [[don-quichotte-archetype]] — Archétype entrepreneur actif sans résultats
 - [[introspectatrice-archetype]] — Archétype entrepreneur réflexif sans déploiement

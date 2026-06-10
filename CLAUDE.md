@@ -220,9 +220,10 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
     │   ├── business-ascension.md    ← La marque complète
     │   └── icp-cible.md             ← Profil client idéal
     ├── concepts/
-    │   ├── inner-architecture-protocol.md
-    │   ├── dents-de-scie.md
     │   ├── bos-6-poles.md
+    │   ├── etat-zero-etat-heros.md
+    │   ├── goulot-etranglement.md
+    │   ├── tunnel-tofu-mofu-bofu.md
     │   └── don-quichotte-archetype.md
     ├── sources/
     │   └── value-assets.md          ← Catalogue 6 scripts YouTube
@@ -304,7 +305,7 @@ Le branding de BA™ = **Business + Identité en simultané**. Pas la douleur é
 
 **Système de contenu IA (Style Hormozi) :** `04-SYSTEMES/contenu-ia/` — Créer un Projet Claude sur claude.ai, uploader `business-context.txt` + `voc-verbatim.txt`, coller le prompt du format voulu, donner une idée. L'IA fournit l'exécution — toi tu fournis toujours l'idée.
 
-**Wiki — accès rapide :** [[christofer-perez]] · [[business-ascension]] · [[icp-cible]] · [[inner-architecture-protocol]] · [[bos-6-poles]] · [[don-quichotte-archetype]] · [[introspectatrice-archetype]] · [[goulot-etranglement]] · [[audit-offert]] · [[funnel-acquisition]] · [[voix-chris]] · [[value-assets]] · [[concurrence-francophone]]
+**Wiki — accès rapide :** [[christofer-perez]] · [[business-ascension]] · [[icp-cible]] · [[etat-zero-etat-heros]] · [[bos-6-poles]] · [[don-quichotte-archetype]] · [[introspectatrice-archetype]] · [[goulot-etranglement]] · [[audit-offert]] · [[funnel-acquisition]] · [[voix-chris]] · [[value-assets]] · [[concurrence-francophone]]
 
 ---
 

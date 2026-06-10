@@ -10,8 +10,8 @@ sources:
   - 01-MARKETING/_fondations/ma-cible.md
 related:
   - [[icp-cible]]
-  - [[dents-de-scie]]
-  - [[inner-architecture-protocol]]
+  - [[etat-zero-etat-heros]]
+  - [[business-ascension]]
 ---
 
 # Don Quichotte — Archétype entrepreneur
@@ -19,7 +19,7 @@ L'un des deux archétypes principaux de l'[[icp-cible]]. Entrepreneur caractéri
 
 ## Définition
 
-Beaucoup d'action. Peu de résultats qui comptent. Le Don Quichotte travaille 12h/jour, lance des initiatives, teste des outils — et pourtant son CA reste en [[dents-de-scie]]. Il se sent occupé mais ne voit pas d'avancement réel sur les chiffres.
+Beaucoup d'action. Peu de résultats qui comptent. Le Don Quichotte travaille 12h/jour, lance des initiatives, teste des outils — et pourtant son CA reste en [[etat-zero-etat-heros]]. Il se sent occupé mais ne voit pas d'avancement réel sur les chiffres.
 
 La métaphore : Don Quichotte chargeait des moulins à vent, convaincu de combattre des géants. L'entrepreneur Don Quichotte fait beaucoup de choses, convaincu de travailler sur ce qui compte.
 
@@ -32,7 +32,7 @@ La métaphore : Don Quichotte chargeait des moulins à vent, convaincu de combat
 
 ## Ce que le Don Quichotte ne voit pas
 
-Il travaille SUR son business depuis l'extérieur au lieu de travailler SUR son architecture depuis l'intérieur. Le problème n'est pas la discipline ni l'effort — c'est que l'[[inner-architecture-protocol]] n'a jamais été construit.
+Il travaille SUR son business depuis l'extérieur au lieu de travailler SUR son architecture depuis l'intérieur. Le problème n'est pas la discipline ni l'effort — c'est que l'[[business-ascension]] n'a jamais été construit.
 
 ## Le langage du Don Quichotte (VOC)
 
@@ -51,7 +51,7 @@ Il travaille SUR son business depuis l'extérieur au lieu de travailler SUR son 
 | Cherche le bon outil | Cherche la bonne compréhension |
 | Frustré par le manque de résultats | Frustrée par le manque de mouvement |
 
-Les deux arrivent au même endroit : les [[dents-de-scie]]. Par des chemins opposés.
+Les deux arrivent au même endroit : les [[etat-zero-etat-heros]]. Par des chemins opposés.
 
 ## Usage dans le contenu
 
@@ -62,7 +62,7 @@ Les deux arrivent au même endroit : les [[dents-de-scie]]. Par des chemins oppo
 ## Liens
 - [[icp-cible]] — l'un des 2 archétypes principaux
 - [[introspectatrice-archetype]] — l'archétype symétrique, chemin opposé vers le même résultat
-- [[dents-de-scie]] — le symptôme que vit le Don Quichotte
+- [[etat-zero-etat-heros]] — le symptôme que vit le Don Quichotte
 - [[goulot-etranglement]] — les goulots qu'il exprime via l'action dispersée
-- [[inner-architecture-protocol]] — ce qui manque à son système
+- [[business-ascension]] — ce qui manque à son système
 - [[value-assets]] — VA05 lui est entièrement dédié

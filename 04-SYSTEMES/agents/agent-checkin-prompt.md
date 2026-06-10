@@ -1,6 +1,6 @@
 # Agent Client Check-in — Business Ascension™
 > Génère un message de check-in hebdomadaire personnalisé pour chaque client actif Construis la Marque™. S'exécute chaque vendredi à 15h00.
-> Wiki : [[inner-architecture-protocol]] · [[icp-cible]]
+> Wiki : [[business-ascension]] · [[icp-cible]]
 
 ---
 

@@ -3,7 +3,7 @@
 > Version 1.0 — Mai 2026
 > Objectif : connexion + crédibilité via l'histoire réelle de Chris → CTA Audit offert
 > Repurposing : 3 Reels · 2 LinkedIn posts · 2 Shorts
-> Wiki : [[christofer-perez]] · [[dents-de-scie]]
+> Wiki : [[christofer-perez]] · [[etat-zero-etat-heros]]
 
 ---
 

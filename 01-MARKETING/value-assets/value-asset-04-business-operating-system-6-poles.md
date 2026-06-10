@@ -3,7 +3,7 @@
 > Version 1.0 — Mai 2026
 > Objectif : introduire le livrable concret du programme + démontrer la profondeur → CTA Audit offert
 > Repurposing : 4 Reels · 2 LinkedIn posts · 3 Shorts
-> Wiki : [[bos-6-poles]] · [[inner-architecture-protocol]]
+> Wiki : [[bos-6-poles]] · [[business-ascension]]
 
 ---
 

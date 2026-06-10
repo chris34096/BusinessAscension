@@ -48,7 +48,7 @@ Ce SOP couvre tout le workflow post-tournage jusqu'à la publication du dernier 
 **1.2 Montage YouTube**
 - Cuts rythmiques — couper les silences > 2 secondes
 - Pas de musique de fond sauf transition optionnelle intro
-- Sous-titres automatiques → corriger les erreurs sur les mots-clés (Business Ascension, Inner Architecture, BOS)
+- Sous-titres automatiques → corriger les erreurs sur les mots-clés (Business Ascension, Construis la Marque, BOS)
 - Ajouter end screen (10 dernières secondes) : lien vers le lead magnet + subscribe
 
 **1.3 Montage Reels (4 extraits)**

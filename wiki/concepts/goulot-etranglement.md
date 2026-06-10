@@ -11,8 +11,8 @@ sources:
   - 01-MARKETING/_fondations/ma-cible.md
   - 01-MARKETING/_fondations/voc-langage-client.md
 related:
-  - [[dents-de-scie]]
-  - [[inner-architecture-protocol]]
+  - [[etat-zero-etat-heros]]
+  - [[business-ascension]]
   - [[bos-6-poles]]
   - [[icp-cible]]
   - [[don-quichotte-archetype]]
@@ -35,7 +35,7 @@ Le mot "goulot" est déjà dans le vocabulaire spontané de la cible — validat
 
 **Test diagnostique :** "Combien de prospects qualifiés tu vas avoir ce mois-ci ?" — si la réponse hésite, c'est ce goulot.
 
-**Ce qui est construit pour le traiter :** un système d'acquisition documenté (pôle Marketing du [[bos-6-poles]]) + désactivation des patterns d'évitement liés à la visibilité ([[inner-architecture-protocol]]).
+**Ce qui est construit pour le traiter :** un système d'acquisition documenté (pôle Marketing du [[bos-6-poles]]) + désactivation des patterns d'évitement liés à la visibilité ([[business-ascension]]).
 
 ---
 
@@ -59,7 +59,7 @@ Le mot "goulot" est déjà dans le vocabulaire spontané de la cible — validat
 
 **Le diagnostic différentiel :** si c'était vraiment un manque de discipline, il aurait réglé ça depuis longtemps. Le problème est ailleurs — et la volonté ne suffit pas.
 
-**Ce qui est construit pour le traiter :** [[inner-architecture-protocol]] — désactivation à la source (hypnose, PNL, breathwork, neurosciences), pas au niveau cognitif.
+**Ce qui est construit pour le traiter :** [[business-ascension]] — désactivation à la source (hypnose, PNL, breathwork, neurosciences), pas au niveau cognitif.
 
 C'est le goulot qui différencie le plus BA™ de la concurrence — il est rarement traité, jamais au bon niveau.
 
@@ -85,7 +85,7 @@ Dans presque tous les cas, les goulots ont deux sources simultanées :
 
 **Source 2 — Le pattern interne :** l'entrepreneur lui-même freine l'exécution sans le voir. Pas par manque de volonté — par des patterns ancrés dans le système nerveux qui se rejouent à chaque étape importante.
 
-**La thèse de BA™ :** traiter une source sans l'autre ne tient pas dans la durée. L'[[inner-architecture-protocol]] traite les deux en parallèle, chaque semaine.
+**La thèse de BA™ :** traiter une source sans l'autre ne tient pas dans la durée. L'[[business-ascension]] traite les deux en parallèle, chaque semaine.
 
 ## Où le concept apparaît dans le contenu
 
@@ -102,8 +102,8 @@ Le terme "goulot" est validé dans le vocabulaire spontané de la cible (VOC Cou
 À utiliser librement dans le contenu sans explication préalable.
 
 ## Liens
-- [[dents-de-scie]] — le symptôme que les goulots produisent
-- [[inner-architecture-protocol]] — traite le Goulot 3 (Exécution bloquée) à la source
+- [[etat-zero-etat-heros]] — le symptôme que les goulots produisent
+- [[business-ascension]] — traite le Goulot 3 (Exécution bloquée) à la source
 - [[bos-6-poles]] — traite les Goulots 1, 2 et 4 (structure business)
 - [[icp-cible]] — filtre entrée : "prêt à structurer" + "l'entrepreneur est le premier goulot"
 - [[don-quichotte-archetype]] — exprime les goulots via l'action dispersée

@@ -168,7 +168,7 @@ COMMANDES RAPIDES :
 
 QUESTIONS LIBRES (exemples) :
 - Génère-moi un DM pour un coach qui stagne
-- Rédige un post LinkedIn sur les dents de scie
+- Rédige un post LinkedIn sur le plafond de verre (Porte 2)
 - Quelle est ma priorité cette semaine ?
 - Script de relance pour un prospect en réflexion
 - Prépare-moi un Audit offert pour demain

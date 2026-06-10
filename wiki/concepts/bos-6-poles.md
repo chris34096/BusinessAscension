@@ -9,13 +9,12 @@ sources:
   - 01-MARKETING/_fondations/mes-offres.md
   - 03-DELIVERY/curriculum-iap.md
 related:
-  - [[inner-architecture-protocol]]
   - [[business-ascension]]
   - [[christofer-perez]]
 ---
 
 # BOS — Business Operating System (6 pôles)
-Le livrable central de l'[[inner-architecture-protocol]]. Structure complète d'un business d'entrepreneur solo construit sur 6 pôles interdépendants. Si un pôle est non structuré, tout ralentit.
+Le livrable central du programme [[business-ascension]]. Structure complète d'un business d'entrepreneur solo construit sur 6 pôles interdépendants. Si un pôle est non structuré, tout ralentit.
 
 ## Les 6 pôles
 
@@ -55,6 +54,5 @@ Au Sprint 0, Chris évalue chacun des 6 pôles :
 - La Definition of Done par sprint transforme l'accompagnement de "flou" à "mesurable" — argument fort face à la méfiance de la cible envers les promesses génériques
 
 ## Liens
-- [[inner-architecture-protocol]] — le protocole qui construit le BOS
-- [[business-ascension]] — le programme qui livre le BOS
+- [[business-ascension]] — le programme qui construit et livre le BOS
 - [[christofer-perez]] — le seul à combiner BOS + inner work simultanément

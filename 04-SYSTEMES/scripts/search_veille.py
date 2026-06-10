@@ -80,8 +80,8 @@ EXA_QUERIES = [
     'site:instagram.com "Julien Musy" OR "Mehdi Baer" coaching entrepreneur',
     'site:linkedin.com "Julien Musy" OR "Mehdi Baer" coaching entrepreneur semaine',
     '"coaching business" entrepreneur france 2026 programme mindset',
-    'entrepreneur france "revenus irréguliers" OR "dents de scie" coach programme',
-    '"inner work" entrepreneur france business coaching 2026',
+    'entrepreneur france "plafond de verre" OR "vendre son temps" coach scale 2026',
+    'solopreneur france "vivoter" OR "décoller" leads entrants vendre par message 2026',
 ]
 
 

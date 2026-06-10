@@ -58,7 +58,7 @@ Pour aller plus loin :
 ```
 
 **Tags :**
-coaching business france, formation entrepreneur, coach business en ligne, pourquoi les formations ne marchent pas, système nerveux entrepreneur, inner architecture, business operating system, christofer perez, business ascension, bloquer sur son business, revenus entrepreneur
+coaching business france, formation entrepreneur, coach business en ligne, pourquoi les formations ne marchent pas, système nerveux entrepreneur, business operating system, christofer perez, business ascension, bloquer sur son business, revenus entrepreneur
 
 ---
 

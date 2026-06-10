@@ -10,9 +10,9 @@ sources:
 related:
   - [[voix-chris]]
   - [[icp-cible]]
-  - [[dents-de-scie]]
+  - [[etat-zero-etat-heros]]
   - [[don-quichotte-archetype]]
-  - [[inner-architecture-protocol]]
+  - [[business-ascension]]
   - [[value-assets]]
   - [[funnel-acquisition]]
 ---
@@ -116,7 +116,7 @@ Feu d'artifice (écrire la fin en premier) · Hook magique (0–2s) · Détectiv
 
 ## Angles Scripts Restants à Créer
 
-- "Simultané" — différenciateur absolu BA™ vs concurrence → [[inner-architecture-protocol]]
+- "Simultané" — différenciateur absolu BA™ vs concurrence → [[business-ascension]]
 - BOS 6 pôles — explication mécanisme → [[bos-6-poles]]
 - Cage dorée — entrepreneur qui veut quitter son entreprise → [[icp-cible]]
 - Formations insuffisantes — pourquoi elles ne suffisent pas

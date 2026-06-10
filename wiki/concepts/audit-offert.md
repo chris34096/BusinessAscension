@@ -11,7 +11,6 @@ sources:
   - 01-MARKETING/_fondations/ma-cible.md
 related:
   - [[business-ascension]]
-  - [[inner-architecture-protocol]]
   - [[goulot-etranglement]]
   - [[icp-cible]]
   - [[funnel-acquisition]]
@@ -87,6 +86,6 @@ L'Audit offert est le pivot entre le contenu gratuit et l'offre payante. Chaque 
 - [[business-ascension]] — front-end unique du funnel BA™
 - [[goulot-etranglement]] — le Bloc 3 (VSM) identifie le goulot principal
 - [[icp-cible]] — les 4 critères de qualification correspondent aux 4 filtres d'entrée
-- [[inner-architecture-protocol]] — ce qui est présenté si le prospect est qualifié
+- Construis la Marque™ — l'offre présentée si le prospect est qualifié
 - [[funnel-acquisition]] — l'Audit offert dans le flux complet
 - [[don-quichotte-archetype]] · [[introspectatrice-archetype]] — archétypes identifiés avant l'appel
