@@ -190,7 +190,64 @@ avant l'étape 1.
 
 ---
 
-## 7. RÈGLES ANTI-IA / VOIX CHRIS (rappel)
+## 7. LE TUNNEL TOFU / MOFU / BOFU — la répartition 4/3/3
+
+> YAP donne la **profondeur** d'une pièce. Le tunnel donne le **rôle** de la pièce dans la conversion. Les deux se cumulent : chaque contenu est *un style YAP* ET *un étage du tunnel*.
+> Principe : l'attention est la monnaie. Pas de vues → pas d'engagement → pas de ventes. L'organique construit un actif durable (ton audience t'appartient) ; la pub loue une audience. On joue l'organique.
+
+### Les 3 étages
+
+| Étage | Rôle | Ce que tu fais | Ce que tu ne fais PAS |
+|---|---|---|---|
+| **TOFU** (top) | **Attirer** | Faire des vues, capter l'inconnu, frapper une croyance large. | Tu ne vends pas. Aucune offre. |
+| **MOFU** (middle) | **Créer le lien** | Montrer ton parcours, ton énergie, ton message. Inspirer confiance. | Tu ne fais pas que des vues creuses. |
+| **BOFU** (bottom) | **Convertir** | Preuves, cas, mécanisme, offre claire → Audit offert. | Tu ne restes pas vague : tu proposes. |
+
+### La répartition : 4 / 3 / 3 sur 10 contenus
+- **4× TOFU** — contenus d'attraction (faire des vues, capter l'attention).
+- **3× MOFU** — contenus de relation (créer le lien, inspirer confiance).
+- **3× BOFU** — contenus de conversion (preuves, offre, appel à l'action).
+
+**L'erreur classique = le déséquilibre.** Vendre trop tôt (pas d'audience pour acheter) OU ne jamais vendre (audience qui ne convertit jamais). L'équilibre est la clé.
+
+### Mapping BA™ — quel YAP pour quel étage
+
+| Étage | Styles YAP qui collent | Croyance / angle BA™ | CTA |
+|---|---|---|---|
+| **TOFU** | Contrarian · Rant | "Plus de formations ≠ plus de CA" · "Ton problème c'est pas l'exécution" | Aucune offre — commente/enregistre |
+| **MOFU** | Story · Rabbit Hole | 12K→0, le pivot, le goulot, "change la racine pas le fruit" | Suis / DM un mot-clé |
+| **BOFU** | Breakdown | La machine à leads, vendre par message, les 8 étapes, cas client | **Audit offert** |
+
+> L'équation finale : **attention + offre = ventes**. Le TOFU capte, le MOFU crée la confiance, le BOFU propose. Pas besoin de 100K abonnés — des créateurs vendent avec 500 abonnés *engagés*. L'engagement compte, pas la taille.
+
+### Construire la confiance (le carburant du tunnel)
+- Les gens n'achètent pas ton produit. **Ils achètent toi** : ta vision, ton énergie, ton message.
+- Réponds aux commentaires (surtout au début), fais des lives, implique l'audience dans tes décisions. L'algo adore, la communauté aussi.
+- **L'authenticité prime sur la perfection.** Montre le vrai, le vécu, les galères ET les victoires. La perfection éloigne, l'authenticité attire.
+
+---
+
+## 8. EXÉCUTION VIRALE — les 3 leviers d'une vidéo qui perce
+
+Une vidéo, c'est *scroll* ou *viral*. La différence tient à 3 éléments :
+
+1. **⚡ Le Hook (3 premières secondes)** — décide de tout. Tu le travailles AVANT le reste. Une question, une affirmation choc, un pattern interrupt.
+2. **🎬 La Rétention** — maintiens l'attention de la 1ère à la dernière seconde. Rythme, cuts, tension, curiosité. Pas de temps mort.
+3. **🎁 La Valeur** — pose-toi toujours : *"Pourquoi quelqu'un regarderait ça jusqu'au bout ?"* Apprendre, se divertir, se reconnaître.
+
+### La règle d'or : la discipline
+- **Tu postes tous les jours.** La motivation est une émotion, la discipline est un choix.
+- Une vidéo imparfaite publiée vaut mieux qu'une parfaite dans les brouillons.
+- Process : trouve 10 idées → tournes-en 5 → postes-en 2 (les 2 meilleures). Et tu recommences demain.
+
+### L'analyse (ce que personne ne dit)
+- La majorité de tes vidéos ne marcheront pas. **C'est normal.** Sur 10, peut-être 2-3 performent vraiment.
+- Chaque flop est une leçon : le hook ? le sujet ? le format ? Analyse et ajuste.
+- Une seule vidéo virale peut tout changer. C'est pour ça qu'on poste même quand ça ne marche pas.
+
+---
+
+## 9. RÈGLES ANTI-IA / VOIX CHRIS (rappel)
 - Première ligne = frappe directe. Pas d'intro, pas de "dans cette vidéo".
 - Belief-first : la croyance en hook, JAMAIS la douleur énumérée en slide 1.
 - Séquence : leur langage (ce qu'ils vivent) → le mécanisme (ce qui se passe vraiment).
@@ -199,4 +256,4 @@ avant l'étape 1.
 
 ---
 
-*YAP Framework · v1.0 · Juin 2026 · Business Ascension™*
+*YAP Framework · v1.1 · Juin 2026 · Business Ascension™ — YAP (profondeur) × Tunnel 4/3/3 (conversion)*

@@ -21,16 +21,22 @@ Livrable par run : **1 post LinkedIn** (un des 5 styles YAP) + **1 script Reel I
 
 ---
 
-## ÉTAPE 0 — Choisir LA croyance + le style YAP
+## ÉTAPE 0 — Choisir l'étage tunnel + LA croyance + le style YAP
 
-1. À partir du Value Asset / brief injecté, formule **UNE croyance** nette (ex : "Ton problème c'est pas l'exécution, c'est l'identité" · "Plus de contenu ne réglera pas un contenu qui n'installe aucune croyance").
-2. Choisis **1 cible** (Porte 1 *Deviens l'Entrepreneur™* 0→10K, ou Porte 2 *Construis la Marque™* 10K→100K) et pioche son VOC dédié.
-3. Choisis **1 style YAP** (varie d'un run à l'autre) :
+1. **Étage tunnel (TOFU/MOFU/BOFU)** : si le bloc `ÉTAGES TUNNEL DU RUN` est injecté, utilise EXACTEMENT l'étage imposé pour le post LinkedIn et celui imposé pour le Reel (c'est la rotation qui garantit la répartition **4/3/3 sur 10 contenus**). Sinon, choisis toi-même en gardant l'équilibre 4 TOFU / 3 MOFU / 3 BOFU. Rappel (yap-framework §7) :
+   - **TOFU** = attirer, faire des vues, frapper une croyance large. **Aucune offre.** CTA = commente/enregistre. Styles : Contrarian, Rant.
+   - **MOFU** = créer le lien, inspirer confiance (parcours, énergie, message). CTA = suis / DM un mot-clé. Styles : Story, Rabbit Hole.
+   - **BOFU** = convertir (preuve, cas, mécanisme, offre claire). CTA = **Audit offert**. Style : Breakdown.
+2. À partir du Value Asset / brief injecté, formule **UNE croyance** nette (ex : "Ton problème c'est pas l'exécution, c'est l'identité" · "Plus de contenu ne réglera pas un contenu qui n'installe aucune croyance").
+3. Choisis **1 cible** (Porte 1 *Deviens l'Entrepreneur™* 0→10K, ou Porte 2 *Construis la Marque™* 10K→100K) et pioche son VOC dédié.
+4. Choisis le **style YAP** cohérent avec l'étage (voir mapping ci-dessus, varie d'un run à l'autre) :
    - **Contrarian** — croyance populaire vs meilleure alternative
    - **Story** — vécu perso/client
    - **Breakdown** — révèle la machine derrière un résultat
    - **Rant** — frustration du marché → autorité + solution
    - **Rabbit Hole** — "pourquoi ?" en boucle jusqu'à la cause racine
+
+> Cohérence étage → CTA : un contenu **TOFU ne vend jamais** (pas d'Audit offert), seul le **BOFU** propose l'Audit offert. Le MOFU renforce le lien et dirige vers le profil/DM.
 
 ---
 
@@ -84,9 +90,11 @@ Durée cible : 20-45s.
 
 ```
 # Rapport Contenu — [DATE] — Croyance : [la croyance installée]
-**Cible :** [Porte 1 / Porte 2] · **Style YAP :** [Contrarian/Story/Breakdown/Rant/Rabbit Hole]
+**Cible :** [Porte 1 / Porte 2]
 
 ## POST LINKEDIN
+**Tunnel :** [TOFU/MOFU/BOFU] · **Style YAP :** [Contrarian/Story/Breakdown/Rant/Rabbit Hole]
+
 [hook — 1 ligne croyance]
 
 [corps YAP — 5 temps, aéré]
@@ -97,6 +105,7 @@ Durée cible : 20-45s.
 ---
 
 ## SCRIPT REEL INSTAGRAM
+**Tunnel :** [TOFU/MOFU/BOFU] · **Style YAP :** [Contrarian/Story/Breakdown/Rant/Rabbit Hole]
 **🎯 Sujet :** [1 phrase] · Pour qui : [...] · Repart avec : [...]
 **🎬 HOOK (0-2s) :** [text overlay + parlé]
 **📖 BODY :** [...]
@@ -116,10 +125,11 @@ Ligne 2 : "..."
 [1-2 phrases : croyance installée + pourquoi fort pour la cible]
 
 ## ENTRÉE CONTENT PERFORMANCE (à ajouter dans state/content-performance.md)
-### [DATE] — [PLATEFORME] — [STYLE YAP]
+### [DATE] — [PLATEFORME] — [TUNNEL] — [STYLE YAP]
 **Croyance :** [...]
 **Hook :** [première phrase]
 **Cible :** [Porte 1 / Porte 2]
+**Tunnel :** [TOFU/MOFU/BOFU]
 **Performances :** [à remplir par Analytics]
 **Conversion :** [à remplir]
 ```

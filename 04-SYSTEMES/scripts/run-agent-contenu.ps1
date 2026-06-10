@@ -48,11 +48,39 @@ if (Test-Path $VAFile) {
     $ValueAsset = $content.Substring(0, [Math]::Min(2000, $content.Length))
 }
 
+# Rotation tunnel TOFU/MOFU/BOFU — garantit la répartition 4/3/3 sur 10 contenus (5 runs x 2 pièces)
+# Pattern (LinkedIn, Reel) sur 5 runs : (TOFU,TOFU)(MOFU,BOFU)(TOFU,MOFU)(BOFU,TOFU)(MOFU,BOFU)
+# => TOFU=4 · MOFU=3 · BOFU=3
+$StateDir = "$ProjectRoot\04-SYSTEMES\agents\state"
+if (-not (Test-Path $StateDir)) { New-Item -ItemType Directory -Path $StateDir | Out-Null }
+$CounterFile = "$StateDir\tunnel-counter.txt"
+$Counter = 0
+if (Test-Path $CounterFile) {
+    $raw = (Get-Content $CounterFile -Raw -ErrorAction SilentlyContinue)
+    if ($raw -match '^\s*(\d+)') { $Counter = [int]$Matches[1] }
+}
+$RunIndex = $Counter % 5
+$TunnelPattern = @(
+    @{ LinkedIn = "TOFU"; Reel = "TOFU" },
+    @{ LinkedIn = "MOFU"; Reel = "BOFU" },
+    @{ LinkedIn = "TOFU"; Reel = "MOFU" },
+    @{ LinkedIn = "BOFU"; Reel = "TOFU" },
+    @{ LinkedIn = "MOFU"; Reel = "BOFU" }
+)
+$Etages = $TunnelPattern[$RunIndex]
+($Counter + 1) | Out-File $CounterFile -Encoding UTF8
+Write-Host "Tunnel run $RunIndex : LinkedIn=$($Etages.LinkedIn) · Reel=$($Etages.Reel)"
+
 # Construction du prompt complet
 $Prompt = @"
 $PromptBase
 
 ---
+
+## ÉTAGES TUNNEL DU RUN (rotation 4/3/3 — impératif)
+- **Post LinkedIn → étage : $($Etages.LinkedIn)**
+- **Script Reel → étage : $($Etages.Reel)**
+Respecte le mapping étage→CTA (yap-framework §7) : TOFU ne vend jamais · seul BOFU propose l'Audit offert · MOFU dirige vers profil/DM.
 
 ## DONNÉES INJECTÉES — $Date ($DayName) — Semaine $WeekNumber
 
