@@ -1,4 +1,15 @@
-﻿## 2026-06-09 (session 23) — Sites Vercel + VSL v2 + VOC v2 + purge "dents de scie"
+﻿## 2026-06-10 — INGEST : YAP Guide + Guide Viralité 2026
+- Pages créées : [[tunnel-tofu-mofu-bofu]] (concept), [[yap-framework]] (source)
+- Pages modifiées : [[index]] (Concepts + Sources + count 17→19)
+- Sources opérationnelles : `01-MARKETING/_fondations/yap-framework.md` v1.1 (§7 tunnel 4/3/3 + §8 exécution virale ajoutés)
+- Câblage agent : `agent-contenu-prompt.md` (ÉTAPE 0 choix étage + cohérence CTA, sortie taggée Tunnel) + `run-agent-contenu.ps1` (rotation déterministe `state/tunnel-counter.txt` → 4 TOFU/3 MOFU/3 BOFU). Commit 047dd8a.
+- Test live agent Contenu OK : run 0 = TOFU/TOFU, CTAs non-vendeurs corrects (commente POLE/ARCHITECTURE, pas d'Audit offert).
+- Conflits détectés : aucun
+- Observations : YAP (profondeur) × Tunnel (conversion) = 2 axes orthogonaux. Le 4/3/3 est désormais garanti mécaniquement côté agent, plus laissé au modèle.
+
+---
+
+## 2026-06-09 (session 23) — Sites Vercel + VSL v2 + VOC v2 + purge "dents de scie"
 
 - **2 sites premium déployés sur Vercel** (dark luxury, Playfair + Hanken Grotesk, 3D Three.js morphing, verre dépoli, titre animé lettre par lettre) :
   - Porte 1 : porte-1-deviens-entrepreneur-chris34096s-projects.vercel.app

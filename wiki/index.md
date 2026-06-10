@@ -1,5 +1,5 @@
 # Wiki BA™ — Index
-> Mis à jour : 2026-06-03 — Reboot complet Tom Pearson
+> Mis à jour : 2026-06-10 — Ingest YAP + Tunnel TOFU/MOFU/BOFU
 
 ## Entities
 - [[christofer-perez]] — Fondateur BA™, voix, vision (background corporate supprimé du pitch)
@@ -14,11 +14,13 @@
 - [[introspectatrice-archetype]] — Archétype entrepreneur réflexif sans déploiement
 - [[goulot-etranglement]] — Taxonomie diagnostique : 4 goulots, test, 2 sources
 - [[etat-zero-etat-heros]] — Transformation : imprévisibilité → flux prévisible
+- [[tunnel-tofu-mofu-bofu]] — Distribution contenu 4/3/3, mapping étage→style YAP→CTA
 
 ## Sources
 - [[value-assets]] — Catalogue des 6 scripts vidéo YouTube + repurposing
 - [[reels-scripts-qa]] — Méthode Q&A, attributs, scripts voix Chris verbatim
 - [[tom-pearson]] — Modèle de référence BA™ : Become The Man · Build The Brand
+- [[yap-framework]] — Moteur idéation/script (formule 5 temps, 5 styles, Daily YAP, Script Builder) + Guide Viralité 2026
 
 ## Syntheses
 - [[concurrence-francophone]] — 4 zones, menaces, angle unique BA™
@@ -38,4 +40,4 @@
 - Task Scheduler ✅ 8 agents actifs (SYSTEM) → `04-SYSTEMES/scripts/setup-task-scheduler.ps1`
 
 ---
-*Total pages wiki : 17 | Reboot Juin 2026 — Modèle Tom Pearson*
+*Total pages wiki : 19 | MàJ 2026-06-10 — YAP + Tunnel 4/3/3*

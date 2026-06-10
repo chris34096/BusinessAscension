@@ -1,7 +1,26 @@
 ﻿# Checklist Migration VPS Hetzner — Business Ascension™
-> Mercredi 28/05/2026 — 10h00
-> Durée estimée : 3h30 au total
+> Révisé 2026-06-10 — corrige 2 hypothèses fausses de la v1 (28/05)
+> Durée estimée : ~3h30
 > VPS : Hetzner CX21 (2 vCPU / 4 GB RAM / 40 GB SSD) — ~4,50€/mois
+
+---
+
+## ⚠️ LIRE EN PREMIER — 2 contraintes critiques (découvertes 2026-06-10)
+
+La v1 de cette checklist supposait deux choses qui sont FAUSSES. Corrigé partout ci-dessous :
+
+1. **L'API Anthropic est à 0€ de crédit.** → On n'utilise PAS `ANTHROPIC_API_KEY` pour les agents. On utilise le **CLI `claude` sous l'abonnement Claude** (login interactif une fois sur le VPS). Coût = ton abonnement existant, pas de facturation par token. *(Alternative : recharger des crédits API et utiliser l'API REST — mais ce n'est pas le choix retenu.)*
+2. **`claude -p` exige un pseudo-terminal (TTY).** cron n'en fournit pas → sortie vide (même bug que le Planificateur Windows). → **Tout appel `claude` dans cron DOIT être enveloppé dans un pty** : `script -qec "…" /dev/null` (paquet `util-linux`, déjà présent) ou `unbuffer` (paquet `expect`).
+
+**Conséquence aussi :** les runners PowerShell locaux injectent un riche contexte (pipeline, OKRs, VOC v2, YAP, systèmes). Un simple `cat prompt | claude -p` perd tout ça → contenu de moindre qualité. On installe **PowerShell Core (pwsh)** sur le VPS pour réutiliser les runners `.ps1` (avec chemins adaptés), plutôt que de réécrire en bash.
+
+---
+
+## ⏭️ CE QUE TU DOIS FAIRE AVANT QUE JE PRENNE LE RELAIS
+
+1. Commander le VPS (Étape « Avant le jour J » ci-dessous) → récupérer l'**IP publique**.
+2. Créer une **clé SSH** et l'ajouter au VPS.
+3. Me donner : l'**IP**, l'accès SSH (clé), et confirmer que `claude` est loggé (Étape 2bis). Ensuite je déploie le reste.
 
 ---
 
@@ -69,8 +88,36 @@ node --version       # v20.x.x
 npm install -g @anthropic/claude-code
 claude --version
 
+# PowerShell Core (pour réutiliser les runners .ps1 avec leur injection de contexte)
+sudo apt install -y wget apt-transport-https software-properties-common
+source /etc/os-release
+wget -q "https://packages.microsoft.com/config/ubuntu/$VERSION_ID/packages-microsoft-prod.deb"
+sudo dpkg -i packages-microsoft-prod.deb && rm packages-microsoft-prod.deb
+sudo apt update && sudo apt install -y powershell
+pwsh --version
+
+# Outils pseudo-terminal (TTY) pour claude en cron — util-linux fournit `script`
+sudo apt install -y expect util-linux   # 'unbuffer' (expect) + 'script' (util-linux)
+
 # Bibliothèques Python
 pip install supabase python-telegram-bot requests feedparser
+```
+
+---
+
+## ÉTAPE 2bis — Login Claude CLI sous abonnement (~10 min) — CRITIQUE
+
+> On n'utilise PAS de clé API (compte à 0€). Le CLI s'authentifie via ton **abonnement Claude**.
+
+```bash
+# Lancer le login (génère une URL à ouvrir dans TON navigateur local)
+claude
+# Suivre le flux : ouvrir l'URL affichée, se connecter à claude.ai, coller le code.
+# Les identifiants sont stockés dans /home/ba/.claude/ (persistant).
+
+# Test pseudo-terminal OBLIGATOIRE (reproduit le contexte cron, sans TTY) :
+script -qec 'echo "Reponds juste: OK" | claude -p' /dev/null
+# Doit afficher "OK". Si vide -> le login n'a pas pris ou le pty manque.
 ```
 
 ---
@@ -82,7 +129,8 @@ pip install supabase python-telegram-bot requests feedparser
 nano /home/ba/.env
 
 # Contenu :
-ANTHROPIC_API_KEY=sk-ant-...
+# (PAS d'ANTHROPIC_API_KEY — les agents passent par le CLI sous abonnement, cf Étape 2bis.
+#  Si un jour tu recharges des crédits API et veux la voie REST, ajoute-la ici.)
 TELEGRAM_TOKEN=...
 TELEGRAM_CHAT_ID=...
 SUPABASE_URL=https://xxxx.supabase.co
@@ -169,11 +217,13 @@ class WebhookHandler(BaseHTTPRequestHandler):
             self.handle_message(text)
 
     def handle_message(self, text):
-        import urllib.request
-        # Appel Claude CLI avec contexte BA
+        import urllib.request, shlex
+        # Appel Claude CLI — ENVELOPPÉ dans un pty (script) sinon sortie vide en service
+        inner = f"claude -p {shlex.quote(text)}"
+        cmd = f"script -qec {shlex.quote(inner)} /dev/null"
         result = subprocess.run(
-            ["claude", "-p", text],
-            capture_output=True, text=True, timeout=60
+            ["bash", "-lc", cmd],
+            capture_output=True, text=True, timeout=120
         )
         response = result.stdout.strip() or "Pas de réponse."
         # Envoyer via Telegram API
@@ -239,22 +289,40 @@ sudo systemctl status ba-bot
 crontab -e
 ```
 
-Ajouter :
+> ⚠️ Chaque appel `claude` est enveloppé dans `script -qec '…' /dev/null` pour fournir un pseudo-TTY (sinon sortie vide). On appelle les **runners pwsh** (qui injectent le contexte VOC/YAP/pipeline), pas `cat prompt | claude` brut.
+
+Ajouter (adapter les chemins `.ps1` portés sur le VPS) :
 
 ```cron
+# Lundi 07h00 — Agent KPI
+0 7 * * 1 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-kpi.ps1' /dev/null >> logs/kpi-$(date +\%Y-\%m-\%d).log 2>&1
+
+# Lun-Ven 08h00 — Agent Prospection
+0 8 * * 1-5 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-prospection.ps1' /dev/null >> logs/prospection-$(date +\%Y-\%m-\%d).log 2>&1
+
+# Lun/Mer/Ven 09h00 — Agent Contenu (YAP)
+0 9 * * 1,3,5 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-contenu.ps1' /dev/null >> logs/contenu-$(date +\%Y-\%m-\%d).log 2>&1
+
+# Lun-Ven 18h00 — Agent Setting
+0 18 * * 1-5 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-setting.ps1' /dev/null >> logs/setting-$(date +\%Y-\%m-\%d).log 2>&1
+
 # Mercredi 08h00 — Agent Analytics
-0 8 * * 3 cd /home/ba/ba && cat agents/agent-analytics-prompt.md | claude -p >> logs/analytics-$(date +\%Y-\%m-\%d).log 2>&1
+0 8 * * 3 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-analytics.ps1' /dev/null >> logs/analytics-$(date +\%Y-\%m-\%d).log 2>&1
 
 # Vendredi 15h00 — Agent Check-in clients
-0 15 * * 5 cd /home/ba/ba && cat agents/agent-checkin-prompt.md | claude -p >> logs/checkin-$(date +\%Y-\%m-\%d).log 2>&1
+0 15 * * 5 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-checkin.ps1' /dev/null >> logs/checkin-$(date +\%Y-\%m-\%d).log 2>&1
 
 # Dimanche 18h00 — Agent Veille marché
-0 18 * * 0 cd /home/ba/ba && python3 scripts/search_veille.py | claude -p "$(cat agents/agent-veille-prompt.md)" >> logs/veille-$(date +\%Y-\%m-\%d).log 2>&1
+0 18 * * 0 cd /home/ba/ba && script -qec 'pwsh -NoProfile -File scripts/run-agent-veille.ps1' /dev/null >> logs/veille-$(date +\%Y-\%m-\%d).log 2>&1
 ```
+
+> Note portage runners : les `.ps1` ont des chemins Windows (`E:\…`) et `$ProjectRoot`. Sur le VPS, je passerai `$ProjectRoot=/home/ba/ba`, remplacerai les `\` par `/`, et le bloc Telegram (`. telegram-config.ps1`) restera valide sous pwsh. `Start-Process code` (ouverture VS Code) sera retiré (pas de GUI serveur).
 
 Vérifier :
 ```bash
 crontab -l
+# Test à la main d'un agent (doit produire un fichier NON vide dans outputs/) :
+script -qec 'pwsh -NoProfile -File scripts/run-agent-contenu.ps1' /dev/null
 ```
 
 ---
@@ -263,10 +331,12 @@ crontab -l
 
 | Test | Commande | Attendu |
 |---|---|---|
-| Claude CLI | `echo "Salut" \| claude -p` | Réponse en quelques secondes |
+| Claude CLI **avec pty** | `script -qec 'echo "Salut" \| claude -p' /dev/null` | Réponse (PAS vide) |
+| Claude CLI sans pty (doit ÉCHOUER) | `echo "Salut" \| claude -p < /dev/null` | Vide → confirme qu'il faut le pty |
+| pwsh runner | `script -qec 'pwsh -NoProfile -File scripts/run-agent-contenu.ps1' /dev/null` | Fichier NON vide dans `outputs/` |
 | Bot Telegram | Envoyer `/aide` dans Telegram | Liste des commandes |
 | Bot — question libre | "Génère un DM LinkedIn" | Réponse en voix Chris |
-| Cron — test manuel | Exécuter le cron veille à la main | Log créé dans `/logs/` |
+| Cron — test manuel | lancer une ligne cron à la main | Log + sortie non vide |
 | Supabase | `python3 -c "from supabase import create_client; print('OK')"` | OK |
 | Encodage | Envoyer "Génère un post avec des accents" | Réponse sans caractères corrompus |
 
