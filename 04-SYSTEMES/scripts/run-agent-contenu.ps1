@@ -24,6 +24,12 @@ $Calendrier  = Get-Content "$ProjectRoot\01-MARKETING\instagram\calendrier-edito
 $VoixChris   = Get-Content "$ProjectRoot\01-MARKETING\_fondations\ma-voix.md" -Raw -Encoding UTF8
 $PromptBase  = Get-Content "$ProjectRoot\04-SYSTEMES\agents\agent-contenu-prompt.md" -Raw -Encoding UTF8
 
+# Matière YAP + langage (branchement systèmes v2)
+$YAP         = Get-Content "$ProjectRoot\01-MARKETING\_fondations\yap-framework.md" -Raw -Encoding UTF8
+$VOC         = Get-Content "$ProjectRoot\01-MARKETING\_fondations\voc-langage-client.md" -Raw -Encoding UTF8
+$SystemeIG   = Get-Content "$ProjectRoot\01-MARKETING\instagram\systeme-instagram.md" -Raw -Encoding UTF8
+$SystemeLI   = Get-Content "$ProjectRoot\01-MARKETING\linkedin\systeme-linkedin.md" -Raw -Encoding UTF8
+
 # Sélectionner un Value Asset selon le jour de la semaine (rotation)
 $DayOfWeek = (Get-Date).DayOfWeek.value__
 $ValueAssets = @(
@@ -50,8 +56,20 @@ $PromptBase
 
 ## DONNÉES INJECTÉES — $Date ($DayName) — Semaine $WeekNumber
 
+### MOTEUR YAP (framework d'idéation + Script Builder) :
+$YAP
+
+### LANGAGE CLIENT — VOC v2 (piocher les mots EXACTS, varier) :
+$VOC
+
+### SYSTÈME INSTAGRAM (cadence + structure Reel) :
+$($SystemeIG.Substring(0, [Math]::Min(3000, $SystemeIG.Length)))
+
+### SYSTÈME LINKEDIN (5 styles YAP = 5 formats) :
+$($SystemeLI.Substring(0, [Math]::Min(3000, $SystemeLI.Length)))
+
 ### CALENDRIER ÉDITORIAL :
-$($Calendrier.Substring(0, [Math]::Min(3000, $Calendrier.Length)))
+$($Calendrier.Substring(0, [Math]::Min(2000, $Calendrier.Length)))
 
 ### VOIX ET STYLE DE CHRIS :
 $($VoixChris.Substring(0, [Math]::Min(2000, $VoixChris.Length)))

@@ -100,12 +100,13 @@ function State-Badge($state) {
     }
 }
 
-$st_kpi         = Get-TaskInfo "BA_Agent_KPI"
-$st_prospection = Get-TaskInfo "BA_Agent_Prospection"
-$st_contenu     = Get-TaskInfo "BA_Agent_Contenu"
-$st_setting     = Get-TaskInfo "BA_Agent_Setting"
-$st_checkin     = Get-TaskInfo "BA_Agent_CheckIn"
-$st_analytics   = Get-TaskInfo "BA_Agent_Analytics"
+# Statut lu sur les tâches jumelles _User (compte Dell, celles qui tournent réellement)
+$st_kpi         = Get-TaskInfo "BA_Agent_KPI_User"
+$st_prospection = Get-TaskInfo "BA_Agent_Prospection_User"
+$st_contenu     = Get-TaskInfo "BA_Agent_Contenu_User"
+$st_setting     = Get-TaskInfo "BA_Agent_Setting_User"
+$st_checkin     = Get-TaskInfo "BA_Agent_CheckIn_User"
+$st_analytics   = Get-TaskInfo "BA_Agent_Analytics_User"
 
 $okr_o2_pct = if ($pipe_signe -ge 3) { 100 } else { [Math]::Round($pipe_signe / 3 * 100) }
 
@@ -194,7 +195,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14
 
 <div class="sec">Vue d'ensemble</div>
 <div class="g4">
-  <div class="card cg"><div class="lbl">Clients IAP actifs</div><div class="val g">$pipe_signe</div><div class="sub">Inner Architecture Program™</div></div>
+  <div class="card cg"><div class="lbl">Clients signés</div><div class="val g">$pipe_signe</div><div class="sub">Construis la Marque™ · phase bêta</div></div>
   <div class="card cb"><div class="lbl">Pipeline total</div><div class="val b">$pipe_total</div><div class="sub">$pipe_entrant entrant · $pipe_booke audit booké</div></div>
   <div class="card ca"><div class="lbl">En réflexion + relance</div><div class="val">$($pipe_reflex + $pipe_relance)</div><div class="sub">$pipe_reflex réflexion · $pipe_relance relance</div></div>
   <div class="card cr"><div class="lbl">Archivés</div><div class="val r">$pipe_archive</div><div class="sub">Nurturing contenu</div></div>
@@ -206,7 +207,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14
   <div class="ps s2"><div class="ps-lbl">Audit Booké</div><div class="ps-n">$pipe_booke</div><div class="ps-s">Appel planifié</div></div>
   <div class="ps s3"><div class="ps-lbl">En Réflexion</div><div class="ps-n">$pipe_reflex</div><div class="ps-s">Appel réalisé</div></div>
   <div class="ps s4"><div class="ps-lbl">Relance</div><div class="ps-n">$pipe_relance</div><div class="ps-s">Séquence active</div></div>
-  <div class="ps s5"><div class="ps-lbl">Signé</div><div class="ps-n">$pipe_signe</div><div class="ps-s">Client IAP™</div></div>
+  <div class="ps s5"><div class="ps-lbl">Signé</div><div class="ps-n">$pipe_signe</div><div class="ps-s">Client Porte 2</div></div>
   <div class="ps s6"><div class="ps-lbl">Archivé</div><div class="ps-n">$pipe_archive</div><div class="ps-s">Nurturing</div></div>
 </div>
 
@@ -219,8 +220,8 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14
     <div class="kr"><div class="kr-h"><span class="kr-l">KR3 — Candidatures Audit/sem.</span><span class="kr-v">0 / 3</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
   </div>
   <div class="okr">
-    <div class="okr-t"><em>O2</em>Signer et livrer les 3 premiers clients IAP</div>
-    <div class="kr"><div class="kr-h"><span class="kr-l">KR1 — Clients IAP signés</span><span class="kr-v">$pipe_signe / 3</span></div><div class="bar"><div class="fill" style="width:$($okr_o2_pct)%"></div></div></div>
+    <div class="okr-t"><em>O2</em>Signer et livrer les 3 premiers clients Construis la Marque™</div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR1 — Clients signés</span><span class="kr-v">$pipe_signe / 3</span></div><div class="bar"><div class="fill" style="width:$($okr_o2_pct)%"></div></div></div>
     <div class="kr"><div class="kr-h"><span class="kr-l">KR2 — Témoignages écrits</span><span class="kr-v">0 / 3</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
     <div class="kr"><div class="kr-h"><span class="kr-l">KR3 — Score satisfaction</span><span class="kr-v">— / ≥8</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
   </div>
@@ -230,6 +231,19 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14
     <div class="kr"><div class="kr-h"><span class="kr-l">KR2 — Stack tech actif</span><span class="kr-v">En cours</span></div><div class="bar"><div class="fill" style="width:65%"></div></div></div>
     <div class="kr"><div class="kr-h"><span class="kr-l">KR3 — KPIs MAJ hebdo</span><span class="kr-v">0 / 10</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
   </div>
+</div>
+
+<div class="sec">Funnel en ligne — Sites Vercel</div>
+<div class="g2">
+  <div class="card ca"><div class="lbl">Porte 1 — Deviens l'Entrepreneur™</div><div class="sub" style="margin:6px 0">0 → 10K€/mois · organique · MRR</div><a href="https://porte-1-deviens-entrepreneur-chris34096s-projects.vercel.app" style="color:var(--accent);font-size:12px;word-break:break-all">porte-1-deviens-entrepreneur…vercel.app ↗</a></div>
+  <div class="card cb"><div class="lbl">Porte 2 — Construis la Marque™</div><div class="sub" style="margin:6px 0">10K → 100K€/mois · scale · candidature</div><a href="https://porte-2-construis-la-marque-chris34096s-projects.vercel.app" style="color:var(--blue);font-size:12px;word-break:break-all">porte-2-construis-la-marque…vercel.app ↗</a></div>
+</div>
+
+<div class="sec">Systèmes de contenu — cadence hebdo (YAP)</div>
+<div class="g3">
+  <div class="card cr"><div class="lbl">Instagram</div><div class="val r" style="font-size:24px">14 · 35 · 7</div><div class="sub">reels · stories · carrousels / sem</div></div>
+  <div class="card cr"><div class="lbl">YouTube</div><div class="val r" style="font-size:24px">1 + 3-4</div><div class="sub">1 long-form + Shorts / sem</div></div>
+  <div class="card cb"><div class="lbl">LinkedIn</div><div class="val b" style="font-size:24px">4 + 2</div><div class="sub">4 posts + 2 carrousels / sem</div></div>
 </div>
 
 <div class="sec">Agents autonomes — Statut</div>
@@ -263,7 +277,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14
 </div>
 <div class="footer">
   <span>Business Ascension™ · Dashboard généré le $DateFR</span>
-  <span>Semaine $WeekNumber · Phase bêta IAP™ · 3-5 premiers clients</span>
+  <span>Semaine $WeekNumber · Phase bêta · Porte 1 &amp; Porte 2</span>
 </div>
 </body></html>
 "@

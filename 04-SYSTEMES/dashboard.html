@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Business Ascension™ — Dashboard</title>
+<style>
+:root {
+  --bg:#0c0c14;--surface:#13131e;--surface2:#1a1a28;--border:#252535;
+  --accent:#e8b84b;--accent-dim:rgba(232,184,75,0.12);
+  --blue:#4f8ef7;--blue-dim:rgba(79,142,247,0.12);
+  --green:#10b981;--green-dim:rgba(16,185,129,0.12);
+  --red:#f43f5e;--red-dim:rgba(244,63,94,0.12);
+  --amber:#f59e0b;--amber-dim:rgba(245,158,11,0.12);
+  --text:#e2e8f0;--muted:#64748b;
+  --font:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;
+  --mono:'Courier New',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14px;line-height:1.5}
+.header{background:var(--surface);border-bottom:1px solid var(--border);padding:14px 28px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+.logo{font-size:17px;font-weight:700;letter-spacing:-.5px}.logo span{color:var(--accent)}
+.meta{font-size:12px;color:var(--muted);text-align:right}.meta strong{color:var(--text);display:block}
+.main{padding:20px 28px;max-width:1600px;margin:0 auto}
+.sec{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);margin:24px 0 12px;display:flex;align-items:center;gap:8px}
+.sec::after{content:'';flex:1;height:1px;background:var(--border)}
+.g4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.g3{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.g2{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px}
+.card:hover{border-color:rgba(232,184,75,.4)}
+.ca{border-left:3px solid var(--accent)}.cb{border-left:3px solid var(--blue)}.cg{border-left:3px solid var(--green)}.cr{border-left:3px solid var(--red)}
+.lbl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px;margin-bottom:6px}
+.val{font-size:32px;font-weight:700;line-height:1;color:var(--accent);margin-bottom:4px}
+.val.b{color:var(--blue)}.val.g{color:var(--green)}.val.r{color:var(--red)}
+.sub{font-size:11px;color:var(--muted)}
+.pipe{display:flex;gap:8px}
+.ps{flex:1;background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 8px;text-align:center;transition:all .2s}
+.ps:hover{border-color:var(--accent);transform:translateY(-2px)}
+.ps-lbl{font-size:10px;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);margin-bottom:8px}
+.ps-n{font-size:28px;font-weight:700;line-height:1;margin-bottom:4px}
+.ps-s{font-size:10px;color:var(--muted)}
+.s1 .ps-n{color:#94a3b8}.s2 .ps-n{color:var(--blue)}.s3 .ps-n{color:var(--amber)}.s4 .ps-n{color:#f97316}.s5 .ps-n{color:var(--green)}.s6 .ps-n{color:var(--muted)}
+.okr{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px}
+.okr-t{font-size:13px;font-weight:600;margin-bottom:12px;line-height:1.4}
+.okr-t em{font-size:10px;background:var(--accent-dim);color:var(--accent);padding:2px 6px;border-radius:4px;font-style:normal;font-weight:500;margin-right:6px}
+.kr{margin-bottom:10px}
+.kr-h{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px}
+.kr-l{font-size:11px;color:var(--muted)}.kr-v{font-size:11px;color:var(--text);font-weight:500}
+.bar{height:5px;background:var(--border);border-radius:3px;overflow:hidden}
+.fill{height:100%;border-radius:3px;background:linear-gradient(90deg,var(--accent),var(--blue));transition:width .5s}
+.arow{display:flex;align-items:center;padding:10px 0;border-bottom:1px solid var(--border);gap:12px}
+.arow:last-child{border-bottom:none}
+.aic{width:32px;height:32px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:15px;flex-shrink:0}
+.ap{background:var(--blue-dim)}.as{background:var(--amber-dim)}.ac{background:var(--green-dim)}.ak{background:var(--accent-dim)}.av{background:var(--red-dim)}
+.ainfo{flex:1;min-width:0}
+.aname{font-size:13px;font-weight:600}.ameta{font-size:11px;color:var(--muted)}
+.atimes{text-align:right;font-size:11px}
+.atimes .ll{color:var(--muted)}.atimes .nn{color:var(--blue);font-weight:500}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+.badge-green{background:var(--green-dim);color:var(--green)}.badge-blue{background:var(--blue-dim);color:var(--blue)}.badge-red{background:var(--red-dim);color:var(--red)}.badge-gray{background:var(--border);color:var(--muted)}
+.out{background:var(--surface);border:1px solid var(--border);border-radius:10px;overflow:hidden}
+.out-h{padding:11px 14px;background:var(--surface2);border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}
+.out-t{font-size:13px;font-weight:600}.out-d{font-size:11px;color:var(--muted)}
+.out-p{padding:12px 14px;font-family:var(--mono);font-size:11px;line-height:1.6;color:#94a3b8;white-space:pre-wrap;max-height:200px;overflow:hidden;position:relative}
+.out-p::after{content:'';position:absolute;bottom:0;left:0;right:0;height:50px;background:linear-gradient(transparent,var(--surface))}
+.footer{margin-top:36px;padding:16px 28px;border-top:1px solid var(--border);display:flex;justify-content:space-between;font-size:11px;color:var(--muted)}
+@media(max-width:1100px){.g4{grid-template-columns:repeat(2,1fr)}.pipe{flex-wrap:wrap}}
+@media(max-width:768px){.main{padding:12px}.g4,.g3,.g2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="logo">Business <span>Ascension™</span></div>
+  <div class="meta"><strong>Semaine 23</strong>mardi 9 juin 2026</div>
+</div>
+<div class="main">
+
+<div class="sec">Vue d'ensemble</div>
+<div class="g4">
+  <div class="card cg"><div class="lbl">Clients signés</div><div class="val g">4</div><div class="sub">Construis la Marque™ · phase bêta</div></div>
+  <div class="card cb"><div class="lbl">Pipeline total</div><div class="val b">14</div><div class="sub">3 entrant · 1 audit booké</div></div>
+  <div class="card ca"><div class="lbl">En réflexion + relance</div><div class="val">3</div><div class="sub">2 réflexion · 1 relance</div></div>
+  <div class="card cr"><div class="lbl">Archivés</div><div class="val r">3</div><div class="sub">Nurturing contenu</div></div>
+</div>
+
+<div class="sec">Pipeline — Funnel de conversion</div>
+<div class="pipe">
+  <div class="ps s1"><div class="ps-lbl">Entrant</div><div class="ps-n">3</div><div class="ps-s">DM / Formulaire</div></div>
+  <div class="ps s2"><div class="ps-lbl">Audit Booké</div><div class="ps-n">1</div><div class="ps-s">Appel planifié</div></div>
+  <div class="ps s3"><div class="ps-lbl">En Réflexion</div><div class="ps-n">2</div><div class="ps-s">Appel réalisé</div></div>
+  <div class="ps s4"><div class="ps-lbl">Relance</div><div class="ps-n">1</div><div class="ps-s">Séquence active</div></div>
+  <div class="ps s5"><div class="ps-lbl">Signé</div><div class="ps-n">4</div><div class="ps-s">Client Porte 2</div></div>
+  <div class="ps s6"><div class="ps-lbl">Archivé</div><div class="ps-n">3</div><div class="ps-s">Nurturing</div></div>
+</div>
+
+<div class="sec">OKRs — Q2 2026 (Mai → Juillet)</div>
+<div class="g3">
+  <div class="okr">
+    <div class="okr-t"><em>O1</em>Référence évidente pour les entrepreneurs qui stagnent</div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR1 — Reels (10 semaines)</span><span class="kr-v">0 / 50</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR2 — Abonnés qualifiés</span><span class="kr-v">0 / 500</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR3 — Candidatures Audit/sem.</span><span class="kr-v">0 / 3</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
+  </div>
+  <div class="okr">
+    <div class="okr-t"><em>O2</em>Signer et livrer les 3 premiers clients Construis la Marque™</div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR1 — Clients signés</span><span class="kr-v">4 / 3</span></div><div class="bar"><div class="fill" style="width:100%"></div></div></div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR2 — Témoignages écrits</span><span class="kr-v">0 / 3</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR3 — Score satisfaction</span><span class="kr-v">— / ≥8</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
+  </div>
+  <div class="okr">
+    <div class="okr-t"><em>O3</em>Bases opérationnelles du Business Operating System</div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR1 — Documents BOS</span><span class="kr-v">8 / 8</span></div><div class="bar"><div class="fill" style="width:100%"></div></div></div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR2 — Stack tech actif</span><span class="kr-v">En cours</span></div><div class="bar"><div class="fill" style="width:65%"></div></div></div>
+    <div class="kr"><div class="kr-h"><span class="kr-l">KR3 — KPIs MAJ hebdo</span><span class="kr-v">0 / 10</span></div><div class="bar"><div class="fill" style="width:0%"></div></div></div>
+  </div>
+</div>
+
+<div class="sec">Funnel en ligne — Sites Vercel</div>
+<div class="g2">
+  <div class="card ca"><div class="lbl">Porte 1 — Deviens l'Entrepreneur™</div><div class="sub" style="margin:6px 0">0 → 10K€/mois · organique · MRR</div><a href="https://porte-1-deviens-entrepreneur-chris34096s-projects.vercel.app" style="color:var(--accent);font-size:12px;word-break:break-all">porte-1-deviens-entrepreneur…vercel.app ↗</a></div>
+  <div class="card cb"><div class="lbl">Porte 2 — Construis la Marque™</div><div class="sub" style="margin:6px 0">10K → 100K€/mois · scale · candidature</div><a href="https://porte-2-construis-la-marque-chris34096s-projects.vercel.app" style="color:var(--blue);font-size:12px;word-break:break-all">porte-2-construis-la-marque…vercel.app ↗</a></div>
+</div>
+
+<div class="sec">Systèmes de contenu — cadence hebdo (YAP)</div>
+<div class="g3">
+  <div class="card cr"><div class="lbl">Instagram</div><div class="val r" style="font-size:24px">14 · 35 · 7</div><div class="sub">reels · stories · carrousels / sem</div></div>
+  <div class="card cr"><div class="lbl">YouTube</div><div class="val r" style="font-size:24px">1 + 3-4</div><div class="sub">1 long-form + Shorts / sem</div></div>
+  <div class="card cb"><div class="lbl">LinkedIn</div><div class="val b" style="font-size:24px">4 + 2</div><div class="sub">4 posts + 2 carrousels / sem</div></div>
+</div>
+
+<div class="sec">Agents autonomes — Statut</div>
+<div class="g2">
+  <div class="card">
+    <div class="arow"><div class="aic ap">📡</div><div class="ainfo"><div class="aname">Agent Prospection</div><div class="ameta">Lun-Ven 08h00 · <span class="badge badge-gray">—</span></div></div><div class="atimes"><div class="ll">Dernier : —</div><div class="nn">Prochain : —</div></div></div>
+    <div class="arow"><div class="aic as">🌙</div><div class="ainfo"><div class="aname">Agent Setting</div><div class="ameta">Lun-Ven 18h00 · <span class="badge badge-gray">—</span></div></div><div class="atimes"><div class="ll">Dernier : —</div><div class="nn">Prochain : —</div></div></div>
+    <div class="arow"><div class="aic ac">✍️</div><div class="ainfo"><div class="aname">Agent Contenu</div><div class="ameta">Lun/Mer/Ven 09h00 · <span class="badge badge-gray">—</span></div></div><div class="atimes"><div class="ll">Dernier : —</div><div class="nn">Prochain : —</div></div></div>
+    <div class="arow"><div class="aic ak">📊</div><div class="ainfo"><div class="aname">Agent KPI</div><div class="ameta">Lundi 07h00 · <span class="badge badge-gray">—</span></div></div><div class="atimes"><div class="ll">Dernier : —</div><div class="nn">Prochain : —</div></div></div>
+  </div>
+  <div class="card">
+    <div class="arow"><div class="aic ap">🤝</div><div class="ainfo"><div class="aname">Agent Check-in Client</div><div class="ameta">Vendredi 15h00 · <span class="badge badge-gray">—</span></div></div><div class="atimes"><div class="ll">Dernier : —</div><div class="nn">Prochain : —</div></div></div>
+    <div class="arow"><div class="aic ac">📈</div><div class="ainfo"><div class="aname">Agent Analytics</div><div class="ameta">Mercredi 08h00 · <span class="badge badge-gray">—</span></div></div><div class="atimes"><div class="ll">Dernier : —</div><div class="nn">Prochain : —</div></div></div>
+    <div class="arow"><div class="aic av">🎬</div><div class="ainfo"><div class="aname">Agent VSL</div><div class="ameta">Manuel · /vsl dans Telegram</div></div><div class="atimes"><div class="ll">Dernier : Jamais</div><div class="nn" style="color:var(--muted)">À la demande</div></div></div>
+    <div class="arow"><div class="aic ap">🤖</div><div class="ainfo"><div class="aname">Bot Telegram</div><div class="ameta">Permanent · Startup Windows</div></div><div class="atimes"><div class="ll" style="color:var(--green)">● Actif 24/7</div><div class="nn" style="color:var(--muted)">@BusinessAscensionbot</div></div></div>
+  </div>
+</div>
+
+<div class="sec">Derniers rapports agents</div>
+<div class="g3">
+  <div class="out"><div class="out-h"><span class="out-t">📊 Rapport KPI</span><span class="out-d">28/05 07:13</span></div><div class="out-p"># Rapport KPI — Semaine 22 — Lundi 2026-05-28
+
+---
+
+## PIPELINE — État des lieux
+
+| Statut | Nombre |
+|---|---|
+| ENTRANT | 0 |
+| AUDIT BOOKÉ | 0 |
+| EN RÉFLEXION | 0 |
+| RELANCE EN COURS | 0 |
+| SIGNÉS (cumul) | 0 |
+| ARCHIVÉS | 0 |</div></div>
+  <div class="out"><div class="out-h"><span class="out-t">📡 Rapport Prospection</span><span class="out-d">09/06 17:45</span></div><div class="out-p">Daily brief et tracker vides — système en jour J. Je génère le rapport complet depuis zéro.
+
+---
+
+# Rapport Prospection — 2026-06-02 (Mardi)
+
+---
+
+## PIPELINE — État actuel
+
+Pipeline vierge. Aucun prospect actif, aucune relance en cours, aucun Audit booké. C'est le jour 1 opérationnel de l'agent.
+
+**Ce que ça signifie :** tout l'effort aujourd'hui va sur la prospection froide. Pas de relances, pas de conversions à gérer — juste alimenter la machine en haut du funnel.
+
+Objectif de la journée : 10 DMs envoyés, 3+ conversations ouvertes.</div></div>
+  <div class="out"><div class="out-h"><span class="out-t">✍️ Rapport Contenu</span><span class="out-d">09/06 17:45</span></div><div class="out-p"># Rapport Contenu — 2026-06-03 (mercredi) — Le BOS 6 pôles : ton business improvise
+
+## POST LINKEDIN
+
+Ton business tourne. Mais aucun des 6 pôles n'est vraiment construit.
+
+C'est pour ça que ça patine.
+
+Tu connais cette sensation : le mois est correct, t'as encaissé, t'as livré, t'as répondu aux DM, t'as fait des calls. Le mois suivant tu recommences à zéro. Pas de capitalisation. Pas de structure qui tient sans toi. Juste toi qui redonnes un coup de collier.
+
+C'est pas un problème de discipline. C'est un problème d'architecture.
+
+La plupart des entrepreneurs que je diagnostiqu...</div></div>
+</div>
+<div class="g3" style="margin-top:12px">
+  <div class="out"><div class="out-h"><span class="out-t">🌙 Rapport Setting</span><span class="out-d">01/06 18:00</span></div><div class="out-p"># Rapport Setting ÔÇö 2026-06-01 (lundi soir)
+
+---
+
+## BILAN DU JOUR
+
+- **R├®ponses actives :** 0
+- **Audits book├®s cette semaine :** 0
+- **Signal du jour :** Premier lundi du mois ÔÇö pipeline vierge = base saine pour repartir de z├®ro avec m├®thode.
+
+---
+
+## ├ëTAT DU PIPELINE
+
+Le tableau de suivi est actuellement vide. Aucun prospect actif ├á traiter ce soir.</div></div>
+  <div class="out"><div class="out-h"><span class="out-t">🤝 Rapport Check-in</span><span class="out-d">31/05 16:19</span></div><div class="out-p">API Error: Unable to connect to API: SSL certificate hostname mismatch</div></div>
+  <div class="out"><div class="out-h"><span class="out-t">🎬 Rapport VSL</span><span class="out-d">Jamais</span></div><div class="out-p">Aucun rapport généré</div></div>
+</div>
+
+</div>
+<div class="footer">
+  <span>Business Ascension™ · Dashboard généré le mardi 9 juin 2026</span>
+  <span>Semaine 23 · Phase bêta · Porte 1 &amp; Porte 2</span>
+</div>
+</body></html>
