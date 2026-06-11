@@ -154,6 +154,34 @@ Génère la fiche objection complète en format markdown.
                     } catch { Send-Telegram "Erreur objection : $_" }
                     break
                 }
+                { $text -like "/prospect*" } {
+                    $info = $text -replace "^/prospect\s*", ""
+                    if ($info.Length -lt 5) {
+                        Send-Telegram "Usage : /prospect [nom plateforme statut notes]`nEx : /prospect Julie IG entrant a commente SYSTEME, coach sportive, vivote"
+                        break
+                    }
+                    try {
+                        $pipelineFile = "$ProjectRoot/02-SALES/pipeline-suivi.md"
+                        $entry = "`n- [$(Get-Date -Format 'yyyy-MM-dd HH:mm')] ENTRANT (via bot) — $info"
+                        Add-Content -Path $pipelineFile -Value $entry -Encoding UTF8
+                        Send-Telegram "Prospect ajoute au pipeline :`n$info`n`nL'agent Setting le traite ce soir a 18h (relance prete demain matin)."
+                    } catch { Send-Telegram "Erreur /prospect : $_" }
+                    break
+                }
+                { $text -like "/prospect*" } {
+                    $info = $text -replace "^/prospect\s*", ""
+                    if ($info.Length -lt 5) {
+                        Send-Telegram "Usage : /prospect [nom plateforme statut notes]`nEx : /prospect Julie IG entrant a commente SYSTEME, coach sportive, vivote"
+                        break
+                    }
+                    try {
+                        $pipelineFile = "$ProjectRoot/02-SALES/pipeline-suivi.md"
+                        $entry = "`n- [$(Get-Date -Format 'yyyy-MM-dd HH:mm')] ENTRANT (via bot) — $info"
+                        Add-Content -Path $pipelineFile -Value $entry -Encoding UTF8
+                        Send-Telegram "Prospect ajoute au pipeline :`n$info`n`nL'agent Setting le traite ce soir a 18h (relance prete demain matin)."
+                    } catch { Send-Telegram "Erreur /prospect : $_" }
+                    break
+                }
                 { $_ -in "/aide", "/help" } {
                     Send-Telegram @"
 COMMANDES RAPIDES :

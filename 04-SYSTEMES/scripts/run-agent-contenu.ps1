@@ -48,6 +48,14 @@ if (Test-Path $VAFile) {
     $ValueAsset = $content.Substring(0, [Math]::Min(2000, $content.Length))
 }
 
+# Chaînage VEILLE → CONTENU : injecter le dernier rapport de veille concurrents
+$VeilleContent = "Aucun rapport de veille disponible pour le moment."
+$LatestVeille = Get-ChildItem $OutputDir -Filter "veille-*.md" -ErrorAction SilentlyContinue | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+if ($LatestVeille) {
+    $vraw = Get-Content $LatestVeille.FullName -Raw -Encoding UTF8
+    $VeilleContent = "[Rapport : $($LatestVeille.Name)]`n" + $vraw.Substring(0, [Math]::Min(3000, $vraw.Length))
+}
+
 # Rotation tunnel TOFU/MOFU/BOFU — garantit la répartition 4/3/3 sur 10 contenus (5 runs x 2 pièces)
 # Pattern (LinkedIn, Reel) sur 5 runs : (TOFU,TOFU)(MOFU,BOFU)(TOFU,MOFU)(BOFU,TOFU)(MOFU,BOFU)
 # => TOFU=4 · MOFU=3 · BOFU=3
@@ -104,6 +112,9 @@ $($VoixChris.Substring(0, [Math]::Min(2000, $VoixChris.Length)))
 
 ### VALUE ASSET DE RÉFÉRENCE DU JOUR :
 $ValueAsset
+
+### VEILLE CONCURRENTS — dernier rapport (S'INSPIRER des angles qui marchent, ne JAMAIS copier) :
+$VeilleContent
 
 ---
 
