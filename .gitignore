@@ -20,6 +20,11 @@ graphify-out/
 # === ARTEFACTS GRAPHIFY ÉGARÉS À LA RACINE ===
 /_COMMUNITY_*.md
 
+# === DOSSIERS PARASITES (copies accidentelles du projet) ===
+/Ascension™/
+/CODE/
+04-SYSTEMES/scripts/Ascension™/
+
 # === OS ===
 Thumbs.db
 desktop.ini
