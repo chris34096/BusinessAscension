@@ -64,7 +64,7 @@ Ses premiers 10K€/mois réguliers. Construits autour de qui il est. Sans chang
 ### ICP 2 — CONSTRUIS LA MARQUE™ (10K→100K€/mois)
 
 **Qui c'est :**
-Entrepreneur, coach, consultant, expert — qui fait déjà du CA. 5K€+/mois. Il a prouvé son concept. Il veut scaler. Il veut une marque catégorie à part. Il veut des leads entrants quotidiens. Il veut vendre par message à des tarifs premium.
+Entrepreneur, coach, consultant, expert — qui fait déjà du CA. 10K€+/mois. Il a prouvé son concept. Il veut scaler. Il veut une marque catégorie à part. Il veut des leads entrants quotidiens. Il veut vendre par message à des tarifs premium.
 
 **Ce qu'il vit :**
 - Il fait du CA, mais jamais deux mois pareils. Rien de prévisible
@@ -74,7 +74,7 @@ Entrepreneur, coach, consultant, expert — qui fait déjà du CA. 5K€+/mois. 
 - Il veut une marque qui le positionne comme catégorie à part
 
 **Ce qui le bloque :**
-Son positionnement n'est pas assez fort. Son offre n'est pas architecturée pour scaluer. Son système de conversion par message n'est pas en place. Et son identité de marque n'est pas encore assez tranchée pour créer de l'inbound massif.
+Son positionnement n'est pas assez fort. Son offre n'est pas architecturée pour scaler. Son système de conversion par message n'est pas en place. Et son identité de marque n'est pas encore assez tranchée pour créer de l'inbound massif.
 
 **Ce qu'il veut vraiment :**
 Une marque à 10K–100K€/mois. Des clients présoldés qui arrivent dans ses DMs. Vendre par message. Un business qui tourne avec ou sans lui.

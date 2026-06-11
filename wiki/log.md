@@ -1,4 +1,19 @@
-﻿## 2026-06-10 — LINT : purge liens cassés (dents-de-scie + inner-architecture-protocol) + reframe v10
+﻿## 2026-06-11 — VPS opérationnel + bot Telegram réparé + 4 sites copywriting v2
+- **VPS Hetzner (root@128.140.52.85)** : audit complet. Bot ba-bot.service actif · 6 crons agents + git pull horaire · 6 skills Hermes BA (`~/.hermes/skills/ba/`) · repo synced.
+- **Bot Telegram réparé — 2 bugs** : (1) `$TELEGRAM_TOKEN` (jamais défini) → `$TelegramToken` du config = polling 404 résolu · (2) `$ProjectRoot` Windows hardcodé → cross-platform `if ($IsWindows)` + forward slashes = erreur `-Raw` pwsh Linux résolue. Commits 884ae79 + 0d81d08.
+- **Hermes Agent** : Nous Portal sans crédits pour claude-opus-4.6 → repassé sur `stepfun/step-3.7-flash:free` (config.yaml), test chat OK. Processus `hermes setup` bloqué tué (c'était lui qui demandait un password).
+- **Agents validés end-to-end** : run-agent-kpi.ps1 exécuté manuellement via run-agent.sh → output 4 Ko généré par claude CLI. Crédits API revenus (le "Credit balance is too low" datait du 09/06).
+- **4 sites Vercel — copywriting neuromarketing v2 déployés** :
+  - Audit offert (audit-offert.vercel.app) : refonte complète — mécanisme 3 étapes, promesse anti-pitch, 2 témoignages Wistia, FAQ objections, rareté honnête, CTA scroll.
+  - Porte 1 : pont Audit offert (hero + plans + final + footer), bloc garantie 30 jours visible ("le risque est sur moi").
+  - Porte 2 : réassurance candidature ("je lis moi-même, réponse 48h, pas un appel scripté"), footer.
+  - Quiz : **fix liens relatifs cassés → URLs absolues** (étaient brisés en prod, projets Vercel séparés), CTA Audit offert élevé en card dédiée sur le résultat.
+- URLs canoniques : porte-1-deviens-entrepreneur.vercel.app · porte-2-construis-la-marque.vercel.app · audit-offert.vercel.app · quiz-entrepreneur-tan.vercel.app
+- Conflits détectés : aucun. Reste : tester /aide et /brief sur Telegram (fix déployé), boutons plans P1 toujours en href="#" (liens paiement à brancher).
+
+---
+
+## 2026-06-10 — LINT : purge liens cassés (dents-de-scie + inner-architecture-protocol) + reframe v10
 - **Liens cassés réparés** (pages supprimées au reboot) : `[[dents-de-scie]]` → `[[etat-zero-etat-heros]]` · `[[inner-architecture-protocol]]` → `[[business-ascension]]`. Dédup là où le successeur était déjà présent.
 - **Concepts wiki nettoyés** : don-quichotte, introspectatrice, goulot-etranglement, etat-zero-etat-heros (self-link retiré), audit-offert, bos-6-poles, concurrence-francophone, sources value-assets + reels-scripts-qa.
 - **Fichiers opérationnels** : 6 value-assets (frontmatter Wiki + SEO keywords "inner architecture" supprimés), 4 SOPs, agent-checkin-prompt, CLAUDE.md (arbre + accès rapide), INDEX.md, wiki/SCHEMA.md (exemples).

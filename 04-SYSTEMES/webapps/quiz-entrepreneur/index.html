@@ -33,9 +33,9 @@
   const SUPABASE_ANON = "sb_publishable_OXdpbyBVzZ1QzeZ03SEQuw_YCep41Bl";
   // Liens de routage — pages premium siblings (déployées sous webapps/) ou GHL
   const LINKS = {
-    porte1: "../porte-1-deviens-entrepreneur/",
-    porte2: "../porte-2-construis-la-marque/",
-    audit:  "../audit-offert/"
+    porte1: "https://porte-1-deviens-entrepreneur.vercel.app/",
+    porte2: "https://porte-2-construis-la-marque.vercel.app/",
+    audit:  "https://audit-offert.vercel.app/"
   };
 </script>
 
@@ -107,7 +107,11 @@
 
     <div class="text-center">
       <a id="ctaMain" href="#" class="gold-bg font-bold px-8 py-4 rounded-xl text-lg inline-block w-full md:w-auto"></a>
-      <div class="mt-4"><a id="ctaAudit" href="#" class="text-gray-400 hover:text-white text-sm">Tu préfères qu'on regarde ton cas ensemble ? → Réserver l'Audit offert</a></div>
+      <div class="card rounded-2xl p-5 mt-6 max-w-md mx-auto">
+        <p class="text-white font-semibold mb-1">Tu veux un diagnostic sur TON cas précis ?</p>
+        <p class="text-gray-400 text-sm mb-3">30 minutes avec Chris. On trouve ton goulot, tu repars avec une direction claire. Offert.</p>
+        <a id="ctaAudit" href="#" class="gold-br gold font-semibold px-6 py-3 rounded-xl inline-block text-sm hover:bg-[#1a1a26] transition">Réserver mon Audit offert →</a>
+      </div>
     </div>
   </section>
 

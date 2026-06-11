@@ -10,10 +10,10 @@
 
 Deux portes. Une marque. Une ascension.
 
-**Business Ascension™** construit des entrepreneurs qui font du chiffre de façon prévisible — en alignant leur business avec qui ils sont (identité) ET en construisant le système d'acquisition (business), en même temps.
+**Business Ascension™** construit des entrepreneurs qui font du chiffre de façon prévisible en alignant leur business avec qui ils sont (identité) ET en construisant le système d'acquisition (business), en même temps.
 
 - **Porte 1** = on construit les **fondations + l'écosystème organique** → premiers 10K€/mois réguliers + une communauté.
-- **Porte 2** = on **scale** ce qui a été construit avec l'acquisition payante, le recrutement et l'automatisation → 10K→100K€/mois.
+- **Porte 2** = on **scale** ce qui a été construit avec la porte 1 et on fait de l'acquisition payante, le recrutement et l'automatisation → 10K→100K€/mois.
 
 Le différenciateur : identité + business **simultané**, chaque semaine. Pas l'un puis l'autre.
 
@@ -24,16 +24,6 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 **I · Identité & Exécution** — Breathwork · Hypnose · PNL · Neurosciences · Reconditionnement. On enlève ce qui bloque l'exécution à la source. *Présent en Porte 1 ET Porte 2.*
 
 **II · Business & Marketing** — Offre · Positionnement · Contenu qui pré-vend · Leads entrants · Vendre par message · Systèmes d'acquisition · BOS 6 pôles.
-
----
-
-## LOW TICKET — L'entrée BA™ (7–27€)
-
-**Produit vidéo de BA™** (pas construit pour le client) : un produit à bas prix (7–27€) qui **enseigne la méthode** en vidéos.
-
-**Rôle :** offre **auto-liquidante** — le low ticket finance l'acquisition (ads/contenu), donc on acquiert des clients **~gratuitement**, puis on les fait monter dans l'ascension vers Porte 1 puis Porte 2.
-
-C'est la première marche du funnel BA™ : il qualifie, il donne un premier résultat, et il déclenche l'ascension.
 
 ---
 
