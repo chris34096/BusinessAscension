@@ -46,6 +46,17 @@ Créateur anglophone (UK) le plus proche de Chris en structure, positionnement e
 
 **Lecture BA™ :** (1) le "pas de prix public" de la Porte 2 est CONFIRMÉ par le modèle BTB ; (2) la variable de pricing chez Tom = **la proximité** (fréquence/profondeur d'accès) — grille interne utile pour justifier l'ancrage P2 en appel ; (3) candidature légère par message (WhatsApp, 24h) vs formulaire lourd ; (4) il n'offre AUCUNE garantie — la garantie 30j BA™ est un différenciateur dans le marché FR défiant ; (5) ne pas copier le +50% sans preuves clients documentées.
 
+### 🔥 Prix réels BTB (DM Instagram Chris ↔ Tom, 2026-06-11)
+
+| Niveau | Mensuel | 3 mois | 6 mois | Délivré |
+|---|---|---|---|---|
+| **Brand 3.0 Signature + Mastermind** | £1 950 | £4 950 | £8 450 | Programme + mastermind hebdo GROUPE + **1 seule** session 1:1 |
+| **Blackroom Consulting** ("1 space remaining") | £3 500 | £10 000 | £17 500 | WhatsApp perso 24/7 + calls 1:1 illimités |
+
+**Mots de Tom :** BTM = "primarily physique 1-1" + fondation personal branding · BTB = "much higher level on branding and all systems and 1-1 to go to 50k/mo, 100k/mo".
+
+**⚡ Insight :** la Porte 2 BA™ (1:1 HEBDO, 12 mois, ancrage 4 997€ ≈ 416€/mois) = un accès niveau Blackroom (£3 500/mois) à ~1/8 du prix. Ancrage d'appel massif + confiance totale pour la progression 7K→9K→12K. Vigilance : Tom délivre Signature en groupe et vend le 1:1 à part — à 10+ clients P2, le 1:1 hebdo de Chris devient le goulot.
+
 ---
 
 ## Son univers
