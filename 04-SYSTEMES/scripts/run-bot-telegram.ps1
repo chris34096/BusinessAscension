@@ -37,7 +37,7 @@ Write-Host "Bot Telegram en ecoute... (Ctrl+C pour arreter)"
 
 while ($true) {
     try {
-        $url = "https://api.telegram.org/bot$TELEGRAM_TOKEN/getUpdates?timeout=30&offset=$offset"
+        $url = "https://api.telegram.org/bot$TelegramToken/getUpdates?timeout=30&offset=$offset"
         $updates = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 35
 
         foreach ($update in $updates.result) {
