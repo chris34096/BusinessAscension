@@ -23,6 +23,31 @@ Créateur anglophone (UK) le plus proche de Chris en structure, positionnement e
 
 ---
 
+## ⚠️ RESTRUCTURATION TOM — relevée le 2026-06-11
+
+**Become The Man · Elite (becometheman01.com)** — +50% de prix, entrée désormais 1-1 :
+- 3 mois £1 497 (3×£549) · 6 mois £2 497 (6×£459, "Most Picked") · 12 mois £3 497 (12×£369, "Best Value")
+- Cartes pricing : économies chiffrées "Save £497 / nearly £2,500 **vs rolling 3-monthly**"
+- Inclut : protocole custom 48h écrit par Tom · **chat direct 1-1** · mastermind mensuel · tous modules · bonus personal branding
+- **"No application. No bullshit calls"** (achat direct) · rareté douce (intake limité/mois, waitlist, "le prix ne fera que monter") · **aucune garantie**
+- Positionnement : "Elite Physique. Elite Cognitive Performance. Elite Entrepreneur. All Round." · "Become unrecognisable every six months"
+
+**Apex VIP Inner Circle (nouveau)** — la proximité comme produit :
+- Candidature **par WhatsApp** (pas de formulaire) · **prix plancher public "From £1,250/month"** · scale avec le niveau d'accès (calls bimensuels/hebdo/in-person Bali-Dubaï) · 24/7
+- "Proximity is everything" · "This was never a course you bought. It is access to me."
+
+**Build The Brand (buildthebrand01.com)** — analogue direct de la Porte 2 BA™ :
+- Promesse : expertise → marque "one of one" · 10K→100K+/mois · acheteurs entrants quotidiens présoldés
+- **3 niveaux derrière UNE candidature** : I. Signature Program + Mastermind (système 8 étapes + collectif) · II. Blackroom Consulting (+ consulting direct quotidien) · III. Custom Built (done-for-you)
+- Le niveau est déterminé ENSEMBLE après conversation — **aucun prix public** ("l'investissement s'ajuste à la profondeur et la proximité")
+- Process : candidature 2 min → **conversation WhatsApp sous 24h** → niveau défini → démarrage immédiat
+- Preuve : cas chiffrés (Spencer £7K→£140K/mois en 10 mois · Matt £0→£20K en 60j · Besharah £0→£10K/mois en 14j · Nathan £9K en 48h) + 12 captures DM
+- Aucune garantie · "Le succès aime la vitesse"
+
+**Lecture BA™ :** (1) le "pas de prix public" de la Porte 2 est CONFIRMÉ par le modèle BTB ; (2) la variable de pricing chez Tom = **la proximité** (fréquence/profondeur d'accès) — grille interne utile pour justifier l'ancrage P2 en appel ; (3) candidature légère par message (WhatsApp, 24h) vs formulaire lourd ; (4) il n'offre AUCUNE garantie — la garantie 30j BA™ est un différenciateur dans le marché FR défiant ; (5) ne pas copier le +50% sans preuves clients documentées.
+
+---
+
 ## Son univers
 
 **Tagline :** "Become The Man. Build The Brand. Live The Life."
