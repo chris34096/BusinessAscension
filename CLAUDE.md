@@ -150,7 +150,7 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 │   └── dm-sequence-linkedin-instagram.md ← v1.0 ✅
 │
 ├── 03-DELIVERY/
-│   ├── curriculum-iap.md           ← v1.0 ✅
+│   ├── curriculum-portes.md        ← v3.0 ✅  ← 2 portes · 8 étapes · P1 MRR / P2 12 mois 1:1
 │   └── business-playbook-template.md ← v1.0 ✅
 │
 ├── 04-SYSTEMES/
@@ -297,7 +297,7 @@ Le branding de BA™ = **Business + Identité en simultané**. Pas la douleur é
 - Cible : `01-MARKETING/_fondations/ma-cible.md`
 - Voix : `01-MARKETING/_fondations/ma-voix.md`
 - Offres : `01-MARKETING/_fondations/mes-offres.md`
-- Curriculum : `03-DELIVERY/curriculum-iap.md`
+- Curriculum : `03-DELIVERY/curriculum-portes.md`
 
 **Langue :** Français. Tutoiement. Oral. Pas de langue de bois.
 
@@ -341,7 +341,7 @@ Le branding de BA™ = **Business + Identité en simultané**. Pas la douleur é
 
 **350 personnes accompagnées :** Contexte transformation personnelle (familles hypersensibles), pas business. Ce background valide la profondeur du travail inner — pas les cas business.
 
-**Stade actuel :** Phase bêta (3-5 premiers clients à 4 997€). L'objectif est de documenter les preuves pour monter à 7 000€ puis 9 000-12 000€.
+**Stade actuel :** Phase bêta — 3-5 premiers clients Construis la Marque™ (prix annoncé en appel uniquement · ancrage interne bêta 4 997€) + lancement Porte 1 (MRR public). L'objectif est de documenter les preuves pour monter l'ancrage à 7 000€ puis 9 000-12 000€.
 
 **Marchés cibles dans l'ordre :** France → anglophone → hispanophone.
 

@@ -1,4 +1,4 @@
-# BUSINESS PLAYBOOK — [NOM DU CLIENT]
+﻿# BUSINESS PLAYBOOK — [NOM DU CLIENT]
 > Construis la Marque™ × Business Ascension™
 > Programme Increment : [DATE DÉBUT] → [DATE FIN]
 > Version finale remise en semaine 12 — Session de clôture
@@ -296,7 +296,7 @@ contenu → DM → formulaire → Audit offert]
 **Questions pour le témoignage :**
 1. Quelle était ta situation avant le programme (en chiffres) ?
 2. Quel était le vrai problème sous-jacent ?
-3. Qu'est-ce qui a vraiment changé pendant les 12 semaines ?
+3. Qu'est-ce qui a vraiment changé pendant l'accompagnement ?
 4. Quelle est ta situation aujourd'hui (en chiffres) ?
 5. À qui recommanderais-tu ce programme ?
 

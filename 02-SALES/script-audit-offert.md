@@ -210,21 +210,23 @@ Bloc 5 — Présentation + closing (7 min)
 
 > "Là, si tu veux, je te dis ce que je ferais avec toi.
 >
-> Ce que j'ai mis en place, c'est Construis la Marque™ — 3 mois, 12 semaines. On travaille deux choses en même temps chaque semaine :
+> Ce que j'ai mis en place, c'est Construis la Marque™ — un parcours unique de 12 mois, en 1:1 avec moi. On travaille deux choses en même temps chaque semaine :
 >
-> D'un côté, on désactive ce qui bloque à l'intérieur — breathwork pour réguler le système nerveux, hypnose sur le pattern précis qui t'empêche d'avancer, PNL pour ancrer les nouveaux comportements. Pas au niveau des croyances — au niveau de la source.
+> D'un côté, on désactive ce qui bloque à l'intérieur — breathwork, hypnose sur le pattern précis qui t'empêche d'avancer, PNL pour ancrer les nouveaux comportements. Pas au niveau des croyances — au niveau de la source.
 >
-> De l'autre côté, on construit ton Business Operating System — ton acquisition, ta conversion, ton delivery, tes systèmes. Avec une roadmap construite pour ta situation à toi — pas un programme générique.
+> De l'autre côté, on scale ton business — ta marque catégorie à part, ton acquisition payante par-dessus l'organique, ton recrutement pour sortir de l'opérationnel, ton automatisation. Avec une roadmap construite pour ta situation à toi — pas un accompagnement générique.
 >
-> Des cycles de 2 semaines, un backlog priorisé, des objectifs mesurables. Tu sais exactement où tu en es à chaque moment.
+> Des sprints de 2 semaines, un backlog priorisé, des objectifs mesurables. Tu sais exactement où tu en es à chaque moment.
 >
-> À la fin des 3 mois, t'as 5 livrables concrets : un diagnostic écrit, une roadmap 12 semaines, tous les enregistrements de sessions, tes exercices inter-sessions, et ton Business Playbook complet — le BOS documenté de ton entreprise."
+> Au fil des 12 mois, t'as des livrables concrets à chaque trimestre : ton diagnostic écrit, ta roadmap 12 mois, ta machine d'acquisition rentable, ton équipe en place, et ton Business Playbook complet — le système documenté de ton entreprise."
+
+> *(Si le prospect est ICP Porte 1 — pas encore 10K/mois : présenter Deviens l'Entrepreneur™ à la place. Modules + protocole 48h + lives 2×/mois + communauté. Prix public : 997€/3 mois · 1 497€/6 mois · 2 497€/12 mois, payable en mensualités. Garantie 30 jours.)*
 
 ---
 
 ### Le prix
 
-> "L'investissement pour entrer maintenant, c'est 4 997€. C'est une phase bêta — je travaille avec 3 à 5 clients et je documente tout. En échange, t'as accès à un accompagnement sur mesure que je vends normalement à 7 000€.
+> "L'investissement pour entrer maintenant, c'est 4 997€. C'est une phase bêta — je travaille avec 3 à 5 clients et je documente tout. En échange, t'as accès à 12 mois d'accompagnement 1:1 sur mesure, à un niveau d'investissement qui montera avec les preuves.
 >
 > Ce qui te bloque te coûte plus par mois que ça. La vraie question, c'est pas 'est-ce que je peux me le permettre ?' — c'est 'combien ça me coûte de ne pas le faire ?'"
 

@@ -1,4 +1,4 @@
-# Roadmap Business — Business Ascension™
+﻿# Roadmap Business — Business Ascension™
 > Version 1.0 — Mai 2026
 > Horizon : 18 mois (Mai 2026 → Octobre 2027)
 > Revue : à chaque session de clôture (fin de trimestre).
@@ -21,21 +21,26 @@
 ## VUE D'ENSEMBLE — LES 4 PHASES
 
 ```
+Rappel modèle v10 : Porte 2 (Construis la Marque™) = prix annoncé UNIQUEMENT en appel.
+Les montants ci-dessous sont des ANCRAGES INTERNES — jamais affichés publiquement.
+Porte 1 (Deviens l'Entrepreneur™) = MRR public : 997 / 1 497 / 2 497 € (3/6/12 mois).
+
 PHASE 1 — BÊTA          Q2 2026 (Mai → Juillet)
-Poser les fondations. Signer les 3 premiers clients. Documenter les preuves.
-Prix Construis la Marque™ : 4 997 €
+Poser les fondations. Signer les 3 premiers clients Porte 2. Documenter les preuves.
+Lancer la Porte 1 (MRR) + préparer le low ticket 7-27€.
+Ancrage interne Porte 2 : 4 997 €
 
 PHASE 2 — STANDARD      Q3-Q4 2026 (Août → Décembre)
-Monter le prix. Scaler l'acquisition. 5 à 8 clients actifs.
-Prix Construis la Marque™ : 7 000 €
+Monter l'ancrage. Scaler l'acquisition organique. 5 à 8 clients Porte 2 actifs + communauté Porte 1 qui grandit.
+Ancrage interne Porte 2 : 7 000 €
 
 PHASE 3 — SCALE         Q1-Q2 2027 (Janvier → Juin)
-Scale Ascension lancé. Systèmes renforcés. Cap 9 000-12 000 €.
-Prix Construis la Marque™ : 9 000 €
+Scale Ascension lancé. Acquisition payante BA™ activée. Systèmes renforcés.
+Ancrage interne Porte 2 : 9 000 €
 
 PHASE 4 — EMPIRE FRANCE Q3-Q4 2027 (Juillet → Décembre)
 1er séminaire. Position de référence. Préparation expansion.
-Prix Construis la Marque™ : 9 000-12 000 €
+Ancrage interne Porte 2 : 9 000-12 000 €
 ```
 
 ---
@@ -86,10 +91,10 @@ Prix Construis la Marque™ : 9 000-12 000 €
 ## PHASE 2 — STANDARD
 ### Q3-Q4 2026 (Août → Décembre 2026)
 
-**Objectif :** monter le prix à 7 000 €, scaler l'acquisition, stabiliser le delivery avec 5 à 8 clients actifs.
+**Objectif :** monter l'ancrage prix Porte 2 à 7 000 € (toujours annoncé en appel), scaler l'acquisition, stabiliser le delivery avec 5 à 8 clients actifs.
 
 **Condition d'entrée :** 3 témoignages documentés + BOS delivery validé sur 3 clients
-**Condition de sortie :** 5+ clients actifs simultanément à 7 000 € + taux de conversion ≥ 33%
+**Condition de sortie :** 5+ clients Porte 2 actifs simultanément (ancrage 7 000 €) + taux de conversion ≥ 33%
 
 ---
 
@@ -97,7 +102,7 @@ Prix Construis la Marque™ : 9 000-12 000 €
 
 | Priorité | Action | Pôle |
 |---|---|---|
-| 1 | Monter le prix IAP à 7 000 € | Sales |
+| 1 | Monter l'ancrage Porte 2 (annoncé en appel) à 7 000 € | Sales |
 | 2 | Augmenter le rythme d'Audits offerts à 5/semaine | Sales |
 | 3 | Lancer YouTube — 2 vidéos/mois minimum | Marketing |
 | 4 | Tester les premières ads (500-1 000 €/mois) si CA > 10k | Marketing |
@@ -119,7 +124,7 @@ Prix Construis la Marque™ : 9 000-12 000 €
 
 | Jalon | Horizon | Validé ? |
 |---|---|---|
-| Premier client signé à 7 000 € | Août 2026 | |
+| Premier client Porte 2 signé à 7 000 € | Août 2026 | |
 | 5 clients actifs simultanément | Octobre 2026 | |
 | Taux de conversion Audit → client ≥ 33% | Octobre 2026 | |
 | CA mensuel ≥ 14 000 € | Octobre 2026 | |
@@ -131,7 +136,7 @@ Prix Construis la Marque™ : 9 000-12 000 €
 ## PHASE 3 — SCALE
 ### Q1-Q2 2027 (Janvier → Juin 2027)
 
-**Objectif :** lancer Scale Ascension, monter le prix IAP à 9 000 €, atteindre 30 000 €/mois de CA.
+**Objectif :** lancer Scale Ascension, monter l'ancrage Porte 2 à 9 000 €, atteindre 30 000 €/mois de CA.
 
 **Condition d'entrée :** 5 clients Construis la Marque™ complétés + taux de réussite documenté ≥ 80%
 **Condition de sortie :** Scale Ascension actif (3+ clients) + CA mensuel stable > 25 000 €
@@ -143,7 +148,7 @@ Prix Construis la Marque™ : 9 000-12 000 €
 | Priorité | Action | Pôle |
 |---|---|---|
 | 1 | Lancer Scale Ascension — 3 à 5 premiers profils | Delivery |
-| 2 | Monter le prix IAP à 9 000 € | Sales |
+| 2 | monter l'ancrage Porte 2 à 9 000 € | Sales |
 | 3 | Scaler le contenu YouTube (4 vidéos/mois) | Marketing |
 | 4 | Tester les premières ads anglophone si budget le permet | Marketing |
 | 5 | Documenter la méthode Construis la Marque™ (en vue de la certification future) | Systèmes |
@@ -162,7 +167,7 @@ Prix Construis la Marque™ : 9 000-12 000 €
 | Jalon | Horizon | Validé ? |
 |---|---|---|
 | Scale Ascension ouvert et 3 premiers clients | Janvier 2027 | |
-| Prix IAP à 9 000 € avec premier client signé | Février 2027 | |
+| Ancrage Porte 2 à 9 000 € avec premier client signé | Février 2027 | |
 | CA mensuel ≥ 25 000 € | Mars 2027 | |
 | 10 témoignages documentés | Mars 2027 | |
 | 1er séminaire annoncé avec liste d'attente | Juin 2027 | |
@@ -185,7 +190,7 @@ Prix Construis la Marque™ : 9 000-12 000 €
 |---|---|---|
 | 1 | Organiser et réaliser le 1er séminaire présentiel (France) | Business |
 | 2 | Lancer le contenu YouTube anglophone | Marketing |
-| 3 | Monter le prix IAP à 10 000-12 000 € selon la demande | Sales |
+| 3 | Monter l'ancrage Porte 2 à 10 000-12 000 € selon la demande | Sales |
 | 4 | Préparer la certification du mécanisme BA™ en 8 étapes | Systèmes |
 | 5 | Préparer la retraite immersive 2028 | Business |
 

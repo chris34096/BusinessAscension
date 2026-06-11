@@ -65,13 +65,13 @@ Reformuler ce que tu as identifié pendant l'Audit offert. Utilise ses mots exac
 > "C'est le seul accompagnement qui travaille en même temps sur ce qui bloque à l'intérieur — et sur la construction d'un Business Operating System complet à l'extérieur. Pas l'un après l'autre. En même temps, chaque semaine."
 
 **Le format :**
-> "Concrètement : 90 minutes de session individuelle par semaine. Support WhatsApp continu. Une session de groupe hebdomadaire avec les autres participants. Sur 3 mois — 12 semaines."
+> "Concrètement : une session individuelle avec moi chaque semaine. Support direct continu entre les sessions. Des sprints de 2 semaines avec des objectifs mesurables. Sur 12 mois — un parcours unique, construit autour de toi."
 
 **Les phases en 30 secondes :**
-> "Les 3 premières semaines, on fait le diagnostic complet et on désactive le pattern dominant. La semaine 4, on construit ta roadmap sur 12 semaines — backlogs, sprints, objectifs mesurables. Les semaines 5 à 10, on implémente — acquisition, conversion, delivery, systèmes. Les 2 dernières semaines, tu pilotes seul ton backlog. Je suis là, mais tu tiens le volant."
+> "Le premier trimestre, on pose les fondations du scale : ton positionnement catégorie à part, ton écosystème d'offres, ta roadmap 12 mois. Le deuxième, on amplifie l'acquisition — le payant par-dessus ton organique. Le troisième, on te sort de l'opérationnel : recrutement, délégation, automatisation. Le dernier, tu pilotes — le système tourne, je suis là, mais tu tiens le volant."
 
 **Le livrable final :**
-> "À la fin des 3 mois, t'as un Business Operating System complet et documenté. Marketing, Sales, Delivery, Systèmes, Finance — les 6 pôles construits. Une machine opérationnelle. Pas de la clarté momentanée. Une architecture."
+> "À la fin des 12 mois, t'as une marque catégorie à part et un système complet documenté. Acquisition, conversion, delivery, équipe, finance — construits. Une machine opérationnelle. Pas de la clarté momentanée. Une architecture."
 
 ---
 
@@ -80,7 +80,7 @@ Reformuler ce que tu as identifié pendant l'Audit offert. Utilise ses mots exac
 > "Voilà comment je vais te présenter le prix, parce que je veux être direct avec toi."
 
 **La pile de valeur — en version orale :**
-> "12 sessions individuelles de 90 minutes, les sessions de groupe, le support WhatsApp continu, le diagnostic écrit personnalisé, la roadmap 12 semaines sur mesure, le Business Playbook final — si on met ça côte à côte, on est sur près de 19 000€ de valeur directe."
+> "Une année complète de sessions individuelles avec moi, le support direct continu, le diagnostic écrit personnalisé, la roadmap 12 mois sur mesure, ta machine d'acquisition construite, le Business Playbook final — si on met ça côte à côte, on est très au-dessus de l'investissement demandé."
 
 **L'ancrage :**
 > "On est en phase bêta. Je cherche 3 à 5 premiers clients pour documenter les résultats. Le prix bêta, c'est 4 997€. Ou en 3 fois — 3 × 1 799€."

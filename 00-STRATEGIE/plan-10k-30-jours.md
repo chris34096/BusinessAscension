@@ -1,6 +1,7 @@
 # Plan 10K€ — 30 Jours
 > Business Ascension™ — Phase bêta → Premier palier
-> Objectif : 2 clients IAP™ à 4 997€ = 9 994€
+> Objectif : 2 clients Construis la Marque™ à 4 997€ (prix bêta, annoncé en appel) = 9 994€
+> Complément : ventes Porte 1 (Deviens l'Entrepreneur™, MRR public) = accélérateur du CA
 > Démarrage : Juin 2026
 > Wiki : [[funnel-acquisition]] · [[audit-offert]] · [[icp-cible]]
 
@@ -70,7 +71,7 @@
 - Appel confirmation le matin de chaque call (script 30 sec)
 - Envoyer lien H-2 + H-0 sans exception
 - Diagnostiquer le goulot réel en 15 min
-- Présenter IAProtocol 8 étapes comme solution naturelle
+- Présenter les 8 étapes comme solution naturelle (Porte 2 : Construis la Marque™ · Porte 1 si ICP 0→10K : Deviens l'Entrepreneur™)
 - Prix bêta 4 997€ sans s'excuser
 - Si pas de close : fiche objection via `/objection [notes]` → relance J+2
 

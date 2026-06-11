@@ -1,4 +1,4 @@
-# ANALYSE CONCURRENTIELLE — Business Ascension™
+﻿# ANALYSE CONCURRENTIELLE — Business Ascension™
 > Version 5.0 — Mai 2026
 > Mise à jour majeure v5 : 5 archétypes marché, positionnement brand-ready 3 couches, risques (thérapeutisation, Musy copy), tendances 2025-2026, "proof-first economy".
 > Version 4.0 : +10 concurrents français, +8 concurrents américains, sizing marché francophone, fiche Patrick Reiser complète, 4 éléments GJW.
@@ -8,7 +8,7 @@
 
 ## VERDICT EXÉCUTIF
 
-**L'angle est validé et non occupé. Le marché est mal segmenté — pas saturé. L'espace précis de BA™ (Exécution Identity System) est la zone la moins occupée du marché francophone. La différenciation ne se jouera pas dans le positionnement : elle se jouera dans la preuve (cas clients documentés) et la vitesse d'ancrage.**
+**L'angle est validé et non occupé. Le marché est mal segmenté — pas saturé. L'espace précis de BA™ (Business + Identité en simultané, structuré en 2 portes : 0→10K organique / 10K→100K scale) est la zone la moins occupée du marché francophone. La différenciation ne se jouera pas dans le positionnement : elle se jouera dans la preuve (cas clients documentés) et la vitesse d'ancrage.**
 
 ---
 
@@ -74,8 +74,8 @@ Tout le monde revendique "business + mindset + performance + identité". Seule l
 | **TAM** | ~1,5-2M de personnes | Entrepreneurs francophones conscients de leurs blocages — tous profils |
 | **SAM** | ~150 000-250 000 | Entrepreneurs francophones actifs cherchant une solution premium (>3 000€) à leur stagnation |
 | **SOM Phase bêta** | **3-5 clients** | Objectif Q2-Q3 2026 : documenter les premières preuves réelles |
-| **SOM Année 1** | **20-30 clients** | À 7 000€ = 140 000-210 000€ CA |
-| **SOM Scale** | **100-200 clients/an** | À 9 000-12 000€ = 900 000-2,4M€ CA |
+| **SOM Année 1** | **20-30 clients** | Mix Porte 1 (MRR) + Porte 2 (ancrage 5-7K€) = 140 000-210 000€ CA |
+| **SOM Scale** | **100-200 clients/an** | Mix 2 portes + low ticket + Scale Ascension = 900 000-2,4M€ CA |
 
 ### Verdict marché
 
@@ -152,7 +152,7 @@ Après analyse de 20+ concurrents identifiés, le marché se divise en quatre zo
 
 2. **Le niveau d'intervention est différent.** Musy nomme ses mécanismes "P.I.E.G.E.s — perceptions incomplètes qui créent des réactions de survie" — toujours au niveau perceptuel/cognitif. Business Ascension™ intervient au niveau du système nerveux, en dessous du niveau cognitif. Ce n'est pas un détail de vocabulaire — c'est une différence de méthode réelle.
 
-3. **La durée et le format sont différents.** Musy : mastermind 10 mois, 15 personnes. Construis la Marque™ : 3 mois (12 semaines), individuel + groupe. Format plus accessible et plus chirurgical.
+3. **La structure et le format sont différents.** Musy : mastermind 10 mois, 15 personnes, une seule porte. BA™ : deux portes — Deviens l'Entrepreneur™ (MRR accessible, 0→10K, communauté) puis Construis la Marque™ (12 mois 1:1, scale). Une ascension complète au lieu d'un format unique.
 
 ---
 
@@ -203,8 +203,8 @@ Après analyse de 20+ concurrents identifiés, le marché se divise en quatre zo
 |---|---|---|
 | **1. Communauté de pairs** | Scale Ascension (phase 3) — alumni qui s'accompagnent entre eux. La communauté comme produit, pas comme bonus. | Phase empire |
 | **2. Rite de passage** | Retraites immersives business (déjà dans vision empire) — créer un événement cornerstone que les clients veulent traverser. L'expérience qui marque avant/après. | Phase empire |
-| **3. Core 4 adapté** | Business Playbook client : 4 axes hebdomadaires documentés (Corps / Monde intérieur / Structure / Revenue). Pas copié — adapté à la cible de Chris. | Immédiat — livraison IAP |
-| **4. Sélection comme signal de valeur** | Processus de candidature pour l'IAP — formulaire + appel de qualification — avant de proposer l'Audit offert au prospect qualifié. L'accès restreint signale la valeur. | Immédiat — acquisition |
+| **3. Core 4 adapté** | Business Playbook client : 4 axes hebdomadaires documentés (Corps / Monde intérieur / Structure / Revenue). Pas copié — adapté à la cible de Chris. | Immédiat — livraison Porte 2 |
+| **4. Sélection comme signal de valeur** | Processus de candidature pour Construis la Marque™ — formulaire + appel de qualification — avant de proposer l'Audit offert au prospect qualifié. L'accès restreint signale la valeur. | Immédiat — acquisition |
 
 ---
 
@@ -383,13 +383,17 @@ La combinaison suivante n'existe dans le marché francophone chez **aucun** des 
 **+**
 **Avatar défini par le schéma, pas par le revenu** — l'entrepreneur bloqué à l'exécution, dont les revenus sont imprévisible.
 
-### La porte d'entrée confirmée (Angle C, Entrée B)
+### Les portes d'entrée confirmées (v10 — deux portes, deux entrées)
 
-**Ce que le client entend en premier :** "Des mois à 12 000€, des mois à zéro. On règle les deux côtés en même temps."
+**Porte 1 (0→10K) — ce que le client entend en premier :** "Tes premiers 10K€/mois réguliers, construits autour de qui tu es. Des leads qui rentrent. Vendre par message."
+VOC d'entrée : vivoter · décoller · le SMIC de LinkedIn · les clients se font attendre.
 
-**Ce que le client découvre ensuite :** Le mécanisme — pourquoi l'irrégularité existe à l'intérieur et à l'extérieur, et comment on construit un business qui tourne et te paie.
+**Porte 2 (10K→100K) — ce que le client entend en premier :** "Transforme ta valeur en une marque à 10K–100K€/mois. Sors du plafond de verre."
+VOC d'entrée : plafond de verre · vendre son temps · tunnel opérationnel · que ça tourne sans toi.
 
-**Règle absolue :** Ne jamais parler du mécanisme (les 8 étapes, identité + business) avant que le prospect ait reconnu son propre problème concret. Entrer par le concret. Révéler le mécanisme après la reconnaissance.
+**Ce que le client découvre ensuite :** Le mécanisme — identité + business construits en simultané, les 8 étapes.
+
+**Règle absolue :** Ne jamais parler du mécanisme (les 8 étapes, identité + business) avant que le prospect ait reconnu son propre problème concret. Entrer par le concret (le CA, les leads, le plafond). Révéler le mécanisme après la reconnaissance. Le récit "des mois à 12 000€, des mois à zéro" reste l'histoire personnelle de Chris (preuve) — plus le point d'entrée du marché.
 
 ⚠️ **Nuance importante :** Julien Musy s'approche de cette zone. Sa présence confirme l'appétit pour cet angle dans le marché. Elle impose à Business Ascension™ de rendre la différence de mécanisme viscéralement claire dans tout le contenu — pas juste dans les pages de vente.
 
@@ -413,7 +417,7 @@ La combinaison suivante n'existe dans le marché francophone chez **aucun** des 
 | **Max Piccinini** | Énergie et état émotionnel (NLP/séminaires). Pas de diagnostic d'exécution ni de structure business |
 | **Jean & Jody** | Relation et sens. Pas orienté performance commerciale |
 | **Jody Cavalie** | Outils similaires mais niche coachs. Pas de reconstruction business |
-| **Julien Musy** | Concurrent le plus proche. Entrée : alignement/essence (Musy) vs. exécution bloquée/des revenus jamais pareils d'un mois à l'autre (BA™). 10M€ track record vs. en construction. 10 mois vs. 3 mois |
+| **Julien Musy** | Concurrent le plus proche. Entrée : alignement/essence (Musy) vs. exécution bloquée/des revenus jamais pareils d'un mois à l'autre (BA™). 10M€ track record vs. en construction. 10 mois groupe vs. 2 portes (MRR + 12 mois 1:1) |
 | **Mehdi Baer** | Mécanisme inverse (attraction subconscient/énergie). Cible débutants inclus. Vocabulaire 5D/ésotérique vs. pragmatique |
 | **Pierre David / AHP** | Préparation mentale sport → business. Cible PDG/athlètes élites |
 | **Marvin Ndiaye** | Revenue tier 200K-3M€. Mastermind communautaire, pas travail sur le programme intérieur |
@@ -518,25 +522,25 @@ Les verbatims les plus récurrents dans le marché francophone (confirmés par l
 
 ---
 
-## 10. POSITIONNEMENT FINAL — BRAND READY (v5.0)
+## 10. POSITIONNEMENT FINAL — BRAND READY (v6.0 — modèle 2 portes)
 
 ### Les 3 couches — ne jamais les mélanger
 
 | Couche | Nom | Usage |
 |---|---|---|
-| **Catégorie marché** | Exécution Identity System™ | Ce qu'on revendique publiquement |
-| **Mécanisme** | Le mécanisme en 8 étapes | Ce qu'on explique à l'Audit offert |
-| **Offre** | Construis la Marque™ | Ce qu'on vend |
+| **Catégorie marché** | Business + Identité en simultané — "Deviens l'Entrepreneur. Construis la Marque." | Ce qu'on revendique publiquement |
+| **Mécanisme** | Les 8 étapes (identité + business chaque semaine) | Ce qu'on explique à l'Audit offert |
+| **Offres** | Porte 1 : Deviens l'Entrepreneur™ (0→10K · MRR) · Porte 2 : Construis la Marque™ (10K→100K · 12 mois · 1:1) | Ce qu'on vend |
 
 ### Identité marché
-> "Un architecte d'exécution entrepreneuriale."
+> "Celui qui construit ta marque et ton système d'acquisition — pour que tu vendes par message et que ton CA soit prévisible."
 Pas coach mindset. Pas coach business. Pas thérapeute. Pas formateur.
 
-### Entry point (contenu + acquisition)
-> "Tu sais quoi faire. Mais tu ne le fais pas de façon constante."
-ou : "Pourquoi tes revenus montent et s'effondrent alors que tu fais déjà de l'argent."
-
-"imprévisibilité" reste le VOC spontané de la cible — le mot qu'elle utilise. L'entry point, c'est ce mot + le mécanisme.
+### Entry points (contenu + acquisition) — un par porte
+**Porte 1 :** "Tes premiers 10K€/mois réguliers. Une offre qui se vend, un contenu qui pré-vend, vendre par message."
+VOC : vivoter · décoller · le SMIC de LinkedIn · les clients se font attendre.
+**Porte 2 :** "Transforme ta valeur en une marque à 10K–100K€/mois. Sors du plafond de verre."
+VOC : plafond de verre · vendre son temps · tunnel opérationnel · que ça tourne sans toi.
 
 ### Différenciateur central
 > **"Simultané."** Inner + outer en même temps. Pas séquentiel.
@@ -556,10 +560,10 @@ C'est le seul concurrent qui fait les deux dans la même semaine, chaque semaine
 Plus on utilise "trauma", "hypnose", "PNL" en front → plus on perd les entrepreneurs rationnels (le cœur de l'ICP). Ces mots restent en back-end et dans l'accompagnement. Jamais en hook.
 
 **Risque 2 — "Musy copy indirect"**
-Si le positionnement reste flou sur le mécanisme → on sera perçu comme "Musy + business". Protection : nommer "simultané" explicitement dans chaque prise de position publique. L'entrée par "revenus en pointillé" (concret) vs "alignement/essence" (abstrait) doit être viscéralement claire.
+Si le positionnement reste flou sur le mécanisme → on sera perçu comme "Musy + business". Protection : nommer "simultané" explicitement dans chaque prise de position publique. L'entrée par le concret (premiers 10K réguliers / plafond de verre) vs "alignement/essence" (abstrait) doit être viscéralement claire.
 
 **Risque 3 — Fenêtre d'ancrage limitée**
-"Exécution Identity System" et "Inner Blockage Specialist" sont des espaces non occupés — mais pas pour longtemps. 6-12 mois pour ancrer le vocabulaire comme propre à BA™.
+"Deviens l'Entrepreneur. Construis la Marque." et le mécanisme "simultané" sont des espaces non occupés — mais pas pour longtemps. 6-12 mois pour ancrer le vocabulaire comme propre à BA™.
 
 ---
 
@@ -567,12 +571,12 @@ Si le positionnement reste flou sur le mécanisme → on sera perçu comme "Musy
 
 1. **Documenter immédiatement les premiers résultats.** Avant/après mesurables — pas des témoignages vagues. CA, régularité d'exécution, palier franchi. Ces 3-5 cas sont la seule chose qui rend le positionnement crédible face à Musy.
 
-2. **Ancrer le mécanisme différenciant dans tout le contenu.** Pas "mindset + business" (saturé). Pas "identité" seul (trop vague). L'entrée : "des mois à 12 000€, des mois à zéro — on règle les deux côtés en même temps." Le mécanisme arrive après la reconnaissance — jamais en ouverture.
+2. **Ancrer le mécanisme différenciant dans tout le contenu.** Pas "mindset + business" (saturé). Pas "identité" seul (trop vague). L'entrée par porte : Porte 1 = "tes premiers 10K€/mois réguliers" · Porte 2 = "sors du plafond de verre, marque à 10K–100K". Le mécanisme (simultané, 8 étapes) arrive après la reconnaissance — jamais en ouverture.
 
 3. **Surveiller Julien Musy activement.** Si son prochain repositionnement se rapproche de "je sais mais je ne le fais pas," la différenciation se réduit significativement.
 
 4. **Intégrer les 4 éléments Garrett J White progressivement :**
-   - **Immédiat :** processus de candidature/sélection pour l'IAP (signal de valeur)
+   - **Immédiat :** processus de candidature/sélection pour Construis la Marque™ (signal de valeur)
    - **Immédiat — livraison :** Core 4 adapté dans le Business Playbook client (Corps / Monde intérieur / Structure / Revenue)
    - **Phase scale :** Communauté Scale Ascension comme produit, pas comme bonus
    - **Phase empire :** Retraites immersives cornerstone (rite de passage)

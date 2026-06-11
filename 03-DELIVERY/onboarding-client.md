@@ -1,4 +1,4 @@
-# Onboarding Client — Construis la Marque™
+﻿# Onboarding Client — Construis la Marque™
 > Version 1.0 — Mai 2026
 > SOP complet : de la signature au début de Sprint 0.
 
@@ -90,7 +90,7 @@ J+7 max — Session Sprint 0 (90 min)
 > **4. Ton accès WhatsApp**
 > Tu l'as déjà. C'est ton canal direct entre les sessions. Utilise-le.
 >
-> **5. Ce qui t'attend dans les 12 semaines**
+> **5. Ce qui t'attend dans les 12 mois**
 > Tu vas construire ton Business Operating System complet — acquisition, conversion, delivery, systèmes. Et on va désactiver ce qui bloque à l'intérieur en même temps.
 > À la semaine 4, tu as une roadmap construite pour ta situation précise. À la semaine 12, tu as un Business Playbook documenté que tu peux piloter seul.
 >

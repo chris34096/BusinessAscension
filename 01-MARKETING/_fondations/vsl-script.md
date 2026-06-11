@@ -124,7 +124,7 @@ On règle le goulot prioritaire. Avec une précision chirurgicale. Et on install
 **Semaines 7-12 : L'architecture complète.**
 On construit le Business Operating System complet. Les 6 pôles alignés. Un flux d'acquisition prévisible. Une delivery qui ne t'épuise pas. Et un système qui continue à tourner même quand tu lèves le pied.
 
-À la fin des 12 semaines : ton Business Playbook est documenté. Ton business tourne avec une ossature. Et l'imprévisibilité ont une explication — et une solution — pour chacune d'elles.
+À la fin de l'accompagnement : ton Business Playbook est documenté. Ton business tourne avec une ossature. Et l'imprévisibilité ont une explication — et une solution — pour chacune d'elles.
 
 ---
 

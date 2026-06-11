@@ -1,4 +1,4 @@
-# Conditions Générales de Vente — Business Ascension™
+﻿# Conditions Générales de Vente — Business Ascension™
 > Version 1.0 — Mai 2026
 > Applicables à toute souscription à l'accompagnement Business Ascension™.
 > Wiki : [[business-ascension]]
@@ -26,7 +26,7 @@ Ci-après désigné "le Prestataire".
 
 Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles entre le Prestataire et tout client (ci-après "le Client") ayant souscrit à l'offre **Construis la Marque™** (Business Ascension™).
 
-L'accompagnement est un programme individuel de 12 semaines combinant :
+L'accompagnement est un parcours individuel de 12 mois combinant :
 - Un travail de déstructuration des patterns limitants (niveau système nerveux)
 - La construction d'un Business Operating System personnalisé
 
@@ -47,7 +47,7 @@ L'accompagnement comprend :
 
 ### 3.2 Durée
 
-Le programme s'étend sur **12 semaines** à compter de la date de la session d'onboarding (première session).
+L'accompagnement s'étend sur **12 mois** à compter de la date de la session d'onboarding (première session).
 
 Les sessions ont lieu toutes les **2 semaines**. Des aménagements peuvent être convenus d'un commun accord entre les parties.
 

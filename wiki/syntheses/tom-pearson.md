@@ -1,4 +1,4 @@
----
+﻿---
 wiki_type: synthese
 name: Tom Pearson — Benchmark BA™
 slug: tom-pearson
@@ -75,7 +75,7 @@ Equivalent BA™ : **"Deviens l'entrepreneur. Construis le système."**
 
 ### Lead Magnets (même structure que BA™)
 
-PDF Blueprint + Masterclass gratuite (= PDF "La Main Invisible" + Masterclass IAP BA™)
+PDF Blueprint + Masterclass gratuite (= PDF "La Main Invisible" + Masterclass BA™)
 
 ---
 

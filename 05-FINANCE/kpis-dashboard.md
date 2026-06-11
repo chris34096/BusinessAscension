@@ -1,4 +1,4 @@
-# KPIs Dashboard — Business Ascension™
+﻿# KPIs Dashboard — Business Ascension™
 > Version 1.0 — Mai 2026
 > Tableau de bord hebdomadaire. Piloter par les chiffres, pas par le ressenti.
 > Wiki : [[business-ascension]] · [[bos-6-poles]]
@@ -47,7 +47,7 @@ Si un KPI est dans le rouge deux semaines de suite — sprint dédié.
 
 | KPI | Objectif | Réel | Statut |
 |---|---|---|---|
-| Clients actifs (IAP) | — | | — |
+| Clients actifs (Porte 2) | — | | — |
 | Sessions réalisées cette semaine | — | | — |
 | Score satisfaction moyen (1-10) | ≥ 8 | | 🟢 🟡 🔴 |
 | Témoignages collectés (cumulé) | — | | — |
@@ -152,7 +152,7 @@ Si un KPI est dans le rouge deux semaines de suite — sprint dédié.
 
 | KPI | Cible |
 |---|---|
-| Clients IAP actifs | 3 à 5 |
+| Clients Porte 2 actifs | 3 à 5 |
 | CA mensuel | 5 000 à 15 000 € |
 | Témoignages documentés | 3 minimum avant de monter le prix |
 | Taux de conversion | ≥ 33% |
@@ -161,8 +161,8 @@ Si un KPI est dans le rouge deux semaines de suite — sprint dédié.
 
 | KPI | Cible |
 |---|---|
-| Prix IAP | 7 000 € |
-| Clients IAP actifs | 5 à 8 |
+| Ancrage prix Porte 2 (en appel) | 7 000 € |
+| Clients Porte 2 actifs | 5 à 8 |
 | CA mensuel | 15 000 à 25 000 € |
 | Audits offerts par semaine | 5 |
 
@@ -170,8 +170,8 @@ Si un KPI est dans le rouge deux semaines de suite — sprint dédié.
 
 | KPI | Cible |
 |---|---|
-| Prix IAP | 9 000 à 12 000 € |
-| Clients IAP + Scale Ascension | 15 à 18 |
+| Ancrage prix Porte 2 (en appel) | 9 000 à 12 000 € |
+| Clients Porte 2 + Scale Ascension | 15 à 18 |
 | CA mensuel | 30 000 € + |
 | Taux de conversion | ≥ 40% |
 

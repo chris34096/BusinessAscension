@@ -1,4 +1,4 @@
-# Contrat de Prestation — Business Ascension™
+﻿# Contrat de Prestation — Business Ascension™
 > Version 2.0 — Juin 2026
 > À compléter et signer avant le démarrage de l'accompagnement.
 > Wiki : [[business-ascension]] · [[icp-cible]]
@@ -34,7 +34,7 @@ Adresse : ___________________________________________
 
 ## ARTICLE 1 — OBJET DU CONTRAT
 
-Le Prestataire s'engage à délivrer au Client l'accompagnement **Construis la Marque™** (Business Ascension™), programme individuel de 12 semaines visant à :
+Le Prestataire s'engage à délivrer au Client l'accompagnement **Construis la Marque™** (Business Ascension™), parcours individuel de 12 mois visant à :
 
 1. Désactiver les patterns limitants qui bloquent la croissance du business (inner work)
 2. Construire le Business Operating System adapté au profil et aux objectifs du Client (business work)
@@ -45,7 +45,7 @@ Le détail complet des modalités est défini dans les Conditions Générales de
 
 ## ARTICLE 2 — DURÉE
 
-Le programme démarre à la date de la **session d'onboarding** convenue entre les parties, et se termine 12 semaines plus tard.
+Le programme démarre à la date de la **session d'onboarding** convenue entre les parties, et se termine 12 mois plus tard.
 
 **Date de démarrage prévue :** ___________________________________________
 

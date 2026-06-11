@@ -65,7 +65,7 @@ UNE seule transition par vidéo. Claire. Tranchée. Visuelle si possible.
 | Ancien chemin (ce qu'ils font) | Nouveau chemin BA™ |
 |---|---|
 | Chercher une meilleure stratégie | Identifier quel goulot bloque en premier |
-| Travailler sur le mindset OU le business | Les deux en simultané — IAP™ |
+| Travailler sur le mindset OU le business | Les deux en simultané — BA™ |
 | Coup de collier → creux → coup de collier | Flux prévisible, débit constant |
 | Formation → résultat → prochaine formation | Recâblage + structure qui tient |
 

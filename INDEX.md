@@ -73,7 +73,7 @@ Scripts, closing, pipeline, suivi prospects.
 
 ### [03-DELIVERY](03-DELIVERY/)
 Programme, curriculum, ressources clients.
-- [Curriculum IAP — Session par session](03-DELIVERY/curriculum-iap.md)
+- [Curriculum 2 Portes — 8 étapes, P1 MRR / P2 12 mois](03-DELIVERY/curriculum-portes.md)
 - [Business Playbook — Template client](03-DELIVERY/business-playbook-template.md)
 - [ressources-inter-sessions/](03-DELIVERY/ressources-inter-sessions/)
 - [scale-ascension/](03-DELIVERY/scale-ascension/)
@@ -180,7 +180,7 @@ KPIs, OKRs, budget, comptabilité mensuelle.
 ### [06-LEGAL](06-LEGAL/)
 Contrats clients, CGV, mentions légales.
 - [CGV — Conditions Générales de Vente](06-LEGAL/cgv.md)
-- [Contrat Client — IAP](06-LEGAL/contrats/contrat-client.md)
+- [Contrat Client](06-LEGAL/contrats/contrat-client.md)
 
 ---
 

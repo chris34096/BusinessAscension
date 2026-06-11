@@ -1,4 +1,4 @@
-# Calendrier Éditorial — Instagram
+﻿# Calendrier Éditorial — Instagram
 > Version 1.0 — Mai 2026
 > Objectif : générer des candidatures à l'Audit offert via le contenu organique.
 > Rythme : 5 publications/semaine + Stories quotidiennes.
@@ -67,7 +67,7 @@ Quand quelqu'un arrive en Audit offert, il a déjà consommé 5 à 10 contenus. 
 
 **Angle :** "Voilà ce qu'on construit ensemble."
 - Le BOS et ses 6 pôles — ce que le client repart avec
-- La roadmap 12 semaines — pas un programme générique
+- La roadmap personnalisée — pas un programme générique
 - La Definition of Done : sprint après sprint, visible
 - Les livrables : diagnostic écrit, roadmap, playbook
 

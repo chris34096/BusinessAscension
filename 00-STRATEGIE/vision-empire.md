@@ -27,7 +27,8 @@ Ce n'est pas un argument de vente. C'est ce qui fait se lever le matin.
 ### Horizon 1 — France (maintenant → 2028)
 **Objectif : leader du marché français de l'accompagnement business + inner work**
 
-- Construis la Marque™ : 8 à 10 clients actifs en continu
+- Porte 1 (Deviens l'Entrepreneur™) : communauté MRR qui grandit en continu
+- Porte 2 (Construis la Marque™) : 8 à 10 clients actifs en continu
 - Scale Ascension : premier mastermind de 5 à 8 clients
 - Premier séminaire présentiel en France (1 à 3 jours)
 - CA mensuel stable : 30 000 € +
@@ -73,15 +74,20 @@ Ce n'est pas un argument de vente. C'est ce qui fait se lever le matin.
 
 ```
 Contenu organique
-(Instagram · LinkedIn · YouTube)
+(Instagram · LinkedIn · YouTube — interconnectés)
         ↓
-Audit offert (30 min · gratuit · sur candidature)
+Low ticket (7-27€ · vidéo · auto-liquidant)
         ↓
-Construis la Marque™
-(3 mois · cycle de 12 semaines · BOS complet · 4 997 → 7 000 → 9 000-12 000 €)
+Audit offert (30 min · gratuit)
+        ↓
+PORTE 1 — Deviens l'Entrepreneur™
+(0→10K · MRR 3/6/12 mois · prix public 997-2 497€ · communauté)
+        ↓
+PORTE 2 — Construis la Marque™
+(10K→100K · parcours unique 12 mois · 1:1 · candidature · prix par appel)
         ↓
 Scale Ascension
-(4 mois · mastermind · 5-8 entrepreneurs · 6 000-9 000 €)
+(continuité clients avancés · mastermind)
         ↓
 Séminaires présentiel
 (1 à 3 jours · France → international · 500-2 000 € / participant)
@@ -125,10 +131,10 @@ Portfolio d'entreprises
 
 | Jalon | Condition | Horizon estimé |
 |---|---|---|
-| Passage Construis la Marque™ à 7 000 € | 3 témoignages documentés avec résultats chiffrés | 6 à 9 mois |
+| Ancrage Construis la Marque™ à 7 000 € (prix toujours donné en appel) | 3 témoignages documentés avec résultats chiffrés | 6 à 9 mois |
 | Lancement Scale Ascension | 5 clients Construis la Marque™ complétés avec BOS opérationnel | 9 à 12 mois |
 | Premier séminaire présentiel | Scale Ascension actif + 20 témoignages | 12 à 18 mois |
-| Passage Construis la Marque™ à 9 000-12 000 € | Taux de réussite ≥ 90% documenté | 18 à 24 mois |
+| Ancrage Construis la Marque™ à 9 000-12 000 € | Taux de réussite ≥ 90% documenté | 18 à 24 mois |
 | Premier séminaire international | Présence organique anglophone établie | 24 à 36 mois |
 | Première retraite immersive | Réputation séminaires construite | 30 à 42 mois |
 | Lancement certification du mécanisme BA™ | Méthode documentée + 50 clients transformés | 36 à 48 mois |

@@ -1,5 +1,5 @@
-# Client Insights — Business Ascension™
-> Accumule les insights sur les clients actifs IAP™ et les appels échoués.
+﻿# Client Insights — Business Ascension™
+> Accumule les insights sur les clients actifs Construis la Marque™ et les appels échoués.
 > Mis à jour par : Agent Check-in (hebdo) + Agent Objections (post-appel).
 > Lu par : Orchestrateur (alertes) + Agent Check-in.
 
