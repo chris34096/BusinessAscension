@@ -1,4 +1,4 @@
-# VSL Porte 2 — Construis la Marque™ (10K → 100K€/mois)
+﻿# VSL Porte 2 — Construis la Marque™ (10K → 100K€/mois)
 > Version 2.0 — Juin 2026
 > Pour la page Porte 2 · Cible ICP 2
 > Durée cible : 5-7 min · Face caméra · Voix Chris
@@ -106,7 +106,7 @@ Parce que donner un tarif sans avoir regardé ta situation, c'est de la vente. P
 
 **[ÉCRAN : "Candidature uniquement"]**
 
-En dessous, il y a un formulaire de candidature. Deux minutes. Tu me dis qui tu es, ce que tu fais, ce que tu veux construire. Je lis chaque candidature moi-même.
+En dessous, il y a un formulaire de candidature. Deux minutes. Tu me dis qui tu es, ce que tu fais, ce que tu veux construire. Je lis chaque candidature moi-même, et tu as une réponse sous 24 heures. Et si tu préfères, écris-moi directement en message sur Instagram.
 
 C'est pas pour tout le monde. C'est pour l'entrepreneur qui fait déjà du chiffre, qui veut devenir une catégorie à part, et qui est prêt à avancer maintenant — pas à réfléchir encore.
 

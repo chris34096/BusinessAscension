@@ -1,4 +1,4 @@
-# Construis la Marque™ — Page de Vente
+﻿# Construis la Marque™ — Page de Vente
 > Version 3.0 — Juin 2026
 > Reboot complet · Modèle buildthebrand01.com (Tom Pearson) adapté BA™
 > Porte 2 · Mentorship · 10K→100K€/mois · Candidature uniquement
@@ -38,7 +38,7 @@
 | **10K–100K+** | Par mois · Ce qu'on construit |
 | **8 étapes** | Système propriétaire |
 | **1-to-1** | Accès direct à Chris |
-| **3 niveaux** | Une candidature · Le bon fit |
+| **12 mois** | Parcours unique · Prix défini en appel |
 
 ---
 
@@ -190,7 +190,7 @@ Un client fermé via la bonne offre rembourse l'investissement plusieurs fois da
 
 **H2 :** Candidater pour travailler avec Chris.
 
-Deux minutes. Une candidature pour les trois niveaux. Chris lit personnellement et te répond sous 24h.
+Deux minutes. Chris lit personnellement chaque candidature et te répond sous 24h. Tu préfères candidater directement par message ? Écris sur Instagram.
 
 **[FORMULAIRE DE CANDIDATURE]**
 

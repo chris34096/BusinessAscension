@@ -1,4 +1,4 @@
-# Page Principale — Business Ascension™
+﻿# Page Principale — Business Ascension™
 > Version 3.0 — Juin 2026
 > Reboot complet · Modèle Tom Pearson · Business-first · Vendre par message
 > Wiki : [[business-ascension]] · [[icp-cible]] · [[voix-chris]] · [[funnel-acquisition]]
@@ -191,7 +191,7 @@ Abonnement · Modules + live + communauté · Protocole personnalisé sous 48h.
 ### Construis la Marque™ — Porte 2
 *Pour ceux qui font déjà 5K€+/mois et veulent aller à 100K€/mois.*
 
-Mentorship · 3 niveaux : Signature · Blackroom · Sur-mesure.
+Mentorship · Parcours unique 12 mois · 1:1 · Prix défini en appel.
 
 *Pas de tarif public · Candidature uniquement · Conversation 1-to-1*
 
@@ -224,7 +224,7 @@ C'est souvent le signe qu'il manque un système. C'est précisément ce qu'on co
 Pour la Porte 1 : à partir de 997€. Pour la Porte 2 : on en parle à l'Audit offert.
 
 **"Comment ça se passe concrètement ?"**
-Audit offert gratuit → diagnostic → on choisit ensemble le niveau → accès immédiat ou démarrage sous 48h.
+Audit offert gratuit → diagnostic → on définit ensemble l'investissement (selon le niveau de proximité) → accès immédiat ou démarrage sous 48h.
 
 ---
 

@@ -1,4 +1,4 @@
-# VSL Porte 1 — Deviens l'Entrepreneur™ (0 → 10K€/mois)
+﻿# VSL Porte 1 — Deviens l'Entrepreneur™ (0 → 10K€/mois)
 > Version 2.0 — Juin 2026
 > Pour la page Porte 1 · Cible ICP 1
 > Durée cible : 5-7 min · Face caméra · Voix Chris
@@ -94,6 +94,7 @@ Si ça te parle, voilà comment je t'aide concrètement.
 - Les 8 étapes du système, en modules, accès immédiat
 - Ton diagnostic et ta feuille de route personnalisée sous 48h
 - Deux sessions live par mois avec moi
+- Sur les plans 6 et 12 mois : un accès direct à moi, par message, quand tu bloques
 - Une session d'identité mensuelle — breathwork, hypnose — pour débloquer l'exécution
 - Tes systèmes de contenu LinkedIn, Instagram, YouTube, interconnectés
 - Une communauté d'entrepreneurs qui construisent en même temps que toi

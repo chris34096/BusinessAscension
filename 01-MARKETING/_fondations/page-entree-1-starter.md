@@ -1,4 +1,4 @@
-# Deviens l'Entrepreneur™ — Page de Vente
+﻿# Deviens l'Entrepreneur™ — Page de Vente
 > Version 2.0 — Juin 2026
 > Reboot complet · Modèle becometheman01.com (Tom Pearson) adapté BA™
 > Porte 1 · Abonnement · 0→10K€/mois · Prix public
@@ -181,7 +181,7 @@ J'ai construit Business Ascension™ pour construire ce dont j'aurais eu besoin.
 - Communauté privée BA™ · App · Onboarding · IA
 - **BONUS** · Les 8 étapes pour tes premiers 10K€/mois réguliers
 
-> *Paiement unique ou mensuel · Accès immédiat · Protocole personnalisé sous 48h*
+> *Paiement unique ou mensuel · Accès immédiat · Protocole personnalisé sous 48h · Plans 6 et 12 mois : + accès direct à Chris par message (réponse sous 24h ouvrées)*
 
 ---
 
