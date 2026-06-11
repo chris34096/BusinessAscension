@@ -106,6 +106,7 @@ Stack technologique, SOPs, automatisations avec et sans IA.
 **Agents autonomes v2.0 — Système orchestré (Windows Task Scheduler + claude CLI)**
 
 **Cerveau central**
+- [🏢 L'ÉQUIPE D'AGENTS — organigramme + chaînages](04-SYSTEMES/agents/equipe-agents.md) ← v1.0 — directeurs/sous-agents, veille→contenu, /prospect→setting, watchdog
 - [Agent Orchestrateur](04-SYSTEMES/agents/agent-orchestrateur-prompt.md) ← lun-ven 06h30 — lit tous les états, décide priorités, écrit daily-brief
 
 **Fichiers d'état partagés**
