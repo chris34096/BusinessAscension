@@ -60,6 +60,7 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 | **12 mois** *(meilleure valeur)* | 2 497€ | 12 × 247€ |
 
 > Payable en 1 fois OU en 3 / 6 / 12 versements selon le plan · Accès immédiat · Protocole personnalisé sous 48h.
+> **Plans 6 et 12 mois : + accès direct à Chris par message** (réponse sous 24h ouvrées) — le différenciateur face aux memberships génériques. *(Validé 2026-06-11.)*
 > *(Tarifs validés — Juin 2026.)*
 
 **Garantie :** roadmap construite + premier résultat mesurable à 30 jours, sinon remboursement intégral.
@@ -82,8 +83,9 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 
 ### Format & Rémunération
 - **Parcours unique · Engagement 12 mois** (plus de niveaux multiples)
-- **Pas de prix public** · prix donné **uniquement en appel** · valeur définie ensemble plus tard
-- **Candidature uniquement** · conversation 1-to-1 avec Chris
+- **Pas de prix public** · prix donné **uniquement en appel** · la variable d'ajustement = le niveau de proximité (modèle Tom Pearson BTB)
+- **Candidature** : formulaire OU directement par DM Instagram · **réponse sous 24h** · conversation 1-to-1 avec Chris
+- **Delivery post-bêta (décision 2026-06-11)** : des CSM/coachs prendront le relais du 1:1 hebdo quand le volume l'exigera ; Chris = appels groupés + 1:1 exceptionnels. En bêta : 100% Chris.
 
 ---
 

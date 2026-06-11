@@ -226,7 +226,9 @@ Bloc 5 — Présentation + closing (7 min)
 
 ### Le prix
 
-> "L'investissement pour entrer maintenant, c'est 4 997€. C'est une phase bêta — je travaille avec 3 à 5 clients et je documente tout. En échange, t'as accès à 12 mois d'accompagnement 1:1 sur mesure, à un niveau d'investissement qui montera avec les preuves.
+> "Le niveau d'accès que je te donne — du 1:1 chaque semaine, un canal direct — se vend 3 500£ par mois ailleurs. Ici c'est l'investissement d'une année entière, parce que je suis en phase de documentation.
+>
+> L'investissement pour entrer maintenant, c'est 4 997€. C'est une phase bêta — je travaille avec 3 à 5 clients et je documente tout. En échange, t'as accès à 12 mois d'accompagnement 1:1 sur mesure, à un niveau d'investissement qui montera avec les preuves.
 >
 > Ce qui te bloque te coûte plus par mois que ça. La vraie question, c'est pas 'est-ce que je peux me le permettre ?' — c'est 'combien ça me coûte de ne pas le faire ?'"
 

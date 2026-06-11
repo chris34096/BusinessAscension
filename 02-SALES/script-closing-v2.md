@@ -82,7 +82,12 @@ Reformuler ce que tu as identifié pendant l'Audit offert. Utilise ses mots exac
 **La pile de valeur — en version orale :**
 > "Une année complète de sessions individuelles avec moi, le support direct continu, le diagnostic écrit personnalisé, la roadmap 12 mois sur mesure, ta machine d'acquisition construite, le Business Playbook final — si on met ça côte à côte, on est très au-dessus de l'investissement demandé."
 
-**L'ancrage :**
+**L'ancrage marché (à placer AVANT le prix) :**
+> "Le niveau d'accès que je te donne — du 1:1 chaque semaine, un canal direct — se vend 3 500£ par mois ailleurs. Ici c'est l'investissement d'une année entière, parce que je suis en phase de documentation."
+
+*(Référence réelle : Tom Pearson, Blackroom Consulting — £3 500/mois, vérifié juin 2026. Ne pas citer son nom en appel.)*
+
+**L'ancrage prix :**
 > "On est en phase bêta. Je cherche 3 à 5 premiers clients pour documenter les résultats. Le prix bêta, c'est 4 997€. Ou en 3 fois — 3 × 1 799€."
 
 **Le ROI — jamais de promesses chiffrées :**

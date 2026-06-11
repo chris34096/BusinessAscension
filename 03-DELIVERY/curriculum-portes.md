@@ -35,6 +35,7 @@ Les deux portes suivent le même mécanisme. Ce qui change : la profondeur, le f
 |---|---|---|
 | Modules (les 8 étapes) | Accès immédiat | Vidéos + templates, débloqués dès l'inscription |
 | Protocole personnalisé | Sous 48h | Chris lit l'arrivée, construit la feuille de route individuelle |
+| **Accès direct à Chris par message** | Plans 6 et 12 mois | Réponse sous 24h ouvrées — différenciateur vs memberships génériques (validé 2026-06-11) |
 | Sessions live avec Chris | 2×/mois | Hot seats + ajustements collectifs |
 | Session identité | 1×/mois | Breathwork · hypnose en collectif |
 | Communauté privée | Continu | Entraide, accountability, momentum |
@@ -79,7 +80,9 @@ Les deux portes suivent le même mécanisme. Ce qui change : la profondeur, le f
 - La vélocité est un signal diagnostique, pas une note : si un sprint résiste, on cherche le pattern intérieur OU la surestimation.
 - Auto-évaluation en début de session : exécution /10 · intensité du pattern bloquant /10 · l'action évitée cette semaine.
 
-**Accès :** candidature uniquement → conversation 1:1 avec Chris → prix défini en appel selon la situation.
+**Accès :** candidature (formulaire OU directement par DM Instagram) → réponse sous 24h → conversation 1:1 avec Chris → prix défini en appel selon la situation et le niveau de proximité.
+
+**Delivery post-bêta (décision Chris 2026-06-11) :** quand le volume P2 dépassera la bande passante, des Customer Success Managers / coachs prendront le relais du 1:1 hebdo ; Chris assurera les appels groupés + les 1:1 exceptionnels. En bêta : 100% Chris (moteur de preuves).
 
 **Sortie :** critères Scale Ascension — Playbook opérationnel, CA en croissance documentée, acquisition active, client prêt à déléguer (pas juste à comprendre qu'il devrait).
 

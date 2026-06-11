@@ -166,7 +166,7 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 | 1 | Préparer le 1er séminaire présentiel (date + format + ville) | Business |
 | 2 | Construire la liste d'attente séminaire via contenu | Marketing |
 | 3 | Affiner Scale Ascension selon le feedback des 1ers clients | Delivery |
-| 4 | Recruter un premier appui (assistant virtuel ou ops partiel) si CA > 25k | RH |
+| 4 | Recruter un premier appui (CSM/coach delivery pour reprendre le 1:1 P2 — décision 2026-06-11 — ou assistant ops) si CA > 25k | RH |
 
 #### Jalons de validation Phase Scale
 
