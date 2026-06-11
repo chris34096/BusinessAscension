@@ -1,5 +1,5 @@
 ﻿# Roadmap Business — Business Ascension™
-> Version 1.0 — Mai 2026
+> Version 2.0 — Juin 2026 — Les DEUX portes trackées (P1 MRR intégrée à chaque phase · low ticket supprimé · P1 = entrée du funnel)
 > Horizon : 18 mois (Mai 2026 → Octobre 2027)
 > Revue : à chaque session de clôture (fin de trimestre).
 > Ce document traduit la vision en plan d'exécution trimestriel.
@@ -27,7 +27,7 @@ Porte 1 (Deviens l'Entrepreneur™) = MRR public : 997 / 1 497 / 2 497 € (3/6/
 
 PHASE 1 — BÊTA          Q2 2026 (Mai → Juillet)
 Poser les fondations. Signer les 3 premiers clients Porte 2. Documenter les preuves.
-Lancer la Porte 1 (MRR) + préparer le low ticket 7-27€.
+Lancer la Porte 1 (MRR) — c'est l'entrée du funnel.
 Ancrage interne Porte 2 : 4 997 €
 
 PHASE 2 — STANDARD      Q3-Q4 2026 (Août → Décembre)
@@ -51,22 +51,24 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 **Objectif unique :** prouver que le modèle fonctionne. Pas scaler — documenter.
 
 **Condition d'entrée :** BOS complet ✅
-**Condition de sortie :** 3 clients Construis la Marque™ signés + 3 témoignages avec résultats chiffrés
+**Condition de sortie :** 3 clients Construis la Marque™ signés + 3 témoignages avec résultats chiffrés + **Porte 1 vendable (paiements branchés) avec 5+ membres MRR actifs**
 
 ---
 
 #### Ce qu'on construit ce trimestre
 
-| Priorité | Action | Pôle | Deadline |
-|---|---|---|---|
-| 1 | Publier 5 Reels/semaine — 10 semaines consécutives | Marketing | Continu |
-| 2 | Lancer la prospection DM (Instagram + LinkedIn) — 10 DMs/jour max | Marketing | Semaine 1 |
-| 3 | Réaliser 3 Audits offerts/semaine | Sales | Semaine 2 |
-| 4 | Signer le 1er client Construis la Marque™ | Sales | Semaine 4-6 |
-| 5 | Délivrer le 1er sprint avec DoD validée | Delivery | Semaine 6-8 |
-| 6 | Signer les clients 2 et 3 | Sales | Semaine 6-10 |
-| 7 | Collecter les 3 premiers témoignages écrits | Delivery | Semaine 10-12 |
-| 8 | Tester et valider le stack technologique | Systèmes | Semaine 2 |
+| Priorité | Action | Porte | Pôle | Deadline |
+|---|---|---|---|---|
+| 1 | Publier 5 Reels/semaine — 10 semaines consécutives | Les 2 | Marketing | Continu |
+| 2 | Lancer la prospection DM (Instagram + LinkedIn) — 10 DMs/jour max | Les 2 | Marketing | Semaine 1 |
+| 3 | Réaliser 3 Audits offerts/semaine | Les 2 | Sales | Semaine 2 |
+| 4 | **Brancher les paiements Porte 1** (Stripe/GHL sur les 3 plans — les boutons sont en href="#") | P1 | Systèmes | Semaine 1 |
+| 5 | **Ouvrir l'espace communauté Porte 1** (GHL/Skool/Circle — trancher l'outil) | P1 | Delivery | Semaine 2 |
+| 6 | Signer le 1er client Construis la Marque™ | P2 | Sales | Semaine 4-6 |
+| 7 | **Signer les 5 premiers membres Porte 1** (DM tièdes + audience existante) | P1 | Sales | Semaine 4-8 |
+| 8 | Délivrer le 1er sprint P2 avec DoD validée + 1er protocole 48h P1 | Les 2 | Delivery | Semaine 6-8 |
+| 9 | Signer les clients P2 n°2 et 3 | P2 | Sales | Semaine 6-10 |
+| 10 | Collecter les 3 premiers témoignages écrits | Les 2 | Delivery | Semaine 10-12 |
 
 #### Ce qu'on ne fait PAS ce trimestre
 
@@ -80,9 +82,12 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 | Jalon | Semaine cible | Validé ? |
 |---|---|---|
 | Stack technologique actif (Stripe + Calendly + Notion + Zoom) | S2 | |
+| **Paiements Porte 1 branchés (les 3 plans achetables)** | S1-2 | |
 | Premier Audit offert réalisé | S2 | |
-| Premier contrat signé | S4-6 | |
-| 3 clients actifs simultanément | S8 | |
+| **Premier membre Porte 1 payant (MRR > 0)** | S3-4 | |
+| Premier contrat Porte 2 signé | S4-6 | |
+| **5 membres Porte 1 actifs · MRR ≥ 1 500€/mois** | S8 | |
+| 3 clients Porte 2 actifs simultanément | S8 | |
 | Premier Sprint Review avec DoD validée | S8 | |
 | 3 témoignages collectés | S12 | |
 
@@ -91,10 +96,10 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 ## PHASE 2 — STANDARD
 ### Q3-Q4 2026 (Août → Décembre 2026)
 
-**Objectif :** monter l'ancrage prix Porte 2 à 7 000 € (toujours annoncé en appel), scaler l'acquisition, stabiliser le delivery avec 5 à 8 clients actifs.
+**Objectif :** monter l'ancrage prix Porte 2 à 7 000 € (toujours annoncé en appel), scaler l'acquisition, stabiliser le delivery avec 5 à 8 clients actifs — et faire grandir la communauté Porte 1 vers 20-30 membres (MRR ≥ 6 000€/mois).
 
-**Condition d'entrée :** 3 témoignages documentés + BOS delivery validé sur 3 clients
-**Condition de sortie :** 5+ clients Porte 2 actifs simultanément (ancrage 7 000 €) + taux de conversion ≥ 33%
+**Condition d'entrée :** 3 témoignages documentés + BOS delivery validé sur 3 clients + Porte 1 active (5+ membres)
+**Condition de sortie :** 5+ clients Porte 2 actifs simultanément (ancrage 7 000 €) + taux de conversion ≥ 33% + **20+ membres Porte 1 · churn < 10%/mois**
 
 ---
 
@@ -128,6 +133,7 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 | 5 clients actifs simultanément | Octobre 2026 | |
 | Taux de conversion Audit → client ≥ 33% | Octobre 2026 | |
 | CA mensuel ≥ 14 000 € | Octobre 2026 | |
+| 20+ membres Porte 1 · MRR >= 6 000 EUR/mois | Décembre 2026 | |
 | 5 témoignages documentés avec résultats chiffrés | Décembre 2026 | |
 | 2 études de cas complètes | Décembre 2026 | |
 
@@ -136,7 +142,7 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 ## PHASE 3 — SCALE
 ### Q1-Q2 2027 (Janvier → Juin 2027)
 
-**Objectif :** lancer Scale Ascension, monter l'ancrage Porte 2 à 9 000 €, atteindre 30 000 €/mois de CA.
+**Objectif :** lancer Scale Ascension, monter l'ancrage Porte 2 à 9 000 €, atteindre 30 000 €/mois de CA (dont 10 000 €+ de MRR Porte 1 — 40-50 membres).
 
 **Condition d'entrée :** 5 clients Construis la Marque™ complétés + taux de réussite documenté ≥ 80%
 **Condition de sortie :** Scale Ascension actif (3+ clients) + CA mensuel stable > 25 000 €
@@ -168,7 +174,7 @@ Ancrage interne Porte 2 : 9 000-12 000 €
 |---|---|---|
 | Scale Ascension ouvert et 3 premiers clients | Janvier 2027 | |
 | Ancrage Porte 2 à 9 000 € avec premier client signé | Février 2027 | |
-| CA mensuel ≥ 25 000 € | Mars 2027 | |
+| CA mensuel ≥ 25 000 € (dont MRR Porte 1 ≥ 8 000 €) | Mars 2027 | |
 | 10 témoignages documentés | Mars 2027 | |
 | 1er séminaire annoncé avec liste d'attente | Juin 2027 | |
 

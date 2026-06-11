@@ -38,7 +38,7 @@
 - **Identité & Exécution** — Breathwork · Hypnose · PNL · Neurosciences · Reconditionnement. Présent en Porte 1 ET Porte 2.
 - **Business & Marketing** — Offre · Positionnement · Contenu · Leads entrants · Vendre par message · BOS 6 pôles.
 
-**Low ticket BA™ (7–27€) :** produit vidéo qui enseigne la méthode · offre auto-liquidante (finance l'acquisition) · première marche du funnel → ascension vers Porte 1 puis Porte 2.
+**Entrée du funnel :** la Porte 1 elle-même (MRR accessible, prix public). Pas de low ticket — supprimé Juin 2026, le MRR est plus avantageux.
 
 **Les 2 offres :**
 
@@ -87,7 +87,7 @@ Le contenu montre le résultat. Le produit livre le chemin.
 |---|---|---|
 | **Deviens l'Entrepreneur™** | ✅ Nom officiel | Porte 1 — organique pur — MRR — 0→10K |
 | **Construis la Marque™** | ✅ Nom officiel | Porte 2 — scale — parcours unique 12 mois — 10K→100K |
-| **Low ticket** | ✅ Produit vidéo 7–27€ | Entrée auto-liquidante du funnel BA™ |
+| **Low ticket** | ❌ SUPPRIMÉ (Juin 2026) | La Porte 1 est l'entrée du funnel — ne plus le proposer |
 | **Business Ascension™** | ✅ Nom de la marque | Toujours avec ™ en formel |
 | **Scale Ascension** | ✅ Étape 7 + continuité | Réservé aux clients ayant complété |
 | **Audit offert** | ✅ Nom public unique | TOUJOURS ce nom en externe |
@@ -113,7 +113,7 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 │   ├── _fondations/
 │   │   ├── ma-cible.md             ← v10.0 ✅  ← 2 ICP · Deviens l'Entrepreneur / Construis la Marque
 │   │   ├── ma-voix.md              ← v9.0 ✅
-│   │   ├── mes-offres.md           ← v10.0 ✅  ← Musy/Empowerment × Tom Pearson · low ticket · P1 organique / P2 scale
+│   │   ├── mes-offres.md           ← v10.1 ✅  ← Musy/Empowerment × Tom Pearson · P1 organique (entrée) / P2 scale · sans low ticket
 │   │   ├── lead-magnet-4-goulots.md ← v1.0 ✅
 │   │   ├── lead-magnets.md         ← v1.0 ✅
 │   │   ├── voc-langage-client.md   ← v1.0 ✅

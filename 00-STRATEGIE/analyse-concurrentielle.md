@@ -75,7 +75,7 @@ Tout le monde revendique "business + mindset + performance + identité". Seule l
 | **SAM** | ~150 000-250 000 | Entrepreneurs francophones actifs cherchant une solution premium (>3 000€) à leur stagnation |
 | **SOM Phase bêta** | **3-5 clients** | Objectif Q2-Q3 2026 : documenter les premières preuves réelles |
 | **SOM Année 1** | **20-30 clients** | Mix Porte 1 (MRR) + Porte 2 (ancrage 5-7K€) = 140 000-210 000€ CA |
-| **SOM Scale** | **100-200 clients/an** | Mix 2 portes + low ticket + Scale Ascension = 900 000-2,4M€ CA |
+| **SOM Scale** | **100-200 clients/an** | Mix 2 portes + Scale Ascension = 900 000-2,4M€ CA |
 
 ### Verdict marché
 

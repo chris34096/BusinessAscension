@@ -1,4 +1,4 @@
-# SYSTÈME LinkedIn — Business Ascension™
+﻿# SYSTÈME LinkedIn — Business Ascension™
 > Version 2.0 — Juin 2026 (intègre YAP écrit · cadence hebdo · VOC v2)
 > Le système opérationnel LinkedIn : autorité · expertise · confiance · clients par message
 > Cible prioritaire : ICP 2 (Construis la Marque™ · 10K→100K) — secondaire ICP 1
@@ -14,7 +14,7 @@
 
 LinkedIn = **le réseau de l'autorité écrite**. C'est là que l'ICP 2 (entrepreneurs établis) décide s'il te fait confiance.
 
-- **Objectif** : autorité perçue → confiance → leads entrants présoldés → clients par message (Porte 2 + low ticket).
+- **Objectif** : autorité perçue → confiance → leads entrants présoldés → clients par message (Porte 1 + Porte 2).
 - **Ce que LinkedIn fait mieux** : prouver la profondeur de ta pensée. Un post écrit dense = preuve d'expertise instantanée. **YAP s'y déploie en argumentaire** : la croyance, défendue noir sur blanc.
 - **Structure concurrente reprise** : le post-framework dense + le document carrousel (cf. Musy/Baer/Clouet), réécrits dans la voix Chris, belief-first.
 
@@ -46,7 +46,7 @@ Le post suit la **formule YAP en 5 temps** (`yap-framework.md` §1), version éc
 | **+ Followers** | Hook-croyance qui arrête le scroll + post sauvegardable |
 | **+ Autorité** | Profondeur du mécanisme (YAP temps 4) · le "pourquoi" derrière le "quoi" |
 | **+ Confiance** | Stories vulnérables (12K→0) + résultats concrets + on dit la vérité |
-| **+ Clients** | CTA intégré (commentaire → DM) + profil optimisé → low ticket / Audit offert |
+| **+ Clients** | CTA intégré (commentaire → DM) + profil optimisé → Audit offert / Porte 1 |
 
 ---
 
@@ -127,7 +127,7 @@ Chaque format LinkedIn = un style YAP (`yap-framework.md` §2). Un par jour, rot
 ## 7. LE CHEMIN DE CONVERSION (LinkedIn → client)
 
 - **Post** → CTA "Commente [MOT]" → tu réponds en commentaire + passes en **DM** (séquence `dm-sequence-linkedin-instagram.md`).
-- **Profil optimisé** (`profil-linkedin.md`) → lien vers **low ticket 7-27€** ou **Audit offert**.
+- **Profil optimisé** (`profil-linkedin.md`) → lien vers **Porte 1 (Deviens l'Entrepreneur™)** ou **Audit offert**.
 - Jamais de pitch en commentaire public. La vente se fait par message, après valeur.
 
 ---

@@ -1,4 +1,4 @@
-# CURRICULUM — Les 2 Portes
+﻿# CURRICULUM — Les 2 Portes
 > Version 3.0 — Juin 2026
 > Remplace curriculum-iap.md (archivé — ancien format 12 semaines)
 > Source de vérité : `01-MARKETING/_fondations/mes-offres.md` v10
@@ -108,7 +108,7 @@ Tout document de vente ou de delivery qui décrit les offres DOIT être conforme
 | Durée | 3 / 6 / 12 mois (MRR) | 12 mois (parcours unique) |
 | Prix | Public : 997 / 1 497 / 2 497€ (ou 367/297/247€/mois) | Par appel uniquement (ancrage bêta interne : 4 997€) |
 | Format | Modules + lives collectifs + communauté | 1:1 hebdo avec Chris |
-| Entrée | Achat direct (ou low ticket 7-27€ avant) | Candidature |
+| Entrée | Achat direct — la Porte 1 EST l'entrée du funnel | Candidature |
 
 ❌ Ne plus utiliser : "IAP" · "IAProtocol" · "12 semaines" · "3 mois" pour la Porte 2 · sessions de groupe hebdo Porte 2.
 

@@ -72,7 +72,7 @@
 
 **⚠️ MODÈLE v10 (Juin 2026) — Musy/Empowerment × Tom Pearson :**
 
-**Low ticket BA™ 7–27€ :** produit vidéo qui enseigne la méthode · auto-liquidant · entrée du funnel.
+**Low ticket : SUPPRIMÉ (Juin 2026).** La Porte 1 (MRR accessible) est l'entrée du funnel — plus avantageux qu'un low ticket. Réévaluable seulement si ads en Phase 3.
 
 **Deviens l'Entrepreneur™ — Porte 1 (0→10K) · ORGANIQUE PUR :**
 - On construit : offre · avatar · positionnement · identité (breathwork/hypnose/reconditionnement) + lead magnet + systèmes contenu LinkedIn/Instagram/YouTube **interconnectés** → omniprésence → **communauté + CA récurrent**

@@ -1,4 +1,4 @@
-# Vision Empire — Business Ascension™
+﻿# Vision Empire — Business Ascension™
 > Version 2.0 — Mai 2026
 > La direction. Pas la version raisonnable — la version vraie.
 > À relire au début de chaque PI (trimestre) et avant chaque décision stratégique majeure.
@@ -75,8 +75,6 @@ Ce n'est pas un argument de vente. C'est ce qui fait se lever le matin.
 ```
 Contenu organique
 (Instagram · LinkedIn · YouTube — interconnectés)
-        ↓
-Low ticket (7-27€ · vidéo · auto-liquidant)
         ↓
 Audit offert (30 min · gratuit)
         ↓

@@ -1,4 +1,4 @@
-# SYSTÈME Instagram — Business Ascension™
+﻿# SYSTÈME Instagram — Business Ascension™
 > Version 2.0 — Juin 2026 (intègre YAP · 10 formats · cadence hebdo · Script Builder · VOC v2)
 > Le système opérationnel Instagram : reach · reconnaissance · communauté · clients par message
 > Cible prioritaire : ICP 1 (Deviens l'Entrepreneur™ · 0→10K) — secondaire ICP 2
@@ -14,7 +14,7 @@
 
 Instagram = **le réseau de la reconnaissance et de la communauté**. C'est là que l'ICP 1 se dit "c'est exactement moi" et commence à te suivre.
 
-- **Objectif** : reach (Reels) → reconnaissance → communauté (stories) → DM entrants → low ticket / Audit offert.
+- **Objectif** : reach (Reels) → reconnaissance → communauté (stories) → DM entrants → Audit offert / Porte 1.
 - **Ce qu'IG fait mieux** : du volume de découverte (Reels) + une relation quotidienne intime (stories).
 - **Format roi** : le **Reel**. Le carrousel = autorité/sauvegarde + preuve. Les stories = relation + conversion.
 - **Structure concurrente reprise** : la cadence haute volume + les 10 formats (cf. créateurs IG The Online Coach), filtrés par la voix Chris et le belief-first BA™.
@@ -87,7 +87,7 @@ Détail + mapping : `yap-framework.md` §4. Sur IG, ton **socle = Raw talk + Tal
 2. **Valeur express** — 1 idée tirée du Daily YAP (texte + voix).
 3. **Interaction** — sondage / curseur / question (signal algo + data sur la cible).
 4. **Preuve ou coulisse** — capture DM, retour client, moment de build in public.
-5. **Soft CTA** — renvoi vers le reel/carrousel du jour OU lien bio (low ticket / Audit offert).
+5. **Soft CTA** — renvoi vers le reel/carrousel du jour OU lien bio (Porte 1 / Audit offert).
 
 → 1 story de vente franche / semaine max. Le reste = relation. La communauté devient clients dans les DM, pas dans les stories.
 
@@ -120,7 +120,7 @@ Reel (hook croyance + valeur) → "Commente [MOT]"
         ↓
 DM auto : ressource + diagnostic 2 questions (dm-sequence-linkedin-instagram.md)
         ↓
-Low ticket 7-27€  OU  Audit offert (selon le stade)
+Porte 1 (achat direct)  OU  Audit offert (selon le stade)
 ```
 Jamais de pitch en commentaire. Valeur → conversation → vente par message. **Répondre à chaque commentaire < 2h** (signal algo + relation).
 

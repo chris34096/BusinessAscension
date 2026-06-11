@@ -1,4 +1,4 @@
----
+﻿---
 wiki_type: entity
 name: Business Ascension™
 slug: business-ascension
@@ -23,8 +23,8 @@ updated: 2026-06-03
 
 ---
 
-## LOW TICKET — entrée BA™
-Produit vidéo 7–27€ qui enseigne la méthode · offre auto-liquidante (finance l'acquisition) · première marche du funnel.
+## ENTRÉE DU FUNNEL
+La Porte 1 (Deviens l'Entrepreneur™, MRR accessible à prix public) est l'entrée du funnel. Le low ticket a été supprimé du modèle (Juin 2026) — le MRR est plus avantageux.
 
 ## LES 2 OFFRES
 
@@ -68,7 +68,6 @@ Produit vidéo 7–27€ qui enseigne la méthode · offre auto-liquidante (fina
 ## FUNNEL
 
 ```
-Low ticket 7–27€ (vidéo · auto-liquidant) → acquiert ~gratuitement
     ↓
 Lead magnet + Contenu organique (Instagram · LinkedIn · YouTube interconnectés)
     ↓

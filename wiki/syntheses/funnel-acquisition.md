@@ -1,4 +1,4 @@
----
+﻿---
 wiki_type: synthese
 name: Funnel d'acquisition BA™ — Vue complète
 slug: funnel-acquisition
@@ -19,7 +19,6 @@ sources:
 ## ARCHITECTURE GLOBALE
 
 ```
-LOW TICKET 7–27€ (vidéo · auto-liquidant → acquiert ~gratuitement)
         ↓
 LEAD MAGNET + CONTENU ORGANIQUE
 ├── Instagram → ICP 1 (0→10K)
@@ -57,7 +56,7 @@ Organique·MRR     Scale·12 mois·appel
 **Entrée :** Accès immédiat après paiement
 **Prix :** 997€ / 1 497€ / 2 497€ (PIF) ou versements (3/6/12)
 **Canal principal :** Instagram
-**Conversion :** low ticket / DM → page → paiement direct
+**Conversion :** DM / contenu → page Porte 1 → paiement direct
 
 ---
 

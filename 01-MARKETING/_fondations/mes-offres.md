@@ -1,6 +1,6 @@
-# Mes Offres — Architecture finale
+﻿# Mes Offres — Architecture finale
 > Version 10.0 — Juin 2026
-> Modèle : Tom Pearson (structure 2 portes + MRR) × Julien Musy / Empowerment (organique pur → scale)
+> Modèle : Tom Pearson (structure 2 portes + MRR) × Julien Musy / Empowerment (organique pur → scale) · SANS low ticket — la Porte 1 EST l'entrée (décision Juin 2026)
 > Porte 1 : Deviens l'Entrepreneur™ (0→10K, organique pur) · Porte 2 : Construis la Marque™ (10K→100K, scale)
 > Wiki : [[business-ascension]] · [[icp-cible]] · [[funnel-acquisition]] · [[tom-pearson]]
 
@@ -90,8 +90,6 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 ## L'ASCENSION COMPLÈTE (funnel)
 
 ```
-LOW TICKET (7–27€)  →  acquiert des clients ~gratuitement
-        ↓
 LEAD MAGNET  →  capture + nurture
         ↓
 CONTENU ORGANIQUE (LinkedIn · Instagram · YouTube interconnectés)
@@ -113,7 +111,6 @@ SCALE ASCENSION  (continuité clients avancés)
 | **Deviens l'Entrepreneur™** | ✅ Porte 1 — organique — 0→10K |
 | **Construis la Marque™** | ✅ Porte 2 — scale — 10K→100K |
 | **Business Ascension™** | ✅ La marque |
-| **Low ticket** | ✅ Produit vidéo BA™ 7–27€ — enseigne la méthode · auto-liquidant |
 | **Scale Ascension** | ✅ Continuité clients avancés |
 | **Audit offert** | ✅ Nom public de l'appel |
 | **Diagnostic Ascension** | ⚠️ Interne uniquement |
