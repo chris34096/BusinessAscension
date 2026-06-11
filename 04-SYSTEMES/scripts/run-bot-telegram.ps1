@@ -1,4 +1,4 @@
-﻿# run-bot-telegram.ps1
+# run-bot-telegram.ps1
 # Bot Telegram bidirectionnel — Business Ascension™
 # Tu écris au bot -> Claude répond avec tout le contexte BA chargé
 # Exécution : continu, démarre au login Windows
@@ -164,6 +164,11 @@ COMMANDES RAPIDES :
 /checkin - check-in clients actifs (aussi auto vendredi 15h)
 /vsl [player_id] [durée_sec] - analyser une VSL VTurb
 /objection [notes appel] - fiche objection depuis un appel échoué
+/contenu [platform] [porte] [style] - générer contenu (ex: /contenu linkedin porte1 rant)
+/brief - brief quotidien : pipeline + contenu + priorité du jour
+/triage [texte DM] - classifier un DM entrant (CHAUD/TIÈDE/FROID)
+/followup [infos prospect] - séquence relance J+2/J+7/J+14 post-audit
+/audit-prep [infos prospect] - fiche de prep Audit offert
 /aide - cette aide
 
 QUESTIONS LIBRES (exemples) :
@@ -175,6 +180,221 @@ QUESTIONS LIBRES (exemples) :
 "@
                     break
                 }
+                # /contenu [platform] [porte] [style] [sujet optionnel]
+                # ex: /contenu linkedin porte1 rant
+                # ex: /contenu instagram porte2 story le plafond de verre
+                { $_ -like "/contenu*" } {
+                    $parts = $text -split "\s+", 5
+                    $platform = if ($parts.Count -gt 1) { $parts[1] } else { "linkedin" }
+                    $porte    = if ($parts.Count -gt 2) { $parts[2] } else { "porte1" }
+                    $style    = if ($parts.Count -gt 3) { $parts[3] } else { "contrarian" }
+                    $sujet    = if ($parts.Count -gt 4) { $parts[4] } else { "" }
+
+                    $yapRaw = Get-Content "/home/ba/repo/01-MARKETING/_fondations/yap-framework.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+                    $vocRaw = Get-Content "/home/ba/repo/01-MARKETING/_fondations/voc-langage-client.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+                    $yap = if ($yapRaw) { $yapRaw.Substring(0, [Math]::Min(2500, $yapRaw.Length)) } else { "" }
+                    $voc = if ($vocRaw) { $vocRaw.Substring(0, [Math]::Min(1500, $vocRaw.Length)) } else { "" }
+                    $sujetLine = if ($sujet) { "Sujet/angle : $sujet" } else { "" }
+
+                    $prompt = @"
+Tu es Chris Perez, fondateur de Business Ascension. Tu generes du contenu en ta propre voix.
+
+VOIX REGLES ABSOLUES
+- Tutoiement systematique
+- Premiere ligne frappe DIRECT sans intro ni presentation
+- JAMAIS : liberte financiere, revenus passifs, systeme cle en main, tu merites, programme seul
+- Porte 1 VOC : vivoter, decoller, le SMIC de LinkedIn, sans me cramer
+- Porte 2 VOC : plafond de verre, vendre son temps, bande passante, charge mentale
+- Branding : Business et Identite simultanement. Croyance en hook, JAMAIS douleur en slide 1.
+
+YAP FRAMEWORK :
+$yap
+
+VOC CIBLE :
+$voc
+
+MISSION :
+Genere un contenu $platform pour $porte, style YAP $style
+$sujetLine
+
+Tunnel : TOFU = CTA engagement uniquement jamais l'offre. MOFU = CTA profil ou DM. BOFU = Audit offert.
+
+Genere :
+1. Le contenu complet ready-to-post
+2. Notes de delivery pour Reel : timing par ligne, text hook ecran
+3. CTA adapte au tunnel
+4. Hashtags 8 a 10
+
+Commence DIRECTEMENT par le contenu, zero intro.
+"@
+                    Send-Telegram "Generation $platform ($porte - $style)..."
+                    try {
+                        $result = $prompt | claude -p
+                        if ($result) {
+                            $chunks = [System.Text.RegularExpressions.Regex]::Matches($result, ".{1,3800}", [System.Text.RegularExpressions.RegexOptions]::Singleline)
+                            foreach ($c in $chunks) { Send-Telegram $c.Value; Start-Sleep -Seconds 1 }
+                        } else { Send-Telegram "Pas de contenu genere. Reessaie." }
+                    } catch { Send-Telegram "Erreur /contenu : $_" }
+                    break
+                }
+
+                # /brief — brief quotidien pipeline + contenu a poster
+                "/brief" {
+                    $pipeline = Get-Content "/home/ba/repo/02-SALES/pipeline-suivi.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+                    $kpis     = Get-Content "/home/ba/repo/05-FINANCE/kpis-dashboard.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+                    $pipelineShort = if ($pipeline) { $pipeline.Substring(0, [Math]::Min(2000, $pipeline.Length)) } else { "Pipeline vide" }
+                    $kpisShort = if ($kpis) { $kpis.Substring(0, [Math]::Min(1000, $kpis.Length)) } else { "KPIs non disponibles" }
+
+                    $prompt = @"
+Tu es l'assistant de Chris Perez, fondateur de Business Ascension. Genere son brief quotidien.
+
+DATE : $(Get-Date -Format "dddd d MMMM yyyy")
+
+PIPELINE :
+$pipelineShort
+
+KPIS :
+$kpisShort
+
+CADENCES CONTENU :
+LinkedIn : 4 posts semaine + 2 carousels
+Instagram : 2 reels + 5 stories + 1 carrousel par jour
+YouTube : 1 long-form semaine + 3-4 Shorts semaine
+
+TUNNEL YAP 4/3/3 :
+TOFU (4) : croyance, education, zero vente
+MOFU (3) : preuve, preuve sociale, profil
+BOFU (3) : Audit offert, temoignages
+
+Genere le brief du jour en francais, tutoiement, direct :
+1. PIPELINE : 3-5 actions prioritaires avec noms de prospects
+2. CONTENU A POSTER : quel format, quelle plateforme, quel etage tunnel
+3. PRIORITE N1 : l'action qui genere le plus de CA aujourd'hui
+4. DMS A SUIVRE : qui relancer, qui repondre
+5. OBJECTIF DU JOUR : 1 chose concrete avant 18h
+
+Max 400 mots. Direct. Actionnable.
+"@
+                    Send-Telegram "Generation brief du jour..."
+                    try {
+                        $result = $prompt | claude -p
+                        if ($result) { Send-Telegram $result } else { Send-Telegram "Brief indisponible. Reessaie." }
+                    } catch { Send-Telegram "Erreur /brief : $_" }
+                    break
+                }
+
+                # /triage [texte du DM recu]
+                { $_ -like "/triage*" } {
+                    $dmText = ($text -replace "^/triage\s*", "").Trim()
+                    if (-not $dmText) { Send-Telegram "Usage : /triage [texte du DM a analyser]"; break }
+
+                    $prompt = @"
+Tu es l'assistant business de Chris Perez (Business Ascension). Analyse ce DM entrant.
+
+DM RECU :
+$dmText
+
+Reponds avec cette structure exacte :
+CLASSIFICATION: CHAUD / TIEDE / FROID / CLIENT / SPAM
+PORTE: 1 (0-10K) / 2 (10K-100K) / N/A
+PROBLEME EXPRIME: [1 ligne]
+SIGNAL D'ACHAT: oui/non + indice
+ACTION RECOMMANDEE: DM de reponse / Appel / Ignorer / Relance J+X
+REPONSE SUGGEREE: [1-2 phrases, voix Chris, tutoiement, question diagnostic]
+
+Direct, pas de blabla.
+"@
+                    Send-Telegram "Analyse DM..."
+                    try {
+                        $result = $prompt | claude -p
+                        if ($result) { Send-Telegram $result } else { Send-Telegram "Analyse impossible. Reessaie." }
+                    } catch { Send-Telegram "Erreur /triage : $_" }
+                    break
+                }
+
+                # /followup [infos prospect]
+                { $_ -like "/followup*" } {
+                    $info = ($text -replace "^/followup\s*", "").Trim()
+                    if (-not $info) { Send-Telegram "Usage : /followup [infos prospect + nb jours depuis audit]"; break }
+
+                    $prompt = @"
+Tu es Chris Perez, fondateur de Business Ascension. Genere une sequence relance post-Audit offert.
+
+CONTEXTE PROSPECT : $info
+
+REGLES ABSOLUES :
+- JAMAIS de pression ou countdown factice
+- JAMAIS t'as pris ta decision
+- Partir de quelque chose de concret (ce qu'il a dit, son business, un post recent)
+- Tutoiement direct respect genereux
+
+MESSAGE 1 (J+2) Check-in naturel :
+[1-2 phrases, question ouverte, zero pression]
+
+MESSAGE 2 (J+7) Valeur ajoutee :
+[Observation utile sur son business + 1 question]
+
+MESSAGE 3 (J+14) Derniere fenetre :
+[Transparence totale, fermer la boucle proprement]
+
+Format court. Voix Chris. Pret a copier-coller.
+"@
+                    Send-Telegram "Generation sequence relance..."
+                    try {
+                        $result = $prompt | claude -p
+                        if ($result) { Send-Telegram $result } else { Send-Telegram "Sequence non generee. Reessaie." }
+                    } catch { Send-Telegram "Erreur /followup : $_" }
+                    break
+                }
+
+                # /audit-prep [infos prospect]
+                { $_ -like "/audit-prep*" } {
+                    $info = ($text -replace "^/audit-prep\s*", "").Trim()
+                    if (-not $info) { Send-Telegram "Usage : /audit-prep [nom plateforme situation symptomes]"; break }
+
+                    $scriptRaw = Get-Content "/home/ba/repo/02-SALES/script-audit-offert.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+                    $scriptAudit = if ($scriptRaw) { $scriptRaw.Substring(0, [Math]::Min(2000, $scriptRaw.Length)) } else { "" }
+
+                    $prompt = @"
+Tu es l'assistant de Chris Perez. Prepare la fiche de prep pour son prochain Audit offert.
+
+INFOS PROSPECT : $info
+
+SCRIPT AUDIT OFFERT (extrait) :
+$scriptAudit
+
+Genere la fiche de prep :
+
+PROFIL : nom, plateforme, stade business
+SYMPTOMES EXPRIMES : ce qu'il a dit
+GOULOT PROBABLE : principal frein identifie
+PORTE PROBABLE : 1 ou 2
+
+QUESTIONS D'OUVERTURE (choisis 2) :
+1. [question diagnostic business]
+2. [question sur le frein principal]
+3. [question sur ce qu'il a deja essaye]
+
+OBJECTIONS ANTICIPEES :
+- [objection] vers [reponse Chris]
+
+PONT VERS L'OFFRE :
+[Connecter son probleme a la solution sans pitcher direct]
+
+GO si : [signaux de readiness]
+NO-GO si : [signaux d'incompatibilite]
+
+RAPPEL : Audit offert = diagnostic. On prescrit, on ne propose pas. Nom externe = Audit offert uniquement.
+"@
+                    Send-Telegram "Preparation Audit offert..."
+                    try {
+                        $result = $prompt | claude -p
+                        if ($result) { Send-Telegram $result } else { Send-Telegram "Fiche non generee. Reessaie." }
+                    } catch { Send-Telegram "Erreur /audit-prep : $_" }
+                    break
+                }
+
+
                 default {
                     # Question libre -> Claude avec contexte BA complet
                     $context = Get-BAContext
