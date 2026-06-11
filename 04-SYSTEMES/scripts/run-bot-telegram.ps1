@@ -1,10 +1,10 @@
-# run-bot-telegram.ps1
+﻿# run-bot-telegram.ps1
 # Bot Telegram bidirectionnel — Business Ascension™
 # Tu écris au bot -> Claude répond avec tout le contexte BA chargé
 # Exécution : continu, démarre au login Windows
 
 $ErrorActionPreference = "Continue"
-$ProjectRoot = "E:\Document\VS CODE\Marketing\Business Ascension" + [char]0x2122
+$ProjectRoot = if ($IsWindows) { "E:\Document\VS CODE\Marketing\Business Ascension" + [char]0x2122 } else { "/home/ba/repo" }
 . "$PSScriptRoot\telegram-config.ps1"
 
 # Fix encodage sortie claude CLI
@@ -12,8 +12,8 @@ $env:PYTHONIOENCODING = "utf-8"
 $env:PYTHONUTF8 = "1"
 
 function Get-BAContext {
-    $pipeline = Get-Content "$ProjectRoot\02-SALES\pipeline-suivi.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
-    $claudeMd = Get-Content "$ProjectRoot\CLAUDE.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+    $pipeline = Get-Content "$ProjectRoot/02-SALES/pipeline-suivi.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
+    $claudeMd = Get-Content "$ProjectRoot/CLAUDE.md" -Raw -Encoding UTF8 -ErrorAction SilentlyContinue
     return @"
 Tu es l'assistant personnel de Christofer Perez, fondateur de Business Ascension.
 Tu as acces a tout son systeme business. Tu reponds en francais, tutoiement, voix directe.
@@ -60,17 +60,17 @@ while ($true) {
             # Commandes rapides
             switch ($text) {
                 "/pipeline" {
-                    $data = Get-Content "$ProjectRoot\02-SALES\pipeline-suivi.md" -Raw -Encoding UTF8
+                    $data = Get-Content "$ProjectRoot/02-SALES/pipeline-suivi.md" -Raw -Encoding UTF8
                     Send-Telegram "PIPELINE:`n$($data.Substring(0, [Math]::Min(3500, $data.Length)))"
                     break
                 }
                 "/kpi" {
-                    $data = Get-Content "$ProjectRoot\05-FINANCE\kpis-dashboard.md" -Raw -Encoding UTF8
+                    $data = Get-Content "$ProjectRoot/05-FINANCE/kpis-dashboard.md" -Raw -Encoding UTF8
                     Send-Telegram "KPIs:`n$($data.Substring(0, [Math]::Min(3500, $data.Length)))"
                     break
                 }
                 "/dashboard" {
-                    $dashScript = Join-Path $ProjectRoot "04-SYSTEMES\scripts\run-dashboard.ps1"
+                    $dashScript = Join-Path $ProjectRoot "04-SYSTEMES/scripts/run-dashboard.ps1"
                     if (Test-Path $dashScript) {
                         Send-Telegram "Génération du dashboard..."
                         try { & $dashScript } catch { Send-Telegram "Erreur dashboard : $_" }
@@ -81,7 +81,7 @@ while ($true) {
                     break
                 }
                 "/veille" {
-                    $veilleScript = Join-Path $ProjectRoot "04-SYSTEMES\scripts\run-agent-veille.ps1"
+                    $veilleScript = Join-Path $ProjectRoot "04-SYSTEMES/scripts/run-agent-veille.ps1"
                     if (Test-Path $veilleScript) {
                         Send-Telegram "Veille marché en cours (peut prendre 2-3 minutes)..."
                         try { & $veilleScript } catch { Send-Telegram "Erreur veille : $_" }
@@ -91,7 +91,7 @@ while ($true) {
                     break
                 }
                 "/checkin" {
-                    $checkinScript = Join-Path $ProjectRoot "04-SYSTEMES\scripts\run-agent-checkin.ps1"
+                    $checkinScript = Join-Path $ProjectRoot "04-SYSTEMES/scripts/run-agent-checkin.ps1"
                     if (Test-Path $checkinScript) {
                         Send-Telegram "Génération des check-ins clients..."
                         try { & $checkinScript } catch { Send-Telegram "Erreur check-in : $_" }
@@ -102,7 +102,7 @@ while ($true) {
                 }
                 { $text -like "/vsl*" } {
                     $parts = $text -split " ", 3
-                    $vslScript = Join-Path $ProjectRoot "04-SYSTEMES\scripts\run-agent-vsl.ps1"
+                    $vslScript = Join-Path $ProjectRoot "04-SYSTEMES/scripts/run-agent-vsl.ps1"
                     if (-not (Test-Path $vslScript)) {
                         Send-Telegram "Script run-agent-vsl.ps1 introuvable."
                         break
@@ -123,7 +123,7 @@ while ($true) {
                         Send-Telegram "Usage : /objection [notes de l'appel]`nEx : /objection Prospect dit trop cher, budget serré, a demandé rappel dans 2 mois"
                         break
                     }
-                    $objPrompt = Join-Path $ProjectRoot "04-SYSTEMES\agents\agent-objections-prompt.md"
+                    $objPrompt = Join-Path $ProjectRoot "04-SYSTEMES/agents/agent-objections-prompt.md"
                     if (-not (Test-Path $objPrompt)) {
                         Send-Telegram "agent-objections-prompt.md introuvable."
                         break
@@ -144,7 +144,7 @@ Génère la fiche objection complète en format markdown.
                     Send-Telegram "Analyse de l'objection en cours..."
                     try {
                         $result = $fullPrompt | claude -p
-                        $OutputDir = Join-Path $ProjectRoot "04-SYSTEMES\agents\outputs"
+                        $OutputDir = Join-Path $ProjectRoot "04-SYSTEMES/agents/outputs"
                         if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir | Out-Null }
                         $outFile = Join-Path $OutputDir "objection-$(Get-Date -Format 'yyyy-MM-dd-HHmm').md"
                         $result | Out-File -FilePath $outFile -Encoding UTF8
