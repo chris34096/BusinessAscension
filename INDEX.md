@@ -19,6 +19,8 @@ Vision globale, roadmap business, analyse concurrentielle.
 ### [01-MARKETING](01-MARKETING/)
 Fondations de marque, acquisition sur tous les canaux.
 
+- [⚡ BATCH SEMAINE 1 — prêt à tourner](01-MARKETING/batch-semaine-1.md) ← 12-18 juin · 5 reels scripts + 5 posts LI + 2 carrousels + 1 YouTube + stories · tunnel 4/3/3
+
 **Fondations**
 - [Ma cible — Portrait final](01-MARKETING/_fondations/ma-cible.md)
 - [Ma voix — Référentiel de style](01-MARKETING/_fondations/ma-voix.md)
