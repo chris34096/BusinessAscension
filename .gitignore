@@ -25,6 +25,9 @@ graphify-out/
 /CODE/
 04-SYSTEMES/scripts/Ascension™/
 
+# === REPOS EXTERNES (git submodules non trackés) ===
+04-SYSTEMES/claude-code-best-practice/
+
 # === OS ===
 Thumbs.db
 desktop.ini
