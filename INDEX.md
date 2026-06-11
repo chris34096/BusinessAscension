@@ -19,7 +19,10 @@ Vision globale, roadmap business, analyse concurrentielle.
 ### [01-MARKETING](01-MARKETING/)
 Fondations de marque, acquisition sur tous les canaux.
 
-- [⚡ BATCH SEMAINE 1 — prêt à tourner](01-MARKETING/batch-semaine-1.md) ← 12-18 juin · 5 reels scripts + 5 posts LI + 2 carrousels + 1 YouTube + stories · tunnel 4/3/3
+- [⚡ BATCH SEMAINE 1](01-MARKETING/batch-semaine-1.md) ← 12-18 juin · 5 reels + 5 posts LI + 2 carrousels + YouTube 1 · tunnel 4/3/3
+- [⚡ BATCH SEMAINE 2](01-MARKETING/batch-semaine-2.md) ← 19-25 juin · + test LETI (DEEP/RESPIRE → [test-leti-semaine-2.md](01-MARKETING/test-leti-semaine-2.md)) · YouTube 2
+- [⚡ BATCH SEMAINE 3](01-MARKETING/batch-semaine-3.md) ← 26 juin-2 juil · fil rouge anti-guru · LETI 3 (ANCRAGE) · YouTube 3
+- [⚡ BATCH SEMAINE 4](01-MARKETING/batch-semaine-4.md) ← 3-9 juil · LETI 4 (VERITE) · YouTube 4 (P2) · 🏁 BILAN DU MOIS + verdict test LETI
 
 **Fondations**
 - [Ma cible — Portrait final](01-MARKETING/_fondations/ma-cible.md)
