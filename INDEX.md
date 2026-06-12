@@ -254,6 +254,16 @@ Couche de connaissance cumulative — synthèses, entités, concepts clés.
 **Synthèses**
 - [[concurrence-francophone]] — 4 zones, menaces, angle unique BA™
 
+**Second cerveau Obsidian — `08-SECOND-CERVEAU/`** *(obsidian-mind installé le 2026-06-12)*
+- `Home.md` — point d'entrée avec dashboards embarqués
+- `brain/` — North Star, Key Decisions, Patterns, Gotchas, Skills, Memories
+- `work/` — notes de travail, 1:1, incidents, meetings
+- `perf/` — Brag Doc, compétences, evidence
+- `org/` — personnes et contexte
+- `templates/` + `bases/` — modèles de notes et dashboards Obsidian (.base)
+- Commandes : `/om-standup` (kickoff) · `/om-dump` (capture en vrac) · `/om-wrap-up` (clôture session) · `/om-weekly` (synthèse hebdo) · `/om-vault-audit` + 13 autres dans `.claude/commands/`
+- Conventions du vault : `08-SECOND-CERVEAU/CLAUDE.md` · Source : github.com/breferrari/obsidian-mind
+
 ---
 
 ## PRÉSENCE EN LIGNE
