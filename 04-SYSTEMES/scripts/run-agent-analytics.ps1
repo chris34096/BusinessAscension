@@ -41,7 +41,7 @@ $FullContext = "$Prompt`n`n---`n## KPIs DASHBOARD`n`n$Kpis`n`n---`n## OKRs DU TR
 
 Write-Host "Generation du rapport..."
 if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir | Out-Null }
-$FullContext | claude --print --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
+$FullContext | claude --print --model haiku --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
 
 Write-Host "Rapport sauvegarde : $OutputFile"
 

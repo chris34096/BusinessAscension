@@ -110,7 +110,7 @@ Write-Host "Génération du Daily Brief..."
 $BriefFile = "$StateDir\daily-brief.md"
 
 try {
-    $Response = $Prompt | claude -p
+    $Response = $Prompt | claude -p --model haiku
     $Response | Out-File $BriefFile -Encoding UTF8
     Write-Host "Daily Brief écrit : $BriefFile"
 } catch {

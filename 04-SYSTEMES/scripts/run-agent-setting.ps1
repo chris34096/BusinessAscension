@@ -67,7 +67,7 @@ Write-Host "Envoi à Claude..."
 $OutputFile = "$OutputDir\setting-$Date.md"
 
 try {
-    $Response = $Prompt | claude -p
+    $Response = $Prompt | claude -p --model sonnet
     $Response | Out-File $OutputFile -Encoding UTF8
     Write-Host "Output sauvegarde : $OutputFile"
 } catch {

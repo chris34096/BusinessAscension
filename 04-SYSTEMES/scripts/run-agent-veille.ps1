@@ -76,7 +76,7 @@ Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au fo
 
 # Étape 3 : Génération et sauvegarde
 Write-Host "3/3 - Génération rapport..." -ForegroundColor Yellow
-$FullContext | claude --print --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
+$FullContext | claude --print --model haiku --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
 Write-Host "Rapport veille : $OutputFile" -ForegroundColor Green
 
 # Notification Telegram

@@ -58,7 +58,7 @@ Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au fo
 
 Write-Host "Génération check-ins..." -ForegroundColor Yellow
 if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir | Out-Null }
-$FullContext | claude --print --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
+$FullContext | claude --print --model sonnet --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
 
 if (-not (Test-Path $OutputFile) -or (Get-Item $OutputFile).Length -eq 0) {
     Send-Telegram "*Check-in Vendredi $Date*`n`nAucun client actif détecté."

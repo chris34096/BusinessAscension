@@ -105,7 +105,7 @@ Tu es en mode autonome (headless). Produis DIRECTEMENT le livrable complet au fo
 "@
 
 if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir | Out-Null }
-$FullContext | claude --print --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
+$FullContext | claude --print --model sonnet --output-format text | Out-File -FilePath $OutputFile -Encoding UTF8
 
 Write-Host "Analyse sauvegardée : $OutputFile" -ForegroundColor Green
 
