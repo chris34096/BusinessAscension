@@ -8,7 +8,10 @@
 # === CACHES & OUTILS LOCAUX ===
 graphify-out/
 .playwright-mcp/
-.claude/
+.claude/*
+!.claude/commands/
+!.claude/agents/
+!.claude/skills/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/
