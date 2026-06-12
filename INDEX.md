@@ -72,6 +72,7 @@ Scripts, closing, pipeline, suivi prospects.
 - [Script Closing — Appel de relance](02-SALES/script-closing.md)
 - [Répertoire des Objections](02-SALES/objections-repertoire.md)
 - [Pipeline & Suivi Prospects](02-SALES/pipeline-suivi.md)
+- [⚡ Réponses aux mots-clés DM](02-SALES/reponses-mots-cles.md) ← 13 réponses prêtes à coller (SYSTÈME, DEEP, RESPIRE...) + règles speed-to-lead
 - [Cold DM & Setting — Playbook complet](02-SALES/cold-dm-setting.md)
 - [Show-Up Blueprint — Audit Offert](02-SALES/show-up-blueprint-audit-offert.md) ← S.H.O.W. adapté BA™ — 49%→80% show-up — 8 touchpoints — templates DM
 
