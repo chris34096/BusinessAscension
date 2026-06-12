@@ -10,6 +10,8 @@
 <script src="https://fast.wistia.com/player.js" async></script>
 <script src="https://fast.wistia.com/embed/zy7jxmz90n.js" async type="module"></script>
 <script src="https://fast.wistia.com/embed/4hlujiu0vh.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/7hjg9wvzup.js" async type="module"></script>
+<script src="https://fast.wistia.com/embed/q9d8hwqua3.js" async type="module"></script>
 <style>
 :root{--bg:#0B0A08;--glass:rgba(38,30,18,.42);--ink:#F5EEDD;--muted:#A99B7C;--gold:#CA8A04;--gold-lt:#E8C46A;--line:rgba(201,168,76,.16);
   --serif:'Playfair Display',Georgia,serif;--sans:'Hanken Grotesk',system-ui,sans-serif}
@@ -32,7 +34,8 @@ h1 em{font-style:italic;color:var(--gold-lt)}
 .s3 .n{font-family:var(--serif);color:var(--gold);font-size:.95rem;letter-spacing:.08em}
 .s3 h3{font-size:1.12rem;margin:.4em 0 .3em}
 .s3 p{font-size:.88rem;color:var(--muted)}
-.promise{max-width:620px;margin:38px auto 0;padding:26px 30px;font-size:1rem}
+.promise{max-width:720px;margin:38px auto 0;padding:26px 30px;font-size:1rem;display:grid;grid-template-columns:180px 1fr;gap:26px;align-items:center;text-align:left}
+.promise img{width:100%;border-radius:12px;display:block}
 .promise em{color:var(--gold-lt);font-style:italic;font-family:var(--serif);font-size:1.15rem;display:block;margin-bottom:8px}
 .promise p{color:var(--muted);font-size:.95rem}
 .book{margin-top:38px;background:var(--glass);backdrop-filter:blur(16px);border:1px solid var(--line);border-radius:18px;padding:14px;overflow:hidden}
@@ -43,6 +46,12 @@ h1 em{font-style:italic;color:var(--gold-lt)}
 .testi wistia-player{border-radius:12px;overflow:hidden;display:block}
 .testi .nm{font-family:var(--serif);font-size:1.05rem;margin-top:10px;padding:0 6px}
 .testi .nm span{color:var(--muted);font-size:.8rem;font-family:var(--sans);display:block;margin-top:2px}
+.testi .nm a{color:var(--gold-lt);font-size:.78rem;font-family:var(--sans);text-decoration:none;display:inline-block;margin-top:4px}
+.testi .nm a:hover{text-decoration:underline}
+.notfor{max-width:620px;margin:44px auto 0;padding:30px 34px;text-align:left}
+.notfor h3{font-size:1.25rem;margin-bottom:16px}
+.notfor li{list-style:none;display:flex;gap:12px;padding:9px 0;color:var(--muted);font-size:.95rem}
+.notfor li b{color:var(--gold-lt);font-weight:600;flex:0 0 auto}
 .sec-title{font-size:clamp(1.6rem,3.5vw,2.3rem);margin:70px 0 6px}
 .sec-sub{color:var(--muted);font-size:.95rem;max-width:520px;margin:0 auto}
 .faq{max-width:640px;margin:40px auto 0;text-align:left}
@@ -78,8 +87,12 @@ h1 em{font-style:italic;color:var(--gold-lt)}
   </div>
 
   <div class="glass promise">
-    <em>"Si je peux t'aider, je te le dis. Si je ne peux pas, je te le dis aussi."</em>
-    <p>Cet appel n'est pas un argumentaire déguisé. C'est le même diagnostic que je fais pour mes clients — offert, parce que c'est la façon la plus honnête de savoir si on doit travailler ensemble.</p>
+    <img src="assets/chris-portrait.jpeg" alt="Chris, fondateur de Business Ascension™" loading="lazy" onerror="this.style.display='none';this.parentElement.style.gridTemplateColumns='1fr'">
+    <div>
+      <em>"Si je peux t'aider, je te le dis. Si je ne peux pas, je te le dis aussi."</em>
+      <p>Cet appel n'est pas un argumentaire déguisé. C'est le même diagnostic que je fais pour mes clients — offert, parce que c'est la façon la plus honnête de savoir si on doit travailler ensemble.</p>
+      <p style="margin-top:10px;color:var(--gold-lt);font-size:.85rem">Chris · Fondateur de Business Ascension™</p>
+    </div>
   </div>
 
   <div class="book">
@@ -90,8 +103,21 @@ h1 em{font-style:italic;color:var(--gold-lt)}
   <h2 class="sec-title">Ils étaient à ta place.</h2>
   <p class="sec-sub">Écoute ce qui a changé pour eux après ce premier appel.</p>
   <div class="testi-grid">
-    <div class="glass testi"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem<span>Client Business Ascension™</span></div></div>
-    <div class="glass testi"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Cliente Business Ascension™</span></div></div>
+    <div class="glass testi"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Coach en relation harmonieuse</span><a href="https://www.instagram.com/elodierozoy/" target="_blank" rel="noopener">@elodierozoy</a></div></div>
+    <div class="glass testi"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Coach pour musiciens</span></div></div>
+    <div class="glass testi"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel Quiroga<span>Coach en Image Holistique</span><a href="https://www.instagram.com/marielquiroga_style_mindset/" target="_blank" rel="noopener">@marielquiroga_style_mindset</a></div></div>
+    <div class="glass testi"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem « Ari Harden »<span>Coach en séduction</span><a href="https://www.instagram.com/onlinedatingcoachari/" target="_blank" rel="noopener">@onlinedatingcoachari</a></div></div>
+  </div>
+
+  <div class="glass notfor">
+    <h3>Ne réserve pas cet appel si…</h3>
+    <ul>
+      <li><b>×</b><span>Tu cherches quelqu'un qui fait le travail à ta place</span></li>
+      <li><b>×</b><span>Tu veux "juste discuter" sans intention d'avancer ensuite</span></li>
+      <li><b>×</b><span>Tu n'es pas prêt à répondre franchement sur tes chiffres et ta situation</span></li>
+      <li><b>×</b><span>Tu cherches encore un outil de plus — pas un diagnostic qui dit la vérité</span></li>
+    </ul>
+    <p style="margin-top:14px;color:var(--muted);font-size:.88rem">Si aucune de ces lignes ne te décrit, le créneau est pour toi.</p>
   </div>
 
   <h2 class="sec-title">Ce que tu te demandes.</h2>

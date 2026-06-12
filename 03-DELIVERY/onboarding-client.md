@@ -1,4 +1,4 @@
-﻿# Onboarding Client — Construis la Marque™
+# Onboarding Client — Construis la Marque™
 > Version 1.0 — Mai 2026
 > SOP complet : de la signature au début de Sprint 0.
 
@@ -42,7 +42,7 @@ J+7 max — Session Sprint 0 (90 min)
 
 > "Salut [prénom],
 >
-> Bienvenue dans l'Construis la Marque™.
+> Bienvenue dans Construis la Marque™.
 >
 > Je vais être direct : t'as pris une décision qui va changer la trajectoire de ton business. C'est pas anodin.
 >

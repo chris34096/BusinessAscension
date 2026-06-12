@@ -113,6 +113,12 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
 .testi wistia-player{border-radius:14px;overflow:hidden;display:block}
 .testi .nm{font-family:var(--serif);font-size:1.15rem;margin-top:14px;padding:0 6px}
 .testi .nm span{color:var(--muted);font-size:.85rem;font-family:var(--sans);display:block;margin-top:2px}
+.testi .nm a{color:var(--gold-lt);font-size:.8rem;font-family:var(--sans);text-decoration:none;display:inline-block;margin-top:4px}
+.testi .nm a:hover{text-decoration:underline}
+.notfor{max-width:680px;margin:0 auto;padding:34px 38px}
+.notfor h3{font-size:1.4rem;margin-bottom:18px}
+.notfor li{list-style:none;display:flex;gap:12px;padding:10px 0;color:var(--muted);font-size:1rem}
+.notfor li b{color:var(--gold-lt);font-weight:600;flex:0 0 auto}
 .proof-line{text-align:center;color:var(--muted);font-size:.92rem;margin-top:30px}
 @media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.build,.grid8,.plans,.testi-grid{grid-template-columns:1fr}.hero{padding-top:130px}}
 @media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
@@ -197,10 +203,10 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
   <section id="resultats">
     <div class="sec-head rev" style="text-align:center;margin:0 auto 50px"><span class="eyebrow">Ils l'ont fait</span><h2>Ils étaient à ta place. Écoute-les.</h2></div>
     <div class="testi-grid">
-      <div class="glass testi rev"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem<span>Client Business Ascension™</span></div></div>
-      <div class="glass testi rev"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Cliente Business Ascension™</span></div></div>
-      <div class="glass testi rev"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Client Business Ascension™</span></div></div>
-      <div class="glass testi rev"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel<span>Cliente Business Ascension™</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Coach en relation harmonieuse</span><a href="https://www.instagram.com/elodierozoy/" target="_blank" rel="noopener">@elodierozoy</a></div></div>
+      <div class="glass testi rev"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Coach pour musiciens</span></div></div>
+      <div class="glass testi rev"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel Quiroga<span>Coach en Image Holistique</span><a href="https://www.instagram.com/marielquiroga_style_mindset/" target="_blank" rel="noopener">@marielquiroga_style_mindset</a></div></div>
+      <div class="glass testi rev"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem « Ari Harden »<span>Coach en séduction</span><a href="https://www.instagram.com/onlinedatingcoachari/" target="_blank" rel="noopener">@onlinedatingcoachari</a></div></div>
     </div>
     <p class="proof-line rev">Le prochain, c'est toi. Choisis ton plan en dessous.</p>
   </section>
@@ -221,7 +227,20 @@ footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:v
     <p class="rev" style="text-align:center;margin-top:26px;font-size:.9rem;color:var(--muted)">Tu hésites entre les plans ? <a href="https://audit.businessascension.fr/" style="color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">Prends ton Audit offert</a> — on regarde ton cas ensemble et tu sauras exactement où tu en es.</p>
   </section>
 
-  <section>
+  <section style="padding-top:0">
+    <div class="glass notfor rev">
+      <h3>Deviens l'Entrepreneur™ n'est PAS pour toi si…</h3>
+      <ul>
+        <li><b>×</b><span>Tu cherches quelqu'un qui fait le travail à ta place — ici on construit ensemble, et c'est toi qui exécutes</span></li>
+        <li><b>×</b><span>Tu veux juste "voir ce que ça donne" avant de vraiment t'y mettre</span></li>
+        <li><b>×</b><span>Tu cherches encore un outil de plus — pas une ossature complète</span></li>
+        <li><b>×</b><span>Tu n'es pas prêt à travailler ton identité en même temps que ton business</span></li>
+      </ul>
+      <p style="margin-top:16px;color:var(--muted);font-size:.92rem">Si aucune de ces lignes ne te décrit — <a href="#plans" style="color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">choisis ton plan</a>.</p>
+    </div>
+  </section>
+
+  <section style="padding-top:0">
     <div class="sec-head rev"><span class="eyebrow">Questions</span><h2>Ce que tu te demandes.</h2></div>
     <div class="rev">
       <div class="faq-item"><div class="faq-q"><span>C'est vraiment personnalisé ou c'est un template tout fait ?</span><span class="pl">+</span></div><div class="faq-a">Entièrement personnalisé. Je lis ton arrivée moi-même. Je construis ton protocole, ta feuille de route, tes premières actions, autour de toi. Et je l'ajuste chaque semaine.</div></div>
