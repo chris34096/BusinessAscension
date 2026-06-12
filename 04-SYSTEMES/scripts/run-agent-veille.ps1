@@ -35,10 +35,13 @@ if (-not (Test-Path $OutputDir)) { New-Item -ItemType Directory -Path $OutputDir
 # Étape 1 : Collecte données (YouTube RSS gratuit + Exa optionnel)
 Write-Host "1/3 - Collecte données concurrents..." -ForegroundColor Yellow
 $ExaKey = $env:EXA_API_KEY
-if ($ExaKey) {
-    python $SearchScript --output $DataFile --exa-key $ExaKey
+$Python = if (Get-Command python -ErrorAction SilentlyContinue) { "python" } elseif (Get-Command python3 -ErrorAction SilentlyContinue) { "python3" } else { $null }
+if (-not $Python) {
+    Write-Warning "Aucun interpreteur Python trouve (python/python3)"
+} elseif ($ExaKey) {
+    & $Python $SearchScript --output $DataFile --exa-key $ExaKey
 } else {
-    python $SearchScript --output $DataFile
+    & $Python $SearchScript --output $DataFile
 }
 
 $VeilleData = ""
