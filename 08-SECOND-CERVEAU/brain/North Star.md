@@ -19,7 +19,7 @@ _Sur quoi je travaille maintenant (juin 2026) ?_
 
 **État brut au 2026-06-12 : 0 client Construis la Marque™ signé. Plan 10K pas démarré. L'infrastructure (sites, VSL, contenu batché, agents) est prête. Le goulot n'est plus la construction — c'est le volume sortant.**
 
-1. **Plan 10K/30 jours — PRIORITÉ N°1** — 2 closes Construis la Marque™ à 4 997€. Leviers : 50 DMs/jour · show-up ≥80% (S.H.O.W., speed-to-lead <5 min) · publier le contenu batché 5-7×/semaine. Démarrage : **vendredi 13 juin → bilan 13 juillet**. Réf : `plan-10k-30-jours.md` · [[Key Decisions]]
+1. **Plan 10K/30 jours — PRIORITÉ N°1** — 2 closes Construis la Marque™ à 4 997€. Leviers : 50 DMs/jour · show-up ≥80% (S.H.O.W., speed-to-lead <5 min) · publier le contenu batché 5-7×/semaine. Démarrage : **lundi 15 juin → bilan 15 juillet**. Week-end 13-14 juin : tournage + programmation du contenu de la semaine (les scripts existent déjà — pas de réécriture). Réf : `plan-10k-30-jours.md` · [[Key Decisions]]
 2. **Test LETI S2 (19-25 juin) — contrainte protégée, pas un chantier actif.** Les contenus DEEP/RESPIRE sont batchés. Règle : publier tel quel, NE PAS pivoter le positionnement avant les chiffres (critère figé : 3× DMs/30j). Décision en juillet, pas avant.
 3. **Bêta Construis la Marque™** — 3 à 5 premiers clients à 4 997€ (ancrage interne). Dès le premier signé : documenter CHAQUE résultat (la preuve sociale est le levier qui monte l'ancrage à 7 000€ puis 9-12K€).
 
@@ -74,4 +74,4 @@ _Ce que je n'optimise explicitement PAS :_
 |------|-------|--------|
 | 2026-06-03 | Reboot Tom Pearson — nouveaux noms (Deviens l'Entrepreneur™ / Construis la Marque™), business-first, vendre par message | Alignement sur le modèle 2 portes + belief installation |
 | 2026-06-09 | Modèle v11 — low ticket supprimé, Porte 1 = entrée du funnel en MRR | Le MRR est plus avantageux que le low ticket vidéo |
-| 2026-06-12 | Création du North Star · Plan 10K déclaré priorité n°1, démarrage 13 juin | 0 client bêta, infra prête — le goulot est le volume sortant, pas les systèmes |
+| 2026-06-12 | Création du North Star · Plan 10K déclaré priorité n°1, démarrage lundi 15 juin (week-end = tournage du batch) | 0 client bêta, infra prête — le goulot est le volume sortant, pas les systèmes |
