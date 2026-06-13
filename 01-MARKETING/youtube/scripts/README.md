@@ -69,7 +69,15 @@ On peut être PLUS généreux que Sunny ou Taki. Pourquoi ? Le moat de BA™ —
 | 05 | Les 5 niveaux pour décoller | V5 | 1 | ✅ |
 | 06 | Le plan 90 jours (construis ton activité, vis ta vie) | V6 | 1 | ✅ |
 
-**À venir :** déclinaisons Porte 2 (style Taki — bricks, vieux modèle vs nouveau, vendre par message, sortir de l'opérationnel).
+### Déclinaisons Porte 2 (style Taki Moore)
+
+| # | Script | Source | Porte | Statut |
+|---|---|---|---|---|
+| P2-01 | Closer des clients premium par message (sans appel de vente) | Taki — salesless | 2 | ✅ |
+| P2-02 | Pourquoi tu fais du CA mais jamais deux mois pareils (positionnement) | Taki — brick/territory | 2 | ✅ |
+| P2-03 | Transforme ton contenu en machine à clients (sans viral) | Taki — conversion bridges | 2 | ✅ |
+
+**À venir :** P2-04 "vendre plus en vendant moins" (bow-tie) · P2-05 sortir de l'opérationnel.
 
 ---
 
