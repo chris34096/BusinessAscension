@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from 'react';
 import Chart from 'chart.js/auto';
 import { createClient } from '@/lib/supabase/client';
 import {
-  AGENTS, SITES, TESTI, COMPETS, VEILLE, LEADS, SEQ, PLANS, TX,
+  AGENTS, SITES, TESTI, COMPETS, VEILLE, SEQ, PLANS, TX,
   WORKFLOWS, FUNNEL, YT, REELS, VA, NAV,
 } from './data';
 
@@ -40,10 +40,10 @@ function Console({ lines }) {
   );
 }
 
-export default function Cockpit({ userEmail }) {
+export default function Cockpit({ userEmail, leads: realLeads = [], counts = { quiz: 0, plan: 0, total: 0 }, dbError = null }) {
   const [page, setPage] = useState('overview');
   const [feed, setFeed] = useState([]);
-  const [agentLines, setAgentLines] = useState([{ ts: now(), msg: 'Console agents prête. Sélectionne un agent et exécute.', cls: 'muted' }]);
+  const [agentLines, setAgentLines] = useState([]);
   const [veilleLines, setVeilleLines] = useState([]);
   const [agentSel, setAgentSel] = useState(AGENTS[0].id);
   const [leadFilter, setLeadFilter] = useState('');
@@ -72,9 +72,10 @@ export default function Cockpit({ userEmail }) {
       data: { labels: ['Vues', 'Leads', 'Nurture', 'Audit', 'Client'], datasets: [{ data: [5200, 73, 48, 11, 4], backgroundColor: [goldD, '#caa14c', gold, '#f0d9a0', '#5fbf7a'], borderRadius: 6 }] },
       options: { indexAxis: 'y', plugins: { legend: { display: false } }, scales: { x: { type: 'logarithmic', grid: { color: grid } }, y: { grid: { display: false } } } },
     }));
+    const srcData = (counts.quiz + counts.plan) > 0 ? [counts.quiz, counts.plan] : [1, 1];
     if (sourceRef.current) charts.push(new Chart(sourceRef.current, {
       type: 'doughnut',
-      data: { labels: ['Quiz', 'Plan Décollage', 'Audit direct'], datasets: [{ data: [34, 27, 12], backgroundColor: [gold, goldD, '#7a6f59'], borderColor: '#16130C', borderWidth: 3 }] },
+      data: { labels: ['Quiz', 'Plan Décollage'], datasets: [{ data: srcData, backgroundColor: [gold, goldD], borderColor: '#16130C', borderWidth: 3 }] },
       options: { plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } } }, cutout: '62%' },
     }));
     return () => charts.forEach((c) => c.destroy());
@@ -94,6 +95,11 @@ export default function Cockpit({ userEmail }) {
     tick(); tick();
     const id = setInterval(tick, 4200);
     return () => clearInterval(id);
+  }, []);
+
+  // Ligne d'accueil de la console agents (après montage, évite le mismatch d'hydratation)
+  useEffect(() => {
+    setAgentLines([{ ts: now(), msg: 'Console agents prête. Sélectionne un agent et exécute.', cls: 'muted' }]);
   }, []);
 
   // Veille au montage
@@ -118,9 +124,9 @@ export default function Cockpit({ userEmail }) {
     window.location.href = '/login';
   }
 
-  const leads = LEADS.filter((l) => {
+  const leads = realLeads.filter((l) => {
     const q = leadFilter.toLowerCase();
-    return l.n.toLowerCase().includes(q) || l.src.toLowerCase().includes(q) || l.stage.toLowerCase().includes(q);
+    return l.n.toLowerCase().includes(q) || l.src.toLowerCase().includes(q) || (l.stage || '').toLowerCase().includes(q);
   });
   const title = NAV.find((n) => n.id === page)?.label ?? '';
   const on = (id) => 'page' + (page === id ? ' on' : '');
@@ -158,7 +164,7 @@ export default function Cockpit({ userEmail }) {
         <section className={on('overview')}>
           <div className="grid g4 mb16">
             <div className="glass kpi"><div className="lab">MRR (récurrent)</div><div className="val">4 760 €</div><div className="delta up">▲ +18% vs mois dernier</div></div>
-            <div className="glass kpi"><div className="lab">Leads ce mois</div><div className="val">73</div><div className="delta up">▲ quiz + plan</div></div>
+            <div className="glass kpi"><div className="lab">Leads (réels)</div><div className="val">{counts.total}</div><div className="delta up">● Supabase · quiz + plan</div></div>
             <div className="glass kpi"><div className="lab">Audits réservés</div><div className="val">11</div><div className="delta up">▲ show-up 82%</div></div>
             <div className="glass kpi"><div className="lab">Clients bêta</div><div className="val">4</div><div className="delta">Construis la Marque™</div></div>
           </div>
@@ -287,7 +293,7 @@ export default function Cockpit({ userEmail }) {
 
         {/* LEADS */}
         <section className={on('leads')}>
-          <div className="demo-banner"><span>✉</span><div>Leads capturés par <b>quiz</b>, <b>plan</b> et <b>audit</b> (Supabase) + nurturing. <b>En prod</b>, l'envoi part de GHL.</div></div>
+          <div className="demo-banner"><span>✉</span><div><b style={{ color: 'var(--ok)' }}>● Données réelles</b> — leads lus en direct depuis <b>Supabase</b> (quiz + plan décollage). Le nurturing reste simulé pour l'instant (suite Phase 1 : GHL).{dbError ? ' · ⚠ ' + dbError : ''}</div></div>
           <div className="grid g2" style={{ marginBottom: 20 }}>
             <div className="card">
               <div className="sec-h"><div><div className="eyebrow2">Nurturing</div><h2 style={{ fontSize: '1.2rem' }}>Séquence SOAP Opera · Plan Décollage</h2></div><button className="btn btn-ghost sm" onClick={() => setModal(true)}>+ Email</button></div>
@@ -307,6 +313,7 @@ export default function Cockpit({ userEmail }) {
               <table>
                 <thead><tr><th>Lead</th><th>Source</th><th>Étape</th><th>Score</th><th>Quand</th></tr></thead>
                 <tbody>
+                  {leads.length === 0 && (<tr><td colSpan={5} className="muted" style={{ textAlign: 'center', padding: 24 }}>{realLeads.length === 0 ? "Aucun lead pour l'instant. Dès que quelqu'un remplit le quiz ou le plan, il apparaît ici en direct." : 'Aucun résultat pour ce filtre.'}</td></tr>)}
                   {leads.map((l, i) => (<tr key={i}><td>{l.n}</td><td><span className="tag">{l.src}</span></td><td>{l.stage}</td><td><b style={{ color: 'var(--gold-lt)' }}>{l.score}</b></td><td className="muted">{l.when}</td></tr>))}
                 </tbody>
               </table>
