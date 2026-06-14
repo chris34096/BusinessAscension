@@ -1,0 +1,8 @@
+{
+  "name": "arms-modes",
+  "version": "0.1.0",
+  "description": "5 modes de réponse persos d'Arms : artifacts, ghost, godmode, L99, OODA",
+  "author": {
+    "name": "Arms"
+  }
+}
