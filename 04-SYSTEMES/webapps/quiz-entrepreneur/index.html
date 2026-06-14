@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Quel Entrepreneur es-tu ? — Business Ascension™</title>
+<title>Quel Entrepreneur es-tu ? · Business Ascension™</title>
 <meta name="description" content="Test de personnalité entrepreneur : découvre ton archétype, ta porte d'ascension et ta plateforme prioritaire en 2 minutes." />
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -130,7 +130,7 @@ const QUESTIONS = [
   { q:"Ton offre, où en est-elle ?", dim:"porte", opts:[
     {t:"Je n'ai pas encore d'offre claire", v:"p1"},
     {t:"J'ai une offre, mais elle convertit mal", v:"p1"},
-    {t:"Mon offre marche — je veux scaler", v:"p2"},
+    {t:"Mon offre marche, je veux scaler", v:"p2"},
     {t:"J'ai plusieurs offres, je veux une vraie marque", v:"p2"} ]},
   { q:"Une journée typique, c'est plutôt…", dim:"arche", opts:[
     {t:"Je m'active sur 1 000 trucs, mais mon CA bouge pas", v:"DQ"},
@@ -162,14 +162,14 @@ const QUESTIONS = [
 ];
 
 const ARCHE = {
-  DQ:{ t:"Le Don Quichotte", d:"Tu travailles dur, tu t'actives en permanence — mais l'énergie part au mauvais endroit. Ton levier : une direction claire et un système qui transforme ton effort en résultats." },
+  DQ:{ t:"Le Don Quichotte", d:"Tu travailles dur, tu t'actives en permanence. Mais l'énergie part au mauvais endroit. Ton levier : une direction claire et un système qui transforme ton effort en résultats." },
   INT:{ t:"L'Introspectif·ve", d:"Tu as compris beaucoup de choses sur toi et ton business. Mais l'action ne suit pas encore. Ton levier : débloquer l'exécution à la source et passer à la visibilité." },
   BAT:{ t:"Le Bâtisseur", d:"Ton offre marche, tu as prouvé ton concept. Mais tout repose sur toi. Ton levier : structurer le système pour que ça tourne sans toi et scaler." },
   VIS:{ t:"Le Visionnaire", d:"Tu penses déjà marque, vision, écosystème. Ton levier : construire une marque catégorie à part, amplifier avec l'acquisition payante et sortir de l'opérationnel." },
 };
 const PORTE = {
-  p1:{ t:"Porte 1 — Deviens l'Entrepreneur™", d:"0 → 10K€/mois. On construit ton offre, ton positionnement, ton identité et tes systèmes de contenu organiques pour créer une communauté et un CA récurrent.", link:()=>LINKS.porte1, cta:"Découvrir Deviens l'Entrepreneur™ →" },
-  p2:{ t:"Porte 2 — Construis la Marque™", d:"10K → 100K€/mois. On scale ce que tu as construit avec l'acquisition payante, le recrutement et l'automatisation — pour sortir de l'opérationnel.", link:()=>LINKS.porte2, cta:"Candidater à Construis la Marque™ →" },
+  p1:{ t:"Porte 1 · Deviens l'Entrepreneur™", d:"0 → 10K€/mois. On construit ton offre, ton positionnement, ton identité et tes systèmes de contenu organiques pour créer une communauté et un CA récurrent.", link:()=>LINKS.porte1, cta:"Découvrir Deviens l'Entrepreneur™ →" },
+  p2:{ t:"Porte 2 · Construis la Marque™", d:"10K → 100K€/mois. On scale ce que tu as construit avec l'acquisition payante, le recrutement et l'automatisation, pour te sortir de l'opérationnel.", link:()=>LINKS.porte2, cta:"Candidater à Construis la Marque™ →" },
 };
 const PLAT = {
   LI:{ t:"LinkedIn", d:"Le réseau de l'autorité écrite. Tu y construis ta crédibilité auprès d'entrepreneurs établis avec des posts qui prouvent ta profondeur." },
