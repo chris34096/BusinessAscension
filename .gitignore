@@ -1,6 +1,10 @@
 # === SECRETS — NE JAMAIS VERSIONNER ===
 04-SYSTEMES/scripts/telegram-config.ps1
+04-SYSTEMES/scripts/stripe-config.ps1
 *.env
+.env.local
+*-config.ps1
+!*-config.example.ps1
 *.key
 *.pem
 *.token
