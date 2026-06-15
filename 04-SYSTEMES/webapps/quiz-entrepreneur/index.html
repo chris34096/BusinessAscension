@@ -119,34 +119,54 @@
 </div>
 
 <script>
-/* ===================== DONNÉES DU QUIZ ===================== */
-// dim: 'porte' (p1/p2) · 'arche' (DQ/INT/BAT/VIS) · 'plat' (LI/IG/YT)
-const QUESTIONS = [
-  { q:"Où en sont tes revenus aujourd'hui ?", dim:"porte", opts:[
-    {t:"Moins de 2 000 €/mois", v:"p1"},
-    {t:"Entre 2 000 et 5 000 €/mois", v:"p1"},
-    {t:"Entre 5 000 et 10 000 €/mois", v:"p1"},
-    {t:"Plus de 10 000 €/mois", v:"p2"} ]},
-  { q:"Ton offre, où en est-elle ?", dim:"porte", opts:[
-    {t:"Je n'ai pas encore d'offre claire", v:"p1"},
-    {t:"J'ai une offre, mais elle convertit mal", v:"p1"},
-    {t:"Mon offre marche, je veux scaler", v:"p2"},
-    {t:"J'ai plusieurs offres, je veux une vraie marque", v:"p2"} ]},
-  { q:"Une journée typique, c'est plutôt…", dim:"arche", opts:[
-    {t:"Je m'active sur 1 000 trucs, mais mon CA bouge pas", v:"DQ"},
-    {t:"Je réfléchis, je planifie, mais je passe peu à l'action", v:"INT"},
-    {t:"J'exécute ce qui marche, je veux structurer", v:"BAT"},
-    {t:"Je pense déjà marque, vision, scale", v:"VIS"} ]},
-  { q:"Ton plus gros blocage ?", dim:"arche", opts:[
-    {t:"Je m'éparpille, je sais pas où mettre mon énergie", v:"DQ"},
-    {t:"J'attends d'être \"prêt\", je me lance pas", v:"INT"},
-    {t:"Tout passe par moi, je plafonne", v:"BAT"},
-    {t:"Je veux sortir de l'opérationnel et déléguer", v:"VIS"} ]},
-  { q:"Ce que tu veux vraiment ?", dim:"arche", opts:[
-    {t:"Une direction claire et des résultats concrets", v:"DQ"},
-    {t:"Oser me montrer et passer à l'action", v:"INT"},
-    {t:"Un système qui tourne sans moi", v:"BAT"},
-    {t:"Une marque qui domine mon marché", v:"VIS"} ]},
+/* ===================== DONNÉES DU QUIZ (branché) ===================== */
+// 1. Question de routage : le revenu décide la porte (P1 < 10K, P2 > 10K)
+const ROUTER = { q:"Où en sont tes revenus aujourd'hui ?", dim:"porte", opts:[
+  {t:"Moins de 2 000 €/mois", v:"p1"},
+  {t:"Entre 2 000 et 5 000 €/mois", v:"p1"},
+  {t:"Entre 5 000 et 10 000 €/mois", v:"p1"},
+  {t:"Plus de 10 000 €/mois", v:"p2"} ]};
+
+// 2. Questions adaptées à la porte détectée (archétype)
+const BRANCH = {
+  p1:[
+    { q:"Aujourd'hui, ton business c'est plutôt…", dim:"arche", opts:[
+      {t:"Je m'active sur 1 000 trucs mais le CA ne décolle pas", v:"DQ"},
+      {t:"Je me forme, je réfléchis, mais je n'ose pas me lancer", v:"INT"},
+      {t:"Je commence à signer, je veux que ça devienne régulier", v:"DQ"},
+      {t:"J'ai de la valeur mais pas encore d'offre claire", v:"INT"} ]},
+    { q:"Qu'est-ce qui te bloque pour tes premiers 10K réguliers ?", dim:"arche", opts:[
+      {t:"Je m'éparpille, je sais pas où mettre mon énergie", v:"DQ"},
+      {t:"J'attends d'être \"prêt\", je me cache un peu", v:"INT"},
+      {t:"Les clients ne rentrent pas assez régulièrement", v:"DQ"},
+      {t:"Je sais quoi faire mais je passe pas à l'action", v:"INT"} ]},
+    { q:"Ce que tu veux vraiment, là, maintenant ?", dim:"arche", opts:[
+      {t:"Une direction claire et des résultats concrets", v:"DQ"},
+      {t:"Oser me montrer et vendre sans me cramer", v:"INT"},
+      {t:"Un flux de clients prévisible chaque mois", v:"DQ"},
+      {t:"Débloquer ce qui m'empêche d'exécuter", v:"INT"} ]},
+  ],
+  p2:[
+    { q:"Ton business à 10K+/mois, c'est plutôt…", dim:"arche", opts:[
+      {t:"Ça marche mais tout repose sur moi, je plafonne", v:"BAT"},
+      {t:"Je pense déjà marque, vision, écosystème", v:"VIS"},
+      {t:"Je fais du CA mais jamais deux mois pareils", v:"BAT"},
+      {t:"Je veux dominer ma catégorie, être un-de-un", v:"VIS"} ]},
+    { q:"Ton plus gros frein pour passer à 100K ?", dim:"arche", opts:[
+      {t:"Je suis le goulot, tout dépend de mon temps", v:"BAT"},
+      {t:"Mon positionnement n'est pas assez tranché", v:"VIS"},
+      {t:"Pas de système d'acquisition prévisible", v:"BAT"},
+      {t:"Je veux sortir de l'opérationnel et déléguer", v:"VIS"} ]},
+    { q:"Ce que tu veux construire ?", dim:"arche", opts:[
+      {t:"Un système qui tourne sans moi", v:"BAT"},
+      {t:"Une marque catégorie à part qui attire les clients", v:"VIS"},
+      {t:"Des leads entrants premium chaque jour", v:"BAT"},
+      {t:"Un écosystème qui scale avec de la pub", v:"VIS"} ]},
+  ],
+};
+
+// 3. Questions universelles (plateforme), posées après la branche
+const PLATFORM = [
   { q:"Comment tu préfères t'exprimer ?", dim:"plat", opts:[
     {t:"À l'écrit, en profondeur, structuré", v:"LI"},
     {t:"En vidéo courte, spontané, visuel", v:"IG"},
@@ -155,10 +175,6 @@ const QUESTIONS = [
     {t:"Des pros, des entrepreneurs établis", v:"LI"},
     {t:"Des gens qui scrollent, à toucher en masse", v:"IG"},
     {t:"Des gens qui cherchent à apprendre en profondeur", v:"YT"} ]},
-  { q:"2h pour créer du contenu. Tu fais quoi ?", dim:"plat", opts:[
-    {t:"J'écris 3 posts qui font réfléchir", v:"LI"},
-    {t:"Je tourne 5 reels rapides", v:"IG"},
-    {t:"Je tourne 1 vidéo qui enseigne tout", v:"YT"} ]},
 ];
 
 const ARCHE = {
@@ -177,15 +193,17 @@ const PLAT = {
   YT:{ t:"YouTube", d:"Le réseau de la profondeur. Tes vidéos longues installent l'autorité et pré-vendent en travaillant pour toi pendant des années." },
 };
 
-/* ===================== LOGIQUE ===================== */
-let idx=0; const answers=new Array(QUESTIONS.length).fill(null);
+/* ===================== LOGIQUE (parcours branché) ===================== */
+const TOTAL = 6; // 1 routage + 3 branche + 2 plateforme
+let flow=[ROUTER], idx=0, answers=[], porte=null;
 
-function start(){ document.getElementById('intro').classList.add('hidden');
+function start(){ flow=[ROUTER]; idx=0; answers=[]; porte=null;
+  document.getElementById('intro').classList.add('hidden');
   document.getElementById('progressWrap').classList.remove('hidden');
   document.getElementById('quiz').classList.remove('hidden'); render(); }
 
 function render(){
-  const Q=QUESTIONS[idx];
+  const Q=flow[idx];
   document.getElementById('qtext').textContent=Q.q;
   document.getElementById('qtext').classList.add('fade');
   const wrap=document.getElementById('opts'); wrap.innerHTML='';
@@ -193,21 +211,31 @@ function render(){
     const b=document.createElement('button');
     b.className='opt card w-full text-left rounded-xl px-5 py-4'+(answers[idx]===i?' sel':'');
     b.innerHTML='<span class="text-white">'+o.t+'</span>';
-    b.onclick=()=>{ answers[idx]=i; next(); };
+    b.onclick=()=>choose(i);
     wrap.appendChild(b);
   });
   document.getElementById('back').style.visibility = idx===0?'hidden':'visible';
-  document.getElementById('bar').style.width = ((idx)/QUESTIONS.length*100)+'%';
-  document.getElementById('qcount').textContent='Question '+(idx+1)+' / '+QUESTIONS.length;
+  document.getElementById('bar').style.width = (idx/TOTAL*100)+'%';
+  document.getElementById('qcount').textContent='Question '+(idx+1)+' / '+TOTAL;
 }
-function next(){ setTimeout(()=>{ if(idx<QUESTIONS.length-1){ idx++; render(); } else { toCapture(); } },180); }
+function choose(i){
+  answers[idx]=i;
+  if(idx===0){ // la 1re question route vers la porte, puis on construit le parcours adapté
+    porte=ROUTER.opts[i].v;
+    flow=[ROUTER, ...BRANCH[porte], ...PLATFORM];
+    answers=answers.slice(0,1);
+  }
+  next();
+}
+function next(){ setTimeout(()=>{ if(idx<flow.length-1){ idx++; render(); } else { toCapture(); } },180); }
 function prev(){ if(idx>0){ idx--; render(); } }
 
 function compute(){
-  const c={porte:{p1:0,p2:0},arche:{DQ:0,INT:0,BAT:0,VIS:0},plat:{LI:0,IG:0,YT:0}};
-  QUESTIONS.forEach((Q,i)=>{ if(answers[i]!=null){ c[Q.dim][Q.opts[answers[i]].v]++; } });
+  const arche={DQ:0,INT:0,BAT:0,VIS:0}, plat={LI:0,IG:0,YT:0};
+  flow.forEach((Q,i)=>{ if(answers[i]==null) return; const v=Q.opts[answers[i]].v;
+    if(Q.dim==='arche') arche[v]++; else if(Q.dim==='plat') plat[v]++; });
   const top=o=>Object.keys(o).reduce((a,b)=>o[b]>o[a]?b:a);
-  return { porte: c.porte.p2>=c.porte.p1?'p2':'p1', arche: top(c.arche), plat: top(c.plat) };
+  return { porte, arche: top(arche), plat: top(plat) };
 }
 
 function toCapture(){
