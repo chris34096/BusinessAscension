@@ -58,7 +58,7 @@
     <p class="text-gray-400 text-lg mb-2">Un test de personnalité en 2 minutes.</p>
     <p class="text-gray-400 mb-8">Découvre <span class="text-white">ton archétype</span>, <span class="text-white">ta porte d'ascension</span> et <span class="text-white">la plateforme</span> où tu dois construire ta marque.</p>
     <button onclick="start()" class="gold-bg font-bold px-8 py-4 rounded-xl text-lg w-full md:w-auto">Commencer le test →</button>
-    <p class="text-xs text-gray-600 mt-4">8 questions · Résultat instantané · Sans engagement</p>
+    <p class="text-xs text-gray-600 mt-4">6 questions · Résultat instantané · Sans engagement</p>
   </section>
 
   <!-- QUIZ -->
@@ -120,61 +120,64 @@
 
 <script>
 /* ===================== DONNÉES DU QUIZ (branché) ===================== */
-// 1. Question de routage : le revenu décide la porte (P1 < 10K, P2 > 10K)
-const ROUTER = { q:"Où en sont tes revenus aujourd'hui ?", dim:"porte", opts:[
-  {t:"Moins de 2 000 €/mois", v:"p1"},
-  {t:"Entre 2 000 et 5 000 €/mois", v:"p1"},
-  {t:"Entre 5 000 et 10 000 €/mois", v:"p1"},
-  {t:"Plus de 10 000 €/mois", v:"p2"} ]};
+// 1. Routage : le revenu décide la porte (P1 < 10K, P2 > 10K)
+const ROUTER = { q:"On commence simple. Où t'en es niveau revenus, là, aujourd'hui ?", dim:"porte", opts:[
+  {t:"Zéro pour l'instant, je démarre (ou presque)", v:"p1"},
+  {t:"Ça rentre un peu, mais moins de 2 000 € par mois", v:"p1"},
+  {t:"Entre 2 000 et 5 000 €, ça vivote", v:"p1"},
+  {t:"Entre 5 000 et 10 000 €, mais je sens que je plafonne", v:"p1"},
+  {t:"Plus de 10 000 € par mois, je veux passer un cap", v:"p2"} ]};
 
-// 2. Questions adaptées à la porte détectée (archétype)
+// 2. Questions adaptées à la porte (situation -> objectif -> pourquoi ça bloque)
 const BRANCH = {
+  // PORTE 1 : ils partent de 0, ou se sont déjà fait avoir par des accompagnements
   p1:[
-    { q:"Aujourd'hui, ton business c'est plutôt…", dim:"arche", opts:[
-      {t:"Je m'active sur 1 000 trucs mais le CA ne décolle pas", v:"DQ"},
-      {t:"Je me forme, je réfléchis, mais je n'ose pas me lancer", v:"INT"},
-      {t:"Je commence à signer, je veux que ça devienne régulier", v:"DQ"},
-      {t:"J'ai de la valeur mais pas encore d'offre claire", v:"INT"} ]},
-    { q:"Qu'est-ce qui te bloque pour tes premiers 10K réguliers ?", dim:"arche", opts:[
-      {t:"Je m'éparpille, je sais pas où mettre mon énergie", v:"DQ"},
-      {t:"J'attends d'être \"prêt\", je me cache un peu", v:"INT"},
-      {t:"Les clients ne rentrent pas assez régulièrement", v:"DQ"},
-      {t:"Je sais quoi faire mais je passe pas à l'action", v:"INT"} ]},
-    { q:"Ce que tu veux vraiment, là, maintenant ?", dim:"arche", opts:[
-      {t:"Une direction claire et des résultats concrets", v:"DQ"},
-      {t:"Oser me montrer et vendre sans me cramer", v:"INT"},
-      {t:"Un flux de clients prévisible chaque mois", v:"DQ"},
-      {t:"Débloquer ce qui m'empêche d'exécuter", v:"INT"} ]},
+    { q:"Dis-moi où t'en es vraiment avec ton activité.", dim:"arche", opts:[
+      {t:"J'ai une idée, une envie, mais rien de lancé pour de vrai", v:"INT"},
+      {t:"Je bosse dur, je suis partout, et pourtant les clients suivent pas", v:"DQ"},
+      {t:"J'ai déjà payé des formations ou des coachs, et toujours rien changé", v:"INT"},
+      {t:"Je signe un client de temps en temps, mais zéro régularité", v:"DQ"} ]},
+    { q:"Dans 6 mois, tu veux en être où, honnêtement ?", dim:"arche", opts:[
+      {t:"Avoir mes tout premiers clients, juste prouver que ça marche", v:"INT"},
+      {t:"Vivre enfin de mon activité, du revenu qui rentre chaque mois", v:"DQ"},
+      {t:"Une offre claire que je sais vendre sans avoir à ramer", v:"INT"},
+      {t:"Arrêter le SMIC de LinkedIn et viser mes premiers 10K", v:"DQ"} ]},
+    { q:"Et pourquoi t'y es pas encore arrivé, à ton avis ?", dim:"arche", opts:[
+      {t:"Je m'éparpille, je sais jamais quoi faire en priorité", v:"DQ"},
+      {t:"J'ose pas me montrer, ni annoncer mes prix franchement", v:"INT"},
+      {t:"J'ai aucun système pour faire rentrer des clients", v:"DQ"},
+      {t:"On m'a vendu de l'info, jamais un vrai chemin à suivre", v:"INT"} ]},
   ],
+  // PORTE 2 : pourquoi ils décollent pas, le plafond de verre, identitaire vs connaissance
   p2:[
-    { q:"Ton business à 10K+/mois, c'est plutôt…", dim:"arche", opts:[
-      {t:"Ça marche mais tout repose sur moi, je plafonne", v:"BAT"},
-      {t:"Je pense déjà marque, vision, écosystème", v:"VIS"},
-      {t:"Je fais du CA mais jamais deux mois pareils", v:"BAT"},
-      {t:"Je veux dominer ma catégorie, être un-de-un", v:"VIS"} ]},
-    { q:"Ton plus gros frein pour passer à 100K ?", dim:"arche", opts:[
-      {t:"Je suis le goulot, tout dépend de mon temps", v:"BAT"},
-      {t:"Mon positionnement n'est pas assez tranché", v:"VIS"},
-      {t:"Pas de système d'acquisition prévisible", v:"BAT"},
-      {t:"Je veux sortir de l'opérationnel et déléguer", v:"VIS"} ]},
-    { q:"Ce que tu veux construire ?", dim:"arche", opts:[
-      {t:"Un système qui tourne sans moi", v:"BAT"},
-      {t:"Une marque catégorie à part qui attire les clients", v:"VIS"},
-      {t:"Des leads entrants premium chaque jour", v:"BAT"},
-      {t:"Un écosystème qui scale avec de la pub", v:"VIS"} ]},
+    { q:"Ton business tourne, mais c'est laquelle ta réalité au quotidien ?", dim:"arche", opts:[
+      {t:"Tout repose sur moi, je suis le goulot de ma propre boîte", v:"BAT"},
+      {t:"Je fais du CA mais jamais deux mois pareils, c'est les montagnes russes", v:"BAT"},
+      {t:"Je plafonne depuis des mois, j'ai beau pousser, ça bouge plus", v:"VIS"},
+      {t:"Je veux une marque qui sort du lot, pas être un coach de plus", v:"VIS"} ]},
+    { q:"Ce plafond de verre, tu dirais qu'il vient d'où ?", dim:"arche", opts:[
+      {t:"De moi. Y a un truc à l'intérieur qui me freine, je le sens", v:"VIS"},
+      {t:"D'un manque de méthode ou de système, clairement", v:"BAT"},
+      {t:"De mon positionnement, je ressemble à tout le monde", v:"VIS"},
+      {t:"Je vends mon temps, et ça peut juste pas tenir à ce rythme", v:"BAT"} ]},
+    { q:"Si tu passais le cap, tu veux quoi de l'autre côté ?", dim:"arche", opts:[
+      {t:"Que ça tourne sans moi, récupérer ma bande passante", v:"BAT"},
+      {t:"Une marque catégorie à part qui attire les bons clients toute seule", v:"VIS"},
+      {t:"Des leads premium qui rentrent dans mes DMs chaque jour", v:"BAT"},
+      {t:"Scaler pour de vrai : la pub, une équipe, le passage à 100K", v:"VIS"} ]},
   ],
 };
 
-// 3. Questions universelles (plateforme), posées après la branche
+// 3. Plateforme (universel)
 const PLATFORM = [
-  { q:"Comment tu préfères t'exprimer ?", dim:"plat", opts:[
-    {t:"À l'écrit, en profondeur, structuré", v:"LI"},
-    {t:"En vidéo courte, spontané, visuel", v:"IG"},
-    {t:"En vidéo longue, j'aime tout expliquer", v:"YT"} ]},
-  { q:"Ton audience idéale, tu la trouves où ?", dim:"plat", opts:[
-    {t:"Des pros, des entrepreneurs établis", v:"LI"},
-    {t:"Des gens qui scrollent, à toucher en masse", v:"IG"},
-    {t:"Des gens qui cherchent à apprendre en profondeur", v:"YT"} ]},
+  { q:"Presque fini. Tu te sens le plus à l'aise comment ?", dim:"plat", opts:[
+    {t:"À l'écrit, poser les choses en profondeur", v:"LI"},
+    {t:"Face cam en vidéo courte, vite fait, spontané", v:"IG"},
+    {t:"En vidéo longue, prendre le temps de tout expliquer", v:"YT"} ]},
+  { q:"Et les gens que tu veux toucher, ils traînent plutôt où ?", dim:"plat", opts:[
+    {t:"Des pros, des entrepreneurs déjà installés", v:"LI"},
+    {t:"Large, des gens qui scrollent au quotidien", v:"IG"},
+    {t:"Ceux qui cherchent activement à apprendre un truc", v:"YT"} ]},
 ];
 
 const ARCHE = {
