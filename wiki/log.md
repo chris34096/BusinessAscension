@@ -1,4 +1,14 @@
-﻿## 2026-06-11 — VPS opérationnel + bot Telegram réparé + 4 sites copywriting v2
+﻿## 2026-06-15 — Quiz branché + Cockpit BA OS + ghost couche publiée + graphify
+- **Passe ghost (anti-détection IA)** sur toute la couche publiée : 9 scripts YouTube, 2 VSL (P1/P2), reels 5-6-30, copy + microcopy des 5 sites. Zéro tiret cadratin dans la prose lue. Fondations/SOPs/légal/wiki volontairement intacts (internes, citations verbatim). Commit bbb63cb.
+- **Quiz Entrepreneur refondu en parcours branché** : Q1 revenus → route Porte 1 (<10K) ou Porte 2 (>10K), puis 3 questions diagnostiques adaptées (situation / objectif 6 mois / pourquoi ça bloque), puis 2 questions plateforme. P1 = part de 0 ou déjà brûlé par des accompagnements (archétypes Don Quichotte / Introspectif). P2 = plafond de verre, origine identitaire vs connaissance vs système (Bâtisseur / Visionnaire). VOC cible, voix Chris. Commits 76a8da0 + d3077b1.
+- **Business Ascension OS (cockpit)** : prototype single-file (`04-SYSTEMES/webapps/cockpit/`) regroupant agents, VSL/témoignages Wistia, 5 sites, veille concurrence, leads, nurturing, booking GHL, plans Stripe, workflows. Puis **app Next.js** (`04-SYSTEMES/cockpit-app/`) Phase 0 (auth magic link Supabase + cockpit React porté) et Phase 1 (leads réels lus depuis Supabase). Plan d'archi : `04-SYSTEMES/cockpit-architecture.md`.
+- **Supabase** : projet réactivé (était en pause). Table `plan_decollage` créée (manquait → captures du lead magnet perdues). Policies de lecture `authenticated` sur `quiz_resultats` + `plan_decollage` pour le cockpit.
+- **graphify** : graphe augmenté 598 → **631 nœuds / 975 arêtes / 51 communautés**. AST (code) + couche docs antérieure + fragment cœur curé (2 portes, archétypes, quiz, cockpit, VSL, VOC, BOS, références Tom Pearson/Taki/Musy/Sunny). God nodes : Audit offert, Tom Pearson, VOC Verbatim, État Zéro→Héros, ICP. Outputs dans `graphify-out/`. NB : extraction sémantique exhaustive des 280 docs abandonnée (les sous-agents tapaient la limite de session) → remplacée par un fragment cœur curé sans agents.
+- Conflits détectés : aucun. Reste : déploiement Vercel du quiz refondu (repo à jour, déploiement séparé) · activer email magic link côté Supabase pour le login cockpit · Phase 1 suite (MRR Stripe réel, runs agents).
+
+---
+
+## 2026-06-11 — VPS opérationnel + bot Telegram réparé + 4 sites copywriting v2
 - **VPS Hetzner (root@128.140.52.85)** : audit complet. Bot ba-bot.service actif · 6 crons agents + git pull horaire · 6 skills Hermes BA (`~/.hermes/skills/ba/`) · repo synced.
 - **Bot Telegram réparé — 2 bugs** : (1) `$TELEGRAM_TOKEN` (jamais défini) → `$TelegramToken` du config = polling 404 résolu · (2) `$ProjectRoot` Windows hardcodé → cross-platform `if ($IsWindows)` + forward slashes = erreur `-Raw` pwsh Linux résolue. Commits 884ae79 + 0d81d08.
 - **Hermes Agent** : Nous Portal sans crédits pour claude-opus-4.6 → repassé sur `stepfun/step-3.7-flash:free` (config.yaml), test chat OK. Processus `hermes setup` bloqué tué (c'était lui qui demandait un password).
