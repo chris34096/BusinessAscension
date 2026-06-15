@@ -1,55 +1,21 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "period": {
-    "start": "2026-06-07",
-    "end": "2026-06-14"
+    "start": "2026-06-08",
+    "end": "2026-06-15"
   },
   "competitors": [
-    {
-      "name": "Mehdi Baer",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Vos idées ne viennent pas de votre cerveau",
-          "url": "https://www.youtube.com/shorts/UHnAFl5BGUw",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Vos idées ne viennent pas de votre cerveau\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
-        },
-        {
-          "title": "Arrête d'enseigner commence à incarner",
-          "url": "https://www.youtube.com/shorts/tQhmwcGp3CA",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Arrête d'enseigner commence à incarner\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
-        },
-        {
-          "title": "Pourquoi tu ne manifestes pas ce que tu veux",
-          "url": "https://www.youtube.com/shorts/YF82eX8pPME",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Pourquoi tu ne manifestes pas ce que tu veux\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
-        },
-        {
-          "title": "La différence entre persévérance et burn-out",
-          "url": "https://www.youtube.com/shorts/PkrUjpu6EC4",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "La différence entre persévérance et burn-out\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
-        },
-        {
-          "title": "Cessez de forcer laissez le désir vous appeler",
-          "url": "https://www.youtube.com/shorts/DbhMEG-2lYQ",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Cessez de forcer laissez le désir vous appeler\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
-        }
-      ]
-    },
     {
       "name": "Alec Henry",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Les règles de l’entrepreneuriat ont changé : ceux qui l’ignorent vont couler (regardez ça)",
+          "url": "https://www.youtube.com/watch?v=0wa6HF7x2Iw",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "Vous vous rappelez le déclic dont tout le monde parle en sortant d'un diagnostic ? À vous de le vivre. Réservez le vôtre maintenant, 100% gratuitement, et repartez avec un plan d'action offert pour votre entreprise 👉 https://l.entrepreneurs.com/documentaire-entrepreneurs\n\n==============\nAbonnez-vous"
+        },
         {
           "title": "Presque 1M€ de chiffre d'affaires en travaillant 3 jours par semaine",
           "url": "https://www.youtube.com/shorts/WfIFb4EbVdY",
@@ -77,195 +43,6 @@
           "published": "2026-06-11",
           "platform": "youtube",
           "snippet": "Newsletter et email marketing : comment informer 100% de vos clients de façon régulière, sans y consacrer tout votre temps.\n\nDans cet extrait, un système simple pour garder le lien avec votre base clients grâce à des séquences email déléguées.\n\nAu programme :\n→ Pourquoi vous pouvez externaliser vos "
-        },
-        {
-          "title": "Plus de travail qu'avant et pourtant, beaucoup moins de stress.",
-          "url": "https://www.youtube.com/shorts/8hTxC22zm2M",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "Plus de travail qu'avant. Et pourtant, beaucoup moins de stress.\n\nC'est le genre de phrase qui dit tout.\n\nQuand on lui demande si son activité l'épanouit davantage, sa réponse est sans hésitation :\n\n➡️ Moins de stress au quotidien\n➡️ Un travail qui n'a pas diminué… mais qui va beaucoup plus vite\n➡️ "
-        }
-      ]
-    },
-    {
-      "name": "Max Piccinini",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "La différence entre ceux qui stagnent et ceux qui réussissent ?",
-          "url": "https://www.youtube.com/shorts/LVh-bVA35yk",
-          "published": "2026-06-14",
-          "platform": "youtube",
-          "snippet": "Quand tu mets réellement quelque chose en jeu, tu arrêtes de procrastiner. Tu passes à l’action plus vite, tu prends de meilleures décisions et tu développes un état d’esprit d’entrepreneur.\n\nLa différence entre ceux qui stagnent et ceux qui réussissent ? Souvent, c’est le courage d’agir malgré l’in"
-        },
-        {
-          "title": "Les urgences d’aujourd’hui naissent souvent des priorités que tu as repoussées hier.",
-          "url": "https://www.youtube.com/shorts/TOTb73IjKCM",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Les urgences d’aujourd’hui naissent souvent des priorités que tu as repoussées hier.\n\nUn recrutement retardé, un process absent, une décision reportée…\n\nNe gère pas seulement l’urgence. Traite sa cause."
-        },
-        {
-          "title": "Tu termines tes journées épuisé avec l’impression de ne pas avancer ?",
-          "url": "https://www.youtube.com/shorts/nupV8q1Vcjg",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Tu termines tes journées épuisé avec l’impression de ne pas avancer ?\n\nCe n’est pas un problème de productivité.\n\nC’est un problème de priorités.\n\nBeaucoup de dirigeants passent leurs journées dans l’urgence et reportent ce qui crée vraiment de la valeur : la stratégie, les recrutements, les système"
-        },
-        {
-          "title": "À chaque nouveau niveau de réussite, de nouveaux défis apparaissent.",
-          "url": "https://www.youtube.com/shorts/Xrmv8VwIwwM",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "À chaque nouveau niveau de réussite, de nouveaux défis apparaissent. C’est normal.\n\nBeaucoup abandonnent en pensant que les obstacles sont un signe qu’ils sont sur la mauvaise voie. En réalité, ils sont souvent la preuve que tu évolues.\n\nQuel défi te fait grandir en ce moment ?"
-        },
-        {
-          "title": "Tu peux publier tous les jours.",
-          "url": "https://www.youtube.com/shorts/MeWFx9nT0xg",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Tu peux publier tous les jours.\n\nSi ton offre n’est pas ultra désirable, ultra premium et ultra désirable, tu ne feras jamais un euro.\n\nTu peux faire du contenu non-stop, optimiser ton marketing et travailler comme un forcené.\n\nSi ton offre est médiocre, tes résultats resteront médiocres.\n\nLes dirig"
-        }
-      ]
-    },
-    {
-      "name": "Thibault Didier",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Comment Trouver des Clients sur Instagram Grâce à Claude (7882€ généré sur un seul réel)",
-          "url": "https://www.youtube.com/watch?v=fU6nro66ifk",
-          "published": "2026-06-10",
-          "platform": "youtube",
-          "snippet": "La vidéo pour set up Claude sur ton ordinateur et créer une machine à contenu : https://youtu.be/AbOamSpIL9Q\n\nDans cette vidéo, je te montre le système exact qui m'a généré 7882€ avec un seul Reel : du script écrit avec Claude jusqu'au closing en DM.\n\nTu vas voir : \n• Comment j'écris mes scripts de "
-        }
-      ]
-    },
-    {
-      "name": "Julien Himself",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "You DON’T Have To Be “Liked” By Everyone! ⚠️",
-          "url": "https://www.youtube.com/shorts/Wwzg3QU4pm8",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "You’re NOT meant to get along with everyone!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowerin"
-        },
-        {
-          "title": "Stop PRETENDING You’re “Fine” ⚠️",
-          "url": "https://www.youtube.com/shorts/cd3QnnRKd2c",
-          "published": "2026-06-10",
-          "platform": "youtube",
-          "snippet": "Holding it together ISN’T strength… Feel what you believe will destroy you! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of c"
-        },
-        {
-          "title": "You MUST Face What You Fear Most! ⚠️",
-          "url": "https://www.youtube.com/shorts/YcqV1URJLZ8",
-          "published": "2026-06-10",
-          "platform": "youtube",
-          "snippet": "Embrace your INNER DEMONS… The only way out is through!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face.."
-        },
-        {
-          "title": "Let Yourself “BREAK DOWN” ⚠️",
-          "url": "https://www.youtube.com/shorts/ISqPG8hIbE4",
-          "published": "2026-06-09",
-          "platform": "youtube",
-          "snippet": "Let yourself break down… It WON’T destroy you, only your ego! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to"
-        },
-        {
-          "title": "Never Stop LOVING YOURSELF! ⚠️",
-          "url": "https://www.youtube.com/shorts/fQsNv0aq8uM",
-          "published": "2026-06-09",
-          "platform": "youtube",
-          "snippet": "Never stop LOVING YOURSELF!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them to create "
-        }
-      ]
-    },
-    {
-      "name": "Franck Nicolas",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "La vraie raison pour laquelle ton business stagne",
-          "url": "https://www.youtube.com/watch?v=zsCNrXY32II",
-          "published": "2026-06-07",
-          "platform": "youtube",
-          "snippet": "➜ 🚨3 soirées pour activer le Protocole 110 et générer +100 000 € de revenus mensuels supplémentaires : https://i.glob.cc/sommet-entrepreneurs-juin26?utm_source=yt&utm_medium=acquisition&utm_campaign=sommet-entrepreneurs-juin26 (100% Offert)\n\n➜ 📈 Rejoins ma Lettre Business. Chaque lundi une tactique "
-        }
-      ]
-    },
-    {
-      "name": "Jody Cavalie",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Désolé, répondeur automatique",
-          "url": "https://www.youtube.com/shorts/o7Bv3XWm8qU",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Désolé, répondeur automatique.\n\nOn nous vend souvent la réussite comme le fait d'être dispo H24. En réalité, la vraie liberté, c’est le pouvoir de dire « non ».\n\nNon à une urgence qui n'est pas la vôtre, non à un appel, non au bruit.\n\nSi on fait ce qu'on fait à la JCA / Liberty Webi, c'est exactemen"
-        },
-        {
-          "title": "\"Cette réunion de 2h aurait pu être un mail.\"",
-          "url": "https://www.youtube.com/shorts/JnTWQvqsJao",
-          "published": "2026-06-12",
-          "platform": "youtube",
-          "snippet": "\"Cette réunion de 2h aurait pu être un mail.\"\n\nTous les salariés ont déjà eu cette pensée. Au moins une fois par semaine.\n\nEt c'est ça le vrai problème de beaucoup d'entreprises aujourd'hui. C'est pas le boulot en lui-même. \n\nC'est tout ce qu'on rajoute autour. Les réunions pour préparer la réunion."
-        },
-        {
-          "title": "🎙️ Résumé du match pour ceux qui prennent en cours",
-          "url": "https://www.youtube.com/shorts/bdhmXFxj7tY",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "🎙️ Résumé du match pour ceux qui prennent en cours :\n\n43 ans de jeu. Une seule tactique : obéir. Zéro carton, zéro faute, zéro frisson. Le joueur le plus discipliné de l'histoire.\n\nEt c'est exactement ça le problème. On lui a appris à respecter le plan de jeu, jamais à le questionner. \n\nIl découvre "
-        },
-        {
-          "title": "Au début, tu as juste l'impression de regarder les autres avancer",
-          "url": "https://www.youtube.com/shorts/nDJY6SrzaKs",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "Au début, tu as juste l'impression de regarder les autres avancer.\n\nLe salariat, c'est partir en sprint. Tu démarres tôt. Tu as ton salaire qui tombe tout de suite, une sécurité immédiate, et tu avances à un rythme régulier.\n\nL'entrepreneuriat, c'est s'arrêter sur la ligne de départ pour construire "
-        },
-        {
-          "title": "Le prix à payer pour aller dans l'espace, c'est de ne pas en revenir...",
-          "url": "https://www.youtube.com/shorts/xZD4VksnXWY",
-          "published": "2026-06-10",
-          "platform": "youtube",
-          "snippet": "Le prix à payer pour aller dans l'espace, c'est de ne pas en revenir...\n\nEt même si on parle d'espace, en vrai, ça vaut pour beaucoup de choses dans la vie.\n\nParce que tout ce qui en vaut la peine a un prix. Et la majorité des gens ne veulent pas l'entendre.\n\nTu veux entreprendre ? Le prix, c'est l'"
-        }
-      ]
-    },
-    {
-      "name": "Pierre David / AHP",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "5 erreurs mentales qui sabotent ta performance au combat",
-          "url": "https://www.youtube.com/watch?v=9C4Aq16dL34",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "Si tu as apprécié notre vidéo, partage-la à une personne qui a besoin d’entendre cela et clique sur 🔔  pour ne pas manquer nos prochaines vidéos !\n\n👉 Clique ici pour bénéficier d’un entretien offert à l’Académie de la Haute Performance :\nhttps://lacademie-de-la-haute-performance.com/entretien-offert"
-        },
-        {
-          "title": "Comment se libérer de ses peurs : témoignage de Sébastien Authier",
-          "url": "https://www.youtube.com/watch?v=vSq82UwLlKo",
-          "published": "2026-06-09",
-          "platform": "youtube",
-          "snippet": "Si tu as apprécié notre vidéo, partage-la à une personne qui a besoin d’entendre cela et clique sur 🔔  pour ne pas manquer nos prochaines vidéos !\n\n👉 Clique ici pour bénéficier d’un entretien offert à l’Académie de la Haute Performance :\nhttps://lacademie-de-la-haute-performance.com/entretien-offert"
-        }
-      ]
-    },
-    {
-      "name": "Chloe Lem",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Plus tu FORCES et moins ça MARCHE.",
-          "url": "https://www.youtube.com/watch?v=MhYvFxYGNPw",
-          "published": "2026-06-08",
-          "platform": "youtube",
-          "snippet": "🎙️ Leader en Mission disponible sur toutes les plateformes\n📲 Instagram : @chloe.lemm\n🔗 Mentoring → https://tally.so/r/0Qaz96\n\nDans cet épisode je te parle de quelque chose que je vis en ce moment:\nLa saturation. \n\nL'envie de forcer encore plus alors que le corps dit stop et pourquoi c'est exactement"
         }
       ]
     },
@@ -274,52 +51,39 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "Pourquoi certaines personnes paient cher un hôtel ou un événement business",
-          "url": "https://www.youtube.com/shorts/WMH6JVRGpdE",
+          "title": "Pourquoi courir après les tendances ne mène pas à la réussite",
+          "url": "https://www.youtube.com/shorts/lbkus3Bb1fo",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Trading, e-commerce, dernière tendance à la mode… beaucoup cherchent le secteur miracle plutôt que de devenir excellents dans ce qu'ils font. La vraie différence entre ceux qui réussissent et les autres ne vient pas du business qu'ils choisissent, mais de leur capacité à exécuter mieux que tout le m"
+        },
+        {
+          "title": "Mon plus gros salaire de salarié — et la leçon qui a tout changé",
+          "url": "https://www.youtube.com/shorts/UjJ941XUdQo",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "J'ai touché mon plus gros salaire en tant que salarié… mais ce n'est pas le montant qui m'a le plus marqué. C'est ce que cette période m'a appris sur la vraie différence entre travailler dur et créer de la valeur. Si tu veux comprendre pourquoi certains changent radicalement de niveau et d'autres no"
+        },
+        {
+          "title": "Quand tes employés aiment l'entreprise plus que toi — signe de grand leadership",
+          "url": "https://www.youtube.com/shorts/588soBhgNHE",
           "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "Ce n'est pas toujours pour le confort ou le standing : il y a une valeur invisible que la facture ne montre pas. L'environnement dans lequel vous évoluez peut transformer une simple soirée en opportunité d'affaires majeure. Découvrez pourquoi investir dans son environnement est souvent l'un des levi"
+          "snippet": "Un grand dirigeant n'est pas celui qui cherche à être au centre de tout, mais celui qui construit un environnement où les équipes ont envie de rester et de s'investir. Si tes collaborateurs sont attachés au projet, aux valeurs et à l'équipe plutôt qu'à ta seule personne, tu as probablement bâti quel"
         },
         {
-          "title": "Pourquoi certaines entreprises paient des salaires que d'autres ne génèrent même pas",
-          "url": "https://www.youtube.com/shorts/PxbGcLScfy8",
+          "title": "Connaissez-vous vraiment la valeur de votre entreprise ?",
+          "url": "https://www.youtube.com/shorts/5po2L2v1AtA",
           "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "Un échange avec mon associé m'a rappelé une vérité que trop d'entrepreneurs ignorent : les meilleurs talents ne coûtent jamais vraiment cher. Quand une seule personne peut transformer les performances d'une entreprise, lui donner les moyens à la hauteur de son impact devient un investissement, pas u"
+          "snippet": "Chiffre d'affaires, marge, trésorerie… beaucoup d'entrepreneurs maîtrisent ces chiffres. Mais la valeur réelle de leur entreprise ? C'est souvent une grande inconnue. Sans cette information, on négocie à l'aveugle et on prend des décisions sur des émotions plutôt que sur des faits. Une valorisation "
         },
         {
-          "title": "Pourquoi l'arrogance est le pire ennemi de ta réussite en business",
-          "url": "https://www.youtube.com/shorts/6jmU9Com6UA",
-          "published": "2026-06-13",
+          "title": "Pourquoi déléguer devient simple quand vous recrutez les bonnes personnes",
+          "url": "https://www.youtube.com/shorts/cMH_zcJeDoI",
+          "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "Les entrepreneurs les plus performants ne sont pas les plus arrogants — bien au contraire. Rester ouvert, curieux et capable de se remettre en question, c'est ce qui fait vraiment la différence sur le long terme. Parce qu'on progresse toujours plus vite en écoutant qu'en cherchant à avoir raison. Re"
-        },
-        {
-          "title": "Pourquoi la constance sur les réseaux sociaux fait la différence en business",
-          "url": "https://www.youtube.com/shorts/KtOE0GbqtqU",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Être excellent dans son métier ne suffit plus : encore faut-il le faire savoir. Dans cette vidéo, je partage ce que j'ai observé chez un entrepreneur qui a compris que la régularité sur les réseaux est un vrai avantage concurrentiel. Si tu veux prendre une longueur d'avance sur ton marché, ce messag"
-        },
-        {
-          "title": "Pourquoi bâtir une entreprise est un vrai métier d'architecte",
-          "url": "https://www.youtube.com/shorts/gN8aBOBuVpQ",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Trouver des clients, c'est bien. Mais construire une organisation qui tourne sans vous, c'est un tout autre défi. Découvrez pourquoi la vraie performance d'une entreprise repose sur des systèmes invisibles, pas sur le hasard. Ce qui se voit est toujours le fruit de ce qui ne se voit pas.\n\n#Entrepren"
-        }
-      ]
-    },
-    {
-      "name": "TheBBoost",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Tu perds 80% de tes ventes sans le savoir | Le suivi commercial avec Pauline Sarda",
-          "url": "https://www.youtube.com/watch?v=_RHM_bF0qsc",
-          "published": "2026-06-08",
-          "platform": "youtube",
-          "snippet": "Prospecter, relancer, suivre… ces mots qui font souvent peur. Et pourtant, ils sont ô combien importants pour tout entrepreneur qui se respecte.\n\nPauline Sarda, experte en développement commercial depuis 8 ans, nous explique pourquoi vous perdez probablement 80% de vos ventes sans vous en rendre com"
+          "snippet": "Déléguer n'est pas une question de lâcher-prise, c'est une question de recrutement. Les dirigeants qui font grandir leur entreprise ont tous compris la même chose : on ne gagne jamais seul. Découvrez pourquoi s'entourer de talents plus forts que soi est la vraie compétence du leader. #Business #Entr"
         }
       ]
     },
@@ -341,7 +105,7 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "How To Stop Starting From Zero Every Launch",
+          "title": "How to sell out next month, this month",
           "url": "https://www.youtube.com/watch?v=m73yaCnF-IQ",
           "published": "2026-06-14",
           "platform": "youtube",
@@ -363,73 +127,6 @@
       ]
     },
     {
-      "name": "Tanner Chidester",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Claude AI can make 1,000 videos for practically $0.",
-          "url": "https://www.youtube.com/shorts/NACK-8_izco",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Claude AI can make 1,000 videos for practically $0."
-        },
-        {
-          "title": "Sounds good, never works.",
-          "url": "https://www.youtube.com/shorts/KYSK87naMY4",
-          "published": "2026-06-12",
-          "platform": "youtube",
-          "snippet": "Sounds good, never works."
-        },
-        {
-          "title": "I Made $100 Million Selling Simple Digital Products (Step by Step)",
-          "url": "https://www.youtube.com/watch?v=bSg-2bXuDzY",
-          "published": "2026-06-12",
-          "platform": "youtube",
-          "snippet": "In this video, I break down exactly how I made $100 million selling simple digital products, step by step.\n\nThis is not theory. This is not generic “make money online” advice. This is a real breakdown of how simple digital products can be turned into a scalable online business using strategy, positi"
-        },
-        {
-          "title": "5 Genius Ways To Make Money With AI",
-          "url": "https://www.youtube.com/shorts/uuJwnVnAYT0",
-          "published": "2026-06-12",
-          "platform": "youtube",
-          "snippet": "5 Genius Ways To Make Money With AI"
-        },
-        {
-          "title": "Why are you still waiting to start?",
-          "url": "https://www.youtube.com/shorts/tnthUYDNfxk",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "The world moved on from a literal war in 2 weeks. Nobody is watching you fail.\n\nSo why are you still waiting to start?"
-        }
-      ]
-    },
-    {
-      "name": "Tom Pearson",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "In 29 minutes you’ll meet your inner PSYCHO & unlock your next income bracket",
-          "url": "https://www.youtube.com/watch?v=rBNZoE38EfI",
-          "published": "2026-06-10",
-          "platform": "youtube",
-          "snippet": "the artist for entrepreneurs...\n\nb e c o m e.  t h e.  m a n.\nelite physique, 8% body fat year-round, high frequency mindset, elite cognitive performance, in complete alignment with your highest self.\n\nb u i l d.  t h e.  b r a n d.\nturn your value + story into a £10K–£100K+/month brand that impacts"
-        }
-      ]
-    },
-    {
-      "name": "Sunny Lenarduzzi",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "The One Business AI Will Never Replace",
-          "url": "https://www.youtube.com/watch?v=95LQGIGypzM",
-          "published": "2026-06-09",
-          "platform": "youtube",
-          "snippet": "Are you worried your expertise is becoming less valuable as AI gets smarter?\nWhat if the very thing that makes you irreplaceable is something AI can never replicate?\n👉 Get the free Knowledge Bank Business Plan: https://www.authoritydotio.com/knowledgebank-lm?utm_source=YouTube&utm_medium=video&utm_c"
-        }
-      ]
-    },
-    {
       "name": "Kallaway",
       "platform": "youtube",
       "items": [
@@ -447,80 +144,39 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "Helping a GoHighLevel Reseller Scale to $1M/Month",
-          "url": "https://www.youtube.com/watch?v=IKRBA9ALc68",
+          "title": "He’s Copying the Business Model That Makes No Money",
+          "url": "https://www.youtube.com/watch?v=pHBSA4udH8Q",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
+        },
+        {
+          "title": "You Don’t Have a Margin Problem, You Have a Brand Problem",
+          "url": "https://www.youtube.com/watch?v=x3Ft7uuSlKM",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
+        },
+        {
+          "title": "$15 Leads vs Medicare Part B: How to Fix the Funnel",
+          "url": "https://www.youtube.com/watch?v=HbaGDrFufmk",
           "published": "2026-06-14",
           "platform": "youtube",
           "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
         },
         {
-          "title": "How to Hire the Right Leadership Team as You Scale",
-          "url": "https://www.youtube.com/watch?v=n7CYRXrdebU",
+          "title": "$500K Power Washing Business Stuck on Referrals",
+          "url": "https://www.youtube.com/watch?v=gRQLYWfwRIA",
           "published": "2026-06-14",
           "platform": "youtube",
           "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
         },
         {
-          "title": "How to Escape the Revenue Roller Coaster",
-          "url": "https://www.youtube.com/watch?v=rSoL1TZ4G28",
-          "published": "2026-06-13",
+          "title": "$500K Power Washing Business Wants to Land Commercial Clients",
+          "url": "https://www.youtube.com/watch?v=GUaphMvD9Tc",
+          "published": "2026-06-14",
           "platform": "youtube",
           "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
-        },
-        {
-          "title": "How to Scale a Tutoring Business From $250K to $1M",
-          "url": "https://www.youtube.com/watch?v=U8Noy9ly7A4",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
-        },
-        {
-          "title": "Why do people stay broke?",
-          "url": "https://www.youtube.com/shorts/LFaXWg8YxeY",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Most people get more rewarded for talking about their goals than going after them. \n\nWhich is why most people stay stuck and never start.\n\n#shorts #alexhormozi #business #motivation"
-        }
-      ]
-    },
-    {
-      "name": "Alex Hormozi",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Die hard knicks fan baby #knicks #knicksnation",
-          "url": "https://www.youtube.com/shorts/A0EcVNkVb3w",
-          "published": "2026-06-14",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "We did it !!!!!!! We did it !!!!! 🧡🧡🧡💙💙💙💙And I had to go to the jersey shore to close it out",
-          "url": "https://www.youtube.com/shorts/bO1fLQEwbNk",
-          "published": "2026-06-14",
-          "platform": "youtube",
-          "snippet": ""
-        },
-        {
-          "title": "When you love what you do no one can actually beat you",
-          "url": "https://www.youtube.com/shorts/eoFXSQOnKiA",
-          "published": "2026-06-14",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "Please share this with a friend who needs to “hear” it …",
-          "url": "https://www.youtube.com/shorts/sq_EAoXfIbs",
-          "published": "2026-06-14",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "A message so many people need to hear …",
-          "url": "https://www.youtube.com/shorts/b2lZtxdNTfE",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
         }
       ]
     },
@@ -529,39 +185,39 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "If you wanna get rich...",
-          "url": "https://www.youtube.com/shorts/dNCM3f5ATrQ",
-          "published": "2026-06-13",
+          "title": "$100 million dollar CEO ranks different ways to get rich",
+          "url": "https://www.youtube.com/shorts/G7uqWiTMT7g",
+          "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "If you wanna get rich..."
+          "snippet": "$100 million dollar CEO ranks different ways to get rich"
         },
         {
-          "title": "The 7 metrics EVERY CEO should know (Comment SCORECARD for the playbook)",
-          "url": "https://www.youtube.com/shorts/QWh6RJmcRJg",
-          "published": "2026-06-13",
+          "title": "Should you pay for these AI tools?",
+          "url": "https://www.youtube.com/shorts/vv8jgWqPrZY",
+          "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "The 7 metrics EVERY CEO should know (Comment SCORECARD for the playbook)"
+          "snippet": "Should you pay for these AI tools?"
         },
         {
-          "title": "Inbox Zero is the goal",
-          "url": "https://www.youtube.com/shorts/uatg8_WO-ZY",
-          "published": "2026-06-13",
+          "title": "Why I bought a Richard Mille watch",
+          "url": "https://www.youtube.com/shorts/tYzkQx_SDsY",
+          "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "How to become free from your inbox"
+          "snippet": "How much is that watch?"
         },
         {
-          "title": "Sell to everyone differently",
-          "url": "https://www.youtube.com/shorts/N_ImOcUIzj8",
-          "published": "2026-06-13",
+          "title": "Financial milestones",
+          "url": "https://www.youtube.com/shorts/5Q-ohfhrXDg",
+          "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "How to make more money in sales"
+          "snippet": "Your first $1,000 all the way to your first $10,000,000"
         },
         {
-          "title": "Send the elevator back down",
-          "url": "https://www.youtube.com/shorts/AP-U-vqju-8",
-          "published": "2026-06-13",
+          "title": "Default to AI",
+          "url": "https://www.youtube.com/shorts/o_8ACE1YwTI",
+          "published": "2026-06-14",
           "platform": "youtube",
-          "snippet": "If you have the opportunity to inspire young people to do great things in life, always take it"
+          "snippet": "My head of finance can only do this because he starts with AI every time"
         }
       ]
     },
@@ -569,6 +225,13 @@
       "name": "Lewis Howes",
       "platform": "youtube",
       "items": [
+        {
+          "title": "The Importance of the Present Moment",
+          "url": "https://www.youtube.com/shorts/YBOXUAAugwI",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
+        },
         {
           "title": "Remember this!",
           "url": "https://www.youtube.com/shorts/v4O7epiecac",
@@ -596,13 +259,6 @@
           "published": "2026-06-10",
           "platform": "youtube",
           "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n▶️ Recommended for you: https://youtu.be/O8PcUkF96k0\n\nPeter Sage, serial entrepreneur, transformation coach, and author of The Inside Track: The Ultimate Guide to Conquering Adversity, breaks down his four levels of consciousness"
-        },
-        {
-          "title": "There's Nothing You Can't Forgive",
-          "url": "https://www.youtube.com/shorts/D1FnSn2tjdQ",
-          "published": "2026-06-10",
-          "platform": "youtube",
-          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
         }
       ]
     },
@@ -618,53 +274,12 @@
           "snippet": "→𝐉𝐨𝐢𝐧 𝐌𝐲𝐫𝐨𝐧’𝐬 𝐋𝐢𝐯𝐞 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐓𝐨𝐝𝐚𝐲←\nhttps://www.makemoreofferschallenge.com/\n\nSIMPLE MULTIPLIED MILLIONS | Million Dollar Business Formula = Simplify Then Multiply\n\nMost entrepreneurs believe growth comes from adding more.\nMore products. More complexity. More moving parts.\n\nBut the truth is, the big"
         }
       ]
-    },
-    {
-      "name": "Tony Robbins",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Stop Trying to Be Everything",
-          "url": "https://www.youtube.com/shorts/RWkLcpFnBNo",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "You don’t have to be the artist, the operator, the manager, and the gladiator all at once.\n\nIf you want to scale, decide whether you’re going to become the leader your business needs — or partner with someone who already is.\n\n#TonyRobbins #BusinessGrowth"
-        },
-        {
-          "title": "You Are Not Broken",
-          "url": "https://www.youtube.com/shorts/0vjNJ8utD98",
-          "published": "2026-06-13",
-          "platform": "youtube",
-          "snippet": "You may feel broken, but you are not broken.\n\nYour body can be hurt. Your heart can feel shattered. But your spirit cannot be destroyed — and the meaning you give your pain determines whether it keeps hurting or starts strengthening you.\n\n#TonyRobbins #Healing #Mindset"
-        },
-        {
-          "title": "The Choice That Creates Happiness",
-          "url": "https://www.youtube.com/shorts/dTq8SVHRRow",
-          "published": "2026-06-12",
-          "platform": "youtube",
-          "snippet": "Happiness starts with what you choose to focus on.\n\nWhen you remember what truly brings you joy, you can shift your state, reconnect to gratitude, and create happiness on purpose.\n\n#TonyRobbins #Happiness #Mindset"
-        },
-        {
-          "title": "Ray Kurzweil Predicts AI Will Change Humanity Completely by 2030",
-          "url": "https://www.youtube.com/watch?v=fddhXXIjB6w",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "Few thinkers have shaped our understanding of the future as profoundly as Ray Kurzweil. An American inventor, computer scientist, futurist, entrepreneur, and bestselling author, Kurzweil is widely regarded as one of the most influential technological forecasters of our time. For decades, he has accu"
-        },
-        {
-          "title": "The Only Thing Stopping You Is THIS FEELING",
-          "url": "https://www.youtube.com/shorts/jn01-71MbbY",
-          "published": "2026-06-08",
-          "platform": "youtube",
-          "snippet": "Reminder: class is in session. It's called LIFE. Don’t waste a minute. \n\n— from Saint-Tropez, with love"
-        }
-      ]
     }
   ],
   "collection_notes": {
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 73
+    "total_items": 30
   }
 }
