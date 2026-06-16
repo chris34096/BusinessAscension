@@ -170,7 +170,8 @@ tr:hover td{background:rgba(201,168,76,.04)}
       <div class="mark">B</div>
       <div class="t">Business Ascension<span>Operating System</span></div>
     </div>
-    <div class="navlink active" data-go="overview"><span class="ic">◎</span> Vue d'ensemble</div>
+    <div class="navlink active" data-go="plan90"><span class="ic">◆</span> Plan 90 jours</div>
+    <div class="navlink" data-go="overview"><span class="ic">◎</span> Vue d'ensemble</div>
     <div class="navlink" data-go="agents"><span class="ic">⬡</span> Agents IA <span class="badge">10</span></div>
     <div class="navlink" data-go="funnel"><span class="ic">▤</span> Funnel & Sites</div>
     <div class="navlink" data-go="video"><span class="ic">▷</span> VSL & Vidéos</div>
@@ -196,8 +197,57 @@ tr:hover td{background:rgba(201,168,76,.04)}
 
     <div class="mobile-nav" id="mnav"></div>
 
+    <!-- ===== PLAN 90 JOURS ===== -->
+    <section class="page on" id="plan90">
+      <div class="glass" style="padding:22px 26px;margin-bottom:16px;border-color:var(--gold)">
+        <div class="eyebrow2">Cap des 90 jours · <span id="p90range"></span></div>
+        <h2 style="font-family:var(--serif);font-size:1.55rem;margin:4px 0 2px">Objectif : <span style="color:var(--gold-lt)">30 000 € encaissés</span></h2>
+        <div class="muted" style="font-size:.9rem">≈ 6 clients Construis la Marque™ (ancrage 5K) · un seul funnel : Audit → Porte 2 · un seul canal de trafic.</div>
+        <div style="margin-top:16px"><div style="height:9px;background:var(--line2);border-radius:99px;overflow:hidden"><div id="p90bar" style="height:100%;width:0;background:linear-gradient(90deg,var(--gold),var(--gold-lt))"></div></div>
+        <div class="muted" style="font-size:.8rem;margin-top:6px"><span id="p90day"></span> · <span id="p90left"></span></div></div>
+      </div>
+
+      <div class="grid g3" style="margin-bottom:16px">
+        <div class="glass kpi" style="grid-column:span 2;border-color:var(--gold)">
+          <div class="lab">LE SEUL KPI À REGARDER (cette semaine)</div>
+          <div style="display:flex;align-items:center;gap:18px;margin-top:6px">
+            <div class="val" style="font-size:2.4rem"><span id="kpiNow">0</span><span style="color:var(--muted);font-size:1.3rem">/3</span></div>
+            <div style="display:flex;gap:8px">
+              <button class="btn btn-gold sm" onclick="kpiAdd(1)">+ 1 appel tenu</button>
+              <button class="btn btn-ghost sm" onclick="kpiAdd(-1)">−</button>
+            </div>
+          </div>
+          <div class="delta" style="margin-top:6px">Appels Audit <b>tenus</b> cette semaine. Tout le reste sert ça. <span id="kpiMsg"></span></div>
+        </div>
+        <div class="glass kpi"><div class="lab">Phase en cours</div><div class="val" id="phaseName" style="font-size:1.3rem">—</div><div class="delta" id="phaseGoal"></div></div>
+      </div>
+
+      <div class="grid g3">
+        <div class="card">
+          <div class="sec-h" style="margin:0 0 6px"><div><div class="eyebrow2">Aujourd'hui · <span id="todayDate"></span></div><h2 style="font-size:1.15rem">Tes non-négociables du jour</h2></div></div>
+          <div id="dailyChecklist"></div>
+          <div class="muted" style="font-size:.78rem;margin-top:10px">Coché = mémorisé sur cet appareil. Repart à zéro chaque matin.</div>
+        </div>
+        <div class="card">
+          <div class="eyebrow2">Cibles de la semaine</div>
+          <div id="weekTargets" style="margin-top:10px"></div>
+        </div>
+        <div class="card">
+          <div class="eyebrow2">Le plan en 3 temps</div>
+          <div id="phaseList" style="margin-top:10px"></div>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top:16px">
+        <div class="eyebrow2">Le calcul (d'où viennent les chiffres)</div>
+        <div class="muted" style="font-size:.86rem;line-height:1.7;margin-top:8px">
+          30 000 € ÷ ~5 000 € = <b style="color:var(--gold-lt)">6 closes</b>. À 25% de closing en bêta → <b style="color:var(--gold-lt)">~24 appels tenus</b> sur 90 j → <b style="color:var(--gold-lt)">~3 appels/semaine</b> (le KPI). Pour tenir 3 appels, en réserver 4-5 (show-up). Pour les remplir : 5 contenus/sem + 30-50 DMs/jour. <span style="color:var(--ink)">Tu ne pilotes que l'entrée (contenu + DMs) et la présence aux appels. Le reste est une question de skill qui monte.</span>
+        </div>
+      </div>
+    </section>
+
     <!-- ===== OVERVIEW ===== -->
-    <section class="page on" id="overview">
+    <section class="page" id="overview">
       <div class="grid g4" style="margin-bottom:16px">
         <div class="glass kpi"><div class="lab">MRR (récurrent)</div><div class="val" id="kMrr">4 760 €</div><div class="delta up">▲ +18% vs mois dernier</div></div>
         <div class="glass kpi"><div class="lab">Leads ce mois</div><div class="val">73</div><div class="delta up">▲ quiz + plan décollage</div></div>
@@ -448,7 +498,7 @@ const REELS = ['Format 1 · Déclaration choc (×6)','Format 2 · Les X signes (
 const VA = ['La vraie raison de la stagnation','Pourquoi les formations ne suffisent pas','Mois à 12 000€, mois à zéro','Business Operating System 6 pôles','Le Don Quichotte entrepreneur','Le switch du chiffre d\'affaires'];
 
 /* ===================== NAV ===================== */
-const titles={overview:"Vue d'ensemble",agents:"Agents IA",funnel:"Funnel & Sites",video:"VSL & Vidéos",concurrence:"Concurrence",leads:"Leads & Nurturing",appels:"Appels",revenus:"Revenus / Stripe",workflows:"Workflows",contenu:"Contenu"};
+const titles={plan90:"Plan 90 jours",overview:"Vue d'ensemble",agents:"Agents IA",funnel:"Funnel & Sites",video:"VSL & Vidéos",concurrence:"Concurrence",leads:"Leads & Nurturing",appels:"Appels",revenus:"Revenus / Stripe",workflows:"Workflows",contenu:"Contenu"};
 function go(id){
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('on'));
   document.getElementById(id).classList.add('on');
@@ -529,6 +579,69 @@ const today=document.getElementById('today');
 [['☎','Appel diagnostic · Marc V.','14h00 · proposition Porte 2'],['✉','Relancer 3 leads quiz tièdes','agent Setting prêt'],['▷','Connecter VSL Porte 1 (Wistia)','script v2.1 validé'],['⌖','Lire la veille de dimanche','6 patterns détectés']].forEach(t=>{
   today.insertAdjacentHTML('beforeend',`<div class="list-item"><span class="ix">${t[0]}</span><div class="gr"><div class="t">${t[1]}</div><div class="m">${t[2]}</div></div><button class="btn btn-ghost sm">Faire</button></div>`);
 });
+
+/* ===================== PLAN 90 JOURS ===================== */
+const P90_START = new Date('2026-06-16T00:00:00');
+const P90_DAILY = [
+  ['✎','Publier 1 contenu','Le matin, avant tout le reste. Reel / post / story.'],
+  ['✉','30 nouvelles conversations DM','+ relancer les conversations ouvertes. Pas de pitch : on ouvre.'],
+  ['⚡','Speed-to-lead < 5 min','Répondre à TOUT nouveau lead dans les 5 minutes.'],
+  ['☎','Proposer un Audit dès qu\'une conv est chaude','Le seul objectif d\'une conversation chaude = caler l\'appel.'],
+  ['◷','Logger les chiffres du soir','DMs envoyés · réponses · appels calés. 2 minutes.']
+];
+const P90_WEEK = [
+  ['3','Appels Audit tenus','le KPI'],
+  ['5','Contenus publiés','1 par jour ouvré, dont 1 avec une preuve'],
+  ['150+','DMs (≈30/jour)','conversations, pas du spam'],
+  ['1','Win-log par client actif','SOP preuve — capture chaque résultat']
+];
+const P90_PHASES = [
+  ['Phase 1 · Amorçage','J1–30','Le système tourne + 1ers audits','Contenu + DM quotidiens, win-log activé. Cible : 3-4 audits tenus, 1-2 closes, premières preuves documentées.'],
+  ['Phase 2 · Traction','J31–60','La preuve s\'accumule','Monte le volume d\'audits, affûte le closing (skill AXIS). Si 2+ preuves solides → monte l\'ancrage Porte 2 à 7K.'],
+  ['Phase 3 · Accélération','J61–90','Preuve publiée → leads entrants','Les preuves nourrissent le contenu, les leads rentrent seuls. Pose le pixel Meta, prépare les ads. Décision scale.']
+];
+function p90Day(){ return Math.floor((new Date()-P90_START)/86400000)+1; }
+function isoWeekKey(d){d=new Date(d);d.setHours(0,0,0,0);d.setDate(d.getDate()+3-((d.getDay()+6)%7));const w1=new Date(d.getFullYear(),0,4);const wk=1+Math.round(((d-w1)/86400000-3+((w1.getDay()+6)%7))/7);return d.getFullYear()+'-W'+String(wk).padStart(2,'0');}
+function todayKey(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+
+function renderP90(){
+  const day=p90Day(), left=Math.max(0,90-day), pct=Math.min(100,Math.max(0,(day/90)*100));
+  const fmt=d=>d.toLocaleDateString('fr-FR',{day:'numeric',month:'short'});
+  const end=new Date(P90_START.getTime()+89*86400000);
+  document.getElementById('p90range').textContent=fmt(P90_START)+' → '+fmt(end);
+  document.getElementById('p90bar').style.width=pct+'%';
+  document.getElementById('p90day').textContent = day<1?'Démarre le '+fmt(P90_START):'Jour '+day+' / 90';
+  document.getElementById('p90left').textContent = left+' jours restants';
+  document.getElementById('todayDate').textContent=new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'});
+
+  // phase
+  let pi = day<=30?0 : day<=60?1 : 2; if(day<1)pi=0;
+  document.getElementById('phaseName').textContent=P90_PHASES[pi][0].split('· ')[1];
+  document.getElementById('phaseGoal').textContent=P90_PHASES[pi][1]+' · '+P90_PHASES[pi][2];
+
+  // week targets
+  document.getElementById('weekTargets').innerHTML=P90_WEEK.map(t=>
+    `<div class="list-item"><span class="ix" style="color:var(--gold-lt);font-family:var(--serif)">${t[0]}</span><div class="gr"><div class="t">${t[1]}</div><div class="m">${t[2]}</div></div></div>`).join('');
+
+  // phases list
+  document.getElementById('phaseList').innerHTML=P90_PHASES.map((p,i)=>
+    `<div class="list-item" style="${i===pi?'border-left:2px solid var(--gold);padding-left:8px':''}"><span class="ix">${p[1]}</span><div class="gr"><div class="t">${p[0]}${i===pi?' <span style="color:var(--gold-lt)">· en cours</span>':''}</div><div class="m">${p[3]}</div></div></div>`).join('');
+
+  // daily checklist (persisted per day)
+  const dk='ba_plan_check_'+todayKey();
+  let state={}; try{state=JSON.parse(localStorage.getItem(dk)||'{}');}catch(e){}
+  document.getElementById('dailyChecklist').innerHTML=P90_DAILY.map((t,i)=>
+    `<label class="list-item" style="cursor:pointer"><input type="checkbox" data-i="${i}" ${state[i]?'checked':''} style="width:18px;height:18px;accent-color:#CA8A04"><span class="ix">${t[0]}</span><div class="gr"><div class="t" style="${state[i]?'opacity:.5;text-decoration:line-through':''}">${t[1]}</div><div class="m">${t[2]}</div></div></label>`).join('');
+  document.querySelectorAll('#dailyChecklist input').forEach(c=>c.onchange=()=>{state[c.dataset.i]=c.checked;localStorage.setItem(dk,JSON.stringify(state));renderP90();});
+
+  // KPI
+  const wk='ba_plan_kpi_'+isoWeekKey(new Date());
+  const n=parseInt(localStorage.getItem(wk)||'0',10);
+  document.getElementById('kpiNow').textContent=n;
+  document.getElementById('kpiMsg').textContent = n>=3?'✓ Objectif semaine atteint. Tout ce qui passe au-dessus, c\'est de l\'avance.' : (3-n)+' appel(s) à tenir pour valider ta semaine.';
+}
+window.kpiAdd=function(d){const wk='ba_plan_kpi_'+isoWeekKey(new Date());let n=parseInt(localStorage.getItem(wk)||'0',10)+d;if(n<0)n=0;localStorage.setItem(wk,n);renderP90();};
+renderP90();
 
 /* ===================== INTERACTIONS ===================== */
 function log(el,msg,cls=''){const d=new Date().toLocaleTimeString('fr-FR');el.insertAdjacentHTML('beforeend',`<div class="ln"><span class="ts">[${d}]</span> <span class="${cls}">${msg}</span></div>`);el.scrollTop=el.scrollHeight;}
