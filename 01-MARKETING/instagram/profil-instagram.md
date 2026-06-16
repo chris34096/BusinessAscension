@@ -1,6 +1,6 @@
 # Profil Instagram — Business Ascension™
-> Version 3.0 — Juin 2026
-> Refonte complète : transformation-first, identity-first branding, triptique validé
+> Version 4.0 — Juin 2026
+> Refonte business-first : leads entrants + vendre par message, nomenclature officielle (Construis la Marque™), lead magnet "Les 4 goulots"
 > Objectif : autorité perçue → DMs entrants → Audit offert
 > Wiki : [[voix-chris]] · [[icp-cible]] · [[funnel-acquisition]] · [[tom-pearson]]
 
@@ -8,7 +8,7 @@
 
 ## HEADLINE DE MARQUE — TRIPTIQUE
 
-> **"Deviens l'entrepreneur. Construis le système. Vis ta vie."**
+> **"Deviens l'Entrepreneur. Construis la Marque. Vis ta vie."**
 
 ---
 
@@ -21,31 +21,45 @@
 
 ## BIO (150 caractères max)
 
+**Bio active (v4.0) — direction "Résultat brut" (validée Chris 2026-06-16) :**
 ```
-Tu pilotes. Ton business ne te pilote plus 🔁
-Identité + Business en simultané
-Hypnose · Breathwork · PNL · Neurosciences
-↓ Audit offert gratuit (lien)
+Je construis ta marque + ta machine à clients 🔁
+Identité + Business. Jamais l'un sans l'autre.
+Tu vends par message, sans courir après.
+↓ Les 4 goulots (guide offert)
 ```
 
-**Pourquoi cette bio v3.0 :**
-- Ligne 1 = la transformation (ce qu'ils veulent) — pas le problème
-- Ligne 2 = le différenciateur absolu ("en simultané")
-- Ligne 3 = crédibilité condensée
-- Ligne 4 = CTA direct
+**Pourquoi cette bio v4.0 :**
+- Ligne 1 = ce qu'ils ACHÈTENT en premier (marque + machine à clients) — angle Hormozi/CoachMike, le résultat avant tout
+- Ligne 2 = le différenciateur absolu (identité + business simultané) — le filtre
+- Ligne 3 = la promesse opérationnelle "vendre par message" — la voix des reels
+- Ligne 4 = CTA vers le lead magnet (capture email) au lieu de l'Audit direct → pont plus doux
+
+**Règle voix :** zéro corporate (jamais "Ex-Dir · SAFe · filiale" — supprimé du pitch public). La bio sonne comme les reels (`reels-5-6-30-max-tornow.md`) : direct, oral, business-first.
+
+**Variantes selon l'objectif (si test A/B plus tard) :**
+- *Triptyque/brand :* `Deviens l'Entrepreneur. Construis la Marque.` en ligne 1
+- *Bold statement :* `Ton blocage est pas ta stratégie. Plus profond.` en ligne 1
+- *Plus crédibilité :* `Hypnose · Breathwork · PNL · Neurosciences` en ligne 2 (filtre l'audience)
+
+> Règle : la ligne 4 pointe vers le lead magnet "Les 4 goulots" (capture email), pas directement vers l'Audit. Le guide qualifie et nourrit avant l'appel.
 
 ---
 
 ## LIEN EN BIO — LINKTREE
 
-**1. → Audit offert gratuit — 30 min · Diagnostic réel**
-*"Je nomme exactement ce qui bloque. Tu repars avec une direction concrète."*
+**1. → Guide offert — Les 4 goulots de l'entrepreneur qui stagne** ⭐
+*"Auto-diagnostic en 5 min : identifie le seul goulot qui te bloque vraiment."*
+→ `https://goulots.businessascension.fr/` (capture email + révèle le guide)
 
-**2. → PDF gratuit — La Main Invisible**
-*"5 questions pour identifier ce qui empêche ton business de tourner sans toi"*
+**2. → Audit offert gratuit — 30 min · Diagnostic réel**
+*"Je nomme exactement ce qui bloque. Tu repars avec une direction concrète."*
+→ `https://audit.businessascension.fr/`
 
 **3. → YouTube — Pourquoi ton business dépend encore de toi**
 *"15 min · Le mécanisme complet"*
+
+> Ordre stratégique : le lead magnet en 1er (capture l'email du froid) → l'Audit en 2e (le chaud qui est prêt à parler) → YouTube en 3e (nurturing). Le PDF "La Main Invisible" est remplacé par "Les 4 goulots" (page interactive avec auto-diagnostic + capture email).
 
 ---
 
@@ -217,4 +231,4 @@ Story 5 : "→ Lien en bio. Places limitées chaque semaine."
 
 ---
 
-*Version 3.0 — Juin 2026 — Business Ascension™*
+*Version 4.0 — Juin 2026 — Business Ascension™*

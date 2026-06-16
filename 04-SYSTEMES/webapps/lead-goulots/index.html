@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Les 4 goulots de l'entrepreneur qui stagne · Business Ascension™</title>
+<meta name="description" content="Tu travailles, tu investis, et rien de ce qui compte n'avance. Ce guide t'explique exactement pourquoi — et comment identifier ton goulot principal. Offert par Business Ascension™." />
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+  :root{ --bg:#0A0A0F; --gold:#C9A84C; --gold2:#E8C46A; --card:#111118; --blue:#4A90D9; }
+  body{ background:var(--bg); color:#fff; font-family:'Inter',ui-sans-serif,system-ui,sans-serif; }
+  .grain:before{ content:"";position:fixed;inset:0;pointer-events:none;opacity:.04;z-index:1;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");}
+  .gold{ color:var(--gold); }
+  .gold-bg{ background:linear-gradient(135deg,#C9A84C,#E8C46A,#C9A84C); color:#0A0A0F; }
+  .card{ background:var(--card); border:1px solid #1E1E2E; }
+  .fade{ animation:f .4s ease; } @keyframes f{ from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:none} }
+  h1,h2,h3{ font-weight:800; letter-spacing:-.02em; }
+  textarea,input{ font-family:inherit; }
+  input:focus{ border-color:var(--gold); outline:none; }
+  .gnum{ font-weight:800; color:var(--gold); opacity:.25; font-size:3rem; line-height:1; }
+</style>
+</head>
+<body class="grain min-h-screen">
+
+<script>
+  const SUPABASE_URL = "https://mrjlfdqtcfxyontgltab.supabase.co";
+  const SUPABASE_ANON = "sb_publishable_OXdpbyBVzZ1QzeZ03SEQuw_YCep41Bl";
+  const AUDIT_LINK = "https://audit.businessascension.fr/";
+</script>
+
+<div class="relative z-10 max-w-2xl mx-auto px-5 py-8 md:py-14">
+
+  <div class="text-center mb-8">
+    <div class="text-sm tracking-[0.2em] uppercase gold font-semibold">Business Ascension™</div>
+  </div>
+
+  <!-- INTRO -->
+  <section id="intro" class="fade text-center">
+    <div class="text-sm tracking-[0.2em] uppercase gold font-semibold mb-3">Guide offert</div>
+    <h1 class="text-4xl md:text-5xl leading-tight mb-5">Les 4 goulots<br><span class="gold">de l'entrepreneur qui stagne</span></h1>
+    <p class="text-gray-400 text-lg mb-3">Tu travailles. Tu investis. Tu t'améliores. Rien de ce qui compte vraiment n'avance.</p>
+    <p class="text-gray-500 mb-8">Ce guide t'explique exactement pourquoi — et t'aide à identifier le seul goulot qui te bloque vraiment.</p>
+    <button onclick="toCapture()" class="gold-bg font-bold px-8 py-4 rounded-xl text-lg w-full md:w-auto">Identifier mon goulot →</button>
+    <p class="text-xs text-gray-600 mt-4">Auto-diagnostic interactif · Offert · 5 min</p>
+  </section>
+
+  <!-- CAPTURE -->
+  <section id="capture" class="hidden fade text-center">
+    <div class="text-sm tracking-[0.2em] uppercase gold font-semibold mb-3">Dernière étape</div>
+    <h2 class="text-3xl mb-3">Où je t'envoie ton diagnostic ?</h2>
+    <p class="text-gray-400 mb-7">Laisse ton prénom et ton email. Tu accèdes au guide tout de suite, et je t'envoie le complément par mail.</p>
+    <div class="space-y-3 max-w-md mx-auto text-left">
+      <input id="prenom" type="text" placeholder="Ton prénom" class="card w-full rounded-xl px-4 py-3" />
+      <input id="email" type="email" placeholder="Ton email" class="card w-full rounded-xl px-4 py-3" />
+      <button onclick="unlock()" class="gold-bg font-bold w-full py-4 rounded-xl text-lg">Débloquer le guide →</button>
+      <p id="capErr" class="text-red-400 text-sm text-center hidden">Entre un email valide.</p>
+      <p class="text-xs text-gray-600 text-center">On ne spamme pas. Tu reçois ton guide, c'est tout.</p>
+    </div>
+  </section>
+
+  <!-- GUIDE -->
+  <section id="guide" class="hidden fade space-y-6">
+    <div class="text-center mb-2">
+      <h2 class="text-3xl md:text-4xl mb-2">Les 4 <span class="gold">goulots</span></h2>
+      <p class="text-gray-500 text-sm">Un goulot, c'est l'endroit précis où tout s'accumule et rien ne passe. Il y en a toujours un principal.</p>
+    </div>
+
+    <!-- Goulot 1 -->
+    <div class="card rounded-2xl p-6">
+      <div class="flex justify-between items-start"><div class="text-xs uppercase tracking-wider gold mb-1">Goulot 1</div><div class="gnum">1</div></div>
+      <h3 class="text-2xl mb-1">L'Acquisition invisible</h3>
+      <p class="text-gray-500 text-sm italic mb-4">Tu fais du contenu. Les prospects qualifiés n'arrivent pas.</p>
+      <p class="text-gray-400 text-sm">Le contenu est là, mais il ne cible pas. Pas de parcours clair qui amène un inconnu à lever la main, pas de lead magnet qui qualifie, pas de pipeline qui transforme un visiteur en conversation. L'acquisition marche "un peu" — jamais de façon prévisible.</p>
+    </div>
+
+    <!-- Goulot 2 -->
+    <div class="card rounded-2xl p-6">
+      <div class="flex justify-between items-start"><div class="text-xs uppercase tracking-wider gold mb-1">Goulot 2</div><div class="gnum">2</div></div>
+      <h3 class="text-2xl mb-1">La Conversion qui fuit</h3>
+      <p class="text-gray-500 text-sm italic mb-4">Les gens s'intéressent. Ils n'achètent pas.</p>
+      <p class="text-gray-400 text-sm">La conversion se joue avant l'appel : positionnement pas assez précis, offre construite autour de fonctionnalités au lieu d'une transformation, script qui présente avant d'avoir exploré le problème.</p>
+    </div>
+
+    <!-- Goulot 3 -->
+    <div class="card rounded-2xl p-6">
+      <div class="flex justify-between items-start"><div class="text-xs uppercase tracking-wider gold mb-1">Goulot 3</div><div class="gnum">3</div></div>
+      <h3 class="text-2xl mb-1">L'Exécution bloquée</h3>
+      <p class="text-gray-500 text-sm italic mb-4">Tu sais quoi faire. Tu ne le fais pas.</p>
+      <p class="text-gray-400 text-sm">Le goulot le plus mal diagnostiqué. Le vrai blocage n'est pas dans ta tête — il est dans ton système nerveux. Des patterns ancrés court-circuitent la décision rationnelle face à la visibilité, l'argent, l'échec potentiel. Ce n'est pas un problème de discipline.</p>
+    </div>
+
+    <!-- Goulot 4 -->
+    <div class="card rounded-2xl p-6">
+      <div class="flex justify-between items-start"><div class="text-xs uppercase tracking-wider gold mb-1">Goulot 4</div><div class="gnum">4</div></div>
+      <h3 class="text-2xl mb-1">L'Entrepreneur goulot</h3>
+      <p class="text-gray-500 text-sm italic mb-4">Quand tu t'arrêtes, tout s'arrête.</p>
+      <p class="text-gray-400 text-sm">Tu n'as pas un business. Tu as un emploi que tu t'es créé. Aucune fonction clé n'a été documentée, structurée, déléguée ou automatisée. Tout repose sur ta présence. C'est le goulot qui empêche toute scalabilité réelle.</p>
+    </div>
+
+    <!-- AUTO-DIAGNOSTIC -->
+    <div class="card rounded-2xl p-6">
+      <div class="text-xs uppercase tracking-wider gold mb-1">Auto-diagnostic</div>
+      <h3 class="text-2xl mb-4">Quel est ton goulot principal ?</h3>
+      <p class="text-gray-500 text-sm mb-5">Coche ce qui correspond à ta situation. Ton goulot principal s'affiche en bas.</p>
+
+      <div class="space-y-5">
+        <div data-g="1">
+          <div class="text-sm font-semibold gold mb-2">Goulot 1 — Acquisition</div>
+          <div class="space-y-2 text-sm text-gray-300">
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g1a"><span>Mon acquisition repose surtout sur le bouche-à-oreille</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g1b"><span>Je ne peux pas prédire mes prospects qualifiés ce mois-ci</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g1c"><span>Mon contenu génère peu de conversations entrantes</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g1d"><span>Pas de lead magnet ni de séquence d'entrée dans mon funnel</span></label>
+          </div>
+        </div>
+        <div data-g="2">
+          <div class="text-sm font-semibold gold mb-2">Goulot 2 — Conversion</div>
+          <div class="space-y-2 text-sm text-gray-300">
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g2a"><span>Je close moins de 3 appels sur 10</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g2b"><span>J'entends souvent "je vais réfléchir" sans suite</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g2c"><span>Je ne sais pas dire en 1 phrase pourquoi me choisir moi</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g2d"><span>Mon appel commence par présenter l'offre, pas explorer</span></label>
+          </div>
+        </div>
+        <div data-g="3">
+          <div class="text-sm font-semibold gold mb-2">Goulot 3 — Exécution</div>
+          <div class="space-y-2 text-sm text-gray-300">
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g3a"><span>Je repousse des tâches importantes sans comprendre pourquoi</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g3b"><span>Je sabote souvent quand ça commence à marcher</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g3c"><span>Mes revenus varient avec mon état émotionnel</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g3d"><span>Je sais quoi faire — mais je ne le fais pas régulièrement</span></label>
+          </div>
+        </div>
+        <div data-g="4">
+          <div class="text-sm font-semibold gold mb-2">Goulot 4 — Entrepreneur goulot</div>
+          <div class="space-y-2 text-sm text-gray-300">
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g4a"><span>Si je prends une semaine off, mon business ralentit</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g4b"><span>Pas de SOPs documentées pour mes processus clés</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g4c"><span>Je n'ai encore rien délégué de façon permanente</span></label>
+            <label class="flex gap-2 items-start cursor-pointer"><input type="checkbox" class="chk mt-1 accent-[#C9A84C]" data-k="g4d"><span>Mon delivery repose entièrement sur ma présence</span></label>
+          </div>
+        </div>
+      </div>
+
+      <div id="diagResult" class="hidden mt-6 rounded-xl p-5" style="background:linear-gradient(135deg,rgba(201,168,76,.14),rgba(232,196,106,.06));border:1px solid var(--gold)">
+        <div class="text-xs uppercase tracking-wider gold mb-1">Ton goulot principal</div>
+        <div id="diagName" class="text-xl font-bold"></div>
+        <p id="diagNote" class="text-gray-300 text-sm mt-2"></p>
+      </div>
+    </div>
+
+    <!-- CTA Audit -->
+    <div class="rounded-2xl p-7 text-center" style="background:linear-gradient(135deg,rgba(201,168,76,.14),rgba(232,196,106,.06));border:1px solid var(--gold)">
+      <div class="text-sm tracking-[0.2em] uppercase gold font-semibold mb-2">La prochaine étape</div>
+      <h3 class="text-2xl md:text-3xl mb-3">On confirme ton goulot ensemble ?</h3>
+      <p class="text-gray-300 mb-6 max-w-lg mx-auto">30 minutes avec Chris. On regarde ton business, on confirme (ou corrige) ton goulot, tu repars avec une direction concrète. Pas un appel de vente déguisé. Un vrai diagnostic.</p>
+      <a href="#" id="auditBtn" class="gold-bg font-bold px-8 py-4 rounded-xl text-lg inline-block">Réserver mon Audit offert →</a>
+    </div>
+
+    <div class="text-center text-xs text-gray-700 pt-2">Business Ascension™ · Deviens l'Entrepreneur. Construis la Marque. Vis ta vie.</div>
+  </section>
+
+</div>
+
+<script>
+/* ---------- Navigation ---------- */
+function show(id){ ['intro','capture','guide'].forEach(s=>document.getElementById(s).classList.add('hidden')); document.getElementById(id).classList.remove('hidden'); window.scrollTo({top:0,behavior:'smooth'}); }
+function toCapture(){ show('capture'); }
+
+/* ---------- Persistance locale ---------- */
+function restore(){
+  document.querySelectorAll('[data-k]').forEach(el=>{
+    const v = localStorage.getItem('lg_'+el.dataset.k);
+    if(v===null) return;
+    if(el.type==='checkbox') el.checked = v==='1'; else el.value = v;
+  });
+  computeDiag();
+}
+document.addEventListener('change', e=>{
+  if(e.target.type==='checkbox' && e.target.dataset.k){
+    localStorage.setItem('lg_'+e.target.dataset.k, e.target.checked?'1':'0');
+    computeDiag();
+  }
+});
+
+/* ---------- Calcul du goulot principal ---------- */
+const GOULOTS = {
+  1:{n:"Goulot 1 — L'Acquisition invisible", note:"Ton flux de prospects qualifiés n'est pas prévisible. C'est là qu'on travaille en premier : système d'acquisition + contenu qui qualifie."},
+  2:{n:"Goulot 2 — La Conversion qui fuit", note:"L'intérêt est là, le close ne suit pas. On retravaille positionnement, offre et structure d'appel."},
+  3:{n:"Goulot 3 — L'Exécution bloquée", note:"Tu sais, tu ne fais pas. Le blocage est dans le système nerveux. On le désactive à la source — pas avec plus de discipline."},
+  4:{n:"Goulot 4 — L'Entrepreneur goulot", note:"Tout repose sur toi. On documente, structure et délègue pour que ça tourne sans ta présence permanente."}
+};
+function computeDiag(){
+  const counts={1:0,2:0,3:0,4:0};
+  ['a','b','c','d'].forEach(s=>{ for(let g=1;g<=4;g++){ const el=document.querySelector('[data-k="g'+g+s+'"]'); if(el&&el.checked) counts[g]++; } });
+  const total=counts[1]+counts[2]+counts[3]+counts[4];
+  if(total===0){ document.getElementById('diagResult').classList.add('hidden'); return; }
+  let top=1; for(let g=2;g<=4;g++){ if(counts[g]>counts[top]) top=g; }
+  document.getElementById('diagName').textContent = GOULOTS[top].n;
+  document.getElementById('diagNote').textContent = GOULOTS[top].note;
+  document.getElementById('diagResult').classList.remove('hidden');
+}
+
+/* ---------- Déblocage + capture ---------- */
+async function unlock(){
+  const email=document.getElementById('email').value.trim();
+  const prenom=document.getElementById('prenom').value.trim();
+  if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ document.getElementById('capErr').classList.remove('hidden'); return; }
+  localStorage.setItem('lg_prenom',prenom); localStorage.setItem('lg_email',email);
+  saveToSupabase({prenom,email});
+  document.getElementById('auditBtn').href = AUDIT_LINK;
+  show('guide'); restore();
+}
+
+async function saveToSupabase(row){
+  try{
+    if(!SUPABASE_URL || SUPABASE_URL.startsWith('REMPLACER')) return;
+    const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON);
+    await sb.from('lead_goulots').insert([row]);
+  }catch(e){ console.warn('Supabase non configuré ou erreur:', e); }
+}
+
+/* Si déjà capturé, accès direct au guide */
+if(localStorage.getItem('lg_email')){ document.getElementById('auditBtn').href = AUDIT_LINK; show('guide'); restore(); }
+</script>
+</body>
+</html>
