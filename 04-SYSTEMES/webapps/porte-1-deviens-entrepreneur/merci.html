@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex" />
+<title>Bienvenue — Deviens l'Entrepreneur™</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- =========================================================
+     CONFIG TRACKING — remplace les 2 IDs ci-dessous puis publie.
+     META_PIXEL_ID : Events Manager → ton pixel → ID (chiffres)
+     GA4_ID        : Google Analytics → Admin → Flux de données → "G-XXXXXXX"
+     ========================================================= -->
+<script>
+  window.BA_TRACK = {
+    META_PIXEL_ID: "__META_PIXEL_ID__",
+    GA4_ID:        "__GA4_ID__",
+    // Valeur de la vente — sert au ROAS des ads. Ajuste si besoin.
+    PURCHASE_VALUE: 997,
+    CURRENCY: "EUR"
+  };
+</script>
+
+<!-- Meta Pixel -->
+<script>
+  (function(){var P=window.BA_TRACK.META_PIXEL_ID; if(!P||P.indexOf("__")===0)return;
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init',P);fbq('track','PageView');
+  fbq('track','Purchase',{value:window.BA_TRACK.PURCHASE_VALUE,currency:window.BA_TRACK.CURRENCY});})();
+</script>
+<!-- GA4 -->
+<script>
+  (function(){var G=window.BA_TRACK.GA4_ID; if(!G||G.indexOf("__")===0)return;
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id='+G;
+  document.head.appendChild(s);window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config',G);
+  gtag('event','purchase',{value:window.BA_TRACK.PURCHASE_VALUE,currency:window.BA_TRACK.CURRENCY});})();
+</script>
+
+<style>
+:root{
+  --bg:#0E0B07; --glass:rgba(38,30,18,.42); --ink:#F5EEDD; --muted:#A99B7C;
+  --gold:#CA8A04; --gold-lt:#E8C46A; --line:rgba(201,168,76,.16);
+  --serif:'Playfair Display',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:32px;-webkit-font-smoothing:antialiased}
+.mesh{position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(55% 45% at 78% 12%,rgba(202,138,4,.20),transparent 70%),radial-gradient(45% 40% at 10% 88%,rgba(232,196,106,.08),transparent 70%)}
+h1,h2{font-family:var(--serif);font-weight:500;line-height:1.08;letter-spacing:-.01em}
+.card{position:relative;z-index:2;max-width:680px;width:100%;background:var(--glass);backdrop-filter:blur(18px);
+  border:1px solid var(--line);border-radius:28px;padding:clamp(32px,5vw,56px);text-align:center}
+.eyebrow{font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;color:var(--gold-lt);font-weight:600}
+.check{width:64px;height:64px;margin:0 auto 24px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;font-size:32px;font-weight:800}
+h1{font-size:clamp(2rem,5vw,3rem);margin:.3em 0}
+h1 em{font-style:italic;color:var(--gold-lt)}
+.lead{color:var(--muted);font-size:1.08rem;margin:18px auto 0;max-width:520px}
+.steps{text-align:left;max-width:520px;margin:34px auto 0;display:flex;flex-direction:column;gap:16px}
+.step{display:flex;gap:16px;align-items:flex-start;background:rgba(255,255,255,.02);border:1px solid var(--line);border-radius:16px;padding:18px 20px}
+.step .n{flex:none;width:30px;height:30px;border-radius:50%;background:var(--gold);color:#0E0B07;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:.9rem}
+.step b{color:var(--ink);font-family:var(--serif)}
+.step p{color:var(--muted);font-size:.95rem;margin-top:2px}
+.btn{display:inline-flex;align-items:center;gap:.5em;font-weight:600;padding:.9em 1.9em;border-radius:100px;margin-top:34px;
+  background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;box-shadow:0 10px 34px -10px rgba(202,138,4,.6);transition:.25s}
+.btn:hover{transform:translateY(-2px)}
+.fine{color:var(--muted);font-size:.82rem;margin-top:22px}
+a{color:var(--gold-lt)}
+</style>
+</head>
+<body>
+<div class="mesh"></div>
+<div class="card">
+  <div class="check">✓</div>
+  <div class="eyebrow">Paiement confirmé</div>
+  <h1>Bienvenue dans <em>Deviens l'Entrepreneur™</em></h1>
+  <p class="lead">Ta place est réservée. Tu viens de prendre la décision que la plupart repoussent pendant des années. Maintenant, on construit.</p>
+
+  <div class="steps">
+    <div class="step"><div class="n">1</div><div><b>Ouvre ta boîte mail</b><p>Tu reçois tes accès et le protocole de démarrage dans les prochaines minutes. Vérifie tes spams si rien n'arrive sous 10 min.</p></div></div>
+    <div class="step"><div class="n">2</div><div><b>Bloque ta première session cette semaine</b><p>On démarre par ta fondation : offre, positionnement, et le système pour vendre par message.</p></div></div>
+    <div class="step"><div class="n">3</div><div><b>Rejoins la communauté</b><p>Le lien d'accès est dans ton mail. C'est là que tout se passe entre les sessions.</p></div></div>
+  </div>
+
+  <a class="btn" href="https://www.instagram.com/chris.businessascension" target="_blank" rel="noopener">Suis-moi sur Instagram →</a>
+  <p class="fine">Un souci avec ton accès ? Écris-moi en DM <a href="https://ig.me/m/chris.businessascension" target="_blank" rel="noopener">ici</a>.</p>
+</div>
+</body>
+</html>

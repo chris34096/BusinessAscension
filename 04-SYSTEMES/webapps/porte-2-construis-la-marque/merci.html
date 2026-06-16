@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex" />
+<title>Candidature reçue — Construis la Marque™</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- =========================================================
+     CONFIG TRACKING — remplace les 2 IDs ci-dessous puis publie.
+     ========================================================= -->
+<script>
+  window.BA_TRACK = {
+    META_PIXEL_ID: "__META_PIXEL_ID__",
+    GA4_ID:        "__GA4_ID__"
+  };
+</script>
+<!-- Meta Pixel -->
+<script>
+  (function(){var P=window.BA_TRACK.META_PIXEL_ID; if(!P||P.indexOf("__")===0)return;
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init',P);fbq('track','PageView');fbq('track','Lead',{content_name:'Candidature Construis la Marque'});})();
+</script>
+<!-- GA4 -->
+<script>
+  (function(){var G=window.BA_TRACK.GA4_ID; if(!G||G.indexOf("__")===0)return;
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id='+G;
+  document.head.appendChild(s);window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config',G);
+  gtag('event','generate_lead',{content_name:'Candidature Construis la Marque'});})();
+</script>
+
+<style>
+:root{
+  --bg:#0E0B07; --glass:rgba(38,30,18,.42); --ink:#F5EEDD; --muted:#A99B7C;
+  --gold:#CA8A04; --gold-lt:#E8C46A; --line:rgba(201,168,76,.16);
+  --serif:'Playfair Display',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:32px;-webkit-font-smoothing:antialiased}
+.mesh{position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(55% 45% at 78% 12%,rgba(202,138,4,.20),transparent 70%),radial-gradient(45% 40% at 10% 88%,rgba(232,196,106,.08),transparent 70%)}
+h1{font-family:var(--serif);font-weight:500;line-height:1.08;letter-spacing:-.01em}
+.card{position:relative;z-index:2;max-width:680px;width:100%;background:var(--glass);backdrop-filter:blur(18px);
+  border:1px solid var(--line);border-radius:28px;padding:clamp(32px,5vw,56px);text-align:center}
+.eyebrow{font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;color:var(--gold-lt);font-weight:600}
+.check{width:64px;height:64px;margin:0 auto 24px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;font-size:32px;font-weight:800}
+h1{font-size:clamp(2rem,5vw,3rem);margin:.3em 0}
+h1 em{font-style:italic;color:var(--gold-lt)}
+.lead{color:var(--muted);font-size:1.08rem;margin:18px auto 0;max-width:540px}
+.steps{text-align:left;max-width:540px;margin:34px auto 0;display:flex;flex-direction:column;gap:16px}
+.step{display:flex;gap:16px;align-items:flex-start;background:rgba(255,255,255,.02);border:1px solid var(--line);border-radius:16px;padding:18px 20px}
+.step .n{flex:none;width:30px;height:30px;border-radius:50%;background:var(--gold);color:#0E0B07;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:.9rem}
+.step b{color:var(--ink);font-family:var(--serif)}
+.step p{color:var(--muted);font-size:.95rem;margin-top:2px}
+.btn{display:inline-flex;align-items:center;gap:.5em;font-weight:600;padding:.9em 1.9em;border-radius:100px;margin-top:34px;
+  background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;box-shadow:0 10px 34px -10px rgba(202,138,4,.6);transition:.25s}
+.btn:hover{transform:translateY(-2px)}
+.fine{color:var(--muted);font-size:.82rem;margin-top:22px}
+a{color:var(--gold-lt)}
+</style>
+</head>
+<body>
+<div class="mesh"></div>
+<div class="card">
+  <div class="check">✓</div>
+  <div class="eyebrow">Candidature reçue</div>
+  <h1>Ta candidature est <em>entre mes mains</em></h1>
+  <p class="lead">Je lis chaque candidature moi-même. Construis la Marque™ est un accompagnement sélectif — je n'ouvre qu'un nombre limité de places pour pouvoir construire avec chaque client.</p>
+
+  <div class="steps">
+    <div class="step"><div class="n">1</div><div><b>J'étudie ton dossier</b><p>Je regarde où en est ton business et si je peux réellement te faire passer le cap. Réponse sous 48h ouvrées.</p></div></div>
+    <div class="step"><div class="n">2</div><div><b>Si c'est aligné, on cale un appel</b><p>Un échange pour voir ton cas en détail et te dire exactement comment on s'y prendrait. Aucune pression.</p></div></div>
+    <div class="step"><div class="n">3</div><div><b>Surveille tes messages</b><p>Je te recontacte par mail ou en DM Instagram. Ajoute-moi pour ne rien rater.</p></div></div>
+  </div>
+
+  <a class="btn" href="https://www.instagram.com/chris.businessascension" target="_blank" rel="noopener">Suis-moi sur Instagram →</a>
+  <p class="fine">Une question d'ici là ? Écris-moi en DM <a href="https://ig.me/m/chris.businessascension" target="_blank" rel="noopener">ici</a>.</p>
+</div>
+</body>
+</html>
