@@ -1,10 +1,58 @@
 # SOP — Collecte de Témoignage & Offboarding
-> Version 1.0 — Mai 2026
-> S'active à la session 12 (semaine 12, session de clôture finale).
-> Durée : 20 minutes.
+> Version 2.0 — Juin 2026
+> Partie A : capture de preuve EN CONTINU (dès J1, chaque semaine).
+> Partie B : témoignage & offboarding (session 12).
 > Wiki : [[business-ascension]] · [[funnel-acquisition]]
 
 ---
+
+# PARTIE A — CAPTURE DE PREUVE EN CONTINU (dès J1)
+
+> **Pourquoi.** En phase bêta, la preuve est la contrainte n°1 : sans elle, impossible de monter l'ancrage Porte 2 (4 997€ → 7K → 12K) ni de rendre les ads rentables. Attendre la semaine 12 pour collecter, c'est laisser passer 11 semaines de preuves. **On capture chaque win, dès qu'il arrive.**
+
+## Principe : le Win Log
+
+Un fichier unique par client où on logge chaque résultat au fil de l'eau : `_archive/wins/[Prénom]-win-log.md`.
+
+**Ce qui compte comme un win (à logger) :**
+- Business : 1er lead entrant · 1er message de vente envoyé · 1er appel calé · 1ère vente · un mois record · un prix monté
+- Système : offre clarifiée · 1er contenu publié · funnel branché · 1ère séquence DM qui répond
+- Identité : un déclic ("je m'autorise à…") · une peur dépassée · une phrase forte du client sur sa transfo
+
+## Cadence hebdo (5 min, à chaque session ou check-in)
+
+À chaque point client, finir par **UNE** question de capture :
+> "Cette semaine, c'est quoi le truc dont t'es le plus fier — même petit ?"
+
+Puis logger immédiatement, format minimal :
+
+```
+## [Date]
+- Win : [ce qui s'est passé, en 1 phrase]
+- Verbatim client : "[ses mots exacts, copiés tels quels]"
+- Preuve : [lien screenshot / capture Stripe / capture DM]  (anonymiser si besoin)
+- Utilisable en contenu ? oui/non · format pressenti : reel / post / story
+```
+
+**Règle d'or :** le verbatim exact > ta reformulation. Les mots du client sont la preuve. On ne lisse jamais.
+
+## Capture de la preuve "dure"
+
+À chaque win chiffré, prendre la capture **sur le moment** (elle disparaît sinon) :
+- [ ] Screenshot du résultat (notif Stripe, DM "ok je prends", calendrier d'appels rempli)
+- [ ] Flouter nom/montant si le client le demande — garder la dynamique visible
+- [ ] Stocker dans `_archive/wins/captures/`
+
+## Déploiement immédiat (la preuve ne sert que si elle sort)
+
+- [ ] 1 win → au moins 1 contenu dans les 7 jours (story, reel, post) — voir [[value-assets]]
+- [ ] Autorisation rapide en DM : *"Je peux partager ça (anonymisé si tu veux) ? Ça aide d'autres comme toi."*
+- [ ] Alimenter la section Preuve Sociale des pages de vente dès qu'un cas est solide
+- [ ] Demander l'autorisation d'utilisation AU MOMENT du win (pas 12 semaines plus tard)
+
+---
+
+# PARTIE B — TÉMOIGNAGE & OFFBOARDING (session 12)
 
 ## DÉCLENCHEUR
 
