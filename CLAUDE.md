@@ -4,6 +4,14 @@
 
 ---
 
+## 🐤 CANARY — détecteur de dérive de contexte
+> Terminer CHAQUE réponse par une dernière ligne, au format exact :
+> `Christofer — Focus : <la priorité n°1 de Chris en ce moment, en ≤10 mots>`
+> Le signal, c'est le prénom **Christofer** en tête de cette ligne. Tant qu'il apparaît, les règles se chargent bien. **S'il disparaît → le contexte a dérivé, relancer une session propre.**
+> (Technique Peter Steinberger. La ligne reste en pied de réponse pour ne jamais polluer un livrable copié-collé.)
+
+---
+
 ## QUI EST CHRISTOFER
 
 **Christofer Perez** — Fondateur de Business Ascension™.
@@ -342,9 +350,9 @@ Le branding de BA™ = **Business + Identité en simultané**. Pas la douleur é
 
 **Cas Davensi :** Chris accompagne cette startup sur leur marketing. C'est un poste de directeur marketing attaché à l'entreprise — ce n'est PAS son modèle Business Ascension™. Ce cas l'a aidé à clarifier : son modèle = analyser + diagnostiquer + prescrire, le client implémente.
 
-**350 personnes accompagnées :** Contexte transformation personnelle (familles hypersensibles), pas business. Ce background valide la profondeur du travail inner — pas les cas business.
+**350 personnes accompagnées :** Contexte transformation personnelle (Femmes hypersensibles), pas business. Ce background valide la profondeur du travail inner — pas les cas business.
 
-**Stade actuel :** Phase bêta — 3-5 premiers clients Construis la Marque™ (prix annoncé en appel uniquement · ancrage interne bêta 4 997€) + lancement Porte 1 (MRR public). L'objectif est de documenter les preuves pour monter l'ancrage à 7 000€ puis 9 000-12 000€.
+**Stade actuel :** Phase bêta — 3-5 premiers clients construis ta Marque™ (prix annoncé en appel uniquement · ancrage interne bêta 4 997€) + lancement Porte 1 (MRR public). L'objectif est de documenter les preuves pour monter l'ancrage à 7 000€ puis 9 000-12 000€.
 
 **Marchés cibles dans l'ordre :** France → anglophone → hispanophone.
 
