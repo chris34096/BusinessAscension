@@ -21,28 +21,36 @@
 
 ## BIO (150 caractères max)
 
-**Bio active (v4.0) — direction "Résultat brut" (validée Chris 2026-06-16) :**
+**Bio active (v5.1) — direction "Résultat / Pro" + CTA DM (validée Chris 2026-06-17, format des gros comptes IG) :**
+
+**Nom (champ recherchable) :** `Christofer Perez | Business & Identité`
+**Catégorie :** Entrepreneuriat
+**Lien :** `goulots.businessascension.fr`
 ```
-Je construis ta marque + ta machine à clients 🔁
-Identité + Business. Jamais l'un sans l'autre.
-Tu vends par message, sans courir après.
-↓ Les 4 goulots (guide offert)
+🚀 Ta marque à 10K-100K€/mois
+🧠 Business + identité, en même temps
+💬 Tu vends par message
+📩 DM "GOULOT" pour ton frein n°1
 ```
 
-**Pourquoi cette bio v4.0 :**
-- Ligne 1 = ce qu'ils ACHÈTENT en premier (marque + machine à clients) — angle Hormozi/CoachMike, le résultat avant tout
-- Ligne 2 = le différenciateur absolu (identité + business simultané) — le filtre
-- Ligne 3 = la promesse opérationnelle "vendre par message" — la voix des reels
-- Ligne 4 = CTA vers le lead magnet (capture email) au lieu de l'Audit direct → pont plus doux
+**Évolution v5.1 :** CTA passé de "lien guide" à "DM GOULOT" (le DM démarre la conversation tout de suite → meilleur pour générer des leads qualifiés + close Porte 1 par message). Le lien bio reste le guide pour les cliqueurs. "0 à 100K" rejeté (promesse magique). Noms d'offres retirés de la bio (confus pour le trafic froid).
 
-**Règle voix :** zéro corporate (jamais "Ex-Dir · SAFe · filiale" — supprimé du pitch public). La bio sonne comme les reels (`reels-5-6-30-max-tornow.md`) : direct, oral, business-first.
+**Pourquoi cette bio v5.0 :**
+- Ligne 1 = le résultat/dream outcome chiffré en tête (10K-100K) — schéma exact des top comptes (Brian Mark, Tanner Chidester, Max Tornow), version honnête : c'est ce qu'on CONSTRUIT, pas un chiffre passé revendiqué
+- Ligne 2 = l'arme unique (identité + business simultané) — le différenciateur inattaquable
+- Ligne 3 = la promesse opérationnelle "vendre par message"
+- Ligne 4 = CTA vers le lead magnet → DM (capture + conversation)
 
-**Variantes selon l'objectif (si test A/B plus tard) :**
-- *Triptyque/brand :* `Deviens l'Entrepreneur. Construis la Marque.` en ligne 1
-- *Bold statement :* `Ton blocage est pas ta stratégie. Plus profond.` en ligne 1
-- *Plus crédibilité :* `Hypnose · Breathwork · PNL · Neurosciences` en ligne 2 (filtre l'audience)
+**⚠️ Règle preuve sociale :** les gros comptes mènent avec un gros chiffre ($X généré, X clients à 100k). Chris est en bêta → PAS de faux chiffres (suicide vu la méfiance de la cible + viole la voix). Dès qu'il y a 3 résultats clients documentés (via le win-log), ajouter une ligne de preuve réelle — c'est ce qui transforme la bio en machine.
 
-> Règle : la ligne 4 pointe vers le lead magnet "Les 4 goulots" (capture email), pas directement vers l'Audit. Le guide qualifie et nourrit avant l'appel.
+**Règle voix :** zéro corporate (jamais "Ex-Dir · SAFe · filiale"). Business-first, voix des reels.
+
+**Variantes (test A/B plus tard) :**
+- *Différenciateur :* `🧠 Identité + business, en même temps` en ligne 1
+- *Contrarian :* `🧠 Ton blocage est pas ta stratégie. Plus profond.` en ligne 1
+- *Crédibilité :* `🧠 Hypnose · PNL · Neurosciences` en ligne 2 (filtre l'audience)
+
+> Règle : la ligne 4 pointe vers le lead magnet "Les 4 goulots", pas vers l'Audit (retiré du funnel). Le guide capture l'email + lance la conversation DM.
 
 ---
 

@@ -1,7 +1,8 @@
 ﻿# Mes Offres — Architecture finale
-> Version 10.0 — Juin 2026
-> Modèle : Tom Pearson (structure 2 portes + MRR) × Julien Musy / Empowerment (organique pur → scale) · SANS low ticket — la Porte 1 EST l'entrée (décision Juin 2026)
+> Version 11.0 — Juin 2026
+> Modèle : Tom Pearson (structure 2 portes + MRR) × Julien Musy / Empowerment (organique pur → scale) · SANS low ticket à l'entrée — la Porte 1 EST l'entrée (décision Juin 2026)
 > Porte 1 : Deviens l'Entrepreneur™ (0→10K, organique pur) · Porte 2 : Construis la Marque™ (10K→100K, scale)
+> **Distinction moteur (clarifiée 2026-06-17) : Porte 1 = OUTBOUND-dominant (on va chercher l'argent : DM, outreach) · Porte 2 = INBOUND-dominant (VSL/challenge/webinaire + ads, ça vient à toi). L'identité traverse les deux.**
 > Wiki : [[business-ascension]] · [[icp-cible]] · [[funnel-acquisition]] · [[tom-pearson]]
 
 ---
@@ -52,6 +53,26 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 
 **🎯 Objectif central : une COMMUNAUTÉ qui suit** → moteur de croissance + revenu récurrent (clients ET BA™).
 
+**C. Le moteur d'acquisition — OUTBOUND-first (on va chercher l'argent)**
+
+Porte 1 démarre sans audience → le premier client vient de la **conversation directe**, pas de l'inbound. La séquence qu'on fait vivre au client (et que Chris applique sur lui-même) :
+
+1. **Identité d'abord** — libération émotionnelle, mindset, débloquer ce qui empêche de se lancer.
+2. **Offre · positionnement · niche** — qui on aide, à quoi, pourquoi nous.
+3. **Étude de marché** — interviewer des prospects (questions offertes). Double effet : on apprend le marché réel (l'offre existe ? comment ? pourquoi ?) ET on ouvre des conversations chaudes.
+4. **Construire l'offre à partir des réponses** — pas une offre inventée, une offre tirée du marché.
+5. **Coaching offert (cap 2-3) contre témoignage** — recontacter les interviewés, accompagner gratuitement. Objectif unique = le témoignage = la preuve sur la page. Au-delà de 3 → payant avec l'offre construite.
+6. **Outreach en volume** — DM Instagram · DM LinkedIn · two-step dans les commentaires YouTube.
+
+**Le contenu en parallèle (autorité pendant que l'outbound ramène le cash) :**
+- **YouTube** — 1 à 2 vidéos/semaine, en modélisant un concurrent (pas copier).
+- **Instagram** — méthode Max Tornow + Coach Insta Mike + YAP.
+- **LinkedIn** — modèle Hana Zee (`linkedin.com/in/hana-zee-scale`).
+
+> Les lead magnets sont des **petites apps qui donnent un résultat** (ex : l'auto-diagnostic des 4 goulots), pas des PDF morts → capture email → email marketing → conversation DM → close.
+
+⚠️ **Règle anti-piège :** le gratuit sert UNIQUEMENT à fabriquer la preuve (cap 2-3). Dès le 1er témoignage, on bascule en payant. Le 1er client vient de l'outbound, pas d'attendre que l'inbound tourne.
+
 ### Format & Rémunération (MRR — prix public)
 | Plan | Paiement unique | Mensualisé |
 |---|---|---|
@@ -76,10 +97,13 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 
 ### Ce qu'on ajoute (au-dessus de tout l'organique, qui continue)
 
-1. **Acquisition payante** : ADS + webinaire + challenge + VSL → amplifie et accélère
-2. **Recrutement** → recruter les bonnes personnes pour **sortir de l'opérationnel**
-3. **Automatisation** des tâches récurrentes
-4. **Identité / mindset (continue)** : hypnose, breathwork, reconditionnement à un niveau supérieur
+Porte 2 = dominante **INBOUND** (ça vient à toi), accélérée par les ads. L'organique reste (autorité / crédibilité / expertise, le fond) ; les ads donnent la vitesse et le feedback marché le plus rapide.
+
+1. **Acquisition payante — le "social funnel"** : ads qui poussent le froid vers le contenu/les plateformes + **VSL · challenge · webinaire** (workshop à tester plus tard) pour convertir. L'organique convertit ceux qui te connaissent déjà ; les ads ramènent ceux qui ne te connaissent pas.
+2. **Low ticket auto-liquidant (SLO)** : on apprend au client à construire un petit produit payant qui **finance ses ads** et ramène des prospects qualifiés. ⚠️ Outil DANS le système du client pour financer son acquisition — **PAS** un low ticket à l'entrée de BA™ (BA reste sans low ticket, la Porte 1 est l'entrée).
+3. **Recrutement** → recruter les bonnes personnes pour **sortir de l'opérationnel**
+4. **Automatisation** des tâches récurrentes
+5. **Identité / mindset (continue)** : hypnose, breathwork, reconditionnement à un niveau supérieur
 
 ### Format & Rémunération
 - **Parcours unique · Engagement 12 mois** (plus de niveaux multiples)
@@ -92,10 +116,10 @@ Le différenciateur : identité + business **simultané**, chaque semaine. Pas l
 ## L'ASCENSION COMPLÈTE (funnel)
 
 ```
-LEAD MAGNET  →  capture + nurture
+CONTENU ORGANIQUE (LinkedIn · Instagram · YouTube interconnectés) + OUTREACH (DM)
         ↓
-CONTENU ORGANIQUE (LinkedIn · Instagram · YouTube interconnectés)
-        ↓  → COMMUNAUTÉ + leads entrants + vendre par message
+LEAD MAGNET (petite app à résultat)  →  capture email  →  DM / email marketing
+        ↓  → COMMUNAUTÉ + conversations + vendre par message
         ↓
 PORTE 1 — Deviens l'Entrepreneur™  (0→10K · MRR · prix public)
         ↓
@@ -114,10 +138,10 @@ SCALE ASCENSION  (continuité clients avancés)
 | **Construis la Marque™** | ✅ Porte 2 — scale — 10K→100K |
 | **Business Ascension™** | ✅ La marque |
 | **Scale Ascension** | ✅ Continuité clients avancés |
-| **Audit offert** | ✅ Nom public de l'appel |
+| **Audit offert** | ❌ Retiré du funnel (2026-06-17) — Porte 1 close par DM, Porte 2 par appel de candidature |
 | **Diagnostic Ascension** | ⚠️ Interne uniquement |
 
 ---
 
-*Business Ascension™ — Mes Offres v10.0 — Juin 2026*
+*Business Ascension™ — Mes Offres v11.0 — Juin 2026*
 *Modèle : Tom Pearson × Julien Musy (Empowerment) adapté BA™*

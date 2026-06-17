@@ -1,8 +1,9 @@
 ﻿# CURRICULUM — Les 2 Portes
-> Version 3.0 — Juin 2026
+> Version 3.1 — Juin 2026
 > Remplace curriculum-iap.md (archivé — ancien format 12 semaines)
-> Source de vérité : `01-MARKETING/_fondations/mes-offres.md` v10
+> Source de vérité : `01-MARKETING/_fondations/mes-offres.md` v11
 > Colonne vertébrale des deux portes : **les 8 étapes** · Identité + Business en simultané
+> Moteur : Porte 1 = OUTBOUND-dominant (DM, outreach, étude de marché → témoignage) · Porte 2 = INBOUND-dominant (social funnel ads + VSL/challenge/webinaire + SLO auto-liquidant)
 > Wiki : [[business-ascension]] · [[bos-6-poles]]
 
 ---
@@ -47,6 +48,12 @@ Les deux portes suivent le même mécanisme. Ce qui change : la profondeur, le f
 - **Mois 4-5 :** Vendre par message + delivery (étapes 5-6). Premiers clients signés en DM.
 - **Mois 6 :** Blueprint + consolidation (étapes 7-8). Le rythme tient sans supervision.
 
+**Le moteur d'acquisition (outbound-first) — la méthode qu'on déroule :**
+1. **Identité** (libération émotionnelle, débloquer le lancement) → 2. **Offre · positionnement · niche** → 3. **Étude de marché** (interviews offertes : on apprend le marché ET on ouvre des conversations chaudes) → 4. **Construire l'offre depuis les réponses** → 5. **Coaching offert (cap 2-3) contre témoignage** (= la preuve sur la page) → 6. **Outreach en volume** : DM IG/LinkedIn + two-step commentaires YouTube.
+
+Contenu en parallèle : YouTube 1-2/sem (modéliser un concurrent), Instagram (Max Tornow + Coach Insta Mike + YAP), LinkedIn (modèle Hana Zee). Lead magnets = petites apps à résultat (ex : auto-diagnostic 4 goulots) → capture email → DM.
+⚠️ Le gratuit sert à fabriquer la preuve (cap 2-3), puis on passe en payant. Le 1er client vient de l'outbound.
+
 **Garantie :** roadmap construite + premier résultat mesurable à 30 jours, sinon remboursement intégral.
 
 **Sortie :** 10K€/mois réguliers atteints ou en trajectoire claire → candidature naturelle vers Porte 2.
@@ -71,7 +78,7 @@ Les deux portes suivent le même mécanisme. Ce qui change : la profondeur, le f
 | Trimestre | Focus | Étapes dominantes | Livrable |
 |---|---|---|---|
 | **T1 — Fondations du scale** | Positionnement catégorie à part, écosystème d'offres, diagnostic complet | 1-2 | Roadmap 12 mois + offre architecturée |
-| **T2 — Acquisition amplifiée** | Ads + webinaire/challenge/VSL par-dessus l'organique | 3-4-5 | Machine d'acquisition payante rentable |
+| **T2 — Acquisition amplifiée** | Social funnel : ads + webinaire/challenge/VSL par-dessus l'organique + **SLO auto-liquidant** (low ticket qui finance les ads) | 3-4-5 | Machine d'acquisition payante rentable (ads autofinancées) |
 | **T3 — Sortir de l'opérationnel** | Recrutement, délégation, automatisation | 6 | Équipe + SOPs + delivery qui tourne sans Chris-dépendance |
 | **T4 — Autonomie & multiplication** | Scale Ascension, LTV, le système condensé | 7-8 | Business Playbook complet + CA prévisible à l'échelle |
 
@@ -117,5 +124,5 @@ Tout document de vente ou de delivery qui décrit les offres DOIT être conforme
 
 ---
 
-*Curriculum v3.0 — Juin 2026 — Business Ascension™*
+*Curriculum v3.1 — Juin 2026 — Business Ascension™*
 *Deux portes · Une colonne vertébrale (8 étapes) · Identité + Business en simultané*
