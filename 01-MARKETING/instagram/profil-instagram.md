@@ -50,16 +50,17 @@ Tu vends par message, sans courir après.
 
 **1. → Guide offert — Les 4 goulots de l'entrepreneur qui stagne** ⭐
 *"Auto-diagnostic en 5 min : identifie le seul goulot qui te bloque vraiment."*
-→ `https://goulots.businessascension.fr/` (capture email + révèle le guide)
+→ `https://goulots.businessascension.fr/` (capture email + révèle le guide + montre l'expertise)
 
-**2. → Audit offert gratuit — 30 min · Diagnostic réel**
-*"Je nomme exactement ce qui bloque. Tu repars avec une direction concrète."*
-→ `https://audit.businessascension.fr/`
+**2. → Parle-moi en DM**
+*"Écris-moi 'GOULOT' — on regarde ton cas ensemble."*
+→ `https://ig.me/m/chris.businessascension`
 
 **3. → YouTube — Pourquoi ton business dépend encore de toi**
 *"15 min · Le mécanisme complet"*
 
-> Ordre stratégique : le lead magnet en 1er (capture l'email du froid) → l'Audit en 2e (le chaud qui est prêt à parler) → YouTube en 3e (nurturing). Le PDF "La Main Invisible" est remplacé par "Les 4 goulots" (page interactive avec auto-diagnostic + capture email).
+> Ordre stratégique (validé 2026-06-17) : le lead magnet en 1er (capture le froid + montre l'expertise + fait lever la main) → le DM en 2e (la conversation où tu qualifies le revenu, closes la Porte 1 par message, ou envoies la Porte 2 en appel) → YouTube en 3e (nurturing).
+> ⚠️ L'Audit offert générique est **retiré du funnel** : Porte 1 se close par message, Porte 2 par appel sur `scale.businessascension.fr`. Le tri se fait en conversation DM.
 
 ---
 

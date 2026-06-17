@@ -27,7 +27,7 @@
 <script>
   const SUPABASE_URL = "https://mrjlfdqtcfxyontgltab.supabase.co";
   const SUPABASE_ANON = "sb_publishable_OXdpbyBVzZ1QzeZ03SEQuw_YCep41Bl";
-  const AUDIT_LINK = "https://audit.businessascension.fr/";
+  const DM_LINK = "https://ig.me/m/chris.businessascension";
 </script>
 
 <div class="relative z-10 max-w-2xl mx-auto px-5 py-8 md:py-14">
@@ -151,12 +151,12 @@
       </div>
     </div>
 
-    <!-- CTA Audit -->
+    <!-- CTA DM -->
     <div class="rounded-2xl p-7 text-center" style="background:linear-gradient(135deg,rgba(201,168,76,.14),rgba(232,196,106,.06));border:1px solid var(--gold)">
       <div class="text-sm tracking-[0.2em] uppercase gold font-semibold mb-2">La prochaine étape</div>
-      <h3 class="text-2xl md:text-3xl mb-3">On confirme ton goulot ensemble ?</h3>
-      <p class="text-gray-300 mb-6 max-w-lg mx-auto">30 minutes avec Chris. On regarde ton business, on confirme (ou corrige) ton goulot, tu repars avec une direction concrète. Pas un appel de vente déguisé. Un vrai diagnostic.</p>
-      <a href="#" id="auditBtn" class="gold-bg font-bold px-8 py-4 rounded-xl text-lg inline-block">Réserver mon Audit offert →</a>
+      <h3 class="text-2xl md:text-3xl mb-3">On regarde ton goulot ensemble ?</h3>
+      <p class="text-gray-300 mb-6 max-w-lg mx-auto">Écris-moi en DM le mot <b style="color:#E8C46A">GOULOT</b> et celui que t'as identifié. Je te réponds direct, on regarde ton cas, et je te dis où ça coince vraiment. Pas de pitch, pas de pression.</p>
+      <a href="#" id="dmBtn" class="gold-bg font-bold px-8 py-4 rounded-xl text-lg inline-block">M'écrire en DM →</a>
     </div>
 
     <div class="text-center text-xs text-gray-700 pt-2">Business Ascension™ · Deviens l'Entrepreneur. Construis la Marque. Vis ta vie.</div>
@@ -210,7 +210,7 @@ async function unlock(){
   if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ document.getElementById('capErr').classList.remove('hidden'); return; }
   localStorage.setItem('lg_prenom',prenom); localStorage.setItem('lg_email',email);
   saveToSupabase({prenom,email});
-  document.getElementById('auditBtn').href = AUDIT_LINK;
+  document.getElementById('dmBtn').href = DM_LINK;
   show('guide'); restore();
 }
 
@@ -223,7 +223,7 @@ async function saveToSupabase(row){
 }
 
 /* Si déjà capturé, accès direct au guide */
-if(localStorage.getItem('lg_email')){ document.getElementById('auditBtn').href = AUDIT_LINK; show('guide'); restore(); }
+if(localStorage.getItem('lg_email')){ document.getElementById('dmBtn').href = DM_LINK; show('guide'); restore(); }
 </script>
 </body>
 </html>
