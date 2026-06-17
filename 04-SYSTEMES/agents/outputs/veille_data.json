@@ -1,10 +1,172 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "period": {
-    "start": "2026-06-09",
-    "end": "2026-06-16"
+    "start": "2026-06-10",
+    "end": "2026-06-17"
   },
   "competitors": [
+    {
+      "name": "Julien Musy",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "339 - Comment se libérer de la culpabilité",
+          "url": "https://www.youtube.com/watch?v=Ck-2Uf3J-X0",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "▬▬▬▬▬▬▬ ⬇ À PROPOS DE CETTE VIDÉO ⬇ ▬▬▬▬▬▬▬▬\n\nTu crois que tu as fait quelque chose de mal et que tu dois le réparer. C'est exactement ce qui te coupe de toi, t'empêche de créer ce que tu veux, et te coûte parfois très cher (j'ai déjà payé 40 000 € pour racheter une culpabilité).\n\nDans cet épisode j"
+        }
+      ]
+    },
+    {
+      "name": "Mehdi Baer",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Ne manque pas ton Passage Initiatique",
+          "url": "https://www.youtube.com/shorts/WoxIzbD8-Vc",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "🔥 Coach, formateur ou thérapeute. Attention ! Ne manque pas ton Passage Initiatique : \n\n\"5 jours pour libérer ton pouvoir d’attraction client grâce à ton subconscient et générer jusqu’à 20 000€ tous les mois sans t’épuiser”. \n\n🧠 Lors de ton Passage Initiatique tu vas effectuer différents soins vibra"
+        },
+        {
+          "title": "Comment débloquer 95% de votre potentiel caché",
+          "url": "https://www.youtube.com/shorts/f0hodAYP-Ps",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Comment débloquer 95% de votre potentiel caché\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
+        },
+        {
+          "title": "Comment débloquer 95% de votre potentiel caché",
+          "url": "https://www.youtube.com/shorts/QzI57A2OYqU",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "Comment débloquer 95% de votre potentiel caché\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
+        },
+        {
+          "title": "La réussite ce n'est pas ce que tu possèdes",
+          "url": "https://www.youtube.com/shorts/heu7jzzeCsU",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "La réussite ce n'est pas ce que tu possèdes\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
+        },
+        {
+          "title": "Ton mental limite ton potentiel",
+          "url": "https://www.youtube.com/shorts/l7GMDbmfAL0",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "Ton mental limite ton potentiel\n\n➡️ Like et abonne-toi pour ne manquer aucune des prochaines vidéos.\n\nEt dis-moi en commentaire si ça te parle."
+        }
+      ]
+    },
+    {
+      "name": "Alec Henry",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Sortez de la dépendance à une seule personne : le vrai plafond de votre entreprise",
+          "url": "https://www.youtube.com/shorts/q014LgkOgZM",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Scalabilité et dépendance au fondateur : comment faire croître votre entreprise sans travailler plus, en rentabilisant une capacité aujourd'hui sous-exploitée.\n\nDans cet extrait, un constat clé : quand vous n'êtes pas présent, votre outil de travail reste libre. C'est une croissance qui n'attend que"
+        },
+        {
+          "title": "Les règles de l’entrepreneuriat ont changé : ceux qui l’ignorent vont couler (regardez ça)",
+          "url": "https://www.youtube.com/watch?v=0wa6HF7x2Iw",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "Vous vous rappelez le déclic dont tout le monde parle en sortant d'un diagnostic ? À vous de le vivre. Réservez le vôtre maintenant, 100% gratuitement, et repartez avec un plan d'action offert pour votre entreprise 👉 https://l.entrepreneurs.com/documentaire-entrepreneurs\n\n==============\nAbonnez-vous"
+        },
+        {
+          "title": "Presque 1M€ de chiffre d'affaires en travaillant 3 jours par semaine",
+          "url": "https://www.youtube.com/shorts/WfIFb4EbVdY",
+          "published": "2026-06-13",
+          "platform": "youtube",
+          "snippet": "Automatisation et process : comment une entreprise déjà performante peut libérer encore plus de temps en chassant ses tâches répétitives.\n\nDans cet extrait, le point de départ est un résultat rare : presque un million d'euros de chiffre d'affaires, plus de 300 000 € de marge, près de 200 avis à pres"
+        },
+        {
+          "title": "Pourquoi la personne qui tient votre exécution vaut plus que n'importe quel outil",
+          "url": "https://www.youtube.com/shorts/r4R5QZj3NaY",
+          "published": "2026-06-12",
+          "platform": "youtube",
+          "snippet": "Automatisation, IA et délégation : pourquoi la personne qui tient votre exécution reste la variable la plus stratégique, même quand presque tout est automatisable.\n\nDans cet extrait, un constat clé pour les dirigeants : vous pouvez processer votre activité de A à Z, mais c'est votre bras droit qui d"
+        },
+        {
+          "title": "Quand un dirigeant prend de la hauteur, toute son entreprise évolue",
+          "url": "https://www.youtube.com/shorts/yAOPTg--GoU",
+          "published": "2026-06-12",
+          "platform": "youtube",
+          "snippet": "Management, leadership et culture d'entreprise : dans cet extrait du documentaire, ce sont les collaborateurs d'Eric qui décrivent son évolution après son accompagnement.\n\nLa transformation la plus parlante n'est pas celle que l'on s'attribue soi-même, mais celle que l'équipe constate au quotidien.\n"
+        }
+      ]
+    },
+    {
+      "name": "Thibault Didier",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Comment Trouver des Clients sur Instagram Grâce à Claude (7882€ généré sur un seul réel)",
+          "url": "https://www.youtube.com/watch?v=fU6nro66ifk",
+          "published": "2026-06-10",
+          "platform": "youtube",
+          "snippet": "La vidéo pour set up Claude sur ton ordinateur et créer une machine à contenu : https://youtu.be/AbOamSpIL9Q\n\nDans cette vidéo, je te montre le système exact qui m'a généré 7882€ avec un seul Reel : du script écrit avec Claude jusqu'au closing en DM.\n\nTu vas voir : \n• Comment j'écris mes scripts de "
+        }
+      ]
+    },
+    {
+      "name": "Julien Himself",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "They WANT To Be Offended… Let Them! ⚠️",
+          "url": "https://www.youtube.com/shorts/9VOZpabplwU",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "They WANT to be offended… Let them! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them t"
+        },
+        {
+          "title": "Be Willing To OFFEND Them! ⚠️",
+          "url": "https://www.youtube.com/shorts/7kInn-rHg0s",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "You WILL offend some people… And that’s okay! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empower"
+        },
+        {
+          "title": "Being “Too Much” Is The ONLY Way To Be! ⚠️",
+          "url": "https://www.youtube.com/shorts/pcm5GUN3tmM",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Be too much… It’s the ONLY way to be! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them"
+        },
+        {
+          "title": "Why You Still People Please (Even When You Shouldn't)",
+          "url": "https://www.youtube.com/watch?v=ZHduEYrPIYo",
+          "published": "2026-06-14",
+          "platform": "youtube",
+          "snippet": "95% of people pleasers HIDE their confidence... This video will show you how to stop feeling shy and insecure!\n\n►►► APPLY FOR ONLINE COACHING: https://julien-himself.com/application\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coa"
+        },
+        {
+          "title": "You DON’T Have To Be “Liked” By Everyone! ⚠️",
+          "url": "https://www.youtube.com/shorts/Wwzg3QU4pm8",
+          "published": "2026-06-13",
+          "platform": "youtube",
+          "snippet": "You’re NOT meant to get along with everyone!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowerin"
+        }
+      ]
+    },
+    {
+      "name": "Pierre David / AHP",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "5 erreurs mentales qui sabotent ta performance au combat",
+          "url": "https://www.youtube.com/watch?v=9C4Aq16dL34",
+          "published": "2026-06-11",
+          "platform": "youtube",
+          "snippet": "Si tu as apprécié notre vidéo, partage-la à une personne qui a besoin d’entendre cela et clique sur 🔔  pour ne pas manquer nos prochaines vidéos !\n\n👉 Clique ici pour bénéficier d’un entretien offert à l’Académie de la Haute Performance :\nhttps://lacademie-de-la-haute-performance.com/entretien-offert"
+        }
+      ]
+    },
     {
       "name": "Chloe Lem",
       "platform": "youtube",
@@ -15,6 +177,47 @@
           "published": "2026-06-15",
           "platform": "youtube",
           "snippet": "🔗 Conférence 01 JUILLET → https://www.chloelemoigne.com/conference0107\n🔗 EVOLUTIO → https://www.chloelemoigne.com/evolutio\n\nT'as tout pour réussir et pourtant tu te bats contre toi-même tous les jours.\net ça : c'est clairement un problème de direction ! \n\nDans cet épisode je t'explique pourquoi les "
+        }
+      ]
+    },
+    {
+      "name": "Marvin Ndiaye",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Sous-traitance : levier de croissance ou piège pour votre entreprise ?",
+          "url": "https://www.youtube.com/shorts/jziPxbrfxHE",
+          "published": "2026-06-17",
+          "platform": "youtube",
+          "snippet": "La sous-traitance peut faire grandir votre entreprise rapidement… ou la faire s'effondrer si elle est mal pilotée. Qualité, délais, marges : ce n'est pas votre sous-traitant que le client juge, c'est votre réputation. Découvrez pourquoi maîtriser son exécution est la clé d'une croissance vraiment re"
+        },
+        {
+          "title": "Pourquoi vous n'avez pas besoin d'une Lamborghini pour développer votre audience",
+          "url": "https://www.youtube.com/shorts/J7gjbCLhuNA",
+          "published": "2026-06-17",
+          "platform": "youtube",
+          "snippet": "Beaucoup d'entrepreneurs pensent qu'ils n'ont rien d'intéressant à montrer sur les réseaux sociaux. Pourtant, vos compétences, vos résultats et votre authenticité valent bien plus que n'importe quel signe extérieur de richesse. Arrêtez d'attendre d'avoir « plus » pour commencer à communiquer : la vi"
+        },
+        {
+          "title": "France 🇫🇷 vs Sénégal 🇸🇳 – Un match de Coupe du monde inoubliable",
+          "url": "https://www.youtube.com/shorts/wPpkmCGo44c",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Un très beau match entre la France et le Sénégal lors de cette Coupe du monde ! J'ai eu la chance d'assister à cet événement exceptionnel et de le vivre de l'intérieur. Hâte de suivre la suite de l'aventure pour ces deux magnifiques équipes. 🌍⚽️\n\n#CoupeDuMonde #FranceSénégal #Football #Shorts"
+        },
+        {
+          "title": "Une vidéo à ne pas manquer 🏴‍☠️💪🏾🇸🇳",
+          "url": "https://www.youtube.com/shorts/zFYXrOYPk8Y",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Pas de description disponible pour cette vidéo, mais elle vaut le détour. Lancez-vous et regardez par vous-même ! #Sénégal #Shorts"
+        },
+        {
+          "title": "France 🇫🇷 vs Sénégal 🇸🇳 à la Coupe du Monde 2026 aux États-Unis – L'ambiance en POV",
+          "url": "https://www.youtube.com/shorts/JZopLMjbHXk",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Imaginez vivre France – Sénégal en direct depuis les États-Unis lors de la Coupe du Monde. Une atmosphère unique, deux nations passionnées de football, un choc de cultures inoubliable. Plongez dans cette expérience en point de vue subjectif. #FranceSénégal #CoupeDuMonde #Football #USA2026 #Shorts"
         }
       ]
     },
@@ -32,22 +235,95 @@
       ]
     },
     {
-      "name": "Tom Pearson",
+      "name": "Fabien Delcourt",
       "platform": "youtube",
       "items": [
         {
-          "title": "the relationship manual nobody writes for the PSYCHOS all in on their mission",
-          "url": "https://www.youtube.com/watch?v=D-MkGyGd834",
+          "title": "Mon nouveau livre !",
+          "url": "https://www.youtube.com/watch?v=ngdJaWLTVXg",
+          "published": "2026-06-12",
+          "platform": "youtube",
+          "snippet": "Le livre : https://epanessence.com/livre-lache-les-chevaux/?source_macro=youtube&source_micro=nouveau_livre\n\nFaisons le point ensemble : https://epanessence.com/faisons-le-point/ \nOu écris-moi direct sur Telegram : fabulouscoaching \n\n🚀 POUR ALLER PLUS LOIN : \n➠ L'atelier \"Réussir en étant soi-même\" "
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Kohlmann",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Tout ce que vous voyez sur TikTok est toxique",
+          "url": "https://www.youtube.com/watch?v=JsPMxUeLEMM",
+          "published": "2026-06-11",
+          "platform": "youtube",
+          "snippet": "Pour en savoir plus sur nous et découvrir nos contenus gratuits, commence ici : https://www.kohlmann-publishing.com/optin-vsl2?el=youtube11062026\n\nDans cette épisode 2, je réagis avec Simon, responsable produit chez Kohlmann Publishing, aux TikToks business français les plus viraux. Entre conseils f"
+        }
+      ]
+    },
+    {
+      "name": "Tanner Chidester",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "I Tried Using Claude AI To Make Money Online in 90 Days",
+          "url": "https://www.youtube.com/watch?v=CoqJ6kwbjus",
           "published": "2026-06-16",
           "platform": "youtube",
-          "snippet": "the artist for entrepreneurs...\n\nb e c o m e.  t h e.  m a n.\nelite physique, 8% body fat year-round, high frequency mindset, elite cognitive performance, in complete alignment with your highest self.\n\nb u i l d.  t h e.  b r a n d.\nturn your value + story into a £10K–£100K+/month brand that impacts"
+          "snippet": "Can Claude AI actually help you make money online in 90 days, or is it just another overhyped AI tool? In this video, I put Claude AI to the test and try using artificial intelligence to build an online income stream from scratch.\n\nOver the next 90 days, I explore different ways to use Claude AI for"
         },
         {
-          "title": "In 29 minutes you’ll meet your inner PSYCHO & unlock your next income bracket",
-          "url": "https://www.youtube.com/watch?v=rBNZoE38EfI",
+          "title": "Most guys panic and kill ads when they see red. Think long-term.",
+          "url": "https://www.youtube.com/shorts/OCRsB8maE0w",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Most business owners see a short-term loss and instantly panic. Their immediate instinct is to hit the kill switch and retreat to what feels safe.\nBut you can’t scale a business if you operate out of pure emotion.\n\nDiscipline is about overriding that panic. It’s the ability to look at a temporary de"
+        },
+        {
+          "title": "Claude + Canva Cheat Code",
+          "url": "https://www.youtube.com/shorts/1hn0bJO1gHk",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Claude + Canva Cheat Code"
+        },
+        {
+          "title": "Every dollar I've ever made came from being pissed off that it wasn't happening fast enough",
+          "url": "https://www.youtube.com/shorts/FEad2bDgct8",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "Every dollar I've ever made came from being pissed off that it wasn't happening fast enough"
+        },
+        {
+          "title": "Pay The Person Who Has It",
+          "url": "https://www.youtube.com/shorts/M9--WE6Mnno",
+          "published": "2026-06-15",
+          "platform": "youtube",
+          "snippet": "“Tanner how can you help me?”\n\nMy answer:\n- $2M/Month\n- $141 million\n- 8 figure net worth\n- Worked with your type of company before\n\nHow do you think I can help?\n\nIt’s not arrogance when you ask dumb questions. Pick the person who has what you want, and pay them. Reviews are bs, sales calls are bs, "
+        }
+      ]
+    },
+    {
+      "name": "Sunny Lenarduzzi",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "I Trained 1,000 People To Make $100k. They Only Did 3 Things.",
+          "url": "https://www.youtube.com/watch?v=H1u0J0sy3fE",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Wondering why some experts build six-figure businesses while others never break through? Get our free Knowledge Bank Business Plan that shows you exactly how to turn your expertise into a scalable online education business: https://www.authoritydotio.com/knowledgebank-lm?utm_source=YouTube&utm_mediu"
+        }
+      ]
+    },
+    {
+      "name": "Kallaway",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "BY FAR, The Smartest Way to Build A Personal Brand in 2026",
+          "url": "https://www.youtube.com/watch?v=6G1wIdxWF5w",
           "published": "2026-06-10",
           "platform": "youtube",
-          "snippet": "the artist for entrepreneurs...\n\nb e c o m e.  t h e.  m a n.\nelite physique, 8% body fat year-round, high frequency mindset, elite cognitive performance, in complete alignment with your highest self.\n\nb u i l d.  t h e.  b r a n d.\nturn your value + story into a £10K–£100K+/month brand that impacts"
+          "snippet": "Get my free guide on how to build a winning content system (1B+ views, 1M+ followers): https://shortformsystem.co \nUse Sandcastles to grow 10x faster on social media (try free): https://sandcastles.ai\nWork with me: https://shortform.academy\n\nIn this video, I break down the psychology of superfans, t"
         }
       ]
     },
@@ -56,37 +332,37 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "How to Scale a Dental Business From $15M to $50M",
-          "url": "https://www.youtube.com/watch?v=Ln94ZnvPDOQ",
+          "title": "Scaling a $15M Consulting Firm to $100M by 2029",
+          "url": "https://www.youtube.com/watch?v=PgiqKklXUaA",
+          "published": "2026-06-17",
+          "platform": "youtube",
+          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
+        },
+        {
+          "title": "Helping a $5M Electrical Contractor Scale",
+          "url": "https://www.youtube.com/watch?v=PcTtGIWx1QY",
+          "published": "2026-06-17",
+          "platform": "youtube",
+          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
+        },
+        {
+          "title": "Why I Sold My Likeness (And Shaved the Mustache)",
+          "url": "https://www.youtube.com/watch?v=W_SBhfRbjqA",
           "published": "2026-06-16",
           "platform": "youtube",
           "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
         },
         {
-          "title": "“We Did $3M But Only Keep 7%. What Do I Fix First?”",
-          "url": "https://www.youtube.com/watch?v=giIoLL3PitU",
+          "title": "How to Win in Business & AI in 2026 | Hormozi Q&A",
+          "url": "https://www.youtube.com/watch?v=zRYrlSzZfaY",
           "published": "2026-06-16",
           "platform": "youtube",
-          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
+          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the fo"
         },
         {
-          "title": "How to Win in a Price-Driven, Commoditized Niche",
-          "url": "https://www.youtube.com/watch?v=ALetvboiCik",
-          "published": "2026-06-15",
-          "platform": "youtube",
-          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
-        },
-        {
-          "title": "The Real Reason Your Second Location Isn’t Profitable",
-          "url": "https://www.youtube.com/watch?v=hYmsOK1exxg",
-          "published": "2026-06-15",
-          "platform": "youtube",
-          "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
-        },
-        {
-          "title": "How to Scale a Low-Ticket Business With 170K Customers",
-          "url": "https://www.youtube.com/watch?v=Q66lW0XSU8M",
-          "published": "2026-06-15",
+          "title": "How to Price a Done-For-You Content Service",
+          "url": "https://www.youtube.com/watch?v=3w0ZdxsmKlk",
+          "published": "2026-06-16",
           "platform": "youtube",
           "snippet": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yth1\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: http://www.acquisition.com/workshop-yth \n\n\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the "
         }
@@ -96,6 +372,20 @@
       "name": "Alex Hormozi",
       "platform": "youtube",
       "items": [
+        {
+          "title": "“Nothing” is a good thing “nobody cares” is a great thing",
+          "url": "https://www.youtube.com/shorts/8PNpyZ8ApkA",
+          "published": "2026-06-17",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "Why Are You Scared To Lose?",
+          "url": "https://www.youtube.com/shorts/nett3tijWzo",
+          "published": "2026-06-17",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
         {
           "title": "People ask me all the time how to build great culture in a company .. here’s how:",
           "url": "https://www.youtube.com/shorts/g6kiZbu4u58",
@@ -116,20 +406,47 @@
           "published": "2026-06-15",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        }
+      ]
+    },
+    {
+      "name": "Dan Martell",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "The education system is broken",
+          "url": "https://www.youtube.com/shorts/Ky6ZKXaGbeU",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "School doesn't teach you how to get rich"
         },
         {
-          "title": "If you want your employees to work harder, you need to have empathy for them not try to control them",
-          "url": "https://www.youtube.com/shorts/0_K9ASK4kSw",
-          "published": "2026-06-14",
+          "title": "Rewarding Hard Work and Value Creation",
+          "url": "https://www.youtube.com/shorts/mePXSxAp4hk",
+          "published": "2026-06-16",
           "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+          "snippet": "if you want more opportunities, you have to bring more value"
         },
         {
-          "title": "Enough of calling yourself or someone you love ❤️ a loser -",
-          "url": "https://www.youtube.com/shorts/i3BDcMAUL8k",
-          "published": "2026-06-14",
+          "title": "What makes Joe Rogan so successful?",
+          "url": "https://www.youtube.com/shorts/CQZ1I8lZHRo",
+          "published": "2026-06-16",
           "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+          "snippet": "What makes Joe Rogan so successful?"
+        },
+        {
+          "title": "ADHD as a Superpower: Overcoming Challenges",
+          "url": "https://www.youtube.com/shorts/rJhfuejygE4",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "How to overcome ADHD"
+        },
+        {
+          "title": "3 Daily Habits to Become a Millionaire",
+          "url": "https://www.youtube.com/shorts/-13iAy-5KDs",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "These 3 habits can make you millions."
         }
       ]
     },
@@ -137,6 +454,13 @@
       "name": "Lewis Howes",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Is Life Just a VR Headset??",
+          "url": "https://www.youtube.com/shorts/AgsCLZCtXG8",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
+        },
         {
           "title": "Cognitive Scientist: Our “Reality” Is An Illusion (Here’s The Proof) | Donald Hoffman",
           "url": "https://www.youtube.com/watch?v=MBXK4n0NhdY",
@@ -164,13 +488,6 @@
           "published": "2026-06-13",
           "platform": "youtube",
           "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
-        },
-        {
-          "title": "Don't Hold On to Anger",
-          "url": "https://www.youtube.com/shorts/h9PGONanJu0",
-          "published": "2026-06-12",
-          "platform": "youtube",
-          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
         }
       ]
     },
@@ -191,6 +508,13 @@
       "name": "Tony Robbins",
       "platform": "youtube",
       "items": [
+        {
+          "title": "How Quickly You Can End Up Living A Lie",
+          "url": "https://www.youtube.com/shorts/Uz1ZzDQWy1E",
+          "published": "2026-06-16",
+          "platform": "youtube",
+          "snippet": "Even if it's not true, if you focus on it, you'll feel it. If you imagine it, you'll feel it.\n\nIf you want control of your life, you've got to decide what you focus on.\n\nFOCUS = FEELING"
+        },
         {
           "title": "The Real Reason You Don't Believe in Yourself",
           "url": "https://www.youtube.com/watch?v=lB1XV6S0ipg",
@@ -218,13 +542,6 @@
           "published": "2026-06-12",
           "platform": "youtube",
           "snippet": "Happiness starts with what you choose to focus on.\n\nWhen you remember what truly brings you joy, you can shift your state, reconnect to gratitude, and create happiness on purpose.\n\n#TonyRobbins #Happiness #Mindset"
-        },
-        {
-          "title": "Ray Kurzweil Predicts AI Will Change Humanity Completely by 2030",
-          "url": "https://www.youtube.com/watch?v=fddhXXIjB6w",
-          "published": "2026-06-11",
-          "platform": "youtube",
-          "snippet": "Few thinkers have shaped our understanding of the future as profoundly as Ray Kurzweil. An American inventor, computer scientist, futurist, entrepreneur, and bestselling author, Kurzweil is widely regarded as one of the most influential technological forecasters of our time. For decades, he has accu"
         }
       ]
     }
@@ -233,6 +550,6 @@
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 25
+    "total_items": 60
   }
 }
