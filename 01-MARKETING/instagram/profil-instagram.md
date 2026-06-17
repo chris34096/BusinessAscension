@@ -21,19 +21,19 @@
 
 ## BIO (150 caractères max)
 
-**Bio active (v5.1) — direction "Résultat / Pro" + CTA DM (validée Chris 2026-06-17, format des gros comptes IG) :**
+**Bio active (v5.3) — version ghost (validée Chris 2026-06-17) :**
 
 **Nom (champ recherchable) :** `Christofer Perez | Business & Identité`
 **Catégorie :** Entrepreneuriat
 **Lien :** `goulots.businessascension.fr`
 ```
-🚀 Ta marque à 10K-100K€/mois
-🧠 Business + identité, en même temps
-💬 Tu vends par message
-📩 DM "GOULOT" pour ton frein n°1
+🚀 Signe tes premiers clients, puis scale
+🧠 Business + identité (ce qui te bloque vraiment)
+⚡ Tu sais quoi faire, tu bouges pas
+💬 DM "GOULOT", je te dis pourquoi
 ```
 
-**Évolution v5.1 :** CTA passé de "lien guide" à "DM GOULOT" (le DM démarre la conversation tout de suite → meilleur pour générer des leads qualifiés + close Porte 1 par message). Le lien bio reste le guide pour les cliqueurs. "0 à 100K" rejeté (promesse magique). Noms d'offres retirés de la bio (confus pour le trafic froid).
+**Évolution v5.3 :** réécriture ghost (oral, rythme cassé, zéro tiret cadratin). Couvre les 2 offres : "premiers clients" (Offre 1) + "scale" (Offre 2). Ligne 3 = douleur de reconnaissance ("tu sais quoi faire, tu bouges pas" = goulot 3, exécution). CTA DM GOULOT (close P1 par message / trie P1 vs P2). ⚠️ Si IG dépasse 150 car., retirer "(ce qui te bloque vraiment)".
 
 **Pourquoi cette bio v5.0 :**
 - Ligne 1 = le résultat/dream outcome chiffré en tête (10K-100K) — schéma exact des top comptes (Brian Mark, Tanner Chidester, Max Tornow), version honnête : c'est ce qu'on CONSTRUIT, pas un chiffre passé revendiqué

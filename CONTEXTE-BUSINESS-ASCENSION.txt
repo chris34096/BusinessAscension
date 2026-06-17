@@ -1,6 +1,6 @@
 ================================================================================
 CONTEXTE COMPLET — BUSINESS ASCENSION™
-Généré le 13 juin 2026 — À uploader dans n'importe quel LLM pour travailler sur ce projet
+Mis à jour le 17 juin 2026 — À uploader dans n'importe quel LLM pour travailler sur ce projet
 ================================================================================
 
 Ce fichier contient :
@@ -67,7 +67,13 @@ Porte 2 | Construis la Marque™    | 10K→100K€/mois | Scale · 12 mois · C
 
 ENTRY POINT PUBLIC — BUSINESS-FIRST :
 "Transforme ta valeur en une marque à 10K–100K€/mois. Des leads qui rentrent. Vendre par message."
-Le CA attire. L'identité + système délivrent. L'Audit offert est le pont.
+Le CA attire. L'identité + système délivrent. Le lead magnet (Les 4 goulots) capture l'email et lance la conversation DM.
+
+MOTEUR D'ACQUISITION (clarifié 17 juin 2026) :
+- Porte 1 = OUTBOUND-dominant : DM Instagram/LinkedIn · two-step commentaires YouTube · étude de marché (interviews offertes) → construire l'offre depuis les réponses → coaching offert (cap 2-3) contre témoignage → close. Le 1er client vient de l'outbound, pas de l'inbound.
+- Porte 2 = INBOUND-dominant : "social funnel" (ads qui poussent le froid) + VSL/challenge/webinaire pour convertir + SLO auto-liquidant (low ticket qui finance les ads — outil DU CLIENT, pas de BA). L'organique continue (autorité).
+- L'AUDIT OFFERT générique est RETIRÉ du funnel. Porte 1 se close par DM. Porte 2 par appel de candidature (scale.businessascension.fr).
+- Lead magnet = petite app qui donne un résultat (ex : auto-diagnostic 4 goulots), pas un PDF mort → capture email → email marketing → DM.
 
 HEADLINE SITE : "Deviens l'Entrepreneur. Construis la Marque."
 HEADLINE RÉSEAUX : "Deviens l'Entrepreneur. Construis la Marque. Vis ta vie."
@@ -391,9 +397,9 @@ Deviens l'Entrepreneur™  ✅ Porte 1 — MRR — 0→10K
 Construis la Marque™     ✅ Porte 2 — scale — 10K→100K
 Business Ascension™      ✅ Nom de la marque (toujours avec ™ en formel)
 Scale Ascension          ✅ Étape 7 + continuité clients avancés
-Audit offert             ✅ Nom public de l'appel (TOUJOURS ce nom en externe)
+Audit offert             ❌ RETIRÉ du funnel (17 juin 2026) — P1 close par DM · P2 par appel de candidature
 Diagnostic Ascension     ⚠️ Nom interne (JAMAIS face au prospect)
-Low ticket               ❌ SUPPRIMÉ — Décision Juin 2026
+Low ticket               ❌ SUPPRIMÉ à l'entrée — la Porte 1 est l'entrée (NB : SLO enseigné au client P2 pour financer ses ads ≠ low ticket BA)
 IAP / IAProtocol         ❌ SUPPRIMÉ — ancien nom
 Programme (seul)         ❌ ÉVITER — dire "accompagnement" ou le nom officiel
 
@@ -403,8 +409,9 @@ SECTION 8 — SITES EN LIGNE
 
 Deviens l'Entrepreneur™  : https://www.businessascension.fr
 Construis la Marque™     : https://scale.businessascension.fr
-Audit offert             : https://audit.businessascension.fr
+Lead magnet "4 goulots"  : https://goulots.businessascension.fr  (capture email + auto-diagnostic → DM)
 Quiz entrepreneur        : https://quiz.businessascension.fr
+Audit offert             : ⚠️ retiré du funnel (page encore en ligne mais plus liée)
 
 ================================================================================
 FIN DU FICHIER CONTEXTE — BUSINESS ASCENSION™ — Juin 2026

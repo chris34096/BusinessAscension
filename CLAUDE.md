@@ -49,7 +49,10 @@
 
 **Entry point public — business-first :**
 > "Transforme ta valeur en une marque à 10K–100K€/mois. Des leads qui rentrent. Vendre par message."
-> Le CA attire. L'identité + système délivrent. L'Audit offert est le pont.
+> Le CA attire. L'identité + système délivrent. Le lead magnet (Les 4 goulots) capture l'email et lance la conversation DM.
+
+**Moteur d'acquisition (clarifié 2026-06-17) :** Porte 1 = OUTBOUND-dominant (DM, outreach, étude de marché → coaching offert contre témoignage → close). Porte 2 = INBOUND-dominant (social funnel : ads + VSL/challenge/webinaire + SLO auto-liquidant). L'Audit offert générique est **RETIRÉ du funnel** : Porte 1 close par DM, Porte 2 par appel de candidature. Lead magnet = petite app à résultat (ex : auto-diagnostic 4 goulots) → capture email → DM.
+**Infra (décision 2026-06-17) :** GHL = hub (pages AI Studio, CRM, email, calendrier, formation, communauté, paiements). Cockpit = dashboard stratégie. Voir mémoire `project_ghl-hub-decision`.
 
 **Headline site :**
 > **"Deviens l'Entrepreneur. Construis la Marque."**
@@ -87,10 +90,10 @@ Le contenu montre le résultat. Le produit livre le chemin.
 |---|---|---|
 | **Deviens l'Entrepreneur™** | ✅ Nom officiel | Porte 1 — organique pur — MRR — 0→10K |
 | **Construis la Marque™** | ✅ Nom officiel | Porte 2 — scale — parcours unique 12 mois — 10K→100K |
-| **Low ticket** | ❌ SUPPRIMÉ (Juin 2026) | La Porte 1 est l'entrée du funnel — ne plus le proposer |
+| **Low ticket** | ❌ SUPPRIMÉ à l'entrée (Juin 2026) | La Porte 1 est l'entrée. NB : un SLO (low ticket auto-liquidant) est enseigné au client Porte 2 pour financer SES ads — ce n'est PAS un low ticket BA |
 | **Business Ascension™** | ✅ Nom de la marque | Toujours avec ™ en formel |
 | **Scale Ascension** | ✅ Étape 7 + continuité | Réservé aux clients ayant complété |
-| **Audit offert** | ✅ Nom public unique | TOUJOURS ce nom en externe |
+| **Audit offert** | ❌ Retiré du funnel (2026-06-17) | Porte 1 close par DM · Porte 2 par appel de candidature |
 | **Diagnostic Ascension** | ⚠️ Nom interne | JAMAIS face au prospect |
 
 ---
@@ -113,7 +116,7 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 │   ├── _fondations/
 │   │   ├── ma-cible.md             ← v10.0 ✅  ← 2 ICP · Deviens l'Entrepreneur / Construis la Marque
 │   │   ├── ma-voix.md              ← v9.0 ✅
-│   │   ├── mes-offres.md           ← v10.1 ✅  ← Musy/Empowerment × Tom Pearson · P1 organique (entrée) / P2 scale · sans low ticket
+│   │   ├── mes-offres.md           ← v11.0 ✅  ← P1 OUTBOUND (étude marché→témoignage) / P2 INBOUND (social funnel + SLO) · sans low ticket à l'entrée
 │   │   ├── lead-magnet-4-goulots.md ← v1.0 ✅
 │   │   ├── lead-magnets.md         ← v1.0 ✅
 │   │   ├── voc-langage-client.md   ← v1.0 ✅
@@ -121,7 +124,7 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 │   │   ├── page-principale-copy.md ← v3.0 ✅  ← Business-first · Vendre par message
 │   │   └── page-entree-1-starter.md ← v2.0 ✅  ← Deviens l'Entrepreneur™
 │   ├── instagram/
-│   │   ├── profil-instagram.md     ← v3.0 ✅
+│   │   ├── profil-instagram.md     ← v5.3 ✅  ← bio business-first, CTA DM GOULOT
 │   │   ├── reels-viral-skill.md    ← v2.0 ✅
 │   │   └── calendrier-editorial.md ← v1.0 ✅
 │   ├── iap-page-de-vente.md        ← v3.0 ✅  ← Construis la Marque™
@@ -150,7 +153,7 @@ E:\Document\VS CODE\Marketing\Business Ascension™\
 │   └── dm-sequence-linkedin-instagram.md ← v1.0 ✅
 │
 ├── 03-DELIVERY/
-│   ├── curriculum-portes.md        ← v3.0 ✅  ← 2 portes · 8 étapes · P1 MRR / P2 12 mois 1:1
+│   ├── curriculum-portes.md        ← v3.1 ✅  ← 2 portes · 8 étapes · P1 MRR / P2 12 mois 1:1
 │   └── business-playbook-template.md ← v1.0 ✅
 │
 ├── 04-SYSTEMES/
@@ -283,7 +286,7 @@ catégorie à part · un-de-un · densité · puissance d'intention · compressi
 Le branding de BA™ = **Business + Identité en simultané**. Pas la douleur étalée en ouverture.
 - Hook carousel/reel/post = assertion de croyance (identity-first) — JAMAIS douleur énumérée en slide 1
 - Douleur cible (Porte 1 : "ne pas décoller" · Porte 2 : "plafond de verre") = VOC de reconnaissance → slides 2-3 uniquement
-- Headline de marque = "Deviens l'entrepreneur. Construis le système."
+- Headline de marque = "Deviens l'Entrepreneur. Construis la Marque." (réseaux : + "Vis ta vie.")
 - Chaque contenu installe UNE des 8 croyances BA™ (voir vsl-script.md)
 - Tom Pearson : "People don't buy things. They buy beliefs." → s'applique à TOUT le contenu
 

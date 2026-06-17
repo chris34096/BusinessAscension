@@ -27,7 +27,8 @@ Fondations de marque, acquisition sur tous les canaux.
 **Fondations**
 - [Ma cible — Portrait final](01-MARKETING/_fondations/ma-cible.md)
 - [Ma voix — Référentiel de style](01-MARKETING/_fondations/ma-voix.md)
-- [Mes offres — Architecture finale](01-MARKETING/_fondations/mes-offres.md) ← v10.0 ✅ Musy/Empowerment × Tom Pearson · Porte 1 organique (MRR, entrée du funnel) · Porte 2 scale (12 mois, prix par appel)
+- [Mes offres — Architecture finale](01-MARKETING/_fondations/mes-offres.md) ← v11.0 ✅ Porte 1 OUTBOUND (étude marché→coaching offert→témoignage) · Porte 2 INBOUND (social funnel ads + VSL/webinaire + SLO) · Audit retiré du funnel
+- [Emails du funnel](01-MARKETING/_fondations/emails-funnel.md) ← v1.0 ✅ bienvenue (4 goulots) · onboarding Porte 1 · confirmation appel Porte 2
 - [Lead Magnet — Les 4 goulots de l'entrepreneur qui stagne](01-MARKETING/_fondations/lead-magnet-4-goulots.md)
 - [VOC — Langage exact du client idéal](01-MARKETING/_fondations/voc-langage-client.md)
 - [Page Principale — Copy complet](01-MARKETING/_fondations/page-principale-copy.md) ← Tom Pearson style, 7 sections, 8 croyances, headline + 3 profils + mécanisme
@@ -275,7 +276,9 @@ Couche de connaissance cumulative — synthèses, entités, concepts clés.
 
 ---
 
-*Version 1.1 — Juin 2026 — Business Ascension™*
+> ⚠️ **Funnel (17 juin 2026) :** lead magnet "4 goulots" (`goulots.businessascension.fr`, capture email → DM) en tête · Audit offert RETIRÉ (P1 close par DM, P2 par appel) · GHL = hub (pages/CRM/email/formation/communauté) · Cockpit = dashboard stratégie. Pages web : `04-SYSTEMES/webapps/` (porte-1, porte-2, lead-goulots, quiz, cockpit).
+
+*Version 1.2 — Juin 2026 — Business Ascension™*
 
 
 

@@ -9,6 +9,26 @@
 
 ---
 
+## Juin 2026 — Sessions 18-19 (11-17 juin) : Funnel live + GHL hub + offres v11
+
+### Ce qui a été fait
+
+| Domaine | Décision / livrable |
+|---|---|
+| **Sites en ligne (Vercel)** | porte-1 (www + racine), porte-2 (scale.), quiz., plan., **lead-goulots (goulots.)** déployés. ⚠️ Piège : email auteur du commit doit être `47860968+chris34096@users.noreply.github.com` sinon Vercel bloque le deploy. |
+| **Lead magnet "4 goulots"** | Page interactive (auto-diagnostic) → capture email Supabase `lead_goulots` → CTA **DM GOULOT**. Email de bienvenue auto (trigger Postgres + pg_net + Resend, clé dans Vault). DKIM Resend à finaliser (retirer "Valeur :" du TXT OVH). |
+| **AUDIT OFFERT RETIRÉ du funnel** | Porte 1 close par DM (par écrit), Porte 2 par appel de candidature. Plus de "pont Audit" générique. |
+| **Modèle offres clarifié (v11)** | Porte 1 = OUTBOUND (DM/outreach + étude de marché → coaching offert cap 2-3 contre témoignage → close). Porte 2 = INBOUND (social funnel ads + VSL/challenge/webinaire + **SLO auto-liquidant** enseigné au client pour financer ses ads). Identité traverse les deux. `mes-offres v11` · `curriculum v3.1`. |
+| **Décision infra GHL = hub** | GHL (97$/mo, actif) centralise pages (AI Studio), CRM, email, calendrier, formation, communauté, paiements. Resend/Supabase/Vercel deviennent redondants à terme. Cockpit = dashboard stratégie. **Règle : ne pas tout rebâtir dans GHL avant d'avoir des leads.** |
+| **Bio Instagram v5.3** | "Signe tes premiers clients, puis scale / Business + identité / Tu sais quoi faire, tu bouges pas / DM GOULOT". Nom : `Christofer Perez | Business & Identité`. Corporate (Ex-Dir/SAFe) supprimé. |
+| **Nouveaux docs** | `emails-funnel.md` · win-log dans SOP témoignage (capture preuve dès J1) · `04-SYSTEMES/webapps/` (5 pages + cockpit Plan 90j). |
+| **Cockpit** | Vue Plan 90 jours en accueil (KPI hebdo + checklist du jour). Local seulement pour l'instant. |
+
+### Pattern à surveiller (récurrent)
+Chris revient souvent avec un outil à construire (dashboard, SaaS, automatisation) au lieu de publier/prospecter = son propre Goulot 3 (exécution). Rôle bras droit : le ramener au contenu + DM. **17 juin : a posté son 1er reel ✅.**
+
+---
+
 ## Juin 2026 — Session 17 : Task Scheduler activé + Billion Dollar Board + Audit contenu
 
 ### Actions effectuées
