@@ -1,6 +1,7 @@
 ﻿# ANALYSE CONCURRENTIELLE — Business Ascension™
-> Version 5.0 — Mai 2026
-> Mise à jour majeure v5 : 5 archétypes marché, positionnement brand-ready 3 couches, risques (thérapeutisation, Musy copy), tendances 2025-2026, "proof-first economy".
+> Version 5.1 — Juin 2026
+> Mise à jour v5.1 : +Antoine Reydel (Zone D, menace MOYEN — dual-track "mindset + business" le plus ressemblant en surface, mais inner cognitif vs système nerveux + dérive plateforme).
+> Version 5.0 — Mai 2026 : 5 archétypes marché, positionnement brand-ready 3 couches, risques (thérapeutisation, Musy copy), tendances 2025-2026, "proof-first economy".
 > Version 4.0 : +10 concurrents français, +8 concurrents américains, sizing marché francophone, fiche Patrick Reiser complète, 4 éléments GJW.
 > Wiki : [[concurrence-francophone]]
 
@@ -145,6 +146,7 @@ Après analyse de 20+ concurrents identifiés, le marché se divise en quatre zo
 | **Mehdi Baer** | "Attire tes clients idéaux en calibrant ton subconscient" — méthode C.E.R.A | Coachs, formateurs, consultants (débutant → confirmé) | Funnel challenge gratuit → Skool (766 membres) → VORTEX 5 800€. Mécanisme : lois universelles + énergie + 5D |
 | **Christophe Dang** | Mindset & Business Coaching | **Coaches uniquement** | NLP + hypnose ericksonienne, "Deep Coaching" — niche ultra-restrictive |
 | **Camille Bichet** | Mentore Business YIN + YANG (être + faire) | **Femmes** entrepreneures | 500+ accompagnées, équipe de 11 |
+| **Antoine Reydel** ⭐ NOUVEAU | "Visez l'excellence" — Mindset Entrepreneur, 4 Piliers (connaissance de soi + maîtrise psychologique + vision/stratégie + leadership) | Entrepreneurs débutants → dirigeants confirmés (cible large) | Coach/speaker/investisseur. Incubateur 100K (communauté + recrutement de coachs), 1:1 3-12 mois, immersions, formation Mindset gratuite. Modèle qui dérive vers la plateforme |
 
 **Julien Musy est le concurrent structurellement le plus proche.** Il combine bien business de haut niveau + libération des blocages subconscients en simultané. Trois différences nettes avec Business Ascension™ :
 
@@ -153,6 +155,49 @@ Après analyse de 20+ concurrents identifiés, le marché se divise en quatre zo
 2. **Le niveau d'intervention est différent.** Musy nomme ses mécanismes "P.I.E.G.E.s — perceptions incomplètes qui créent des réactions de survie" — toujours au niveau perceptuel/cognitif. Business Ascension™ intervient au niveau du système nerveux, en dessous du niveau cognitif. Ce n'est pas un détail de vocabulaire — c'est une différence de méthode réelle.
 
 3. **La structure et le format sont différents.** Musy : mastermind 10 mois, 15 personnes, une seule porte. BA™ : deux portes — Deviens l'Entrepreneur™ (MRR accessible, 0→10K, communauté) puis Construis la Marque™ (12 mois 1:1, scale). Une ascension complète au lieu d'un format unique.
+
+---
+
+### Antoine Reydel — Mindset Entrepreneur ⭐ NOUVEAU (ajouté Juin 2026)
+**Sources :** antoinereydel.fr · youtube.com/c/GetUPBeHappy · podcast "Le Podcast d'Antoine Reydel — Mindset Entrepreneur" · société REYDEL COACHING
+
+**Pourquoi il est ici :** c'est le concurrent francophone qui "ressemble le plus" à BA™ au premier regard — il vend explicitement **mindset + business en même temps**, même duo identité/exécution + croissance. C'est précisément pour ça qu'il faut être chirurgical sur la différence réelle.
+
+**Positionnement :** *"Visez l'excellence — J'accompagne les entrepreneurs et les dirigeants dans l'accomplissement de leurs plus grandes ambitions."* Angle "art de la réussite" / mindset des entrepreneurs qui réussissent.
+
+**Avatar :** large et flou — entrepreneurs débutants OU confirmés, porteurs de projet, dirigeants ambitieux. Le coaching 9 mois est réservé aux entrepreneurs "déjà établis avec un bon CA", mais l'entrée (formation Mindset gratuite + Incubateur) ratisse beaucoup plus large. Pas de segmentation par mécanisme de revenu.
+
+**Mécanisme — Les 4 Piliers :**
+1. **Connaissance de Soi** — développer son potentiel intérieur
+2. **Vision & Stratégie** — clarté et feuille de route
+3. **Maîtrise Psychologique** — gestion émotionnelle et "reprogrammation"
+4. **Leadership & Influence** — notoriété et authenticité
+
+→ Deux piliers "inner" (1 + 3) et deux piliers "outer" (2 + 4). Structurellement le même pari que BA™ (identité + business). **MAIS le niveau d'intervention reste mindset/cognitif** ("reprogrammation", gestion émotionnelle) — pas système nerveux + hypnose/PNL/breathwork. Même ligne de faille que face à Musy.
+
+**Histoire :** entrepreneur depuis 2016, quitte son CDI en 2017 sans business stable et rentable, lance une tournée de conférences nationale, investit "des dizaines de milliers d'euros" en développement personnel. Récit "hauts et bas" — proche du récit "mois à 12K / mois à zéro" de Chris, donc terrain narratif partiellement partagé.
+
+**Offres (prix non affichés publiquement) :**
+| Offre | Format | Note |
+|---|---|---|
+| Formation Mindset | Gratuite | Lead magnet / haut de funnel |
+| Coaching 1:1 | 3 à 12 mois (parcours 9 mois mis en avant) | Réservé aux entrepreneurs établis "bon CA". Confrontant : *"je ne suis pas là pour vous dire ce que vous avez envie d'entendre"* |
+| **Incubateur 100K** | Programme communautaire | **Recrute des coachs business** ("deviens coach business pour l'Incubateur 100K") → bascule vers un modèle plateforme/scale |
+| Immersions / retraites | Événementiel | — |
+| Conférences + catalogue de formations | — | — |
+
+**Audience :** YouTube *GetUP Be Happy* + podcast actifs. Chiffres d'abonnés non vérifiables à ce jour (chaîne non indexée dans nos outils de veille — à confirmer manuellement).
+
+**Vocabulaire :** mindset · potentiel · ambition · excellence · authentique · "entrepreneur hors normes" · clarté · confiance · leadership. **Registre aspirationnel/excellence** — pas le registre concret/douleur de BA™ (vivoter, plafond de verre, revenus en pointillé).
+
+**Différences nettes avec BA™ :**
+1. **Niveau d'intervention :** mindset/reprogrammation cognitive (Reydel) vs désactivation au niveau du système nerveux + hypnose/PNL/breathwork (BA™).
+2. **Entrée :** abstraite/aspirationnelle — "excellence, ambition, mindset des gagnants" (Reydel) vs concrète — "premiers 10K réguliers / sortir du plafond de verre / revenus en pointillé" (BA™).
+3. **Acquisition :** absente de son pitch — pas de "vendre par message", pas de système d'acquisition comme mécanisme central. BA™ en fait un pilier opérationnel visible.
+4. **Modèle :** dérive plateforme (Incubateur 100K + coachs recrutés, façon Alec Henry) vs diagnostic individuel et construction avec le client (BA™).
+5. **Structure :** offre empilée (gratuit → 1:1 → incubateur → immersions) sans architecture claire vs 2 portes lisibles indexées sur le palier de revenu (0→10K MRR / 10K→100K).
+
+**Niveau de menace : MOYEN.** Concept hybride proche + cible qui chevauche + modèle qui scale (recrutement de coachs) + marché FR. Mais positionnement mindset générique, pas de profondeur système nerveux, pas de structure 2 portes, pas d'angle acquisition. À surveiller surtout sur l'Incubateur 100K (s'il industrialise l'offre hybride avant que BA™ ait ancré sa preuve).
 
 ---
 
@@ -423,6 +468,7 @@ VOC d'entrée : plafond de verre · vendre son temps · tunnel opérationnel · 
 | **Marvin Ndiaye** | Revenue tier 200K-3M€. Mastermind communautaire, pas travail sur le programme intérieur |
 | **Christophe Dang** | Outils similaires (hypnose, PNL) mais niche coachs uniquement |
 | **Camille Bichet** | Dual-track conceptuellement proche. Femmes uniquement, cible 40K€/mois |
+| **Antoine Reydel** | Dual-track "mindset + business" (4 Piliers) — le plus ressemblant en surface. Mais inner = mindset/reprogrammation cognitive (pas système nerveux), entrée aspirationnelle (excellence/ambition) vs concrète, pas d'angle acquisition/vente par message, dérive plateforme (Incubateur 100K + coachs recrutés) |
 | **Garrett J. White** | Dual-track similaire mais US/anglophone, avatar marié+enfants uniquement. Pas concurrent — source d'apprentissage modèle |
 | **Alex Hormozi** | Purement tactique, anglophone. Prépare involontairement le terrain pour Chris |
 | **Leila Hormozi** | Opérations et équipes. Cible au-delà du stade revenus au compte-gouttes |
@@ -453,6 +499,9 @@ Il utilise les mêmes outils (hypnose, PNL). Si demain il élargit sa niche des 
 
 ### Menace 4 — Camille Bichet (risque : FAIBLE)
 Conceptuellement la plus proche (double track). Mais gender-segmentée et revenue tier différent. Pas de concurrence directe à court terme.
+
+### Menace 4bis — Antoine Reydel (risque : MOYEN) ⭐ NOUVEAU
+Le plus ressemblant en surface : il vend "mindset + business en simultané" (4 Piliers identité + exécution + croissance), même duo que BA™, sur le marché FR, avec une cible qui chevauche. Trois raisons de surveiller : (1) son **Incubateur 100K recrute des coachs** → il industrialise l'offre hybride, ce qui peut occuper le terrain par le volume avant que BA™ ait sa preuve ; (2) récit "hauts et bas" proche du récit fondateur de Chris ; (3) audience YouTube/podcast déjà établie. Ce qui le tient à distance aujourd'hui : inner work au niveau mindset/cognitif (pas système nerveux), entrée aspirationnelle "excellence/ambition" (pas le concret "revenus en pointillé / plafond de verre"), aucun angle acquisition/vente par message, structure d'offre empilée sans architecture lisible. **Action :** garder l'écart visible — profondeur système nerveux + entrée par le concret + acquisition comme mécanisme. Surveiller s'il glisse vers un vocabulaire plus concret ou ajoute un volet acquisition.
 
 ### Menace 5 — Nouveaux entrants (risque : RÉEL)
 De plus en plus de coachs empruntent le vocabulaire "système nerveux" sans la profondeur. La fenêtre pour l'ancrer comme propre à Business Ascension™ est limitée — 6 à 12 mois maximum.
@@ -591,8 +640,9 @@ Si le positionnement reste flou sur le mécanisme → on sera perçu comme "Musy
 
 ---
 
+*Version 5.1 — Juin 2026 : ajout Antoine Reydel (antoinereydel.fr, youtube.com/c/GetUPBeHappy) en Zone D — menace MOYEN.*
 *Version 5.0 — Mai 2026.*
 *Mise à jour majeure v5 : 5 archétypes marché, tendances 2025-2026, positionnement Business + Marketing + Identité en simultané (Deviens l'Entrepreneur™ / Construis la Marque™), risques thérapeutisation + Musy copy, top 5 mimétique (Dan Koe / Hormozi / Tony Robbins / Stan Leloup / Justin Welsh).*
 *Version 4.0 : +10 concurrents français, +8 concurrents américains, sizing marché francophone complet, fiche Patrick Reiser détaillée, 4 éléments Garrett J White.*
-*Sources vérifiées : garrettjwhite.com, patrickreiser.com, acquisition.com, tonyrobbins.com, musyjulien.com, maxtornow.com, skool.com/@mehdi-baer-5801, julienhimself.com, brendon.com, edmylett.com, danmartell.com, russellbrunson.com.*
+*Sources vérifiées : garrettjwhite.com, patrickreiser.com, acquisition.com, tonyrobbins.com, musyjulien.com, maxtornow.com, skool.com/@mehdi-baer-5801, julienhimself.com, brendon.com, edmylett.com, danmartell.com, russellbrunson.com, antoinereydel.fr.*
 *Données insuffisantes persistantes : Thibault Virondeau, Mitchell (mjbbtg.com).*

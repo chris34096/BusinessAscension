@@ -3,7 +3,7 @@ wiki_type: synthese
 name: Concurrence francophone — Analyse
 slug: concurrence-francophone
 created: 2026-05-23
-updated: 2026-05-24
+updated: 2026-06-19
 confidence: medium
 sources:
   - 00-STRATEGIE/analyse-concurrentielle.md
@@ -50,6 +50,7 @@ Aucun concurrent francophone identifié n'a packagé cette combinaison comme pro
 |---|---|---|---|
 | **Julien Musy** | Moyen-élevé | Track record 10M€, mastermind 10 mois | Entrée "essence/alignement" = abstrait vs "imprévisibilité" = concret. Surveiller si repositionnement vers "exécution" |
 | **Mehdi Baer** | Moyen | 5D/énergie/subconscient, 766 membres Skool | Vocabulaire ésotérique éloigne les entrepreneurs rationnels |
+| **Antoine Reydel** | Moyen | "Mindset + business" (4 Piliers) — le plus ressemblant en surface ; Incubateur 100K recrute des coachs | Inner = mindset/cognitif (pas système nerveux) ; entrée aspirationnelle (excellence) vs concrète ; pas d'angle acquisition ; dérive plateforme |
 | **Christophe Dang** | Faible-moyen | Niche coachs uniquement | Niche fermée |
 | **Camille Bichet** | Faible | Femmes uniquement | Niche fermée |
 
