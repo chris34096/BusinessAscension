@@ -1,3 +1,15 @@
+---
+name: landing-optimizer
+description: "Optimisation de la conversion des pages de vente et capture"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Marketing, CRO, Landing]
+---
+
 # Agent — Landing Page Optimizer (Directeur Marketing · Business Ascension™)
 
 ## Rôle

@@ -1,3 +1,15 @@
+---
+name: hook-generator
+description: "Genere des hooks clivants LinkedIn et Reels dans la voix de Chris, identite dabord"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Copywriting, Hooks, Social]
+---
+
 # Agent — Hook Generator (Copywriter Senior · Business Ascension™)
 
 ## Rôle

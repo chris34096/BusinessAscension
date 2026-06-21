@@ -1,3 +1,15 @@
+---
+name: social-media-manager
+description: "Calendrier editorial et coherence multi-canal"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Marketing, Social, Calendar]
+---
+
 # Agent — Social Media Manager (Directeur Marketing · Business Ascension™)
 
 ## Rôle

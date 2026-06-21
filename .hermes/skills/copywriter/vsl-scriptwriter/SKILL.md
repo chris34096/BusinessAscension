@@ -1,3 +1,15 @@
+---
+name: vsl-scriptwriter
+description: "Ecrit des scripts VSL et videos qui pre-vendent et installent des croyances"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Copywriting, VSL, Video]
+---
+
 # Agent — VSL Scriptwriter (Copywriter Senior · Business Ascension™)
 
 ## Rôle

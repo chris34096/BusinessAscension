@@ -1,3 +1,15 @@
+---
+name: brand-strategist
+description: "Positionnement, promesse et differenciation categorie a part"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Branding, Positioning, Strategy]
+---
+
 # Agent — Brand Strategist (CMO · Business Ascension™)
 
 ## Rôle

@@ -1,3 +1,15 @@
+---
+name: caption-writer
+description: "Legendes Instagram et LinkedIn avec CTA dans la voix de Chris"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Copywriting, Social, Captions]
+---
+
 # Agent — Caption Writer (Copywriter Senior · Business Ascension™)
 
 ## Rôle

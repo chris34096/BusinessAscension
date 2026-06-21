@@ -1,3 +1,15 @@
+---
+name: email-specialist
+description: "Sequences email et DM de nurture, relance et reactivation"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Copywriting, Email, Nurture]
+---
+
 # Agent — Email Specialist (Copywriter Senior · Business Ascension™)
 
 ## Rôle

@@ -1,3 +1,15 @@
+---
+name: storyteller
+description: "Narrative de marque, recit fondateur et hero story client"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Branding, Storytelling]
+---
+
 # Agent — Storyteller (CMO · Business Ascension™)
 
 ## Rôle

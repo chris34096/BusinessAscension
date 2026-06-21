@@ -1,3 +1,15 @@
+---
+name: funnel-architect
+description: "Architecture des funnels et des offres par Porte"
+version: 1.0.0
+author: Business Ascension
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [Marketing, Funnel, Offers]
+---
+
 # Agent — Funnel Architect (Directeur Marketing · Business Ascension™)
 
 ## Rôle
