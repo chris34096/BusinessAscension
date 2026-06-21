@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Deviens l'Entrepreneur™, Business Ascension™</title>
+<title>Deviens l'Entrepreneur™ · Business Ascension™</title>
 <meta name="description" content="Tes premiers 10K€/mois réguliers, construits autour de qui tu es. Une offre qui se vend, un contenu qui pré-vend, un système pour vendre par message." />
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..600&family=Hanken+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script src="https://fast.wistia.com/player.js" async></script>
 <script src="https://fast.wistia.com/embed/zy7jxmz90n.js" async type="module"></script>
@@ -15,322 +15,561 @@
 <script src="https://fast.wistia.com/embed/q9d8hwqua3.js" async type="module"></script>
 <style>
 :root{
-  --bg:#0E0B07; --bg2:#16110A; --glass:rgba(38,30,18,.42); --ink:#F5EEDD; --muted:#A99B7C;
-  --gold:#CA8A04; --gold-lt:#E8C46A; --gold-soft:#F0D9A0; --line:rgba(201,168,76,.16);
-  --serif:'Playfair Display',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif;
+  --bg:#0A0A0B; --bg2:#100E0A; --panel:rgba(28,23,13,.5); --panel2:rgba(20,17,10,.7);
+  --ink:#F6F0E2; --muted:#BCB096; --line:rgba(232,176,75,.16); --line2:rgba(232,176,75,.08);
+  --gold:#E8B04B; --gold-lt:#F5D78A; --gold-deep:#C98A2E;
+  --serif:'Playfair Display',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif; --mono:'JetBrains Mono',monospace;
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
-::selection{background:var(--gold);color:#0E0B07}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.62;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+::selection{background:var(--gold);color:#0A0A0B}
 a{color:inherit;text-decoration:none}
-h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.05;letter-spacing:-.01em}
+h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.04;letter-spacing:-.015em}
 .muted{color:var(--muted)}
+.gold-text{background:linear-gradient(135deg,var(--gold-lt),var(--gold),var(--gold-deep));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
 
-.mesh{position:fixed;inset:0;z-index:0;pointer-events:none;
-  background:radial-gradient(55% 45% at 78% 12%,rgba(202,138,4,.20),transparent 70%),radial-gradient(45% 40% at 10% 88%,rgba(232,196,106,.08),transparent 70%)}
+/* atmosphere */
+.bg-glow{position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(60% 50% at 70% 8%,rgba(232,176,75,.16),transparent 62%),radial-gradient(50% 50% at 12% 92%,rgba(201,138,46,.10),transparent 68%),linear-gradient(180deg,#0A0A0B,#0C0A07 60%,#0A0A0B)}
 .grain{position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.05;mix-blend-mode:overlay;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
-#three{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.92}
-.wrap{position:relative;z-index:2;max-width:1180px;margin:0 auto;padding:0 28px}
-.eyebrow{font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;color:var(--gold-lt);font-weight:600}
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+.vignette{position:fixed;inset:0;z-index:1;pointer-events:none;box-shadow:inset 0 0 240px 60px rgba(0,0,0,.7)}
+#three{position:fixed;inset:0;z-index:0;pointer-events:none}
+.progress{position:fixed;top:0;left:0;height:2px;width:0;z-index:60;background:linear-gradient(90deg,var(--gold-deep),var(--gold-lt));box-shadow:0 0 12px var(--gold)}
 
-nav{position:fixed;top:0;left:0;right:0;z-index:30;transition:.3s}
-.nav-in{max-width:1180px;margin:14px auto;padding:12px 24px;display:flex;justify-content:space-between;align-items:center;
-  background:var(--glass);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:100px;margin-left:24px;margin-right:24px}
-.brand{font-family:var(--serif);font-size:1.02rem}.brand b{color:var(--gold-lt);font-weight:600}
-.btn{display:inline-flex;align-items:center;gap:.5em;font-weight:600;font-size:.95rem;padding:.85em 1.7em;border-radius:100px;transition:.25s;cursor:pointer;border:1px solid transparent}
-.btn-gold{background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;box-shadow:0 10px 34px -10px rgba(202,138,4,.6)}
-.btn-gold:hover{transform:translateY(-2px);box-shadow:0 16px 44px -10px rgba(202,138,4,.75)}
-.btn-ghost{border-color:var(--line);color:var(--ink);background:var(--glass);backdrop-filter:blur(10px)}
-.btn-ghost:hover{border-color:var(--gold-lt);color:var(--gold-lt)}
+.wrap{position:relative;z-index:3;max-width:1180px;margin:0 auto;padding:0 30px}
+.eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:500}
+.idx{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;color:var(--muted)}
 
-.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:160px 0 90px}
-.hero h1{font-size:clamp(3rem,8vw,7rem);margin:.22em 0}
-.hero h1 em{font-style:italic;color:var(--gold-lt)}
-.hero .sub{font-size:clamp(1.05rem,1.5vw,1.3rem);max-width:600px;margin-top:1.4em}
-.steps{display:flex;gap:26px;flex-wrap:wrap;margin-top:2.3em;font-size:.84rem;letter-spacing:.03em;color:var(--muted)}
-.steps b{color:var(--gold-lt);font-family:var(--serif)}
-.hero-cta{display:flex;gap:14px;flex-wrap:wrap;margin-top:2.6em}
+/* nav */
+nav{position:fixed;top:0;left:0;right:0;z-index:40;transition:.35s}
+.nav-in{max-width:1180px;margin:16px auto;padding:13px 26px;display:flex;justify-content:space-between;align-items:center;border:1px solid transparent;border-radius:100px;transition:.35s}
+nav.scrolled .nav-in{background:rgba(12,10,7,.66);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border-color:var(--line)}
+.brand{display:flex;align-items:center;gap:11px;font-family:var(--serif);font-size:1rem}
+.brand .bsub{color:var(--muted);font-size:.9rem;border-left:1px solid var(--line);padding-left:11px}
+.btn{display:inline-flex;align-items:center;gap:.5em;font-weight:600;font-size:.93rem;padding:.9em 1.8em;transition:.28s;cursor:pointer;border:1px solid transparent;border-radius:100px;letter-spacing:.01em}
+.btn-gold{background:linear-gradient(135deg,var(--gold-lt),var(--gold));color:#0A0A0B;box-shadow:0 10px 40px -10px rgba(232,176,75,.6)}
+.btn-gold:hover{transform:translateY(-2px);box-shadow:0 18px 56px -10px rgba(232,176,75,.8)}
+.btn-line{border-color:var(--line);color:var(--ink);background:rgba(232,176,75,.04)}
+.btn-line:hover{border-color:var(--gold);color:var(--gold-lt)}
 
-.rev{opacity:0;transform:translateY(28px);transition:opacity 1s cubic-bezier(.16,1,.3,1),transform 1s cubic-bezier(.16,1,.3,1)}
-.rev.in{opacity:1;transform:none}
-.word{display:inline-block;white-space:nowrap}
-.reveal-ltr{display:inline-block;opacity:0;transform:translateY(.55em);animation:ltrRise .7s cubic-bezier(.16,1,.3,1) forwards}
-@keyframes ltrRise{to{opacity:1;transform:none}}
-@media(prefers-reduced-motion:reduce){.reveal-ltr{animation:none;opacity:1;transform:none}}
-section{padding:110px 0;position:relative}
-.sec-head{max-width:740px;margin-bottom:60px}
-.sec-head .eyebrow{display:block;margin-bottom:18px}
-.sec-head h2{font-size:clamp(2rem,4.2vw,3.5rem)}
+/* hero */
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:160px 0 90px;position:relative}
+.hero h1{font-size:clamp(3.4rem,10vw,8.4rem);letter-spacing:-.035em;margin:.12em 0}
+.hero h1 em{font-style:italic}
+.hero .lead{font-size:clamp(1.12rem,1.7vw,1.42rem);max-width:560px;margin-top:1.5em;color:#EBE3D0}
+.hero .lead b{color:var(--ink);font-weight:600}
+.hero-cta{display:flex;gap:14px;flex-wrap:wrap;margin-top:2.4em;align-items:center}
+.hero-note{margin-top:1.7em;font-size:.92rem;color:var(--muted);max-width:540px}
+.hero-note a{color:var(--gold-lt);border-bottom:1px solid var(--line)}
+.scrollcue{position:absolute;bottom:34px;left:30px;font-family:var(--mono);font-size:.68rem;letter-spacing:.2em;color:var(--muted);text-transform:uppercase;display:flex;align-items:center;gap:10px;z-index:3}
+.scrollcue .ln{width:42px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);animation:cue 2.2s ease-in-out infinite}
+@keyframes cue{0%,100%{transform:scaleX(.4);opacity:.5;transform-origin:left}50%{transform:scaleX(1);opacity:1;transform-origin:left}}
 
-.glass{background:var(--glass);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid var(--line);border-radius:20px}
-.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
-.stat{padding:28px 24px}
-.stat b{font-family:var(--serif);font-size:1.9rem;color:var(--gold-lt);display:block}
-.stat span{font-size:.82rem;color:var(--muted)}
+.rule{height:1px;background:var(--line);margin:0;position:relative;z-index:3}
 
-.build{display:grid;grid-template-columns:1.05fr 1fr;gap:56px;align-items:start}
+/* credibility */
+.cred{display:flex;flex-wrap:wrap;gap:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);backdrop-filter:blur(6px)}
+.cred div{flex:1 1 200px;padding:24px 26px;border-right:1px solid var(--line2)}
+.cred div:last-child{border-right:none}
+.cred .k{font-family:var(--serif);font-size:1.06rem;color:var(--gold-lt)}
+.cred .v{font-size:.82rem;color:var(--muted);margin-top:3px}
+
+section{padding:108px 0;position:relative;z-index:3}
+.sec-head{max-width:720px;margin-bottom:54px}
+.sec-head .top{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+.sec-head h2{font-size:clamp(2.1rem,4.6vw,3.6rem)}
+.sec-head .dek{margin-top:18px;color:#E4DBC7;font-size:1.06rem;max-width:640px}
+
+/* parallax image band */
+.band{position:relative;z-index:3;height:clamp(320px,46vw,540px);overflow:hidden;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.band .img{position:absolute;inset:-12% 0;background-size:cover;background-position:center;will-change:transform}
+.band .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,11,.82),rgba(10,10,11,.5) 50%,rgba(10,10,11,.92)),radial-gradient(60% 80% at 50% 50%,rgba(232,176,75,.10),transparent 70%)}
+.band .cap{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;z-index:2}
+.band .cap .wrap{width:100%}
+.band .cap h2{font-size:clamp(2rem,4.6vw,3.4rem);max-width:780px}
+.band .cap p{margin-top:16px;color:#EBE3D0;max-width:520px}
+
+/* build */
+.build{display:grid;grid-template-columns:1.04fr 1fr;gap:60px;align-items:start}
 .build ul{list-style:none}
-.build li{padding:18px 0;border-bottom:1px solid var(--line);display:flex;gap:16px;font-size:1.05rem}
-.build li::before{content:"";flex:0 0 7px;height:7px;margin-top:.6em;border-radius:50%;background:var(--gold-lt);box-shadow:0 0 12px var(--gold)}
+.build li{padding:19px 0;border-bottom:1px solid var(--line2);display:flex;gap:16px;font-size:1.05rem;color:#EBE3D0}
+.build li::before{content:"";flex:0 0 7px;height:7px;margin-top:.6em;border-radius:50%;background:var(--gold);box-shadow:0 0 14px var(--gold)}
 
+/* feature panel */
+.feature{border:1px solid var(--line);background:linear-gradient(180deg,rgba(28,23,13,.5),rgba(14,12,8,.6));backdrop-filter:blur(10px);max-width:840px;margin:0 auto;padding:clamp(32px,5vw,60px);border-radius:18px}
+.feature p{margin-bottom:15px;color:#E4DBC7}
+.feature .punch{color:var(--ink);font-weight:600}
+.feature .close{color:var(--gold-lt);font-family:var(--serif);font-size:1.2rem;line-height:1.4;font-style:italic;margin-top:8px}
+
+/* steps */
 .grid8{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
-.step{padding:32px;transition:.3s}
-.step:hover{border-color:var(--gold-lt);transform:translateY(-4px)}
-.step .n{font-family:var(--serif);font-size:1rem;color:var(--gold);letter-spacing:.08em}
-.step h3{font-size:1.35rem;margin:.45em 0 .35em}
-.step p{font-size:.95rem;color:var(--muted)}
-.step .step-in{margin-top:14px;padding-top:14px;border-top:1px solid var(--line);font-size:.88rem;color:var(--gold-lt);font-style:italic}
+.step{padding:32px;border:1px solid var(--line);background:var(--panel);backdrop-filter:blur(8px);border-radius:14px;transition:.3s;position:relative;overflow:hidden}
+.step::after{content:"";position:absolute;inset:0;background:radial-gradient(120% 100% at 100% 0,rgba(232,176,75,.12),transparent 60%);opacity:0;transition:.3s}
+.step:hover{border-color:var(--gold);transform:translateY(-5px)}
+.step:hover::after{opacity:1}
+.step .n{font-family:var(--mono);font-size:.82rem;color:var(--gold);letter-spacing:.1em}
+.step h3{font-size:1.36rem;margin:.5em 0 .4em}
+.step p{font-size:.96rem;color:#DDD3BD}
+.step .in{margin-top:15px;padding-top:14px;border-top:1px solid var(--line2);font-size:.88rem;color:var(--gold-lt);font-style:italic;position:relative}
 
-.quote{max-width:840px;margin:0 auto;text-align:center;padding:60px 40px}
-.quote p{font-family:var(--serif);font-size:clamp(1.6rem,3.2vw,2.6rem);font-style:italic;line-height:1.28}
-.quote .by{margin-top:22px;color:var(--gold-lt);letter-spacing:.06em;font-size:.85rem}
+/* pull */
+.pull{max-width:900px;margin:0 auto;text-align:center;padding:30px}
+.pull p{font-family:var(--serif);font-size:clamp(1.8rem,3.6vw,2.9rem);font-style:italic;line-height:1.24;letter-spacing:-.01em}
+.pull .by{margin-top:24px;font-family:var(--mono);color:var(--muted);letter-spacing:.1em;font-size:.78rem;text-transform:uppercase}
 
-.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-.plan{padding:38px 30px;position:relative;transition:.3s}
-.plan:hover{transform:translateY(-6px);border-color:var(--gold-lt)}
-.plan.feat{border-color:var(--gold);background:linear-gradient(180deg,rgba(60,44,12,.5),rgba(22,17,10,.5))}
-.badge{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:#0E0B07;font-size:.64rem;font-weight:700;letter-spacing:.12em;padding:6px 16px;border-radius:100px;text-transform:uppercase}
+/* founder */
+.founder{display:grid;grid-template-columns:1fr 1.1fr;gap:56px;align-items:center}
+.founder .ph{position:relative;border-radius:16px;overflow:hidden;border:1px solid var(--line)}
+.founder .ph img{width:100%;display:block}
+.founder .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 40%,rgba(10,10,11,.5)),radial-gradient(80% 60% at 50% 0,rgba(232,176,75,.18),transparent 60%);pointer-events:none}
+
+/* testimonials */
+.testi-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;max-width:980px;margin:0 auto}
+.testi{border:1px solid var(--line);background:var(--panel);padding:14px;border-radius:14px}
+.testi wistia-player{border-radius:8px;overflow:hidden;display:block}
+.testi .nm{font-family:var(--serif);font-size:1.16rem;margin-top:14px;padding:0 6px}
+.testi .nm span{color:var(--muted);font-size:.84rem;font-family:var(--sans);display:block;margin-top:2px}
+.testi .nm a{color:var(--gold-lt);font-size:.8rem;font-family:var(--mono);display:inline-block;margin-top:6px}
+.proof-line{text-align:center;color:var(--muted);font-size:1rem;margin-top:34px;font-style:italic;font-family:var(--serif)}
+
+/* plans */
+.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.plan{padding:40px 30px;position:relative;transition:.3s;border:1px solid var(--line);background:var(--panel);backdrop-filter:blur(8px);border-radius:16px}
+.plan:hover{transform:translateY(-6px);border-color:var(--gold)}
+.plan.feat{background:linear-gradient(180deg,rgba(232,176,75,.12),rgba(20,17,10,.7));border-color:var(--gold)}
+.badge{display:inline-block;background:linear-gradient(135deg,var(--gold-lt),var(--gold));color:#0A0A0B;font-family:var(--mono);font-size:.6rem;font-weight:600;letter-spacing:.16em;padding:5px 14px;text-transform:uppercase;margin-bottom:16px;border-radius:100px}
 .plan .dur{font-family:var(--serif);font-size:1.5rem}
-.plan .price{font-family:var(--serif);font-size:3rem;color:var(--gold-lt);margin:.15em 0}
-.plan .price small{font-size:1rem;color:var(--muted)}
-.plan .pif{font-size:.9rem;color:var(--muted);margin-bottom:22px}
-.plan .btn{width:100%;justify-content:center;margin-top:6px}
+.plan .tag{font-size:.88rem;margin-bottom:18px;color:var(--muted)}
+.plan .price{font-family:var(--serif);font-size:3rem;color:var(--gold-lt);margin:.08em 0}
+.plan .price small{font-size:.98rem;color:var(--muted);font-family:var(--sans)}
+.plan .pif{font-size:.88rem;color:var(--muted);margin-bottom:14px}
+.plan .access{font-size:.84rem;color:var(--gold-lt);margin-bottom:20px}
+.plan .btn{width:100%;justify-content:center}
+.plan .alt{display:block;margin-top:11px;font-size:.8rem;color:var(--gold-lt);font-family:var(--mono)}
+.guarantee{border:1px solid var(--gold);max-width:680px;margin:34px auto 0;padding:28px 34px;text-align:center;background:linear-gradient(180deg,rgba(232,176,75,.08),rgba(20,17,10,.5));border-radius:16px}
+.guarantee .gh{font-family:var(--serif);font-size:1.32rem;color:var(--gold-lt);margin-bottom:8px}
 
+/* not for */
+.notfor{border:1px solid var(--line);background:var(--panel);max-width:700px;margin:0 auto;padding:36px 40px;border-radius:16px}
+.notfor h3{font-size:1.44rem;margin-bottom:20px}
+.notfor li{list-style:none;display:flex;gap:14px;padding:11px 0;color:#DDD3BD;font-size:1rem;border-bottom:1px solid var(--line2)}
+.notfor li:last-of-type{border-bottom:none}
+.notfor li b{color:var(--gold);flex:0 0 auto;font-family:var(--mono)}
+
+/* faq */
 .faq-item{border-bottom:1px solid var(--line);padding:26px 4px;cursor:pointer}
-.faq-q{display:flex;justify-content:space-between;gap:20px;font-family:var(--serif);font-size:1.2rem}
-.faq-q .pl{color:var(--gold-lt);transition:.3s}
-.faq-a{max-height:0;overflow:hidden;transition:max-height .4s ease;color:var(--muted)}
-.faq-item.open .faq-a{max-height:240px;padding-top:14px}
+.faq-q{display:flex;justify-content:space-between;gap:20px;font-family:var(--serif);font-size:1.24rem}
+.faq-q .pl{color:var(--gold);transition:.3s;font-family:var(--sans)}
+.faq-a{max-height:0;overflow:hidden;transition:max-height .4s ease;color:#DDD3BD}
+.faq-item.open .faq-a{max-height:260px;padding-top:14px}
 .faq-item.open .pl{transform:rotate(45deg)}
 
+/* final */
 .final{text-align:center;padding:140px 0}
-.final h2{font-size:clamp(2.4rem,5.5vw,4.6rem);max-width:920px;margin:0 auto .4em}
-.final h2 em{font-style:italic;color:var(--gold-lt)}
-footer{border-top:1px solid var(--line);padding:40px 0;text-align:center;color:var(--muted);font-size:.82rem}
-.testi-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;max-width:980px;margin:0 auto}
-.testi{padding:14px}
-.testi wistia-player{border-radius:14px;overflow:hidden;display:block}
-.testi .nm{font-family:var(--serif);font-size:1.15rem;margin-top:14px;padding:0 6px}
-.testi .nm span{color:var(--muted);font-size:.85rem;font-family:var(--sans);display:block;margin-top:2px}
-.testi .nm a{color:var(--gold-lt);font-size:.8rem;font-family:var(--sans);text-decoration:none;display:inline-block;margin-top:4px}
-.testi .nm a:hover{text-decoration:underline}
-.notfor{max-width:680px;margin:0 auto;padding:34px 38px}
-.notfor h3{font-size:1.4rem;margin-bottom:18px}
-.notfor li{list-style:none;display:flex;gap:12px;padding:10px 0;color:var(--muted);font-size:1rem}
-.notfor li b{color:var(--gold-lt);font-weight:600;flex:0 0 auto}
-.proof-line{text-align:center;color:var(--muted);font-size:.92rem;margin-top:30px}
-@media(max-width:860px){.stats{grid-template-columns:repeat(2,1fr)}.build,.grid8,.plans,.testi-grid{grid-template-columns:1fr}.hero{padding-top:130px}}
+.final h2{font-size:clamp(2.6rem,5.8vw,4.8rem);max-width:920px;margin:0 auto .4em}
+.final h2 em{font-style:italic}
+footer{border-top:1px solid var(--line);padding:42px 0;text-align:center;color:var(--muted);font-size:.84rem;position:relative;z-index:3}
+footer a{color:var(--gold-lt)}
+
+/* theme toggle */
+.nav-right{display:flex;align-items:center;gap:12px}
+.theme-btn{background:rgba(232,176,75,.06);border:1px solid var(--line);color:var(--gold-lt);width:42px;height:42px;border-radius:100px;cursor:pointer;font-size:1.05rem;transition:.25s;display:inline-flex;align-items:center;justify-content:center;line-height:1}
+.theme-btn:hover{border-color:var(--gold);color:var(--gold);transform:translateY(-1px)}
+
+/* pour / pas pour */
+.forgrid{display:grid;grid-template-columns:1fr 1fr;gap:18px;max-width:1000px;margin:0 auto;align-items:start}
+.forcard{border:1px solid var(--line);background:var(--panel);backdrop-filter:blur(8px);padding:36px 40px;border-radius:16px}
+.forcard.yes{border-color:var(--gold);background:linear-gradient(180deg,rgba(232,176,75,.10),rgba(20,17,10,.5))}
+.forcard h3{font-size:1.34rem;margin-bottom:20px}
+.forcard ul{list-style:none}
+.forcard li{display:flex;gap:14px;padding:12px 0;color:#DDD3BD;font-size:1rem;border-bottom:1px solid var(--line2)}
+.forcard li:last-child{border-bottom:none}
+.forcard li b{flex:0 0 auto;font-family:var(--mono)}
+.forcard.yes li b{color:var(--gold-lt)}
+.forcard.no li b{color:var(--muted)}
+@media(max-width:860px){.forgrid{grid-template-columns:1fr}}
+
+/* ===== LIGHT THEME ===== */
+body.light{--bg:#F4EEE2;--bg2:#EFE7D7;--panel:rgba(255,252,245,.62);--panel2:rgba(255,252,245,.82);--ink:#1C1710;--muted:#7A6E57;--line:rgba(140,100,30,.22);--line2:rgba(140,100,30,.10);--gold:#A6781F;--gold-lt:#B98A2A;--gold-deep:#7C570F}
+body.light .bg-glow{background:radial-gradient(60% 50% at 70% 8%,rgba(166,120,31,.14),transparent 62%),radial-gradient(50% 50% at 12% 92%,rgba(124,87,15,.08),transparent 68%),linear-gradient(180deg,#F4EEE2,#F0E8D8 60%,#F4EEE2)}
+body.light .grain{mix-blend-mode:multiply;opacity:.04}
+body.light .vignette{box-shadow:inset 0 0 200px 40px rgba(120,90,40,.12)}
+body.light nav.scrolled .nav-in{background:rgba(250,245,236,.78)}
+body.light .hero .lead,body.light .sec-head .dek,body.light .band .cap p,body.light .build li,body.light .step p,body.light .feature p,body.light .notfor li,body.light .forcard li,body.light .guarantee p,body.light .plan .tag,body.light .plan .pif{color:#4A4234}
+body.light .feature .punch,body.light .step h3{color:#1C1710}
+body.light .feature{background:linear-gradient(180deg,rgba(255,252,245,.74),rgba(245,238,225,.74))}
+body.light .forcard.yes,body.light .plan.feat{background:linear-gradient(180deg,rgba(166,120,31,.12),rgba(255,252,245,.7))}
+body.light .guarantee{background:linear-gradient(180deg,rgba(166,120,31,.10),rgba(255,252,245,.6))}
+body.light .step::after{background:radial-gradient(120% 100% at 100% 0,rgba(166,120,31,.14),transparent 60%)}
+body.light .band .ov{background:linear-gradient(180deg,rgba(244,238,226,.6),rgba(244,238,226,.3) 50%,rgba(244,238,226,.86)),radial-gradient(60% 80% at 50% 50%,rgba(166,120,31,.12),transparent 70%)}
+body.light ::selection{background:var(--gold);color:#fff}
+
+/* reveal */
+.rev{opacity:0;transform:translateY(30px);transition:opacity 1s cubic-bezier(.16,1,.3,1),transform 1s cubic-bezier(.16,1,.3,1)}
+.rev.in{opacity:1;transform:none}
+
+@media(max-width:860px){
+  .build,.founder{grid-template-columns:1fr;gap:38px}
+  .grid8,.plans,.testi-grid{grid-template-columns:1fr}
+  .cred div{flex:1 1 100%;border-right:none;border-bottom:1px solid var(--line2)}
+  .hero{padding-top:130px}
+  #three{opacity:.5}
+}
 @media(prefers-reduced-motion:reduce){.rev{transition:none;opacity:1;transform:none}#three{display:none}}
 </style>
 </head>
 <body>
-<div class="mesh"></div><canvas id="three"></canvas><div class="grain"></div>
+<div class="bg-glow"></div><canvas id="three"></canvas><div class="grain"></div><div class="vignette"></div><div class="progress" id="prog"></div>
 
-<nav><div class="nav-in">
-  <div class="brand" style="display:flex;align-items:center;gap:11px"><img src="assets/logo.png" alt="Business Ascension™" style="height:38px;width:auto" onerror="this.style.display='none';document.getElementById('bt').style.display='inline'"><b id="bt" style="display:none">Business Ascension™ ·</b> <span style="color:var(--muted);font-size:.95rem">Deviens l'Entrepreneur™</span></div>
-  <a href="#plans" class="btn btn-gold">Rejoindre</a>
+<nav id="nav"><div class="nav-in">
+  <div class="brand">
+    <img src="assets/logo.png" alt="Business Ascension™" style="height:34px;width:auto" onerror="this.style.display='none'">
+    <span class="bsub">Deviens l'Entrepreneur™</span>
+  </div>
+  <div class="nav-right">
+    <button id="themeToggle" class="theme-btn" aria-label="Changer de thème" title="Mode clair / sombre">☾</button>
+    <a href="#plans" class="btn btn-gold">Rejoindre</a>
+  </div>
 </div></nav>
 
 <div class="wrap">
   <header class="hero">
-    <div class="eyebrow rev">Business Ascension™</div>
-    <h1 class="title-split">Deviens<br>l'<em>Entrepreneur.</em></h1>
-    <p class="sub rev">Tes <strong>premiers 10K€/mois réguliers</strong>, construits autour de qui tu es. Une offre qui se vend. Un contenu qui pré-vend. Un système pour vendre par message.</p>
-    <div class="steps rev"><span><b>01</b> · Regarde la vidéo</span><span><b>02</b> · Choisis ton plan</span><span><b>03</b> · Accès immédiat</span></div>
-    <div class="hero-cta rev"><a href="#plans" class="btn btn-gold">Voir les plans →</a><a href="#build" class="btn btn-ghost">Ce qu'on construit</a></div>
-    <p class="rev" style="margin-top:1.6em;font-size:.9rem;color:var(--muted)">Pas sûr que ce soit pour toi ? <a href="https://goulots.businessascension.fr/" style="color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">Commence par le guide des 4 goulots</a>. En 5 minutes tu identifies ce qui te bloque. Offert, zéro engagement.</p>
-  </header>
-
-  <section style="padding-top:0">
-    <div class="stats">
-      <div class="glass stat rev"><b>2 piliers</b><span>Identité + Business en simultané</span></div>
-      <div class="glass stat rev"><b>Hebdo</b><span>Mises à jour du protocole</span></div>
-      <div class="glass stat rev"><b>48h</b><span>De l'inscription à ton plan</span></div>
-      <div class="glass stat rev"><b>Mensuel</b><span>Session live avec Chris</span></div>
+    <div class="eyebrow rev">Business Ascension™ · Porte 1</div>
+    <h1 class="rev">Deviens<br>l'<em class="gold-text">Entrepreneur.</em></h1>
+    <p class="lead rev">Tes <b>premiers 10K€/mois réguliers</b>. Pas un bon mois suivi de trois mois à zéro. Un truc qui tourne. Une offre qui se vend, du contenu qui pré-vend à ta place, et des clients que tu closes par message. Sans courir après des appels.</p>
+    <div class="hero-cta rev">
+      <a href="#plans" class="btn btn-gold">Voir les plans →</a>
+      <a href="#build" class="btn btn-line">Ce qu'on construit</a>
     </div>
-  </section>
+    <p class="hero-note rev">Pas encore sûr que ce soit pour toi ? <a href="https://goulots.businessascension.fr/">Commence par le guide des 4 goulots</a>. 5 minutes, et tu sais exactement ce qui te bloque. C'est offert, et tu repars avec la réponse même si on ne se parle jamais.</p>
+  </header>
+</div>
+<div class="wrap"><div class="scrollcue"><span class="ln"></span>Défile</div></div>
 
+<div class="wrap">
+  <div class="cred rev">
+    <div><div class="k">Identité + Business</div><div class="v">Travaillés en simultané, chaque semaine</div></div>
+    <div><div class="k">Protocole sous 48h</div><div class="v">Construit par Chris, à la main</div></div>
+    <div><div class="k">Garantie 30 jours</div><div class="v">Premier résultat concret ou remboursé</div></div>
+    <div><div class="k">Hypnose · PNL · Neuro</div><div class="v">Le levier que les coachs n'ont pas</div></div>
+  </div>
+</div>
+
+<div class="wrap">
   <section id="build">
     <div class="build">
       <div class="sec-head rev" style="margin:0">
-        <span class="eyebrow">Ce qu'on construit</span>
-        <h2>Identité. Business. Acquisition.<br>Construits en parallèle.</h2>
-        <p class="muted" style="margin-top:18px">Pour les entrepreneurs, coachs et consultants prêts à avancer à fond sur chaque pilier en même temps.</p>
+        <div class="top"><span class="idx">( 01 )</span><span class="eyebrow">Ce qu'on construit</span></div>
+        <h2>Identité. Business.<br>Acquisition. <span class="gold-text">En parallèle.</span></h2>
+        <p class="dek">Pour les coachs, consultants et entrepreneurs qui en ont marre d'avancer sur un pilier pendant que l'autre les sabote. Ici on bosse les deux la même semaine. Pas l'un, puis l'autre.</p>
       </div>
       <ul class="rev">
-        <li>Ton identité débloquée à la source, breathwork · hypnose · reconditionnement, pour oser te lancer pour de vrai</li>
-        <li>Une offre taillée sur ton marché réel, construite à partir de ce que tes prospects te disent, pas devinée</li>
-        <li>Ton positionnement et ta niche, précis, qui filtrent les bons clients</li>
-        <li>Tes premiers témoignages décrochés vite, ta preuve pour convaincre tous les suivants</li>
-        <li>L'outreach qui va chercher tes premiers clients, en DM Instagram, LinkedIn et commentaires YouTube</li>
-        <li>Tes systèmes de contenu organique, LinkedIn · Instagram · YouTube, qui construisent une communauté qui te suit</li>
-        <li>Vendre par message : closer tes premiers clients en DM, sans courir après des appels</li>
+        <li>Ton identité débloquée à la source. Breathwork, hypnose, reconditionnement. Pour oser te lancer pour de vrai, pas dans six mois.</li>
+        <li>Une offre taillée sur ton vrai marché. On la construit à partir de ce que tes prospects te disent, mot pour mot. Pas devinée dans ta tête.</li>
+        <li>Ton positionnement et ta niche, assez précis pour que les bons clients se reconnaissent et que les autres passent leur chemin.</li>
+        <li>Tes premiers témoignages décrochés vite. C'est eux qui vont convaincre tous les suivants à ta place.</li>
+        <li>L'outreach qui va chercher tes premiers clients pour de vrai. En DM Instagram, LinkedIn, commentaires YouTube.</li>
+        <li>Tes systèmes de contenu organique qui te construisent une communauté qui te suit, et qui finit par t'amener des leads toute seule.</li>
+        <li>Vendre par message. Tu closes tes premiers clients en DM, à l'écrit, sans courir après des appels.</li>
       </ul>
     </div>
   </section>
+</div>
 
-  <section id="vrai-blocage">
-    <div class="glass rev" style="max-width:800px;margin:0 auto;padding:clamp(30px,5vw,56px);text-align:left">
-      <span class="eyebrow">Le vrai blocage</span>
-      <h2 style="margin:14px 0 24px">Le problème n'a jamais été l'information.</h2>
-      <p class="muted" style="margin-bottom:16px">Tu as déjà tout vu. Les vidéos YouTube, les formations à 47€, les gurus qui t'ont vendu du rêve et laissé avec un template et un goût amer.</p>
-      <p class="muted" style="margin-bottom:16px">Et pourtant tu repousses. Tu t'éparpilles. Tu n'oses pas te montrer, ni annoncer un prix, ni envoyer le message.</p>
-      <p class="muted" style="margin-bottom:16px">Ce n'est pas un manque de discipline. Ni de connaissance. L'info est partout, gratuite, et l'IA t'en sort à l'infini. C'est exactement pour ça que les coaches génériques disparaissent : ils vendent ce qu'une machine donne mieux, et gratos.</p>
-      <p style="margin-bottom:16px;color:var(--ink)">Ce qui te bloque est ailleurs. Un câblage. Un frein à main enclenché sous le conscient. Celui qui fait que ton activité ne dépassera jamais le niveau de ce que tu penses mériter, au fond.</p>
-      <p class="muted" style="margin-bottom:16px">Et ça, aucune IA, aucune formation ne le débloque. C'est un travail humain, dans le corps : breathwork, hypnose, reconditionnement. <strong style="color:var(--ink)">C'est là que j'interviens. Et c'est ce qui me rend impossible à remplacer.</strong></p>
-      <p style="color:var(--gold-lt);font-family:var(--serif);font-size:1.15rem;line-height:1.4">À chaque étape du système, on désactive le blocage qui sabote cette étape. En même temps que le business. Jamais l'un puis l'autre. C'est ça, le « simultané ».</p>
+<!-- PARALLAX BAND -->
+<div class="band" data-band>
+  <div class="img" data-img style="background-image:url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1700&q=70')"></div>
+  <div class="ov"></div>
+  <div class="cap"><div class="wrap rev">
+    <span class="eyebrow">Le vrai blocage</span>
+    <h2 style="margin-top:14px">Le problème n'a jamais été <span class="gold-text">l'information.</span></h2>
+    <p>Tu as déjà tout vu. Les formations, les gurus, les templates. Et pourtant tu repousses encore. Le vrai frein, il est ailleurs. Et c'est là qu'on va appuyer.</p>
+  </div></div>
+</div>
+
+<div class="wrap">
+  <section id="blocage">
+    <div class="feature rev">
+      <p>Tu as déjà tout vu. Les vidéos YouTube, les formations à 47€, les gurus qui t'ont vendu du rêve et laissé avec un template et un goût amer dans la bouche.</p>
+      <p>Et pourtant tu repousses. Tu t'éparpilles. Tu n'oses pas te montrer, ni annoncer ton prix, ni appuyer sur envoyer. Tu sais quoi faire. Tu le fais pas.</p>
+      <p>C'est pas un manque de discipline. C'est pas un manque de connaissance non plus. L'info est partout, gratuite, et l'IA t'en recrache à l'infini. C'est exactement pour ça que les coachs génériques sont en train de disparaître. Ils vendent ce qu'une machine donne mieux, et gratos.</p>
+      <p class="punch">Ce qui te bloque est ailleurs. Un câblage. Une espèce de frein à main que tu n'as jamais desserré, planqué sous le conscient. C'est lui qui fait que ton activité ne dépassera jamais le niveau de ce que tu penses mériter, tout au fond.</p>
+      <p>Et ça, aucune formation, aucune IA ne te le débloque. C'est un travail humain, dans le corps. Breathwork, hypnose, reconditionnement. <span class="punch">C'est là que j'interviens. Et c'est précisément ce qui me rend impossible à remplacer.</span></p>
+      <p class="close">À chaque étape, on désamorce le blocage qui sabote cette étape précise. En même temps qu'on construit le business. Jamais l'un puis l'autre. C'est ça, le « simultané ».</p>
     </div>
   </section>
+</div>
 
+<div class="wrap">
   <section>
-    <div class="sec-head rev"><span class="eyebrow">Le mécanisme</span><h2>Les 8 étapes. Comment on y arrive.</h2><p class="muted" style="margin-top:16px">Chaque étape a deux faces : ce qu'on construit dehors (le business) et ce qu'on débloque dedans (l'identité). En même temps.</p></div>
+    <div class="sec-head rev">
+      <div class="top"><span class="idx">( 02 )</span><span class="eyebrow">Le mécanisme</span></div>
+      <h2>Les 8 étapes. <span class="gold-text">Comment on y arrive.</span></h2>
+      <p class="dek">Chaque étape a deux faces : ce qu'on construit dehors (le business) et ce qu'on débloque dedans (l'identité). En même temps.</p>
+    </div>
     <div class="grid8">
-      <div class="glass step rev"><div class="n">01</div><h3>Diagnostic d'Exécution</h3><p>Ce qui bloque. Le goulot qui coûte tout le reste. En 30 minutes on sait exactement où agir.</p><p class="step-in">⟡ En simultané : on isole le pattern d'évitement qui te coûte le plus.</p></div>
-      <div class="glass step rev"><div class="n">02</div><h3>Architecture de l'Offre</h3><p>On construit ton offre à partir de ton marché réel : tu vas interroger tes prospects, et on bâtit l'offre sur leurs réponses. Pas devinée. Positionnée catégorie à part.</p><p class="step-in">⟡ En simultané : on lève la peur d'assumer ta valeur et ton positionnement.</p></div>
-      <div class="glass step rev"><div class="n">03</div><h3>Machine à Leads</h3><p>Au début tu vas chercher tes clients : outreach en DM et tes premiers témoignages décrochés vite. En parallèle ton contenu organique se construit et commence à faire rentrer les leads tout seul.</p><p class="step-in">⟡ En simultané : on dissout la peur de te montrer qui te fait disparaître.</p></div>
-      <div class="glass step rev"><div class="n">04</div><h3>Infrastructure de Conversion</h3><p>Des pages et des outils construits pour transformer ton trafic en clients signés, vite.</p><p class="step-in">⟡ En simultané : on enlève le blocage qui te fait fuir l'idée de « vendre ».</p></div>
-      <div class="glass step rev"><div class="n">05</div><h3>Vendre par Message</h3><p>Tu closes tes premiers clients en DM, à l'écrit, sans appels à rallonge. La conversation se fait à ton rythme, sans pression.</p><p class="step-in">⟡ En simultané : on débloque la peur d'annoncer ton prix sans t'excuser.</p></div>
-      <div class="glass step rev"><div class="n">06</div><h3>Système de Delivery</h3><p>Un système qui livre des résultats à tes clients, sans que ton temps de travail explose à chaque nouveau client.</p><p class="step-in">⟡ En simultané : on calme le perfectionnisme qui t'épuise à sur-livrer.</p></div>
-      <div class="glass step rev"><div class="n">07</div><h3>Scale Ascension</h3><p>Un écosystème en coulisses qui multiplie ce que chaque client te rapporte dans le temps. Plus de trafic, plus de leads, les deux qui s'accumulent.</p><p class="step-in">⟡ En simultané : on remonte le plafond de ce que tu penses mériter.</p></div>
-      <div class="glass step rev"><div class="n">08</div><h3>Blueprint d'Exécution</h3><p>Les actions à fort levier, dans le bon ordre. Tu sais toujours quoi faire ensuite.</p><p class="step-in">⟡ En simultané : on ancre les nouveaux automatismes, et le recâblage tient.</p></div>
+      <div class="step rev"><div class="n">01</div><h3>Diagnostic d'Exécution</h3><p>Ce qui bloque. Le goulot qui coûte tout le reste. En 30 minutes on sait exactement où agir.</p><p class="in">⟡ En simultané : on isole le pattern d'évitement qui te coûte le plus.</p></div>
+      <div class="step rev"><div class="n">02</div><h3>Architecture de l'Offre</h3><p>On construit ton offre à partir de ton marché réel : tu interroges tes prospects, et on bâtit l'offre sur leurs réponses. Pas devinée. Positionnée catégorie à part.</p><p class="in">⟡ En simultané : on lève la peur d'assumer ta valeur et ton positionnement.</p></div>
+      <div class="step rev"><div class="n">03</div><h3>Machine à Leads</h3><p>Au début tu vas chercher tes clients : outreach en DM et premiers témoignages décrochés vite. En parallèle ton contenu organique se construit et fait rentrer les leads tout seul.</p><p class="in">⟡ En simultané : on dissout la peur de te montrer qui te fait disparaître.</p></div>
+      <div class="step rev"><div class="n">04</div><h3>Infrastructure de Conversion</h3><p>Des pages et des outils construits pour transformer ton trafic en clients signés, vite.</p><p class="in">⟡ En simultané : on enlève le blocage qui te fait fuir l'idée de « vendre ».</p></div>
+      <div class="step rev"><div class="n">05</div><h3>Vendre par Message</h3><p>Tu closes tes premiers clients en DM, à l'écrit, sans appels à rallonge. La conversation se fait à ton rythme, sans pression.</p><p class="in">⟡ En simultané : on débloque la peur d'annoncer ton prix sans t'excuser.</p></div>
+      <div class="step rev"><div class="n">06</div><h3>Système de Delivery</h3><p>Un système qui livre des résultats à tes clients, sans que ton temps de travail explose à chaque nouveau client.</p><p class="in">⟡ En simultané : on calme le perfectionnisme qui t'épuise à sur-livrer.</p></div>
+      <div class="step rev"><div class="n">07</div><h3>Scale Ascension</h3><p>Un écosystème en coulisses qui multiplie ce que chaque client te rapporte dans le temps. Plus de trafic, plus de leads, les deux qui s'accumulent.</p><p class="in">⟡ En simultané : on remonte le plafond de ce que tu penses mériter.</p></div>
+      <div class="step rev"><div class="n">08</div><h3>Blueprint d'Exécution</h3><p>Les actions à fort levier, dans le bon ordre. Tu sais toujours quoi faire ensuite.</p><p class="in">⟡ En simultané : on ancre les nouveaux automatismes, et le recâblage tient.</p></div>
     </div>
   </section>
+</div>
 
-  <section><div class="glass quote rev">
-    <p>"Ce n'est pas une formation que tu achètes. <em style="color:var(--gold-lt)">C'est un accès à moi.</em>"</p>
-    <div class="by">Chris, Business Ascension™</div>
+<div class="wrap">
+  <section><div class="pull rev">
+    <p>« Ce n'est pas une formation que tu achètes. <em class="gold-text">C'est un accès à moi.</em> »</p>
+    <div class="by">Chris · Business Ascension™</div>
   </div></section>
+</div>
 
-  <section>
-    <div class="build" style="align-items:center">
-      <div class="glass rev" style="padding:12px"><img src="assets/chris-lifestyle.png" alt="Chris, fondateur de Business Ascension" style="width:100%;border-radius:14px;display:block" onerror="this.parentElement.style.display='none'"></div>
+<div class="wrap">
+  <section style="padding-top:30px">
+    <div class="founder">
+      <div class="ph rev"><img src="assets/chris-lifestyle.png" alt="Chris, fondateur de Business Ascension" onerror="this.parentElement.style.display='none'"></div>
       <div class="rev">
-        <span class="eyebrow">Qui c'est</span>
-        <h2 style="margin:14px 0 18px">Construit pour l'entrepreneur que tu deviens.</h2>
-        <p class="muted">Formé à l'hypnose, la PNL, le breathwork, les neurosciences. J'ai vécu des mois à 12 000€ et des mois à zéro. Pas par manque de compétences. Parce que je n'avais pas le système.</p>
-        <p class="muted" style="margin-top:14px">J'ai construit Business Ascension™ pour bâtir ce dont j'aurais eu besoin. Aujourd'hui, je le construis avec toi.</p>
+        <div class="top" style="display:flex;align-items:center;gap:16px;margin-bottom:18px"><span class="idx">( 03 )</span><span class="eyebrow">Qui c'est</span></div>
+        <h2 style="margin-bottom:18px;font-size:clamp(2rem,3.8vw,2.9rem)">Construit pour <span class="gold-text">l'entrepreneur que tu deviens.</span></h2>
+        <p class="muted">Formé à l'hypnose, la PNL, le breathwork, les neurosciences. J'ai vécu des mois à 12 000€, et des mois à zéro. Pas par manque de compétences. Juste parce que je n'avais pas le système. Et tant que tu l'as pas, tu rejoues la même montagne russe.</p>
+        <p class="muted" style="margin-top:14px">J'ai construit Business Ascension™ pour avoir, enfin, ce dont j'aurais eu besoin à l'époque. Aujourd'hui, je le construis avec toi. Pas à ta place. Avec toi.</p>
       </div>
     </div>
   </section>
+</div>
 
+<div class="wrap">
   <section id="resultats">
-    <div class="sec-head rev" style="text-align:center;margin:0 auto 50px"><span class="eyebrow">Ils l'ont fait</span><h2>Ils étaient à ta place. Écoute-les.</h2></div>
+    <div class="sec-head rev" style="text-align:center;margin:0 auto 48px">
+      <div class="top" style="justify-content:center"><span class="idx">( 04 )</span><span class="eyebrow">Ils l'ont fait</span></div>
+      <h2>Ils étaient à ta place. <span class="gold-text">Écoute-les.</span></h2>
+    </div>
     <div class="testi-grid">
-      <div class="glass testi rev"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Coach en relation harmonieuse</span><a href="https://www.instagram.com/elodierozoy/" target="_blank" rel="noopener">@elodierozoy</a></div></div>
-      <div class="glass testi rev"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Coach pour musiciens</span></div></div>
-      <div class="glass testi rev"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel Quiroga<span>Coach en Image Holistique</span><a href="https://www.instagram.com/marielquiroga_style_mindset/" target="_blank" rel="noopener">@marielquiroga_style_mindset</a></div></div>
-      <div class="glass testi rev"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem « Ari Harden »<span>Coach en séduction</span><a href="https://www.instagram.com/onlinedatingcoachari/" target="_blank" rel="noopener">@onlinedatingcoachari</a></div></div>
+      <div class="testi rev"><wistia-player media-id="4hlujiu0vh" aspect="1.7391304347826086"></wistia-player><div class="nm">Élodie Rozoy<span>Coach en relation harmonieuse</span><a href="https://www.instagram.com/elodierozoy/" target="_blank" rel="noopener">@elodierozoy</a></div></div>
+      <div class="testi rev"><wistia-player media-id="7hjg9wvzup" aspect="1.7777777777777777"></wistia-player><div class="nm">Yanis<span>Coach pour musiciens</span></div></div>
+      <div class="testi rev"><wistia-player media-id="q9d8hwqua3" aspect="1.7777777777777777"></wistia-player><div class="nm">Mariel Quiroga<span>Coach en Image Holistique</span><a href="https://www.instagram.com/marielquiroga_style_mindset/" target="_blank" rel="noopener">@marielquiroga_style_mindset</a></div></div>
+      <div class="testi rev"><wistia-player media-id="zy7jxmz90n" aspect="1.7777777777777777"></wistia-player><div class="nm">Houssem « Ari Harden »<span>Coach en séduction</span><a href="https://www.instagram.com/onlinedatingcoachari/" target="_blank" rel="noopener">@onlinedatingcoachari</a></div></div>
     </div>
     <p class="proof-line rev">Le prochain, c'est toi. Choisis ton plan en dessous.</p>
   </section>
+</div>
 
+<div class="wrap">
   <section id="plans">
-    <div class="sec-head rev" style="text-align:center;margin:0 auto 56px"><span class="eyebrow">Les plans</span><h2>Quel plan tu prends ?</h2><p class="muted" style="margin-top:16px">Mêmes modules. Mêmes lives collectifs avec Chris. Même protocole personnalisé sous 48h. En une fois ou en mensualités.</p></div>
+    <div class="sec-head rev" style="text-align:center;margin:0 auto 50px">
+      <div class="top" style="justify-content:center"><span class="idx">( 05 )</span><span class="eyebrow">Les plans</span></div>
+      <h2>Quel plan <span class="gold-text">tu prends ?</span></h2>
+      <p class="dek" style="margin-left:auto;margin-right:auto">Mêmes modules. Mêmes lives collectifs avec Chris. Même protocole personnalisé sous 48h. En une fois ou en mensualités.</p>
+    </div>
     <div class="plans">
-      <div class="glass plan rev"><div class="dur">3 mois</div><div class="muted" style="font-size:.9rem">Entrée. Le système en mains.</div><div class="price">997€<small> en une fois</small></div><div class="pif">ou 3 × 367€/mois</div><a href="https://buy.stripe.com/7sY5kD5G20iF0h9h2a7AI00" class="btn btn-ghost">Choisir 3 mois · 997€</a><a href="https://buy.stripe.com/5kQ8wPgkG9Tfe7Z8vE7AI03" style="display:block;margin-top:10px;font-size:.82rem;color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">ou 3 × 367€/mois →</a></div>
-      <div class="glass plan feat rev"><div class="badge">Le plus choisi</div><div class="dur">6 mois</div><div class="muted" style="font-size:.9rem">Cycle complet. Le temps d'ancrer.</div><div class="price">1 497€<small> en une fois</small></div><div class="pif">ou 6 × 297€/mois · économise 497€ vs 2× le plan 3 mois</div><div style="font-size:.85rem;color:var(--gold-lt);margin-bottom:14px">+ Accès direct à Chris par message</div><a href="https://buy.stripe.com/14A4gz1pM7L70h9fY67AI01" class="btn btn-gold">Choisir 6 mois · 1 497€</a><a href="https://buy.stripe.com/7sY4gz2tQ5CZfc36nw7AI04" style="display:block;margin-top:10px;font-size:.82rem;color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">ou 6 × 297€/mois →</a></div>
-      <div class="glass plan rev"><div class="dur">12 mois</div><div class="muted" style="font-size:.9rem">Meilleure valeur. Année complète.</div><div class="price">2 497€<small> en une fois</small></div><div class="pif">ou 12 × 247€/mois · économise 1 491€ vs 4× le plan 3 mois</div><div style="font-size:.85rem;color:var(--gold-lt);margin-bottom:14px">+ Accès direct à Chris par message</div><a href="https://buy.stripe.com/3cIdR96K6e9vd3V8vE7AI02" class="btn btn-ghost">Choisir 12 mois · 2 497€</a><a href="https://buy.stripe.com/cNi4gz1pM5CZd3V7rA7AI05" style="display:block;margin-top:10px;font-size:.82rem;color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">ou 12 × 247€/mois →</a></div>
+      <div class="plan rev">
+        <div class="dur">3 mois</div>
+        <div class="tag">Entrée. Le système en mains.</div>
+        <div class="price">997€<small> en une fois</small></div>
+        <div class="pif">ou 3 × 367€/mois</div>
+        <a href="https://buy.stripe.com/7sY5kD5G20iF0h9h2a7AI00" class="btn btn-line">Choisir 3 mois</a>
+        <a href="https://buy.stripe.com/5kQ8wPgkG9Tfe7Z8vE7AI03" class="alt">ou 3 × 367€/mois →</a>
+      </div>
+      <div class="plan feat rev">
+        <span class="badge">Le plus choisi</span>
+        <div class="dur">6 mois</div>
+        <div class="tag">Cycle complet. Le temps d'ancrer.</div>
+        <div class="price">1 497€<small> en une fois</small></div>
+        <div class="pif">ou 6 × 297€/mois · économise 497€ vs 2× le plan 3 mois</div>
+        <div class="access">+ Accès direct à Chris par message</div>
+        <a href="https://buy.stripe.com/14A4gz1pM7L70h9fY67AI01" class="btn btn-gold">Choisir 6 mois · 1 497€</a>
+        <a href="https://buy.stripe.com/7sY4gz2tQ5CZfc36nw7AI04" class="alt">ou 6 × 297€/mois →</a>
+      </div>
+      <div class="plan rev">
+        <div class="dur">12 mois</div>
+        <div class="tag">Meilleure valeur. Année complète.</div>
+        <div class="price">2 497€<small> en une fois</small></div>
+        <div class="pif">ou 12 × 247€/mois · économise 1 491€ vs 4× le plan 3 mois</div>
+        <div class="access">+ Accès direct à Chris par message</div>
+        <a href="https://buy.stripe.com/3cIdR96K6e9vd3V8vE7AI02" class="btn btn-line">Choisir 12 mois</a>
+        <a href="https://buy.stripe.com/cNi4gz1pM5CZd3V7rA7AI05" class="alt">ou 12 × 247€/mois →</a>
+      </div>
     </div>
-    <p class="muted rev" style="text-align:center;margin-top:34px;font-size:.9rem;max-width:760px;margin-left:auto;margin-right:auto">Chaque plan : modules complets · ton protocole personnalisé sous 48h · lives collectifs avec Chris · mises à jour hebdo · communauté privée · IA · <strong style="color:var(--ink)">BONUS, les 8 étapes pour tes premiers 10K€/mois</strong>.</p>
-    <div class="glass rev" style="max-width:680px;margin:30px auto 0;padding:26px 32px;text-align:center;border-color:rgba(202,138,4,.35)">
-      <div style="font-family:var(--serif);font-size:1.25rem;color:var(--gold-lt);margin-bottom:8px">Garantie 30 jours. Le risque est sur moi.</div>
-      <p class="muted" style="font-size:.95rem">Ta roadmap construite et ton premier résultat concret sous 30 jours. Sinon, remboursement intégral. Tu ne paries pas sur moi : je parie sur toi.</p>
+    <p class="muted rev" style="text-align:center;margin-top:30px;font-size:.92rem;max-width:760px;margin-left:auto;margin-right:auto">Chaque plan : modules complets · ton protocole personnalisé sous 48h · lives collectifs avec Chris · mises à jour hebdo · communauté privée · IA · <b style="color:var(--gold-lt)">BONUS : les 8 étapes pour tes premiers 10K€/mois</b>.</p>
+    <div class="guarantee rev">
+      <div class="gh">Garantie 30 jours. Le risque, c'est moi qui le porte.</div>
+      <p class="muted" style="font-size:.96rem">Ta roadmap construite et ton premier résultat concret sous 30 jours. Si t'as fait le taf et que t'as rien, tu es remboursé, tout. Tu paries pas sur moi. C'est moi qui parie sur toi.</p>
     </div>
-    <p class="muted rev" style="text-align:center;margin-top:18px;font-size:.85rem">Chaque protocole est construit par Chris lui-même sous 48h, et les entrées sont limitées chaque mois.</p>
-    <p class="rev" style="text-align:center;margin-top:26px;font-size:.9rem;color:var(--muted)">Tu hésites entre les plans ? <a href="https://ig.me/m/chris.businessascension" style="color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">Écris-moi en DM</a>. On regarde ton cas ensemble et tu sauras lequel te correspond.</p>
+    <p class="muted rev" style="text-align:center;margin-top:18px;font-size:.85rem">Chaque protocole, c'est Chris qui le construit à la main, sous 48h. Du coup les entrées sont limitées chaque mois. Quand c'est plein, c'est plein.</p>
+    <p class="rev" style="text-align:center;margin-top:24px;font-size:.92rem;color:var(--muted)">Tu hésites entre les plans ? <a href="https://ig.me/m/chris.businessascension" style="color:var(--gold-lt);border-bottom:1px solid var(--line)">Écris-moi en DM</a>. On regarde ton cas ensemble.</p>
   </section>
+</div>
 
-  <section style="padding-top:0">
-    <div class="glass notfor rev">
-      <h3>Deviens l'Entrepreneur™ n'est PAS pour toi si…</h3>
-      <ul>
-        <li><b>×</b><span>Tu cherches quelqu'un qui fait le travail à ta place. Ici on construit ensemble, et c'est toi qui exécutes</span></li>
-        <li><b>×</b><span>Tu veux juste "voir ce que ça donne" avant de vraiment t'y mettre</span></li>
-        <li><b>×</b><span>Tu cherches encore un outil de plus, pas une ossature complète</span></li>
-        <li><b>×</b><span>Tu n'es pas prêt à travailler ton identité en même temps que ton business</span></li>
-      </ul>
-      <p style="margin-top:16px;color:var(--muted);font-size:.92rem">Si aucune de ces lignes te décrit, <a href="#plans" style="color:var(--gold-lt);text-decoration:underline;text-underline-offset:3px">choisis ton plan</a>.</p>
+<div class="wrap">
+  <section style="padding-top:20px">
+    <div class="forgrid">
+      <div class="forcard yes rev">
+        <h3>Deviens l'Entrepreneur™, c'est <span class="gold-text">pour toi</span> si…</h3>
+        <ul>
+          <li><b>✓</b><span>Tu es coach, consultant ou entrepreneur entre 0 et 10K€/mois et tu veux rendre tes revenus prévisibles.</span></li>
+          <li><b>✓</b><span>Tu es prêt à exécuter toi-même, avec un système et un accompagnement qui te tiennent.</span></li>
+          <li><b>✓</b><span>Tu veux construire ton identité en même temps que ton business, pas l'un puis l'autre.</span></li>
+          <li><b>✓</b><span>Tu veux une offre bâtie sur ton marché réel et vendre par message, sans courir après les appels.</span></li>
+        </ul>
+        <p style="margin-top:18px;font-size:.92rem"><a href="#plans" style="color:var(--gold-lt);border-bottom:1px solid var(--line)">Choisis ton plan →</a></p>
+      </div>
+      <div class="forcard no rev">
+        <h3>Ce n'est <span style="color:var(--muted)">pas pour toi</span> si…</h3>
+        <ul>
+          <li><b>×</b><span>Tu cherches quelqu'un qui fait le travail à ta place. Ici on construit ensemble, et c'est toi qui exécutes.</span></li>
+          <li><b>×</b><span>Tu veux juste « voir ce que ça donne » avant de vraiment t'y mettre.</span></li>
+          <li><b>×</b><span>Tu cherches encore un outil de plus, pas une ossature complète.</span></li>
+          <li><b>×</b><span>Tu n'es pas prêt à travailler ton identité en même temps que ton business.</span></li>
+        </ul>
+        <p style="margin-top:18px;color:var(--muted);font-size:.92rem">Si rien ici ne te décrit, tu es au bon endroit.</p>
+      </div>
     </div>
   </section>
+</div>
 
-  <section style="padding-top:0">
-    <div class="sec-head rev"><span class="eyebrow">Questions</span><h2>Ce que tu te demandes.</h2></div>
+<div class="wrap">
+  <section style="padding-top:20px">
+    <div class="sec-head rev">
+      <div class="top"><span class="idx">( 06 )</span><span class="eyebrow">Questions</span></div>
+      <h2>Ce que <span class="gold-text">tu te demandes.</span></h2>
+    </div>
     <div class="rev">
-      <div class="faq-item"><div class="faq-q"><span>C'est vraiment personnalisé ou c'est un template tout fait ?</span><span class="pl">+</span></div><div class="faq-a">Entièrement personnalisé. Je lis ton arrivée moi-même. Je construis ton protocole, ta feuille de route, tes premières actions, autour de toi. Et je l'ajuste chaque semaine.</div></div>
-      <div class="faq-item"><div class="faq-q"><span>Combien de temps avant d'avoir accès ?</span><span class="pl">+</span></div><div class="faq-a">Instantané. La seconde où tu t'inscris, tous les modules se débloquent. Le même jour, je t'accueille personnellement. Ton protocole personnalisé arrive sous 48h.</div></div>
-      <div class="faq-item"><div class="faq-q"><span>En une fois ou en mensualités ?</span><span class="pl">+</span></div><div class="faq-a">En une fois si tu peux, le coût total est plus bas. En mensualités si ta trésorerie compte ce mois-ci. Même accès dans les deux cas.</div></div>
-      <div class="faq-item"><div class="faq-q"><span>Je fais déjà 5K€+/mois, c'est encore pour moi ?</span><span class="pl">+</span></div><div class="faq-a">Si tu fais 0 à 5K€/mois avec des revenus irréguliers, oui. Si tu fais déjà 5K€+/mois et que tu veux monter vers 100K€/mois, regarde plutôt Construis la Marque™.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>C'est vraiment personnalisé, ou c'est un template tout fait ?</span><span class="pl">+</span></div><div class="faq-a">Personnalisé pour de vrai. Je lis ton arrivée moi-même, à la main. Je te construis ton protocole, ta feuille de route, tes premières actions, autour de toi et de ton marché. Et je le réajuste chaque semaine. Un template, tu en as déjà dix qui dorment dans un drive.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>Combien de temps avant d'avoir accès ?</span><span class="pl">+</span></div><div class="faq-a">Tout de suite. La seconde où tu t'inscris, tous les modules s'ouvrent. Le jour même, je t'accueille en personne. Et ton protocole sur-mesure, tu l'as sous 48h.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>En une fois ou en mensualités ?</span><span class="pl">+</span></div><div class="faq-a">Comme ça t'arrange. En une fois si tu peux, ça te coûte moins cher au total. En mensualités si ta tréso est serrée ce mois-ci. Tu as exactement le même accès dans les deux cas, je te bride sur rien.</div></div>
+      <div class="faq-item"><div class="faq-q"><span>Je fais déjà 5K€+/mois, c'est encore pour moi ?</span><span class="pl">+</span></div><div class="faq-a">Si tu es entre 0 et 5K avec des revenus en dents de scie, clairement oui. Si tu fais déjà 5K et plus régulier et que ton vrai sujet c'est de scaler vers 100K, alors c'est Construis la Marque™ qu'il te faut, pas cette porte-ci.</div></div>
     </div>
   </section>
+</div>
 
+<div class="wrap">
   <section>
-    <div class="sec-head rev"><span class="eyebrow">Le vrai coût</span><h2>Attendre te coûte plus cher que le plan.</h2></div>
+    <div class="sec-head rev">
+      <div class="top"><span class="idx">( 07 )</span><span class="eyebrow">Le vrai coût</span></div>
+      <h2>Attendre te coûte <span class="gold-text">plus cher que le plan.</span></h2>
+    </div>
     <div class="grid8">
-      <div class="glass step rev"><div class="n">01</div><h3>Un mois de plus sans clients réguliers</h3><p>Tu postes, tu attends, et rien ne rentre vraiment. Encore un mois loin de tes premiers 10K.</p></div>
-      <div class="glass step rev"><div class="n">02</div><h3>Tes clients achètent ailleurs</h3><p>Pendant que tu hésites, ils choisissent quelqu'un de moins bon que toi. Juste mieux positionné.</p></div>
-      <div class="glass step rev"><div class="n">03</div><h3>Ton contenu ne ramène toujours rien</h3><p>Sans système, le volume ne devient jamais des clients. Tu postes, tu attends, rien ne rentre.</p></div>
-      <div class="glass step rev"><div class="n">04</div><h3>Un seul client rembourse le plan</h3><p>La vraie question : combien te coûte chaque mois où tu ne l'as pas signé ?</p></div>
+      <div class="step rev"><div class="n">01</div><h3>Un mois de plus sans clients réguliers</h3><p>Tu postes, tu attends, et rien ne rentre vraiment. Encore un mois loin de tes premiers 10K.</p></div>
+      <div class="step rev"><div class="n">02</div><h3>Tes clients achètent ailleurs</h3><p>Pendant que tu hésites, ils choisissent quelqu'un de moins bon que toi. Juste mieux positionné.</p></div>
+      <div class="step rev"><div class="n">03</div><h3>Ton contenu ne ramène toujours rien</h3><p>Sans système, le volume ne devient jamais des clients. Tu postes, tu attends, rien ne rentre.</p></div>
+      <div class="step rev"><div class="n">04</div><h3>Un seul client rembourse le plan</h3><p>La vraie question : combien te coûte chaque mois où tu ne l'as pas signé ?</p></div>
     </div>
   </section>
+</div>
 
+<div class="wrap">
   <section class="final">
-    <h2 class="rev">Tes premiers 10K€/mois réguliers. <em>La seule façon de vraiment construire.</em></h2>
-    <p class="muted rev" style="max-width:600px;margin:0 auto 2.4em">Une offre qui se vend. Des leads qui rentrent. Vendre par message. Construit 1-to-1 avec moi.</p>
-    <div class="hero-cta rev" style="justify-content:center"><a href="#plans" class="btn btn-gold">Rejoindre maintenant →</a><a href="https://goulots.businessascension.fr/" class="btn btn-ghost">Le guide des 4 goulots</a></div>
+    <h2 class="rev">Dans 6 mois, t'auras avancé. <em class="gold-text">Ou t'en seras exactement là.</em></h2>
+    <p class="muted rev" style="max-width:600px;margin:0 auto 2.4em">Une offre qui se vend. Des leads qui rentrent. Des clients que tu closes par message. Le temps passe de toute façon. Autant qu'il bosse pour toi.</p>
+    <div class="hero-cta rev" style="justify-content:center">
+      <a href="#plans" class="btn btn-gold">Rejoindre maintenant →</a>
+      <a href="https://goulots.businessascension.fr/" class="btn btn-line">Le guide des 4 goulots</a>
+    </div>
     <p class="muted rev" style="margin-top:1.6em;font-size:.85rem">Le guide des 4 goulots : 5 minutes, ton blocage principal identifié. Offert, même si tu ne rejoins jamais.</p>
   </section>
 </div>
 
-<footer><div class="wrap">Deviens l'Entrepreneur™ · Business Ascension™ · <a href="https://goulots.businessascension.fr/" style="color:var(--gold-lt)">Le guide des 4 goulots</a> · Tu fais déjà 10K€+/mois ? <a href="https://scale.businessascension.fr/" style="color:var(--gold-lt)">Construis la Marque™ →</a></div></footer>
+<footer><div class="wrap">Deviens l'Entrepreneur™ · Business Ascension™ · <a href="https://goulots.businessascension.fr/">Le guide des 4 goulots</a> · Tu fais déjà 10K€+/mois ? <a href="https://scale.businessascension.fr/">Construis la Marque™ →</a></div></footer>
 
 <script>
-(function(){const h1=document.querySelector('.title-split');if(!h1)return;let i=0;
-  const walk=(src,dst)=>{src.childNodes.forEach(n=>{
-    if(n.nodeType===3){n.textContent.split(/(\s+)/).forEach(part=>{if(!part)return;
-      if(/^\s+$/.test(part)){dst.appendChild(document.createTextNode(part));return}
-      const w=document.createElement('span');w.className='word';
-      part.split('').forEach(ch=>{const s=document.createElement('span');s.className='reveal-ltr';s.textContent=ch;s.style.animationDelay=(i++*0.04)+'s';w.appendChild(s)});
-      dst.appendChild(w)})}
-    else if(n.tagName==='BR'){dst.appendChild(document.createElement('br'))}
-    else{const el=document.createElement(n.tagName);if(n.getAttribute('style'))el.setAttribute('style',n.getAttribute('style'));walk(n,el);dst.appendChild(el)}})};
-  const frag=document.createElement('span');walk(h1,frag);h1.textContent='';h1.appendChild(frag);})();
+// progress + nav
+const nav=document.getElementById('nav'),prog=document.getElementById('prog');
+addEventListener('scroll',()=>{
+  const h=document.documentElement;const sc=h.scrollTop/(h.scrollHeight-h.clientHeight);
+  prog.style.width=(sc*100)+'%';
+  nav.classList.toggle('scrolled',h.scrollTop>40);
+},{passive:true});
+// reveal
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
-document.querySelectorAll('.rev').forEach((el,i)=>{el.style.transitionDelay=(i%4*70)+'ms';io.observe(el)});
+document.querySelectorAll('.rev').forEach((el,i)=>{el.style.transitionDelay=(i%4*60)+'ms';io.observe(el)});
+// faq
 document.querySelectorAll('.faq-item').forEach(f=>f.onclick=()=>f.classList.toggle('open'));
+// theme toggle (clair / sombre) + mémorisation
+const tg=document.getElementById('themeToggle');
+function applyTheme(t){document.body.classList.toggle('light',t==='light');tg.textContent=t==='light'?'☀':'☾';}
+let theme=localStorage.getItem('ba-theme')||'light';applyTheme(theme);
+tg.onclick=()=>{theme=document.body.classList.contains('light')?'dark':'light';localStorage.setItem('ba-theme',theme);applyTheme(theme);};
+// parallax bands
+const bands=[...document.querySelectorAll('[data-band]')];
+addEventListener('scroll',()=>{bands.forEach(b=>{const r=b.getBoundingClientRect();const img=b.querySelector('[data-img]');if(img){const p=(r.top+r.height/2-innerHeight/2)/innerHeight;img.style.transform='translateY('+(p*-50)+'px)';}});},{passive:true});
 
-if(!matchMedia('(prefers-reduced-motion:reduce)').matches){(function(){
+// ===== HERO 3D : chrome liquide, reflets dorés =====
+if(!matchMedia('(prefers-reduced-motion:reduce)').matches && window.THREE){(function(){
   const canvas=document.getElementById('three');
   const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:true});
   renderer.setPixelRatio(Math.min(devicePixelRatio,2));
-  const scene=new THREE.Scene(),cam=new THREE.PerspectiveCamera(45,innerWidth/innerHeight,.1,100);cam.position.z=8;
-  function size(){renderer.setSize(innerWidth,innerHeight);cam.aspect=innerWidth/innerHeight;cam.updateProjectionMatrix()}size();addEventListener('resize',size);
-  // forme organique qui se déforme (l'identité qui se structure)
-  const geo=new THREE.IcosahedronGeometry(2.5,3);
+  renderer.outputEncoding=THREE.sRGBEncoding;
+  const scene=new THREE.Scene();
+  const cam=new THREE.PerspectiveCamera(42,innerWidth/innerHeight,.1,100);cam.position.z=6;
+  function size(){renderer.setSize(innerWidth,innerHeight);cam.aspect=innerWidth/innerHeight;cam.updateProjectionMatrix();}
+  size();addEventListener('resize',size);
+
+  // environnement gradient (noir -> or) pour les reflets chrome
+  function envTex(){
+    const c=document.createElement('canvas');c.width=1024;c.height=512;const x=c.getContext('2d');
+    const g=x.createLinearGradient(0,0,0,512);
+    g.addColorStop(0,'#070707');g.addColorStop(.40,'#221704');g.addColorStop(.50,'#F5D78A');
+    g.addColorStop(.54,'#C98A2E');g.addColorStop(.62,'#2a1d08');g.addColorStop(1,'#060606');
+    x.fillStyle=g;x.fillRect(0,0,1024,512);
+    for(const v of [[760,150,260,.55],[230,360,200,.32],[520,90,160,.4]]){
+      const rg=x.createRadialGradient(v[0],v[1],0,v[0],v[1],v[2]);
+      rg.addColorStop(0,'rgba(245,215,138,'+v[3]+')');rg.addColorStop(1,'rgba(245,215,138,0)');
+      x.fillStyle=rg;x.fillRect(0,0,1024,512);
+    }
+    const t=new THREE.CanvasTexture(c);t.mapping=THREE.EquirectangularReflectionMapping;t.encoding=THREE.sRGBEncoding;return t;
+  }
+  const env=envTex();scene.environment=env;
+
+  const detail=innerWidth<700?32:64;
+  const geo=new THREE.SphereGeometry(1.85,detail,detail);
   const base=geo.attributes.position.array.slice(0);
-  const mesh=new THREE.Mesh(geo,new THREE.MeshBasicMaterial({color:0xCA8A04,wireframe:true,transparent:true,opacity:.34}));
-  const core=new THREE.Mesh(new THREE.IcosahedronGeometry(2.25,2),new THREE.MeshBasicMaterial({color:0x14100a,transparent:true,opacity:.5}));
-  const grp=new THREE.Group();grp.add(core);grp.add(mesh);grp.position.set(2.7,.4,0);grp.scale.setScalar(.02);scene.add(grp);
-  const N=460,pos=new Float32Array(N*3);
-  for(let i=0;i<N;i++){const r=4+Math.random()*4.5,t=Math.random()*6.283,p=Math.acos(2*Math.random()-1);pos[i*3]=r*Math.sin(p)*Math.cos(t);pos[i*3+1]=r*Math.sin(p)*Math.sin(t);pos[i*3+2]=r*Math.cos(p);}
-  const pg=new THREE.BufferGeometry();pg.setAttribute('position',new THREE.BufferAttribute(pos,3));
-  const pts=new THREE.Points(pg,new THREE.PointsMaterial({color:0xE8C46A,size:.028,transparent:true,opacity:.7}));pts.position.copy(grp.position);scene.add(pts);
+  const mat=new THREE.MeshStandardMaterial({color:0x1a160e,metalness:1,roughness:.16,envMap:env,envMapIntensity:1.5});
+  const mesh=new THREE.Mesh(geo,mat);
+  const grp=new THREE.Group();grp.add(mesh);grp.position.set(2.6,.3,0);grp.scale.setScalar(.02);scene.add(grp);
+
+  scene.add(new THREE.AmbientLight(0x3a2a12,.7));
+  const l1=new THREE.PointLight(0xF5D78A,2.2,40);l1.position.set(6,4,5);scene.add(l1);
+  const l2=new THREE.PointLight(0xE8B04B,1.2,40);l2.position.set(-5,-3,4);scene.add(l2);
+  const l3=new THREE.DirectionalLight(0xffffff,.4);l3.position.set(0,1,3);scene.add(l3);
+
+  // particules dorees flottantes
+  const N=innerWidth<700?140:300,pp=new Float32Array(N*3);
+  for(let i=0;i<N;i++){const r=4+Math.random()*5,t=Math.random()*6.283,p=Math.acos(2*Math.random()-1);
+    pp[i*3]=r*Math.sin(p)*Math.cos(t);pp[i*3+1]=r*Math.sin(p)*Math.sin(t);pp[i*3+2]=r*Math.cos(p);}
+  const pg=new THREE.BufferGeometry();pg.setAttribute('position',new THREE.BufferAttribute(pp,3));
+  const pts=new THREE.Points(pg,new THREE.PointsMaterial({color:0xF5D78A,size:.03,transparent:true,opacity:.6}));
+  pts.position.copy(grp.position);scene.add(pts);
+
+  const arr=geo.attributes.position.array;
   let mx=0,my=0,t=0,sp=0;
   addEventListener('mousemove',e=>{mx=e.clientX/innerWidth-.5;my=e.clientY/innerHeight-.5});
-  addEventListener('scroll',()=>{sp=scrollY/innerHeight},{passive:true});
-  const arr=geo.attributes.position.array;
-  canvas.style.opacity=.5;
-  (function loop(){requestAnimationFrame(loop);t+=.008;
-    for(let i=0;i<arr.length;i+=3){const ox=base[i],oy=base[i+1],oz=base[i+2];
-      const n=1+.055*Math.sin(t*1.3+ox*1.6+oy)+.035*Math.cos(t+oz*1.6);
-      arr[i]=ox*n;arr[i+1]=oy*n;arr[i+2]=oz*n;}
-    geo.attributes.position.needsUpdate=true;
-    grp.scale.setScalar(grp.scale.x+(1-grp.scale.x)*.05);
-    grp.rotation.y+=.0015+sp*.003;grp.rotation.x+=.0007;
-    grp.position.y=.4-sp*.7;pts.position.y=grp.position.y;pts.rotation.y-=.0006;
-    canvas.style.opacity=Math.max(0,.5-sp*.85);
-    cam.position.x+=(mx*.9-cam.position.x)*.04;cam.position.y+=(-my*.8-cam.position.y)*.04;cam.lookAt(0,grp.position.y,0);renderer.render(scene,cam)})();
+  addEventListener('scroll',()=>{sp=scrollY/innerHeight;},{passive:true});
+
+  function loop(){requestAnimationFrame(loop);t+=.006;
+    for(let i=0;i<arr.length;i+=3){
+      const ox=base[i],oy=base[i+1],oz=base[i+2];
+      const d=Math.sqrt(ox*ox+oy*oy+oz*oz)||1;const nx=ox/d,ny=oy/d,nz=oz/d;
+      const wave=1
+        +.10*Math.sin(nx*2.4+t*1.3)
+        +.08*Math.sin(ny*2.8+t*1.0)
+        +.07*Math.cos(nz*2.6+t*1.5)
+        +.05*Math.sin((nx+ny+nz)*3.0+t*1.8);
+      arr[i]=nx*1.85*wave;arr[i+1]=ny*1.85*wave;arr[i+2]=nz*1.85*wave;
+    }
+    geo.attributes.position.needsUpdate=true;geo.computeVertexNormals();
+    grp.scale.setScalar(grp.scale.x+(1-grp.scale.x)*.06);
+    grp.rotation.y+=.0022+sp*.004;grp.rotation.x=.12+my*.25;
+    grp.position.y=.3-sp*1.1;pts.position.y=grp.position.y;pts.rotation.y-=.0007;
+    cam.position.x+=(mx*.7-cam.position.x)*.05;cam.position.y+=(-my*.5-cam.position.y)*.05;cam.lookAt(grp.position.x*.4,grp.position.y,0);
+    canvas.style.opacity=Math.max(.12,1-sp*.7);
+    renderer.render(scene,cam);
+  }
+  loop();
 })();}
 </script>
 </body>
