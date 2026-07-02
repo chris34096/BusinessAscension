@@ -1,184 +1,61 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "period": {
-    "start": "2026-06-24",
-    "end": "2026-07-01"
+    "start": "2026-06-25",
+    "end": "2026-07-02"
   },
   "competitors": [
     {
-      "name": "Max Piccinini",
+      "name": "Julien Musy",
       "platform": "youtube",
       "items": [
         {
-          "title": "Pourquoi certaines personnes plafonnent-elles toujours au même niveau de revenus ?",
-          "url": "https://www.youtube.com/shorts/djdCEty9s3U",
-          "published": "2026-07-01",
-          "platform": "youtube",
-          "snippet": "Pourquoi certaines personnes plafonnent-elles toujours au même niveau de revenus ?\n\nPas par manque d’opportunités.\n\nParce que leur capacité à recevoir est limitée.\n\nTu ne gagnes pas toujours ce que tu mérites.\nTu gagnes souvent ce que ton esprit est prêt à accepter.\n\nAvant d’augmenter tes revenus, c"
-        },
-        {
-          "title": "Les plus grands talents ne rejoignent pas une entreprise pour un salaire.",
-          "url": "https://www.youtube.com/shorts/bzL_VoKwlc4",
+          "title": "341 - 8 leçons en courant 8h",
+          "url": "https://www.youtube.com/watch?v=LOOnpj7lAcI",
           "published": "2026-06-30",
           "platform": "youtube",
-          "snippet": "Les plus grands talents ne rejoignent pas une entreprise pour un salaire.\n\nIls rejoignent une vision.\n\nC’est ce qui fait la force des plus grands leaders : ils donnent à leurs équipes une mission qui dépasse les résultats financiers.\n\nUne entreprise guidée par une vision prend de meilleures décision"
-        },
-        {
-          "title": "Publier du contenu ne suffit plus.",
-          "url": "https://www.youtube.com/shorts/oY-k7exQPdY",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Publier du contenu ne suffit plus.\n\nLe vrai objectif n’est pas d’obtenir des likes.\n\nC’est de créer des conversations, de bâtir une relation et de transformer ton audience en clients.\n\nLes réseaux sociaux créent la visibilité.\n\nLe suivi et les échanges créent les opportunités."
-        },
-        {
-          "title": "Les personnes les plus épanouies ne travaillent pas seulement pour gagner leur vie.",
-          "url": "https://www.youtube.com/shorts/5gpxdsI1fOc",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Les personnes les plus épanouies ne travaillent pas seulement pour gagner leur vie.\n\nElles font ce qui les passionne.\n\nQuand tu aimes profondément ce que tu fais, tu ne comptes plus les heures. Tu construis, tu apprends, tu avances… avec plaisir.\n\nLa vraie réussite, c’est de créer une vie où tu n’as"
-        },
-        {
-          "title": "Toutes les relations ne sont pas faites pour durer.",
-          "url": "https://www.youtube.com/shorts/0YN0lnCy6bA",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Toutes les relations ne sont pas faites pour durer.\n\nQuand tu évolues, tes priorités changent. Tes ambitions aussi.\n\nEt parfois, certaines relations s’éloignent, non pas par conflit, mais parce que vous ne partagez plus la même vision.\n\nCe n’est pas un échec. C’est souvent le prix de la croissance."
+          "snippet": "Au 37e kilomètre de mon dernier trail (55 km, 2300 D+), j'avais pris ma décision : j'abandonnais. \n\nEntre la chaleur et la douleur, je n'avais plus aucune énergie. Jusqu'à ce que je croise un enfant de 6 ans qui m'applaudisse. Ce moment de pure connexion humaine a tout changé et m'a rappelé une véri"
         }
       ]
     },
     {
-      "name": "Julien Himself",
+      "name": "TheBBoost",
       "platform": "youtube",
       "items": [
         {
-          "title": "I DARE YOU To Reject Me! ⚠️",
-          "url": "https://www.youtube.com/shorts/59Ex9o9EEus",
+          "title": "La dispute qui lui a ouvert les yeux 👀",
+          "url": "https://www.youtube.com/shorts/lfhoJcqgvWk",
           "published": "2026-06-30",
           "platform": "youtube",
-          "snippet": "You’ve NEVER actually been “rejected”\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them "
+          "snippet": "Apparement, je ne suis pas la seule à faire des bottages de fesses 😂\n\nEt comme le dit Justine Abécassis, c’est jamais agréable mais dans le fond ça part d’une bonne intention (et c’est souvent ce dont on a besoin). ☺️\n\nSi vous n’avez pas encore écouté cet épisode, foncez le faire car c’est une mine "
         },
         {
-          "title": "It’s NOT “Cheesy” To Hug Yourself! ⚠️",
-          "url": "https://www.youtube.com/shorts/B-SCTjhTNI8",
+          "title": "Asseyez-vous. Faut qu’on parle. ☕",
+          "url": "https://www.youtube.com/shorts/nI_kFzPd-J0",
           "published": "2026-06-30",
           "platform": "youtube",
-          "snippet": "You ALWAYS have you… Never forget this! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering th"
+          "snippet": "C'est pas de la générosité, ça. C'est de la peur. Avec un joli nœud en satin rose autour pour faire passer la pilule. 🎀\n\nEt je le dis (avec tout mon amour) mais ce \"je veux que tout le monde puisse y accéder\"… neuf fois sur dix, c'est juste une façon hyper élégante de ne pas avoir à défendre votre t"
         },
         {
-          "title": "Be The Parent You NEVER Had! ⚠️",
-          "url": "https://www.youtube.com/shorts/fL50PolloDI",
-          "published": "2026-06-28",
-          "platform": "youtube",
-          "snippet": "Reparenting is giving yourself the LOVE you needed all along! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to"
-        },
-        {
-          "title": "You've NEVER Actually Been \"Rejected\"",
-          "url": "https://www.youtube.com/watch?v=uLTn2sjmrZ8",
-          "published": "2026-06-27",
-          "platform": "youtube",
-          "snippet": "Rejection feels real... But it's NOT! Here's the most important lesson I learned after the whole world rejected me.\n\n►►► APPLY FOR ONLINE COACHING: https://julien-himself.com/application\n\nJULIEN's INSTAGRAM: https://www.instagram.com/julienhimself\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U"
-        },
-        {
-          "title": "You’re NOT Your “Follower Count” ⚠️",
-          "url": "https://www.youtube.com/shorts/NtkFDtjP1pU",
-          "published": "2026-06-25",
-          "platform": "youtube",
-          "snippet": "You're NOT your follower count… Know your worth!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empow"
-        }
-      ]
-    },
-    {
-      "name": "Jody Cavalie",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Désolé boss, je ne viens pas bosser aujourd'hui.",
-          "url": "https://www.youtube.com/shorts/O-wgXEo3JBM",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "« Désolé boss, je ne viens pas bosser aujourd'hui. »\n\nC’est la phrase que tu perds le droit de prononcer quand tu deviens entrepreneur.\n\n​Le problème, c'est que tu es ton propre boss. \n\nTu n'as personne à appeler, tu n'as que toi face à ton business. \n\nEt du coup, on a tendance à ne jamais s'arrêter"
-        },
-        {
-          "title": "La nostalgie des années 90, ce n'est pas le regret du Walkman ou du vidéoclub.",
-          "url": "https://www.youtube.com/shorts/-lOw4xm1P7U",
+          "title": "IA vs Humain",
+          "url": "https://www.youtube.com/shorts/T6lRSl-hpWM",
           "published": "2026-06-29",
           "platform": "youtube",
-          "snippet": "La nostalgie des années 90, ce n'est pas le regret du Walkman ou du vidéoclub. 📼\n\n​C'est la nostalgie du silence.\n\n​Les études en sciences cognitives estiment que nous consommons aujourd'hui l'équivalent de 100 000 mots d'information par jour (environ 34 gigaoctets de données).\n\nC'est un bombardemen"
+          "snippet": "Stoooooop, arrêtez tout.\nNe me dites pas que vous êtes encore en train de retravailler votre offre ?\n\nDans l’épisode d’aujourd’hui, on va poser ensemble le diagnostic de pourquoi votre offre ne vend pas. \n\nEt vous allez voir que dans 8 cas sur 10, le problème ne vient pas de votre offre mais plutôt "
         },
         {
-          "title": "En France, vous travaillez gratuitement pour le système jusqu'au 17 juillet. 🗓️",
-          "url": "https://www.youtube.com/shorts/c-dvLS5lAL4",
-          "published": "2026-06-28",
+          "title": "5 étapes pour créer une offre qui se vend (et le diagnostic à faire avant)",
+          "url": "https://www.youtube.com/watch?v=xcn7hijxFN0",
+          "published": "2026-06-29",
           "platform": "youtube",
-          "snippet": "En France, vous travaillez gratuitement pour le système jusqu'au 17 juillet. 🗓️\n\n​C'est une statistique officielle. Ça s'appelle le \"jour de libération fiscale\".\n\n​Concrètement, ça veut dire que tout ce que vous produisez du 1er janvier à la mi-juillet sert exclusivement à payer vos charges, vos imp"
+          "snippet": "Téléchargez mon template Notion gratuit pour créer une offre de A à Z : http://thebboost.fr/376\n\nVotre offre ne se vend pas, ou pas assez ? Avant de la reconstruire de fond en comble, écoutez ça : 8 fois sur 10, retravailler son offre, c'est exactement la mauvaise réponse.\n\nParce que le problème, bi"
         },
         {
-          "title": "Les paradis fiscaux en 2026 : où s'implanter (et pourquoi Sercq va vous bluffer)",
-          "url": "https://www.youtube.com/watch?v=PZf2vwvgLiY",
-          "published": "2026-06-28",
+          "title": "Elle a planté sa boite - avec Justine Abécassis (épisode 371)",
+          "url": "https://www.youtube.com/shorts/8gVao6KppSM",
+          "published": "2026-06-26",
           "platform": "youtube",
-          "snippet": "Vous gagnez 100 000 € par an et vous payez 0 € d'impôts. Légalement. À 1 heure d'avion de Paris.\n\nÇa paraît dingue, et pourtant ça existe.\n\nDans cette vidéo, je vous emmène faire le tour des vrais paradis fiscaux de 2026.\n\n Pas les fantasmes James Bond des années 80. Pas les clichés qu'on entend par"
-        },
-        {
-          "title": "Est-ce qu'on se repose vraiment quand on est sur la plage ?",
-          "url": "https://www.youtube.com/shorts/tf852X8E-rg",
-          "published": "2026-06-27",
-          "platform": "youtube",
-          "snippet": "Est-ce qu'on se repose vraiment quand on est sur la plage ?\n\n​On a tous tendance à voir l'été comme le grand bouton \"pause\" de notre année. \n\nOn s'allonge sur le sable et on se dit que les problèmes restent à la maison.\n\n​Mais dans les faits, observez bien autour de vous.\n\n​Il y a ceux qui checkent "
-        }
-      ]
-    },
-    {
-      "name": "Marvin Ndiaye",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Pourquoi ne jamais acheter un camion cash",
-          "url": "https://www.youtube.com/shorts/ToCGaHJiLXI",
-          "published": "2026-07-01",
-          "platform": "youtube",
-          "snippet": "Avoir la trésorerie pour payer cash ne signifie pas que c'est la bonne décision.\n\nUn actif qui se déprécie dès sa mise en circulation mérite toujours une réflexion sur l'allocation du capital, pas seulement sur la capacité à payer.\n\nLa vraie question n'est pas « est-ce que j'ai les moyens » mais « e"
-        },
-        {
-          "title": "Travailler dur n'est pas du courage",
-          "url": "https://www.youtube.com/shorts/P3FnGUvC_U0",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Rester sur le terrain quand ton business pourrait grandir sans toi, ce n'est pas toujours un choix conscient.\n\nParfois c'est juste la peur déguisée en éthique de travail.\n\nLa vraie question n'est pas \"est-ce que je travaille assez ?\"\nC'est \"est-ce que je construis quelque chose ou est-ce que j'évite"
-        },
-        {
-          "title": "Je vis avec les bénéfices de mes bénéfices",
-          "url": "https://www.youtube.com/shorts/ECFNAPlnwp0",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "La plupart des gens dépensent ce qu'ils gagnent. Une autre approche consiste à ne jamais toucher au capital, ni même aux premiers bénéfices, et à construire des couches successives de revenus.\n\nCe n'est pas une question de montant. C'est une question de discipline et de vision.\n\n#entrepreneuriat #in"
-        },
-        {
-          "title": "Le bouche-à-oreille ne suffit pas",
-          "url": "https://www.youtube.com/shorts/8NKBiqMjE8M",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Le bouche-à-oreille est un excellent levier. Personne ne dit le contraire.\n\nLe vrai problème, c'est quand il devient ton seul canal d'acquisition.\n\nUn entrepreneur qui maîtrise son activité ne attend pas que le travail arrive. Il va le chercher, avec plusieurs systèmes en parallèle.\n\n#entrepreneuria"
-        },
-        {
-          "title": "Ma vie allait bien, ma boîte coulait",
-          "url": "https://www.youtube.com/shorts/WBVH0z9LUvc",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "On peut être personnellement à l'abri et voir son entreprise s'effondrer en même temps.\n\nC'est une situation que beaucoup d'entrepreneurs vivent sans en parler.\n\nParce qu'une boîte, ce n'est pas juste un compte en banque. C'est des années de construction, des équipes, des décisions qui pèsent.\n\nGard"
-        }
-      ]
-    },
-    {
-      "name": "Jeremy Kohlmann",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Pourquoi j’ai longtemps caché que je faisais 400k€/mois",
-          "url": "https://www.youtube.com/watch?v=mqKpIMSSTVA",
-          "published": "2026-06-25",
-          "platform": "youtube",
-          "snippet": "Découvre comment résoudre le goulot d'étranglement n°1 qui empêche ton business de x2 en 90 jours : https://www.kohlmann-publishing.com/mission-liberte?el=youtube25062026\n\n\nPendant longtemps, j’ai volontairement caché une partie de ma réussite. Pourquoi ? Parce qu’en France, parler d’argent dérange,"
+          "snippet": "Vous avez fait un business plan une fois.\n\nVous l'avez ouvert dans Excel, vous l'avez fermé.\n\nEt vous ne l'avez plus jamais rouvert. 👀\n\nVous avez créé un fichier (souvent pour vous rassurer) mais pas un outil de pilotage de votre activité. \n\nC’est là que ça coince…\n\nDu coup, vous avancez à l'instinc"
         }
       ]
     },
@@ -186,6 +63,27 @@
       "name": "Tanner Chidester",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Best thing I ever did.",
+          "url": "https://www.youtube.com/shorts/TFT_FBmegdw",
+          "published": "2026-07-01",
+          "platform": "youtube",
+          "snippet": "Best thing I ever did."
+        },
+        {
+          "title": "How To Use AI To Make Money With Digital Products (Full Guide)",
+          "url": "https://www.youtube.com/watch?v=S7y352O_k2E",
+          "published": "2026-07-01",
+          "platform": "youtube",
+          "snippet": "Want to learn how to use AI to make money with digital products from scratch? In this full step-by-step guide, I’ll walk you through how beginners can use artificial intelligence to find profitable digital product ideas, create valuable products faster, package them into strong offers, market them o"
+        },
+        {
+          "title": "Stress is created from incompetent clients and incompetent staff.",
+          "url": "https://www.youtube.com/shorts/B4v2AimnH2s",
+          "published": "2026-07-01",
+          "platform": "youtube",
+          "snippet": "Stress is created from incompetent clients and incompetent staff."
+        },
         {
           "title": "Just because someone says your business is worth $72652726226 doesn’t mean it is",
           "url": "https://www.youtube.com/shorts/HoxhAuwahWE",
@@ -199,47 +97,6 @@
           "published": "2026-06-30",
           "platform": "youtube",
           "snippet": "Skills + skills + skills = rare. Rare = 💵💸💰"
-        },
-        {
-          "title": "11 years of entrepreneurship condensed into 60 seconds",
-          "url": "https://www.youtube.com/shorts/7o5ieHk-0DY",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "11 years of entrepreneurship condensed into 60 seconds"
-        },
-        {
-          "title": "2 Ways To Attract High Performers To Your Team",
-          "url": "https://www.youtube.com/shorts/UWxVHpPtFAw",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "2 Ways To Attract High Performers To Your Team"
-        },
-        {
-          "title": "Stop letting guilt trick you into thinking your ambition is ruining your personal life.",
-          "url": "https://www.youtube.com/shorts/c6RdqDGX2RY",
-          "published": "2026-06-28",
-          "platform": "youtube",
-          "snippet": "Stop letting guilt trick you into thinking your ambition is ruining your personal life.\n\nConstant presence doesn't automatically mean deep connection. Focus on building the financial leverage to give the people you love experiences they could never achieve on their own. Short-term sacrifice lets you"
-        }
-      ]
-    },
-    {
-      "name": "Tom Pearson",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "The PSYCHO starter pack to dominate 99.9% of the Earth people.",
-          "url": "https://www.youtube.com/watch?v=B058KY1NUf4",
-          "published": "2026-07-01",
-          "platform": "youtube",
-          "snippet": "TRAIN WITH ME : Body. Mind. Brand.\nhttps://becometheman01.com/findyourpath\n\nBECOME THE MAN,\nelite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, in complete alignment with your soul and highest self.\n\nBUILD THE BRAND.\nturn your value + story into a £10K–£100K+/month br"
-        },
-        {
-          "title": "Give me 25 minutes to STOP competing and START dominating",
-          "url": "https://www.youtube.com/watch?v=I00FK0RnEec",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "TRAIN WITH ME : Body. Mind. Brand.\nhttps://becometheman01.com/findyourpath\n\nBECOME THE MAN,\nelite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, in complete alignment with your soul and highest self.\n\nBUILD THE BRAND.\nturn your value + story into a £10K–£100K+/month br"
         }
       ]
     },
@@ -261,11 +118,11 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "The ONLY 4 Things You Need to Make Sales from EVERY Video",
-          "url": "https://www.youtube.com/watch?v=pSIY9ngEZC8",
-          "published": "2026-06-24",
+          "title": "The NEW Rules of Social Media in the Age of AI",
+          "url": "https://www.youtube.com/watch?v=ceRZVxO8KF8",
+          "published": "2026-07-01",
           "platform": "youtube",
-          "snippet": "Get my free guide on how to build a winning content system (1B+ views, 1M+ followers): https://shortformsystem.co \nUse Sandcastles to grow 10x faster on social media (try risk-free): https://sandcastles.ai\nWork with me: https://shortform.academy\n\nIn this video, I break down the 4 things you need in "
+          "snippet": "Get my free guide on how to build a winning content system (1B+ views, 1M+ followers): https://shortformsystem.co \nUse Sandcastles to grow 10x faster on social media (try risk-free): https://sandcastlesai.com/90\nWork with me: https://shortform.academy\n\nIn this video, I break down the 6 new rules for"
         }
       ]
     },
@@ -274,18 +131,25 @@
       "platform": "youtube",
       "items": [
         {
+          "title": "AI Secrets Challenge - Day 3: The One-Person Marketing Machine",
+          "url": "https://www.youtube.com/watch?v=Ma52VhmLeXI",
+          "published": "2026-07-01",
+          "platform": "youtube",
+          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttps://www.aisecretschallenge.com/join\n\nWelcome to Day 3 of the AI Secrets Challenge: The One-Person Marketing Machine!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person C"
+        },
+        {
+          "title": "AI Secrets Challenge - Day 4: The One-Person Software Machine",
+          "url": "https://www.youtube.com/watch?v=bcGJT6u--Nw",
+          "published": "2026-07-01",
+          "platform": "youtube",
+          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttps://www.aisecretschallenge.com/join\n\nWelcome to Day 4 of the AI Secrets Challenge: The One-Person Software Machine!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Co"
+        },
+        {
           "title": "AI Secrets Challenge - Day 2: The Billion Dollar Breakthrough",
           "url": "https://www.youtube.com/watch?v=o7Zq5wenpEk",
           "published": "2026-06-30",
           "platform": "youtube",
           "snippet": "Discover The AI Secrets Challenge's New AI-First Platform:\nhttps://www.aisecretschallenge.com/VIP\n\nWelcome to Day 2 of the AI Secrets Challenge: The Billion Dollar Breakthrough!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Company\n\nAnd W"
-        },
-        {
-          "title": "AI Secrets Challenge - Day 3: The One-Person Marketing Machine",
-          "url": "https://www.youtube.com/watch?v=Ma52VhmLeXI",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttps://www.aisecretschallenge.com/join\n\nWelcome to Day 3 of the AI Secrets Challenge: The One-Person Marketing Machine!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person C"
         },
         {
           "title": "AI Secrets Challenge - Day 1 Stream",
@@ -295,100 +159,12 @@
           "snippet": "See The AI Secrets Challenge's New AI-First Platform At:\nhttps://www.aisecretschallenge.com/VIP\n\nWelcome to Day 1 of the AI Secrets Challenge: The 7 Figure 'AI Shortcut'!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Company\n\nAnd While AI"
         }
       ]
-    },
-    {
-      "name": "Dan Martell",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "How do you handle sales objections?",
-          "url": "https://www.youtube.com/shorts/pYn0dGMyUkQ",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "How do you handle sales objections?"
-        },
-        {
-          "title": "\"What business should I start?\"",
-          "url": "https://www.youtube.com/shorts/hTxjR1G_pHo",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "\"What business should I start?\""
-        },
-        {
-          "title": "The BEST AI tools for every task in 2026",
-          "url": "https://www.youtube.com/shorts/usBtacPDitw",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "The BEST AI tools for every task in 2026"
-        },
-        {
-          "title": "Here's how you actually sell AI",
-          "url": "https://www.youtube.com/shorts/9PuY_H36YZ4",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "Here's how you actually sell AI @grantowenpod"
-        },
-        {
-          "title": "These 11 Minutes Will Save You +1,000 Hours in 2026",
-          "url": "https://www.youtube.com/watch?v=oB5zo5G7KRg",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "✅ Get your FREE Scale Your Business Workbook here: https://go.danmartell.com/4v3p8HF\n\nMost business owners are losing 20+ hours every single week to work that AI could be doing for them right now, and they don't even realize it.\n\nIn this video, I show you exactly how I use AI to claw back at least 2"
-        }
-      ]
-    },
-    {
-      "name": "Myron Golden",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Why And How To Get Rich Quick In A Rapidly Changing World",
-          "url": "https://www.youtube.com/watch?v=9M9S2zTuatg",
-          "published": "2026-06-29",
-          "platform": "youtube",
-          "snippet": "https://www.salesmovesgift.com/gift1\n\n\nSIMPLE SPEED WEALTH | Why And How To Get Rich Quick In A Rapidly Changing World\n\nMost people believe getting rich quickly is impossible—or that it requires luck, shortcuts, or taking huge risks.\n\nBut in a rapidly changing world, wealth can be created faster tha"
-        }
-      ]
-    },
-    {
-      "name": "Tony Robbins",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "\"STOP Letting Your Past Control Your Future\" - Tony Robbins INTERVENTION",
-          "url": "https://www.youtube.com/watch?v=xIS-zLrDDgY",
-          "published": "2026-06-28",
-          "platform": "youtube",
-          "snippet": "How long will you let your past decide the future you’re capable of creating? In this powerful full intervention, Tony Robbins reveals how pain may shape your purpose but it doesn’t have to control your next chapter.\n\nWatch more videos like this 👇\n\"Failure Is NOT THE END!\" - Tony Robbins Full Interv"
-        },
-        {
-          "title": "The #1 Pattern That Keeps You Stuck",
-          "url": "https://www.youtube.com/shorts/qrynU_5MOtQ",
-          "published": "2026-06-27",
-          "platform": "youtube",
-          "snippet": "You are not your pattern.\n\nTony Robbins explains why the emotions and behaviors that keep repeating in your life are usually not who you are — they are habits. And once you stop identifying with the pattern, it becomes much easier to change it.\n\n#TonyRobbins #Patterns #Mindset #PersonalGrowth #SelfI"
-        },
-        {
-          "title": "Stop Calling Fear “Reality”",
-          "url": "https://www.youtube.com/shorts/VMrA59aLT4I",
-          "published": "2026-06-27",
-          "platform": "youtube",
-          "snippet": "Tony Robbins explains why “being realistic” is often just fear in disguise.\n\nReal intelligence means seeing things as they are — not worse than they are. When people say “it’ll never work” or “it’ll never happen,” it’s often because they’re protecting themselves from the deeper fear of failure and n"
-        },
-        {
-          "title": "Join Tony Robbins' Mission to End World Hunger | The 100 Billion Meals Challenge",
-          "url": "https://www.youtube.com/watch?v=fE3Zd7l_BN4",
-          "published": "2026-06-24",
-          "platform": "youtube",
-          "snippet": "A child dies from hunger every ten seconds. And yet, hunger is solvable and we’re proving it. In December, I wrote about the three decisions that separate movements that scale from those that stall. Set a goal so big it forces you to grow. Create reasons so compelling action becomes a must. Set a ti"
-        }
-      ]
     }
   ],
   "collection_notes": {
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 43
+    "total_items": 17
   }
 }
