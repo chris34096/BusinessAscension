@@ -1,48 +1,87 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-07"
+    "start": "2026-07-01",
+    "end": "2026-07-08"
   },
   "competitors": [
     {
-      "name": "Max Piccinini",
+      "name": "Julien Musy",
       "platform": "youtube",
       "items": [
         {
-          "title": "Les enfants apprennent plus vite que beaucoup d’adultes.",
-          "url": "https://www.youtube.com/shorts/iFJjYogX3W0",
+          "title": "Les 4 types de carrière",
+          "url": "https://www.youtube.com/watch?v=roFxMu1zCfo",
           "published": "2026-07-07",
           "platform": "youtube",
-          "snippet": "Les enfants apprennent plus vite que beaucoup d’adultes.\n\nPourquoi ?\n\nParce qu’ils n’ont pas peur d’essayer.\n\nIls tombent, se relèvent, recommencent… jusqu’à réussir.\n\nEn entrepreneuriat, c’est la même chose.\n\nChaque erreur est une leçon. Chaque échec est une expérience.\n\nLe seul véritable échec, c’"
+          "snippet": "Il y a un type de carrière que personne autour de toi ne comprendra. Et c'est probablement celui qui te rendra le plus heureux.\n\nArthur Brooks en décrit quatre. Les deux qu'on admire le plus socialement ne sont pas ceux qui donnent du sens. Le quatrième — celui où tu te réinventes tous les 3 à 10 an"
+        }
+      ]
+    },
+    {
+      "name": "Pierre David / AHP",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Une médaillée olympique qui avait peur de perdre",
+          "url": "https://www.youtube.com/shorts/vWaQ4lU-Ado",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
         },
         {
-          "title": "Tu ne stagnes pas par manque de motivation.",
-          "url": "https://www.youtube.com/shorts/9nIwkha8W0U",
-          "published": "2026-07-06",
+          "title": "Reprenez le controle !",
+          "url": "https://www.youtube.com/shorts/5JSQzNHioYI",
+          "published": "2026-07-07",
           "platform": "youtube",
-          "snippet": "Tu ne stagnes pas par manque de motivation.\n\nTu stagnes parce que tes compétences ont atteint leur limite.\n\nChaque niveau de revenus exige un nouveau niveau de stratégie, de leadership, de vente, de marketing… et de mindset.\n\nLes entrepreneurs qui progressent le plus ne sont pas ceux qui travaillent"
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
         },
         {
-          "title": "Tu n’agis jamais au niveau de tes objectifs.",
-          "url": "https://www.youtube.com/shorts/wVITJsmGHK0",
-          "published": "2026-07-06",
+          "title": "Il réalise pourquoi il n'attire que des associés toxiques",
+          "url": "https://www.youtube.com/shorts/HtHVS0ymShg",
+          "published": "2026-07-07",
           "platform": "youtube",
-          "snippet": "Tu n’agis jamais au niveau de tes objectifs.\n\nTu agis au niveau de ton identité.\n\nSi tu ne te vois pas capable de réussir, tu trouveras toujours une raison de rester là où tu es.\n\nChange d’abord la façon dont tu te perçois. Puis développe les compétences qui renforceront cette nouvelle identité.\n\nLa"
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
         },
         {
-          "title": "La médiocrité est confortable.",
-          "url": "https://www.youtube.com/shorts/ST_YajJCaj8",
+          "title": "La plupart des entrepreneurs ne comprennent pas ça",
+          "url": "https://www.youtube.com/shorts/8efhTNLZJ9U",
           "published": "2026-07-06",
           "platform": "youtube",
-          "snippet": "Chaque jour, tu fais un choix : rester dans ce que tu connais ou accepter l’inconfort qui te fera grandir.\n\nLes plus grandes réussites naissent rarement dans la zone de confort.\n\nLa question n’est pas de savoir si ce sera difficile. La question est : quel inconfort es-tu prêt à accepter pour constru"
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
         },
         {
-          "title": "Faire un testament ne signifie pas que l’on s’attend à mourir.",
-          "url": "https://www.youtube.com/shorts/HOPyD_gFXVg",
+          "title": "Comment réussir à investir sur soi ?",
+          "url": "https://www.youtube.com/watch?v=G9GzvEwFsLI",
           "published": "2026-07-06",
           "platform": "youtube",
-          "snippet": "Faire un testament ne signifie pas que l’on s’attend à mourir.\n\nCela signifie que l’on prend ses responsabilités.\n\nLe véritable héritage, ce n’est pas seulement ce que l’on laisse. C’est aussi la sérénité que l’on offre à ceux que l’on aime.\n\nNe laissez pas votre famille gérer des mois de stress, d’"
+          "snippet": "Tu regardes ton compte en banque. Tu vois une formation à 500€, un coaching à 1000€, une place dans un Mastermind à plusieurs milliers d'euros... et ta première réaction, c'est la peur. \"Et si je perds cet argent ? Et si ça ne marche pas ?\"\n\nCette peur, presque tout le monde l'a ressentie. Moi aussi"
+        }
+      ]
+    },
+    {
+      "name": "Taki Moore",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "You’re “One Funnel Away” (From Tanking Your Business)",
+          "url": "https://www.youtube.com/watch?v=1zR6k5LiiI8",
+          "published": "2026-07-03",
+          "platform": "youtube",
+          "snippet": "Download The System:\nhttps://bit.ly/TheSystem-YouTube\n\n————————————\n\nYou’ve heard the line before.\n\n“You’re just one funnel away.”\n\nCute.\n\nAlso, maybe one funnel away from setting your business on fire.\n\nBack in the day, traffic + funnels worked.\n\nBuild the funnel.\nBuy the traffic.\nJam people throug"
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Kohlmann",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "On analyse les pires conseils sur la vente (+10M€ encaissés)",
+          "url": "https://www.youtube.com/watch?v=VVmgo-SMp9k",
+          "published": "2026-07-02",
+          "platform": "youtube",
+          "snippet": "Passer 5 jours en intensif avec Jeremy et les consuiltants KP : https://www.kohlmann-publishing.com/sprint?el=youtube02072026\n\nOn voit passer des centaines de conseils sur TikTok pour mieux vendre, closer ou gérer les objections mais lesquels fonctionnent vraiment ? Avec Rachid Agbhal, Head of Sales"
         }
       ]
     },
@@ -56,13 +95,6 @@
           "published": "2026-07-06",
           "platform": "youtube",
           "snippet": "TRAIN WITH ME : Body. Mind. Brand.\nhttps://becometheman01.com/findyourpath\n\nBECOME THE MAN,\nelite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, in complete alignment with your soul and highest self.\n\nBUILD THE BRAND.\nturn your value + story into a £10K–£100K+/month br"
-        },
-        {
-          "title": "The PSYCHO starter pack to dominate 99.9% of the Earth people.",
-          "url": "https://www.youtube.com/watch?v=B058KY1NUf4",
-          "published": "2026-07-01",
-          "platform": "youtube",
-          "snippet": "TRAIN WITH ME : Body. Mind. Brand.\nhttps://becometheman01.com/findyourpath\n\nBECOME THE MAN,\nelite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, in complete alignment with your soul and highest self.\n\nBUILD THE BRAND.\nturn your value + story into a £10K–£100K+/month br"
         }
       ]
     },
@@ -71,65 +103,11 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "Watch Me Turn Your Expertise Into a $100k Business",
-          "url": "https://www.youtube.com/watch?v=R4n7DhxysN4",
-          "published": "2026-06-30",
-          "platform": "youtube",
-          "snippet": "Have you spent years becoming an expert but you're still getting paid one hour at a time?Wondering how people are turning their knowledge into six-figure businesses without starting from scratch? What if the experience you already have is everything you need to build a $100K business? 👇 Get your FRE"
-        }
-      ]
-    },
-    {
-      "name": "Kallaway",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "The NEW Rules of Social Media in the Age of AI",
-          "url": "https://www.youtube.com/watch?v=ceRZVxO8KF8",
-          "published": "2026-07-01",
-          "platform": "youtube",
-          "snippet": "Get my free guide on how to build a winning content system (1B+ views, 1M+ followers): https://shortformsystem.co \nUse Sandcastles to grow 10x faster on social media (try risk-free): https://sandcastlesai.com/90\nWork with me: https://shortform.academy\n\nIn this video, I break down the 6 new rules for"
-        }
-      ]
-    },
-    {
-      "name": "MoreMozi",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Remember that guy who got rich dropshipping, day trading, buying crypto, and wholesaling at the",
-          "url": "https://www.youtube.com/shorts/wbHTwCuNLX0",
+          "title": "If You Want To Make a $1M This Year Start Teaching",
+          "url": "https://www.youtube.com/watch?v=6veRn2-zAxI",
           "published": "2026-07-07",
           "platform": "youtube",
-          "snippet": "Remember that guy who got rich dropshipping, day trading, buying crypto, and wholesaling at the same time?\n\nMe neither.\n\nFocus.\n\n#shorts #alexhormozi #business #motivation"
-        },
-        {
-          "title": "This is why you should always have a very expensive thing to sell.",
-          "url": "https://www.youtube.com/shorts/PCxalwKIlhI",
-          "published": "2026-07-07",
-          "platform": "youtube",
-          "snippet": "Either sell extremely expensive to a select few or sell something super cheap to everyone. The middle is where people die.\n\n#shorts #alexhormozi #business #motivation"
-        },
-        {
-          "title": "Most people die with 90% of their potential unused because they're afraid of sacrificing their",
-          "url": "https://www.youtube.com/shorts/Sknr5_lSsSg",
-          "published": "2026-07-07",
-          "platform": "youtube",
-          "snippet": "Most people die with 90% of their potential unused because they're afraid of sacrificing their current life rather than their potential life. \n\nWhen you’re 85 years old and on your deathbed - you’re not gonna wish you played it “safe”.\n\n#shorts #alexhormozi #business #motivation"
-        },
-        {
-          "title": "Comment “CEO” for a free personalized scaling roadmap to get you to the next level",
-          "url": "https://www.youtube.com/shorts/XPVm4r-Vg6w",
-          "published": "2026-07-07",
-          "platform": "youtube",
-          "snippet": "Fill out your business info here and it’ll spin up a personalized scaling roadmap:\n\nhttps://t.co/sqt08wgr1M\n\n#shorts #alexhormozi #business #motivation"
-        },
-        {
-          "title": "Why do you need the money?",
-          "url": "https://www.youtube.com/shorts/aK-X4lslT8A",
-          "published": "2026-07-07",
-          "platform": "youtube",
-          "snippet": "First time founder: “You need to sign an NDA before I tell you my idea.”\n\nSecond time founder: “Here’s everything I’ve got. No one’s gonna care until I make it happen anyways. And it’ll take money, years, and probably won’t work the way we expect.”\n\n#shorts #alexhormozi #business #motivation"
+          "snippet": "Is your career future-proof? What if your expertise could become your greatest financial asset?\nAre you still trading your time for money when you don't have to? 💡 Comment BUSINESS PLAN below and we'll send you our FREE Knowledge Business Plan Framework to help you turn your expertise into a scalabl"
         }
       ]
     },
@@ -138,39 +116,107 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "I’m not worried about the amount of followers I have...",
-          "url": "https://www.youtube.com/shorts/otAPvTX5_ug",
+          "title": "Start playing the long game and see how much lighter you feel ❤️",
+          "url": "https://www.youtube.com/shorts/wW-9SbK9GZg",
+          "published": "2026-07-08",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "When you realize that, you will deploy “love” not “fear”",
+          "url": "https://www.youtube.com/shorts/d3UnqVaNiPw",
+          "published": "2026-07-08",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "A little Tuesday night reminder for all of you …",
+          "url": "https://www.youtube.com/shorts/Y2_aEmF9piU",
+          "published": "2026-07-08",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "Send this to someone who needs this reminder ♥️",
+          "url": "https://www.youtube.com/shorts/PYG9N3_3CWM",
           "published": "2026-07-07",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
         },
         {
-          "title": "The - “interest media” era is here and it’s the biggest opportunity for all the creators",
-          "url": "https://www.youtube.com/shorts/M_Nw4nfjASg",
+          "title": "This video is about to change 78 people’s lives that watch it!",
+          "url": "https://www.youtube.com/shorts/tu-gvwQkiYE",
           "published": "2026-07-07",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        }
+      ]
+    },
+    {
+      "name": "Russell Brunson",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "AI Secrets Challenge - Day 5: Your AI Side-Hustle",
+          "url": "https://www.youtube.com/watch?v=3dmDC3uSr4g",
+          "published": "2026-07-03",
+          "platform": "youtube",
+          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttp://aisecretschallenge.com/ytgo\n\nWelcome to Day 5 of the AI Secrets Challenge: Your AI Side-Hustle!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Company\n\nAnd While "
         },
         {
-          "title": "Life is a game of self-esteem vs insecurity.",
-          "url": "https://www.youtube.com/shorts/IS_uqPf9Fqw",
-          "published": "2026-07-06",
+          "title": "AI Secrets Challenge - Day 4: The One-Person Software Machine",
+          "url": "https://www.youtube.com/watch?v=bcGJT6u--Nw",
+          "published": "2026-07-02",
           "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttp://aisecretschallenge.com/ytgo\n\nWelcome to Day 4 of the AI Secrets Challenge: The One-Person Software Machine!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Company"
         },
         {
-          "title": "Stop demonizing competition",
-          "url": "https://www.youtube.com/shorts/rKJ16LekveM",
-          "published": "2026-07-06",
+          "title": "AI Secrets Challenge - Day 3: The One-Person Marketing Machine",
+          "url": "https://www.youtube.com/watch?v=Ma52VhmLeXI",
+          "published": "2026-07-01",
           "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttp://aisecretschallenge.com/ytgo\n\nWelcome to Day 3 of the AI Secrets Challenge: The One-Person Marketing Machine!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Compan"
+        }
+      ]
+    },
+    {
+      "name": "Dan Martell",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "What is the 1-3-1 rule in business?",
+          "url": "https://www.youtube.com/shorts/q2wfgI2k2SE",
+          "published": "2026-07-08",
+          "platform": "youtube",
+          "snippet": "What is the 1-3-1 rule in business?"
         },
         {
-          "title": "You're somebody now",
-          "url": "https://www.youtube.com/shorts/bR_H5dsVvK0",
+          "title": "3 books only the top 1% have read",
+          "url": "https://www.youtube.com/shorts/FKkRIf4yFVg",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "3 books only the top 1% have read"
+        },
+        {
+          "title": "Money moves to make you wealthy",
+          "url": "https://www.youtube.com/shorts/pn998Gc6xeQ",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "Money moves to make you wealthy"
+        },
+        {
+          "title": "Leaders Encourage Bigger Vision",
+          "url": "https://www.youtube.com/shorts/oIrfOQkpiwE",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "Leaders Encourage Bigger Vision"
+        },
+        {
+          "title": "D Students are destined to get rich",
+          "url": "https://www.youtube.com/shorts/xrrRhUonRY8",
           "published": "2026-07-06",
           "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+          "snippet": "D Students are destined to get rich"
         }
       ]
     },
@@ -213,6 +259,6 @@
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 23
+    "total_items": 27
   }
 }
