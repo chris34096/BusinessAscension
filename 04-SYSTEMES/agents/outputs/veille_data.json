@@ -1,48 +1,163 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "period": {
-    "start": "2026-07-02",
-    "end": "2026-07-09"
+    "start": "2026-07-03",
+    "end": "2026-07-10"
   },
   "competitors": [
+    {
+      "name": "Mehdi Baer",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "LIVE FINAL : On célèbre la fin du Passage Initiatique !",
+          "url": "https://www.youtube.com/watch?v=D3Mxdgfoiso",
+          "published": "2026-07-05",
+          "platform": "youtube",
+          "snippet": "​​Il est temps de fêter ton implication et ton passage à l’action ! Tu as vécu une transformation puissante ces derniers jours, alors ce soir on célèbre ça tous ensemble…\n\nEt j’ai prévu plusieurs invités surprise !\n\n👉 C’est également la dernière soirée pour déposer ta candidature à l’Incubateur Vort"
+        },
+        {
+          "title": "🔴 LIVE : On regarde mon documentaire !",
+          "url": "https://www.youtube.com/watch?v=X-SPykwee9I",
+          "published": "2026-07-03",
+          "platform": "youtube",
+          "snippet": "Tu peux candidater pour l’Incubateur Vortex ici : https://tally.so/r/rjv7yp \n\nDécouvre les parcours inspirants des membres de l’Incubateur :  https://go.mehdibaer.com/temoignages-vortex"
+        }
+      ]
+    },
+    {
+      "name": "Alec Henry",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Fais ce test de 2 minutes avant de dire que ton entreprise va bien",
+          "url": "https://www.youtube.com/watch?v=JK0L1oMkTNk",
+          "published": "2026-07-05",
+          "platform": "youtube",
+          "snippet": "📄 Téléchargez le PDF gratuitement - « Comment rendre votre entreprise opérationnelle sans vous » (12 points) : https://l.entrepreneurs.com/checklist-entreprisequitournesansvous\n\nDeux entrepreneurs. Même secteur, même nombre d'années d'expérience, la même équipe au départ.\n\nCinq ans plus tard, l'un f"
+        }
+      ]
+    },
     {
       "name": "Max Piccinini",
       "platform": "youtube",
       "items": [
         {
-          "title": "Les entrepreneurs qui progressent le plus ne sont pas ceux qui savent tout.",
-          "url": "https://www.youtube.com/shorts/zpCk7vFZ99k",
-          "published": "2026-07-08",
+          "title": "Tu ne peux pas demander à quelqu’un de t’apprendre ce qu’il n’a jamais construit.",
+          "url": "https://www.youtube.com/shorts/zn6lTTLCY4M",
+          "published": "2026-07-10",
           "platform": "youtube",
-          "snippet": "Les entrepreneurs qui progressent le plus ne sont pas ceux qui savent tout.\n\nCe sont ceux qui ont l’humilité de demander de l’aide.\n\nDemander conseil n’est pas un signe de faiblesse.\n\nC’est le raccourci vers des années d’expérience que quelqu’un a déjà acquises avant toi.\n\nTon ego veut avoir raison."
+          "snippet": "Tu ne peux pas demander à quelqu’un de t’apprendre ce qu’il n’a jamais construit.\n\nTon banquier gère ton argent.\n\nTon comptable gère tes chiffres.\n\nMais si tu veux développer ton entreprise, entoure-toi de personnes qui ont déjà atteint les résultats que tu vises.\n\nLe plus grand raccourci vers le su"
         },
         {
-          "title": "La taille de ton entreprise dépend souvent de la taille de ta vision.",
-          "url": "https://www.youtube.com/shorts/Q-jVZ8yMJ2g",
-          "published": "2026-07-08",
+          "title": "Les gens n’achètent pas un produit.",
+          "url": "https://www.youtube.com/shorts/lM9BB52-QRE",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "La taille de ton entreprise dépend souvent de la taille de ta vision.\n\nSi ton seul objectif est de faire un peu mieux que l’année dernière, tes résultats resteront limités.\n\nLes plus grands entrepreneurs ne pensent pas en mois ou en années.\n\nIls construisent une vision capable d’avoir un impact dans"
+          "snippet": "Les gens n’achètent pas un produit.\n\nIls achètent une transformation.\n\nTon client ne veut pas savoir ce que tu vends.\n\nIl veut savoir où il est aujourd’hui (point A), où il veut arriver (point B) et pourquoi ta méthode est le meilleur chemin pour y parvenir.\n\nUne offre claire attire.\n\nUne méthode un"
         },
         {
-          "title": "La plupart des entreprises cherchent de nouveaux clients…",
-          "url": "https://www.youtube.com/shorts/nSGqBnD9kpE",
-          "published": "2026-07-08",
+          "title": "Le succès d’Elon Musk ne vient pas du fait qu’il n’a jamais échoué.",
+          "url": "https://www.youtube.com/shorts/Dph7JT3z_64",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "La plupart des entreprises cherchent de nouveaux clients…\n\nAlors qu’elles n’exploitent même pas leur meilleur canal d’acquisition : les recommandations.\n\nUn client satisfait, un partenaire ou un fournisseur peut devenir un véritable apporteur d’affaires… à condition d’avoir un système.\n\nLes recomman"
+          "snippet": "Le succès d’Elon Musk ne vient pas du fait qu’il n’a jamais échoué.\n\nIl vient du fait qu’il n’a jamais laissé un échec arrêter sa vision.\n\nChaque lancement raté est devenu une source d’apprentissage.\n\nChaque erreur a permis d’améliorer la suivante.\n\nLes plus grands entrepreneurs ne fuient pas l’éche"
         },
         {
-          "title": "On passe une vie à construire une entreprise.",
-          "url": "https://www.youtube.com/shorts/foRqQvas6Xw",
-          "published": "2026-07-08",
+          "title": "La plupart des entrepreneurs ne stagnent pas par manque de travail.",
+          "url": "https://www.youtube.com/shorts/kwk4okdkTe8",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "On passe une vie à construire une entreprise.\n\nMais au final, ce dont nos proches se souviendront, ce n’est pas de notre chiffre d’affaires.\n\nC’est du temps qu’on leur a consacré.\n\nLe succès n’a de sens que s’il te permet de vivre des moments avec ceux que tu aimes.\n\nParce qu’au bout du compte, le t"
+          "snippet": "La plupart des entrepreneurs ne stagnent pas par manque de travail.\n\nIls stagnent par excès de confort.\n\nÀ un moment, ce n’est plus ton entreprise qui te limite.\n\nC’est ton niveau de compétences… et les personnes que tu choisis de recruter.\n\nLes meilleurs talents coûtent plus cher.\n\nMais ils créent "
         },
         {
-          "title": "Deux entrepreneurs peuvent gagner le même revenu…",
-          "url": "https://www.youtube.com/shorts/DWQgMdeJI0w",
+          "title": "On ne naît pas avec une vision de la richesse.",
+          "url": "https://www.youtube.com/shorts/wAarl3bPhM0",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "On ne naît pas avec une vision de la richesse.\n\nOn l’apprend.\n\nPendant longtemps, on nous a appris à travailler pour gagner notre vie… mais rarement à investir, entreprendre ou créer de la valeur.\n\nPourtant, la richesse n’est pas une question de chance ou d’héritage.\n\nC’est le résultat de décisions,"
+        }
+      ]
+    },
+    {
+      "name": "Julien Himself",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Going Through “Hard Times” ⚠️",
+          "url": "https://www.youtube.com/shorts/kcEHMsqt_2Y",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "You SURVIVED by leaving parts of yourself behind… Healing is going back for them! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousand"
+        },
+        {
+          "title": "Don’t Let Them DISRESPECT You! ⚠️",
+          "url": "https://www.youtube.com/shorts/MMXVIEdlnCg",
           "published": "2026-07-08",
           "platform": "youtube",
-          "snippet": "Deux entrepreneurs peuvent gagner le même revenu…\n\nMais pas avoir la même vie.\n\nL’un travaille 60 heures par semaine. Il gère tout, décide de tout et ne peut jamais s’absenter.\n\nL’autre travaille 15 heures. Il délègue, prend du recul et se concentre sur les décisions qui font réellement grandir son "
+          "snippet": "Don’t let them DISRESPECT you! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them to cre"
+        },
+        {
+          "title": "Stop HIDING Your Confidence! ⚠️",
+          "url": "https://www.youtube.com/shorts/gEFKrREB86k",
+          "published": "2026-07-08",
+          "platform": "youtube",
+          "snippet": "Stop HIDING your confidence… This isn’t you!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowerin"
+        },
+        {
+          "title": "Why Smart People NEVER Change",
+          "url": "https://www.youtube.com/watch?v=-Uxcsk8xxoY",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "Most people ignore this, but they really shouldn't... This video reveals why the smartest people stay the most stuck!\n\n►►► APPLY FOR ONLINE COACHING: https://julien-himself.com/application\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformatio"
+        },
+        {
+          "title": "Your Ego Will Hate This… But You NEED To Hear It! ⚠️",
+          "url": "https://www.youtube.com/shorts/Wxj9WJBnKTY",
+          "published": "2026-07-06",
+          "platform": "youtube",
+          "snippet": "Your ego will hate this… But you NEED to hear it! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Emp"
+        }
+      ]
+    },
+    {
+      "name": "Franck Nicolas",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "‼️Le plus grand danger pour un entrepreneur - Franck Nicolas",
+          "url": "https://www.youtube.com/shorts/m7abGZ-b3_I",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "‼️Le plus grand danger pour un entrepreneur n'est pas l'échec.​\nC'est le confort.​\n​\nOn croit souvent que ce sont nos peurs, le manque d'argent, la concurrence ou la conjoncture qui nous empêchent de passer au niveau supérieur.​\n​\nEn réalité, le véritable piège est souvent beaucoup plus discret.​\n​\n"
+        },
+        {
+          "title": "Tes plus grandes réussites attendent une décision",
+          "url": "https://www.youtube.com/shorts/VorwJUL1Tng",
+          "published": "2026-07-08",
+          "platform": "youtube",
+          "snippet": "À quand remonte la dernière fois où tu as pris un vrai risque ?​\n​\nPas un risque inconsidéré.​\n​\nUn risque qui te faisait sortir de ta zone de confort.​\n​\nParce que la plupart des entrepreneurs ne stagnent pas par manque de compétences.​\nIls stagnent parce qu'ils prennent toujours les mêmes décision"
+        },
+        {
+          "title": "Chaque entrepreneur connaît ce moment - Franck Nicolas",
+          "url": "https://www.youtube.com/shorts/8XRu_qtDBqI",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "Chaque entrepreneur connaît ce moment.​\n​\nCelui où les ventes ralentissent.​\nCelui où les doutes prennent plus de place que les certitudes.​\nCelui où l'on se demande si tous les efforts en valent encore la peine.​\n​\nC'est précisément là que beaucoup abandonnent.​\n​\nPourtant, les entreprises qui fini"
+        },
+        {
+          "title": "L'erreur que les entrepreneurs isolés font tous les jours #business #warning",
+          "url": "https://www.youtube.com/shorts/ZWZCcIvZH9A",
+          "published": "2026-07-06",
+          "platform": "youtube",
+          "snippet": "Le succès est un sport d'équipe.​\n​\nVous pouvez avoir les meilleures idées.​\nLe plus grand talent.​\nLa plus grande détermination.​\n​\nSi vous restez isolé, vous limitez votre potentiel.​\n​\nAujourd'hui, les défis sont trop complexes pour être relevés seul.​\n​\nLes entrepreneurs qui créent les plus gran"
+        },
+        {
+          "title": "🚨 L'automatisation est en train de ruiner plus d'entreprises qu'elle n'en sauve. - Franck Nicolas",
+          "url": "https://www.youtube.com/shorts/h5M87H8rP6I",
+          "published": "2026-07-05",
+          "platform": "youtube",
+          "snippet": "🚨 L'automatisation est en train de ruiner plus d'entreprises qu'elle n'en sauve.​\n​\nOui, vous avez bien lu.​\n​\nChaque semaine, je vois des entrepreneurs investir dans la publicité, acheter de nouveaux logiciels, créer des tunnels de vente, automatiser leurs process ou recruter...​\n​\n...alors qu'ils "
         }
       ]
     },
@@ -50,6 +165,13 @@
       "name": "Jody Cavalie",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Notre plus grand piège au quotidien, c'est d'avoir oublié ce qu'est un vrai problème. 📉",
+          "url": "https://www.youtube.com/shorts/W_yRjiTVWZQ",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Notre plus grand piège au quotidien, c'est d'avoir oublié ce qu'est un vrai problème. 📉\n\n​On dépense une énergie mentale folle pour des détails qui n'ont aucun impact mathématique sur nos vies. Un vol en retard, un dossier qui bloque, une contrariété matinale... \n\nOn a pris l'habitude de transformer"
+        },
         {
           "title": "Le marché se moque de votre motivation. Il ne paie que pour votre constance. 📉",
           "url": "https://www.youtube.com/shorts/0sAQVO4Gewk",
@@ -77,13 +199,47 @@
           "published": "2026-07-05",
           "platform": "youtube",
           "snippet": "Votre pire ennemi financier n'est pas la volatilité des marchés. C'est l'illusion de sécurité. 📉\n\n​On grandit avec l'idée que laisser son capital sur un compte épargne classique est la décision la plus prudente. \n\nEn réalité, c'est la seule garantie mathématique de s'appauvrir un peu plus chaque ann"
+        }
+      ]
+    },
+    {
+      "name": "Pierre David / AHP",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Arrête de courrir après l'argent et fais ça à la place",
+          "url": "https://www.youtube.com/shorts/fYe_rflxOjc",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
         },
         {
-          "title": "De la théorie à l'exécution : La dédicace de mon livre",
-          "url": "https://www.youtube.com/watch?v=SBpjKG1nfvY",
-          "published": "2026-07-05",
+          "title": "De 0 à 1M€ de profits --  Yohann Helias CEO agence DAC",
+          "url": "https://www.youtube.com/watch?v=mzwwQfIv5a8",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "Sortir un livre, c'est d'abord des mois de travail dans l'ombre.\n\nC'était de loin l'un de mes plus gros chantiers stratégiques de l'année.\n\n​Mais un livre n'a aucune valeur intrinsèque s'il reste posé sur une table de chevet. \n\nSa seule utilité, c'est l'exécution que vous allez en tirer.\n\n​Je voulai"
+          "snippet": "Dans ce nouvel épisode, j'accueille Yohann Helias, fondateur de l'agence DAC et expert incontournable du media buying (Google Ads). Yohann nous livre un témoignage sans filtre sur les coulisses de sa croissance exponentielle et la déconstruction des croyances limitantes qui bloquent 99 % des entrepr"
+        },
+        {
+          "title": "J’ai perdu 4 finales de championnat de France à cause de mon mental",
+          "url": "https://www.youtube.com/shorts/-nX4FsQOCnA",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
+        },
+        {
+          "title": "Fais cet exercice si tu stresses pour atteindre ton objectif",
+          "url": "https://www.youtube.com/shorts/CHbYy0VoIMw",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
+        },
+        {
+          "title": "Elle réalise qu'elle voulait échouer",
+          "url": "https://www.youtube.com/shorts/FLeDGSniGR4",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Entrepreneurs & Leaders :\n👉RDV offert pour accélérer ou relancer la croissance de ton entreprise : https://formation.lacademie-de-la-haute-performance.com/entretien-offert-entrepreneur\n\n👉Découvre ma méthode gratuitement : https://formation.lacademiedelahauteperformance.com/decouverte-methode\n\n👉Mon l"
         }
       ]
     },
@@ -105,52 +261,93 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "Être entrepreneur m'a fait changer d'avis sur les enfants",
-          "url": "https://www.youtube.com/watch?v=n4mki9uPDo0",
-          "published": "2026-07-08",
+          "title": "À force de vouloir tout sécuriser, on finit parfois par ne plus avancer.",
+          "url": "https://www.youtube.com/shorts/WKPMOsvJLz0",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "Si tu veux qu'on aide ton entreprise à passer un cap, prends RDV pour en parler : https://the-ultracoaching.com/decouverte?utm_source=youtube&utm_medium=social&utm_content=hottakesetreparent\n\n-------\n\nDans cette vidéo, je partage une opinion qui risque de faire débat :\n\n-Pourquoi je pense qu'avoir d"
+          "snippet": "À force de vouloir tout sécuriser, on finit parfois par ne plus avancer.\n\nL’innovation demande de prendre des risques.\n\nPas des risques inconsidérés, mais des risques calculés.\n\nLes entreprises qui grandissent le plus ne sont pas celles qui cherchent uniquement à protéger ce qu’elles ont.\n\nCe sont s"
         },
         {
-          "title": "La lettre à mon père",
-          "url": "https://www.youtube.com/shorts/BmatqNlZvNk",
-          "published": "2026-07-07",
+          "title": "L’âge ne suffit pas à créer de l’intérêt.",
+          "url": "https://www.youtube.com/shorts/deS50zbwgzo",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "Parfois, les leçons les plus importantes viennent de ceux qui n'ont pas eu les bonnes cartes en main.\n\nCette vidéo parle d'héritage, de transmission, et de ce qu'on choisit de faire avec ce qu'on a reçu.\n\nPas de raccourci. Juste du travail, des bonnes personnes, et une mission claire.\n\n#entrepreneur"
+          "snippet": "L’âge ne suffit pas à créer de l’intérêt.\n\nAvoir 18 ans, 25 ans ou 50 ans n’est pas ce qui attire une audience.\n\nCe qui intéresse les gens, c’est une histoire, une expérience, des résultats, des leçons ou un point de vue différent.\n\nBeaucoup de créateurs pensent que les gens vont les suivre simpleme"
         },
         {
-          "title": "Pourquoi les témoignages clients sont vitaux",
-          "url": "https://www.youtube.com/shorts/xRuFHGmnIYY",
-          "published": "2026-07-07",
+          "title": "Arrêtez de penser que parce que quelqu’un réussit dans un domaine, il sait tout sur tout.",
+          "url": "https://www.youtube.com/shorts/jThFEVd1asQ",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "Les témoignages clients ne se collectent pas par hasard. Ils se demandent, se filment, et se capitalisent. Beaucoup d'entrepreneurs attendent que ça vienne tout seul. Ça n'arrive jamais. La preuve sociale que tu construis aujourd'hui, c'est ce qui te défend demain quand quelqu'un dira du mal de toi."
+          "snippet": "Arrêtez de penser que parce que quelqu’un réussit dans un domaine, il sait tout sur tout.\n\nLa réalité, c’est que plus j’avance, plus je me rends compte de tout ce que j’ignore encore.\n\nOn peut avoir construit des entreprises, généré beaucoup d’argent ou atteint certains objectifs et pourtant continu"
         },
         {
-          "title": "Il paie encore les erreurs d'une Ponzi",
-          "url": "https://www.youtube.com/shorts/ie7hqE10YVA",
-          "published": "2026-07-07",
+          "title": "Pendant longtemps, je pensais que la réussite se résumait à construire des entreprises et",
+          "url": "https://www.youtube.com/shorts/rOgwqhieFgM",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "Mauvais choix, système frauduleux, crédits à rembourser des années après.\n\nLes arnaques de type Ponzi ne disparaissent pas une fois découvertes. Elles laissent des traces financières et mentales qui durent.\n\nAvant d'investir, comprendre ce dans quoi on met son argent n'est pas optionnel. C'est la ba"
+          "snippet": "Pendant longtemps, je pensais que la réussite se résumait à construire des entreprises et atteindre des objectifs financiers.\n\nPuis, avec le temps, j’ai compris quelque chose.\n\nCe qui me rend vraiment heureuse aujourd’hui, ce n’est pas seulement ce que je construis pour moi.\n\nC’est ce que je peux tr"
         },
         {
-          "title": "Une maison à 10M€ qui l'a rendu prisonnier",
-          "url": "https://www.youtube.com/shorts/FD9g7Zc-ABE",
-          "published": "2026-07-07",
+          "title": "Donner des responsabilités à quelqu’un est souvent le meilleur moyen de le faire progresse",
+          "url": "https://www.youtube.com/shorts/xVpZEsIZkGg",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "On imagine souvent que dépenser plus, c'est décider mieux.\n\nPourtant, certains actifs que l'on achète pour se sentir libre finissent par créer exactement l'inverse.\n\nUne réflexion utile avant chaque grosse décision financière.\n\n#immobilier #liberté #entrepreneuriat #richesse\nClique sur le lien en bi"
+          "snippet": "Donner des responsabilités à quelqu’un est souvent le meilleur moyen de le faire progresser.\n\nMais la confiance ne doit jamais remplacer le cadre.\n\nConfier des décisions importantes à une personne jeune ou inexpérimentée peut être une formidable école d’apprentissage.\n\nÀ condition d’accepter qu’il y"
         }
       ]
     },
     {
-      "name": "Jeremy Kohlmann",
+      "name": "TheBBoost",
       "platform": "youtube",
       "items": [
         {
-          "title": "On analyse les pires conseils sur la vente (+10M€ encaissés)",
-          "url": "https://www.youtube.com/watch?v=VVmgo-SMp9k",
-          "published": "2026-07-02",
+          "title": "L’argent change-t-il nos valeurs ? 💰",
+          "url": "https://www.youtube.com/shorts/Ulps1c1WPxw",
+          "published": "2026-07-09",
           "platform": "youtube",
-          "snippet": "Passer 5 jours en intensif avec Jeremy et les consuiltants KP : https://www.kohlmann-publishing.com/sprint?el=youtube02072026\n\nOn voit passer des centaines de conseils sur TikTok pour mieux vendre, closer ou gérer les objections mais lesquels fonctionnent vraiment ? Avec Rachid Agbhal, Head of Sales"
+          "snippet": "Je vous réponds sans tabou 👀\n\nEpisode 364 à écouter en entier ici : https://smartlink.ausha.co/jpeux-pas-jai-business/scaler-ou-garder-son-business-a-taille-humaine-mon-avis-apres-6-ans-de-coaching\n\n-------------------\n✨ QUI SUIS-JE ?\n\nSi on ne s'est jamais rencontrés : Hello ! 🍪 Je suis Aline, coac"
+        },
+        {
+          "title": "Faut-il scaler à tout prix ? 📈",
+          "url": "https://www.youtube.com/shorts/gd0dY_mtP5M",
+          "published": "2026-07-07",
+          "platform": "youtube",
+          "snippet": "✨ Est-ce que plus de chiffre d’affaires = plus de réussite ?\n\n🤝 Faut-il garder une entreprise à taille humaine ?\n\nAutant de questions auxquelles j’ai répondu dans mon podcast :\n\nEpisode 364 complet ici : https://smartlink.ausha.co/jpeux-pas-jai-business/scaler-ou-garder-son-business-a-taille-humaine"
+        },
+        {
+          "title": "IA VS authenticité ? 👀",
+          "url": "https://www.youtube.com/shorts/XM4ZkedtwFc",
+          "published": "2026-07-06",
+          "platform": "youtube",
+          "snippet": "On entend partout qu’il faut rester authentique sur les réseaux sociaux.\n\nMais croyez-vous vraiment qu’on peut être 100% authentique en ligne ? (perso, j’ai un avis bien tranché sur le sujet 😏).\n\nPour moi, la question n’est pas \"comment faire pour être plus authentique ?” mais plutôt “quelle version"
+        },
+        {
+          "title": "Pourquoi « sois toi-même » est le pire conseil business de 2026",
+          "url": "https://www.youtube.com/watch?v=nFLF2CF9AIk",
+          "published": "2026-07-06",
+          "platform": "youtube",
+          "snippet": "On entend partout qu’il faut rester authentique sur les réseaux sociaux. Mais vous croyez vraiment qu’on peut être 100% authentique en ligne ? (j’ai un avis bien tranché sur le sujet).\n\nPour moi, la question n’est pas \"comment faire pour être plus authentique ?” mais plutôt “quelle version je veux i"
+        },
+        {
+          "title": "Business Scaling   Visez Vos Objectifs, Pas l'Argent",
+          "url": "https://www.youtube.com/shorts/Sxq12eKxRDY",
+          "published": "2026-07-04",
+          "platform": "youtube",
+          "snippet": "Il fallait que ça sorte 👀\n\nScalera, scalera pas ?\nAttention à ne pas confondre le fait de faire grandir votre business stratégiquement et de vouloir grandir par ego !\n\nExtrait de l’épisode 368 de mon podcast “J’peux pas j’ai business” : https://smartlink.ausha.co/jpeux-pas-jai-business/24-verites-qu"
+        }
+      ]
+    },
+    {
+      "name": "Taki Moore",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "You’re “One Funnel Away” (From Tanking Your Business)",
+          "url": "https://www.youtube.com/watch?v=1zR6k5LiiI8",
+          "published": "2026-07-03",
+          "platform": "youtube",
+          "snippet": "Download The System:\nhttps://bit.ly/TheSystem-YouTube\n\n————————————\n\nYou’ve heard the line before.\n\n“You’re just one funnel away.”\n\nCute.\n\nAlso, maybe one funnel away from setting your business on fire.\n\nBack in the day, traffic + funnels worked.\n\nBuild the funnel.\nBuy the traffic.\nJam people throug"
         }
       ]
     },
@@ -158,6 +355,20 @@
       "name": "Tanner Chidester",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Simple shift in mindset that makes all the difference.",
+          "url": "https://www.youtube.com/shorts/-D6UQSfv2lg",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Simple shift in mindset that makes all the difference."
+        },
+        {
+          "title": "Billionaires only build for two groups: elite clients or the simplest users. No exceptions.",
+          "url": "https://www.youtube.com/shorts/9a7I0Q4m7Ug",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Billionaires optimize for better clients, or make something that can work for the dumbest person on earth. There are no exceptions."
+        },
         {
           "title": "I’d rather be an operator than an influencer.",
           "url": "https://www.youtube.com/shorts/WX_Q8mUSnzM",
@@ -178,20 +389,45 @@
           "published": "2026-07-08",
           "platform": "youtube",
           "snippet": "Here's a breakdown how I’ve made over $150 million."
-        },
+        }
+      ]
+    },
+    {
+      "name": "Tom Pearson",
+      "platform": "youtube",
+      "items": [
         {
-          "title": "I was depressed thinking I’d have to become famous to get rich. Then I learned paid ads lol.",
-          "url": "https://www.youtube.com/shorts/aVXvrsUF0DQ",
+          "title": "In 23 minutes you'll be a PSYCHO that's ripped, rich & never tired",
+          "url": "https://www.youtube.com/watch?v=hckvX2H51tM",
+          "published": "2026-07-06",
+          "platform": "youtube",
+          "snippet": "TRAIN WITH ME : Body. Mind. Brand.\nhttps://becometheman01.com/findyourpath\n\nBecome The Man.\nElite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, in complete alignment with your soul and highest self.\n\nBuild The Brand.\nTurn your value + story into a £10K–£100K+/month br"
+        }
+      ]
+    },
+    {
+      "name": "Sunny Lenarduzzi",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "If You Want To Make a $1M This Year Start Teaching",
+          "url": "https://www.youtube.com/watch?v=6veRn2-zAxI",
           "published": "2026-07-07",
           "platform": "youtube",
-          "snippet": "I was depressed thinking I’d have to become famous to get rich. Then I learned paid ads lol."
-        },
+          "snippet": "Is your career future-proof? What if your expertise could become your greatest financial asset?\nAre you still trading your time for money when you don't have to? 💡 Comment BUSINESS PLAN below and we'll send you our FREE Knowledge Business Plan Framework to help you turn your expertise into a scalabl"
+        }
+      ]
+    },
+    {
+      "name": "Kallaway",
+      "platform": "youtube",
+      "items": [
         {
-          "title": "Your inputs, equal your outputs. Guard em with your life.",
-          "url": "https://www.youtube.com/shorts/6tsTRpg5nKA",
-          "published": "2026-07-07",
+          "title": "5 Claude Skills To Grow Faster Than 99% of People on Social Media",
+          "url": "https://www.youtube.com/watch?v=Cnk9NQ8JpCs",
+          "published": "2026-07-08",
           "platform": "youtube",
-          "snippet": "Your inputs, equal your outputs. Guard em with your life."
+          "snippet": "Get my free guide on how to build a winning content system (1B+ views, 1M+ followers): https://shortformsystem.co \nUse Sandcastles to grow 10x faster on social media (try risk-free): https://sandcastlesai.com/91\nWork with me: https://shortform.academy\n\nIn this video, I break down the 5 best ways to "
         }
       ]
     },
@@ -200,39 +436,39 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "comment “hotline” to receive our free scaling roadmap in 32 seconds",
-          "url": "https://www.youtube.com/shorts/HcHtnY-3us0",
-          "published": "2026-07-09",
+          "title": "Win so big that all of them shrink into irrelevance.",
+          "url": "https://www.youtube.com/shorts/PZ7w9nBkbZg",
+          "published": "2026-07-10",
           "platform": "youtube",
-          "snippet": "**Black Friday Surprise**\n\n$100M Scaling is now LIVE \n\nI didn’t launch a book this year. I spent my free time with Leila putting together a roadmap on scaling from 0 to $100M in 10 stages across 8 business functions.\n\nIt’s free.\nIt will make you money.\nEnjoy.\nHappy hunting ✊🏽 https://t.co/yrUUwiib9y"
+          "snippet": "Get so big your haters shrink into irrelevance.\n\n#shorts #alexhormozi #business #motivation"
         },
         {
-          "title": "If you’re a small business owner, you have to advertise more. Period.",
-          "url": "https://www.youtube.com/shorts/SxA34VJc8ko",
-          "published": "2026-07-09",
+          "title": "$100M CEO Blind Ranking Business Books",
+          "url": "https://www.youtube.com/shorts/JUAzbaC8fmU",
+          "published": "2026-07-10",
           "platform": "youtube",
-          "snippet": "If you're a small business owner, you have to advertise more. Period.\nNo one knows you exist - which is why you're not making as much as you want.\n\nIf you're not reaching out to people or making content or reaching out to people who respond to your content... you're wasting your time..\n\nThe fight yo"
+          "snippet": "The job of the CEO:\n1) Properly identify the constraint on the business \n2) Solve the constraint\n3) Find next constraint\n\n#shorts #alexhormozi #business #motivation"
         },
         {
-          "title": "The key to being fearless is to have nothing to lose. And the only way to have nothing to lose",
-          "url": "https://www.youtube.com/shorts/cOBK3x4TxrU",
-          "published": "2026-07-09",
+          "title": "These people only impress people that don’t know what players look like.",
+          "url": "https://www.youtube.com/shorts/t0mLAuEJ-zI",
+          "published": "2026-07-10",
           "platform": "youtube",
-          "snippet": "The key to being fearless is to have nothing to lose. And the only way to have nothing to lose is to realize nothing in this world belonged to you to begin with.\n\n#shorts #alexhormozi #business #motivation"
+          "snippet": "Poor people think theres only 1 kind of luck.\nRich people know there are 4:\n\n1. Hustle luck - you take more shots\n2. Skill luck - you see things others don't\n3. Reputation luck - people bring it to you\n4. Blind luck - it finds you\n\nYou are cause for 3 of 4. Work like it.\n\n#shorts #alexhormozi #busin"
         },
         {
-          "title": "Having full on discussions with the projection of my 85 year old self who embodies all the valu",
-          "url": "https://www.youtube.com/shorts/HM4WUiE4JT8",
-          "published": "2026-07-09",
+          "title": "I made 20x more money when I put all my effort into the first 5 seconds of my videos.",
+          "url": "https://www.youtube.com/shorts/Y8-Yr-EJd1o",
+          "published": "2026-07-10",
           "platform": "youtube",
-          "snippet": "Having full on discussions with the projection of my 85 year old self who embodies all the values I aspire towards may be one of the most powerful decision/advice frameworks  I’ve ever used.\n\nIt’s amazing how different the world looks, yet it’s still through my own minds eye.\n\n#shorts #alexhormozi #"
+          "snippet": "Drug dealers make money because they have an exceptional product.\n\nDream outcome: the feeling someone wants\n\nPerceived likelihood: 100%\n\nTime delay: 0-15min\n\nEffort &amp; sacrifice: 0\n\nAnd they give the first hit free.\n\nDo business like a drug dealer and you can make money like one.\n\n#shorts #alexho"
         },
         {
-          "title": "Comment “MAP” if you want a free personalized $100M scaling roadmap for your business in under",
-          "url": "https://www.youtube.com/shorts/wTvFMMly_Ck",
-          "published": "2026-07-09",
+          "title": "Your most valuable asset isn’t your time, it’s your attention.",
+          "url": "https://www.youtube.com/shorts/z0MkYaZh4XQ",
+          "published": "2026-07-10",
           "platform": "youtube",
-          "snippet": "Fill out your business info here and it’ll spin up a personalized scaling roadmap:\n\nhttps://t.co/sqt08wgr1M\n\n#shorts #alexhormozi #business #motivation"
+          "snippet": "Your most valuable asset isn’t your time, it’s your attention. \n\nA man with time and distractions will always lose to the man with a deadline and singular focus.\n\n#shorts #alexhormozi #business #motivation"
         }
       ]
     },
@@ -241,37 +477,37 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "So may of you are trying to grow on social, but aren’t on enough platforms",
-          "url": "https://www.youtube.com/shorts/cWdy-yoJL6E",
+          "title": "Let them stand on their own 2 feet … 👣 they are capable ..",
+          "url": "https://www.youtube.com/shorts/ylj2mYgotwk",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "Confused on why so many people try to avoid “hard",
+          "url": "https://www.youtube.com/shorts/a-kG4_YvblU",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "She made $8,000,000 in 2 seconds",
+          "url": "https://www.youtube.com/shorts/neisi7Y_8oU",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "Youre allowed to change your fucking mind",
+          "url": "https://www.youtube.com/shorts/Nod_Mb5Y5LI",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "brand and sales are happening on social …",
+          "url": "https://www.youtube.com/shorts/-R3qre44T1g",
           "published": "2026-07-09",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "This is why documenting your journey is so valuable…",
-          "url": "https://www.youtube.com/shorts/81Kyt63jnA8",
-          "published": "2026-07-09",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "How Social Media's Algorithms Changed",
-          "url": "https://www.youtube.com/shorts/jLprfkWThbw",
-          "published": "2026-07-08",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "You must understand this for all of you building a business…",
-          "url": "https://www.youtube.com/shorts/ibtzSGV6iPI",
-          "published": "2026-07-08",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "You’re the niche … period !",
-          "url": "https://www.youtube.com/shorts/SXXNnX4Uv1I",
-          "published": "2026-07-08",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
         }
@@ -287,13 +523,6 @@
           "published": "2026-07-03",
           "platform": "youtube",
           "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttp://aisecretschallenge.com/ytgo\n\nWelcome to Day 5 of the AI Secrets Challenge: Your AI Side-Hustle!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Company\n\nAnd While "
-        },
-        {
-          "title": "AI Secrets Challenge - Day 4: The One-Person Software Machine",
-          "url": "https://www.youtube.com/watch?v=bcGJT6u--Nw",
-          "published": "2026-07-02",
-          "platform": "youtube",
-          "snippet": "Join The Highest-Access AI Training From The Billion-Dollar Founders:\nhttp://aisecretschallenge.com/ytgo\n\nWelcome to Day 4 of the AI Secrets Challenge: The One-Person Software Machine!\n\nWe Believe The Future Belongs To The One-Person Department \n...To The One-Person Team\n...To The One-Person Company"
         }
       ]
     },
@@ -302,39 +531,39 @@
       "platform": "youtube",
       "items": [
         {
+          "title": "Sales isn't hard if you follow my process",
+          "url": "https://www.youtube.com/shorts/9UgZaHTlAY4",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "Sales isn't hard if you follow my process"
+        },
+        {
+          "title": "Which success habits ACTUALLY matter?",
+          "url": "https://www.youtube.com/shorts/40ZMWHJI0RI",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "Which success habits ACTUALLY matter?"
+        },
+        {
+          "title": "5 AI Tools I Use Everyday - Comment \"STACK\" for the link",
+          "url": "https://www.youtube.com/shorts/ht3lISFjcl8",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "5 AI Tools I Use Everyday - Comment \"STACK\" for the link"
+        },
+        {
+          "title": "I'm changing how I invest my money because of AI",
+          "url": "https://www.youtube.com/watch?v=b6aLGChngnE",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "✅ Get my FREE AI Operating System here: https://go.danmartell.com/4wDfgpn\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/3QKtcPb\n\nMost people are still investing the way their parents did, and it's why they're leaving massive returns on the table.\n\nI've spent "
+        },
+        {
           "title": "How do you know when to fire someone?",
           "url": "https://www.youtube.com/shorts/8wRmUSB2tRI",
           "published": "2026-07-09",
           "platform": "youtube",
           "snippet": "How do you know when to fire someone?"
-        },
-        {
-          "title": "3 habits that will turn ANYONE into a millionaire",
-          "url": "https://www.youtube.com/shorts/hE_acGIWOpI",
-          "published": "2026-07-08",
-          "platform": "youtube",
-          "snippet": "3 habits that will turn ANYONE into a millionaire"
-        },
-        {
-          "title": "I don't give a sh*t about my kids grades",
-          "url": "https://www.youtube.com/shorts/fnCWSV6zKY4",
-          "published": "2026-07-08",
-          "platform": "youtube",
-          "snippet": "I don't give a sh*t about my kids grades"
-        },
-        {
-          "title": "What is the 1-3-1 rule in business?",
-          "url": "https://www.youtube.com/shorts/q2wfgI2k2SE",
-          "published": "2026-07-08",
-          "platform": "youtube",
-          "snippet": "What is the 1-3-1 rule in business?"
-        },
-        {
-          "title": "3 books only the top 1% have read",
-          "url": "https://www.youtube.com/shorts/FKkRIf4yFVg",
-          "published": "2026-07-07",
-          "platform": "youtube",
-          "snippet": "3 books only the top 1% have read"
         }
       ]
     },
@@ -342,6 +571,13 @@
       "name": "Lewis Howes",
       "platform": "youtube",
       "items": [
+        {
+          "title": "How to ACTUALLY Change Beliefs",
+          "url": "https://www.youtube.com/shorts/64cFP-XHy8A",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
+        },
         {
           "title": "Your Mind Is Programmed To Stay Poor (Here’s How To Rewire It) | Chris Koerner",
           "url": "https://www.youtube.com/watch?v=cKwykBHgNio",
@@ -369,13 +605,6 @@
           "published": "2026-07-06",
           "platform": "youtube",
           "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n▶️ Recommended for you: https://youtu.be/xbKvgOn6Fg4\n\nWhat if everything you were taught about wealth was designed to keep you stuck?\n \nLewis Howes spent his mid twenties broke, sleeping on his sister's couch with no degree and n"
-        },
-        {
-          "title": "How to Start Being Serious About Starting a Business",
-          "url": "https://www.youtube.com/shorts/ctyKRuKX5C8",
-          "published": "2026-07-06",
-          "platform": "youtube",
-          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
         }
       ]
     },
@@ -384,11 +613,52 @@
       "platform": "youtube",
       "items": [
         {
+          "title": "How To Make It Through The Slow Seasons",
+          "url": "https://www.youtube.com/watch?v=O3Iry9qsg-0",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "STOP UNDERPRICING | How To Make It Through The Slow Seasons\n\nMost entrepreneurs think the solution to slow seasons is lowering their prices.\nBut underpricing your value often creates a bigger problem than the slowdown itself.\n\nIn this powerful message, Myron Golden explains why reducing your prices "
+        },
+        {
           "title": "Why Your Subconscious Programming Is Sabotaging All Of Your Efforts To Get Rich",
           "url": "https://www.youtube.com/watch?v=PGX2YLPodVg",
           "published": "2026-07-06",
           "platform": "youtube",
           "snippet": "A special gift for you: https://www.salesmovesgift.com/gift1 \n\nJUST REPROGRAM YOURSELF FOR WEALTH \n\nMost people work harder to change their income than they do to change their thinking.\nBut your financial future will never consistently outperform your subconscious programming.\n\nIn this powerful mess"
+        }
+      ]
+    },
+    {
+      "name": "Tony Robbins",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Tony Robbins Helps Her Break Free From a Lifetime of Trauma | Full Intervention",
+          "url": "https://www.youtube.com/watch?v=yDQjgnaOdjA",
+          "published": "2026-07-09",
+          "platform": "youtube",
+          "snippet": "We all have a story about who we are and why our life has unfolded the way it has. But what happens when that story becomes the very thing holding us back? In this powerful live intervention from the 2024 Date With Destiny event, Tony Robbins works with a woman whose painful childhood experiences sh"
+        },
+        {
+          "title": "The Comparison Trap That's Destroying Your Confidence | Tony Robbins Interventions",
+          "url": "https://www.youtube.com/watch?v=altBSwVq4t0",
+          "published": "2026-07-05",
+          "platform": "youtube",
+          "snippet": "Could one emotional breakthrough completely change the way you see yourself and your past? In this powerful intervention, Tony Robbins helps three people release painful memories, reframe limiting beliefs, and find lasting emotional freedom through life-changing interventions.\n\nWatch more videos lik"
+        },
+        {
+          "title": "AI Could End Deadly Diseases Sooner Than You Think",
+          "url": "https://www.youtube.com/shorts/vAc1KS8QmNc",
+          "published": "2026-07-04",
+          "platform": "youtube",
+          "snippet": "AI isn't just making computers smarter -- it could help solve some of humanity's biggest challenges.\n\nIn this clip, we discuss how breakthroughs in AI and computing could accelerate cancer treatments, unlock fusion energy, and transform the future far sooner than most people expect.\n\nWhat do you thi"
+        },
+        {
+          "title": "The Truth About Modern Nuclear Energy",
+          "url": "https://www.youtube.com/shorts/oA3OomWXchw",
+          "published": "2026-07-03",
+          "platform": "youtube",
+          "snippet": "Modern nuclear energy isn't what it was decades ago.\n\nIn this clip, we break down why nuclear power stalled after Three Mile Island, how today's reactor designs are fundamentally different, and why many experts believe nuclear could play a major role in the future of clean, reliable energy.\n\nDo you "
         }
       ]
     }
@@ -397,6 +667,6 @@
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 45
+    "total_items": 75
   }
 }
