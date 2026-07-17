@@ -1,20 +1,89 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "period": {
-    "start": "2026-07-09",
-    "end": "2026-07-16"
+    "start": "2026-07-10",
+    "end": "2026-07-17"
   },
   "competitors": [
     {
-      "name": "Alec Henry",
+      "name": "Max Piccinini",
       "platform": "youtube",
       "items": [
         {
-          "title": "Fais ce test de 2 minutes : tu perds probablement 30 % de ton chiffre d'affaires",
-          "url": "https://www.youtube.com/watch?v=22hkpcWrZBU",
+          "title": "Je prends du temps pour répondre aux membres du mastermind.",
+          "url": "https://www.youtube.com/shorts/rauW-28VTFA",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Je prends du temps pour répondre aux membres du mastermind.\n\nDes vraies questions.\nDes vrais enjeux.\nDes décisions qui comptent.\n\nEt parfois, un message :\n“Merci, ça a changé la trajectoire de mon entreprise.”\n\nC’est pour ça que je fais ça.\n\nPas pour parler.\nPour impacter."
+        },
+        {
+          "title": "Accompagner un entrepreneur, ce n’est pas seulement l’aider à gagner plus.",
+          "url": "https://www.youtube.com/shorts/XvdAhjeZCM4",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Accompagner un entrepreneur, ce n’est pas seulement l’aider à gagner plus.\n\nC’est l’aider à construire une entreprise plus rentable, une équipe plus solide et une vraie liberté.\n\nQuelques décisions stratégiques peuvent transformer un business et multiplier sa rentabilité.\n\nC’est cette transformation"
+        },
+        {
+          "title": "Les plus grandes marques ne vendent pas seulement un produit.",
+          "url": "https://www.youtube.com/shorts/5T67HZXzg8U",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Les plus grandes marques ne vendent pas seulement un produit.\n\nElles vendent une émotion.\n\nApple vend la simplicité. Tesla vend l’innovation. Disney vend la magie.\n\nLe produit n’est que le véhicule.\n\nCe que les clients achètent vraiment, c’est la façon dont ils veulent se sentir.\n\nLa vraie question "
+        },
+        {
+          "title": "Le plus grand raccourci vers le succès ?",
+          "url": "https://www.youtube.com/shorts/m-J8tbLnIcw",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Le plus grand raccourci vers le succès ?\n\nInvestir pour accéder à un niveau plus élevé que le vôtre.\n\nSortir la carte.\nPayer des mentors.\nRejoindre des masterminds exigeants.\nS’entourer de standards supérieurs.\n\nOn ne progresse pas en restant dans son environnement actuel.\n\nSi j’ai changé de niveau "
+        },
+        {
+          "title": "Ton niveau de revenu est rarement le fruit du hasard.",
+          "url": "https://www.youtube.com/shorts/Eusr-5I-Mrs",
+          "published": "2026-07-15",
+          "platform": "youtube",
+          "snippet": "Ton niveau de revenu est rarement le fruit du hasard.\n\nIl est souvent le reflet de ton niveau de compétences.\n\nSi tu veux gagner plus, commence par apprendre plus.\n\nLes entrepreneurs qui progressent le plus sont ceux qui investissent dans leur formation, s’entourent de mentors et apprennent auprès d"
+        }
+      ]
+    },
+    {
+      "name": "Julien Himself",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Being “Strong” ISN’T What You Think! ⚠️",
+          "url": "https://www.youtube.com/shorts/br8BQTPoGvU",
+          "published": "2026-07-14",
+          "platform": "youtube",
+          "snippet": "Being “strong” ISN’T what you think… \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them "
+        },
+        {
+          "title": "Stop SHRINKING Who You Are! ⚠️",
+          "url": "https://www.youtube.com/shorts/eXalxZ3m2V8",
+          "published": "2026-07-14",
+          "platform": "youtube",
+          "snippet": "Stop SHRINKING who you are! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them to create"
+        },
+        {
+          "title": "They Like You… But They NEVER Choose You!",
+          "url": "https://www.youtube.com/watch?v=Jc21Ja-Ptio",
           "published": "2026-07-12",
           "platform": "youtube",
-          "snippet": "📄 Téléchargez gratuitement le guide : « La méthode pour doubler ta rétention sans dépenser un euro de plus » : https://l.entrepreneurs.com/guide-retention\n\nVous pouvez livrer un travail irréprochable, avoir un produit de qualité et une équipe investie. Et perdre quand même 30 à 50 % de votre chiffre"
+          "snippet": "Everyone likes you... Nobody picks you. This video reveals the brutal reason why and how to be more confident in yourself!\n\n►►► START HERE: https://julien-himself.com/start\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSinc"
+        },
+        {
+          "title": "STOP Chasing “More” ⚠️",
+          "url": "https://www.youtube.com/shorts/qxEQHgLzAeo",
+          "published": "2026-07-11",
+          "platform": "youtube",
+          "snippet": "Stop chasing “more” 👉 It’s NEVER enough!\n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering th"
+        },
+        {
+          "title": "PEOPLE PLEASING Is Destroying Your Worth! ⚠️",
+          "url": "https://www.youtube.com/shorts/53_ZmEptVws",
+          "published": "2026-07-11",
+          "platform": "youtube",
+          "snippet": "PEOPLE PLEASING is destroying your worth! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering "
         }
       ]
     },
@@ -22,6 +91,13 @@
       "name": "Jody Cavalie",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Ce niveau de détachement c'est le signal d'alarme ultime.",
+          "url": "https://www.youtube.com/shorts/6rCKkHZowzY",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Ce niveau de détachement c'est le signal d'alarme ultime.\n\n​En neurologie, cet état d'indifférence absolue face au chaos porte un nom : l'apathie défensive (ou émoussement affectif).\n\n​Quand le cerveau d'un dirigeant est soumis à un stress chronique et à des problèmes continus, il finit par activer "
+        },
         {
           "title": "Le débat sur l'argent et le bonheur est l'excuse parfaite pour justifier l'inaction.",
           "url": "https://www.youtube.com/shorts/zzgG2tgJU60",
@@ -49,13 +125,6 @@
           "published": "2026-07-13",
           "platform": "youtube",
           "snippet": "Le regard des autres ne paiera jamais vos factures. 📉\n\n​Faites le calcul. Laisser votre stratégie, vos investissements ou votre ambition être bridés par la peur de décevoir 5 ou 6 personnes sur 8,3 milliards d'êtres humains, c'est une anomalie mathématique.\n\n​Pourtant, on a souvent tendance à donner"
-        },
-        {
-          "title": "​Le moment le plus dangereux, c'est quand on pense être enfin tranquille. 📉",
-          "url": "https://www.youtube.com/shorts/jOKC-Gc6Ivw",
-          "published": "2026-07-12",
-          "platform": "youtube",
-          "snippet": "​Le moment le plus dangereux, c'est quand on pense être enfin tranquille. 📉\n\n​On vous vend souvent la réussite ou l'indépendance financière comme une ligne d'arrivée. \n\nUn point de bascule où le stress disparaîtrait par magie.\n​C'est faux.\n\n​Chaque nouveau palier franchi ne supprime pas les problème"
         }
       ]
     },
@@ -69,33 +138,6 @@
           "published": "2026-07-13",
           "platform": "youtube",
           "snippet": "🔗 Mon Mentorat Privée → https://tally.so/r/0Qaz96\n🔗 EVOLUTIO → https://www.chloelemoigne.com/evolutio\n\nIl y a 5 ans je savais que je voulais créer de grandes choses, rassembler, parler en public, créer un mouvement.\n\nEt je me disais : \"Mais qui paierait pour ça ?\"\n\nAujourd'hui c'est exactement ce qu"
-        }
-      ]
-    },
-    {
-      "name": "TheBBoost",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Augmentez vos devis avec cette astuce  💡",
-          "url": "https://www.youtube.com/shorts/UJUnO7a25Fs",
-          "published": "2026-07-14",
-          "platform": "youtube",
-          "snippet": "Aaaah la marge de négociation aka la grande oubliée dans la création de vos devis 🥲\n\nDans l’épisode 360 de mon podcast j’aborde les 5 erreurs de tarification qui vous coûtent jusqu’à 12 000€/an.\n\nOui, on est d’accord, c’est ÉNORME !\n\n🎧 Pour écouter l’épisode complet, c’est par ici : https://smartlin"
-        },
-        {
-          "title": "Tuto Claude CoWork 👀",
-          "url": "https://www.youtube.com/shorts/GpAl6I-RXXE",
-          "published": "2026-07-13",
-          "platform": "youtube",
-          "snippet": "Et si vous receviez un message chaque matin vous récapitulant vos rendez-vous de la journée, les emails/demandes à traiter rapidement ou encore, des conseils sur comment vous habiller en fonction de la météo du jour ? 🌦️\n\nC’est ce que j’ai paramétré avec Claude en 15 min 🤓\n\nDans l’épisode de cette s"
-        },
-        {
-          "title": "20+ manières dont j’utilise l’IA dans mon quotidien d’entrepreneure",
-          "url": "https://www.youtube.com/watch?v=uo9Mbm1rP6c",
-          "published": "2026-07-13",
-          "platform": "youtube",
-          "snippet": "J’ai mis en place énormément d’automatisations avec Claude ou Chat GPT dans mon business. Certaines dont je ne pourrais plus me passer, d’ailleurs ! \n\nAlors dans cet épisode chill (été oblige), je vous partage sans filtre tous les exemples d’automatisations IA que j’utilise : organisation perso, off"
         }
       ]
     },
@@ -130,6 +172,13 @@
       "platform": "youtube",
       "items": [
         {
+          "title": "Secret To Scaling A Digital Product Business",
+          "url": "https://www.youtube.com/shorts/dD7VybnGEVY",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Secret To Scaling A Digital Product Business"
+        },
+        {
           "title": "How I Built a $2M a Month Digital Product Business (Full Breakdown)",
           "url": "https://www.youtube.com/watch?v=y8o4SvHtHe4",
           "published": "2026-07-15",
@@ -156,13 +205,6 @@
           "published": "2026-07-13",
           "platform": "youtube",
           "snippet": "Stop Dropshipping. Do This Instead Using AI"
-        },
-        {
-          "title": "Do NOT Use This AI For Making Digital Products",
-          "url": "https://www.youtube.com/shorts/Q60WVHsOFsg",
-          "published": "2026-07-12",
-          "platform": "youtube",
-          "snippet": "Do NOT Use This AI For Making Digital Products"
         }
       ]
     },
@@ -175,7 +217,74 @@
           "url": "https://www.youtube.com/watch?v=s9RnJL-yUCI",
           "published": "2026-07-13",
           "platform": "youtube",
-          "snippet": "JOIN AUTONOMY 01 (FREE PROGRAM) : https://www.skool.com/zero1/about\n\nEntire video program, resources, blueprint and community. Completely free. On me.\n\nThe art of engineering AUTONOMY and creating your own truth in body, mind, brand and life. \n\nComplete clarity on your highest future self, then the "
+          "snippet": "THE SIGNATURE PROGRAMS : https://becometheman01.com/findyourpath\n\nBecome The MAN. Elite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, complete alignment with your highest self.\n\nBuild The BRAND. Your authentic expertise + story turned into a £10K–£100K+/month brand th"
+        }
+      ]
+    },
+    {
+      "name": "Sunny Lenarduzzi",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "How I Packaged My Expertise Into a $5M Program",
+          "url": "https://www.youtube.com/watch?v=b9QOBWyQ-K4",
+          "published": "2026-07-14",
+          "platform": "youtube",
+          "snippet": "Are you an expert who's great at what you do—but struggling to turn your knowledge into a scalable business? What if the biggest thing holding you back isn't your expertise... it's how you've packaged it? 👇 Grab our FREE Knowledge Bank Business Plan and start building a business that grows beyond yo"
+        }
+      ]
+    },
+    {
+      "name": "Ed Lawrence",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "Copy This YouTube System, It'll Blow Up Your Business",
+          "url": "https://www.youtube.com/watch?v=Tlgq4Aim4EU",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Track Exactly Which Videos Make You Money - https://getrevtrack.com/?video=Tlgq4Aim4EU\nAccess My YouTube Growth System - https://story-os.ai/?video=Tlgq4Aim4EU\nFree Video Planning Bot - https://film-booth.com/ai-planning-bot/?video=Tlgq4Aim4EU\n\n0:13 Why You Can't Make Sales From YouTube \n2:48 Strate"
+        }
+      ]
+    },
+    {
+      "name": "MoreMozi",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "There’s never a line for hard work.",
+          "url": "https://www.youtube.com/shorts/bRPsAS4U1g0",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "There’s never a line for hard work."
+        },
+        {
+          "title": "Whatever you do first is the thing you put the most attention on.",
+          "url": "https://www.youtube.com/shorts/AeHSnO3wpQw",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "Whatever you do first is the thing you put the most attention on."
+        },
+        {
+          "title": "It’s easier to sell one really expensive thing to one really rich person than many cheap things",
+          "url": "https://www.youtube.com/shorts/jJo180BFOyQ",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "It’s easier to sell one really expensive thing to one really rich person than many cheap things to many poor people."
+        },
+        {
+          "title": "How To Make Sure A Client Never Cancels Their Gym Membership 💪",
+          "url": "https://www.youtube.com/shorts/v4tSH9YPdng",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "How To Make Sure A Client Never Cancels Their Gym Membership 💪"
+        },
+        {
+          "title": "What Do You Need To Get Rid Or Organize So You Can Reduce Your Stress & Make Higher Quality Dec",
+          "url": "https://www.youtube.com/shorts/ulEJyhZ8W9I",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "What Do You Need To Get Rid Or Organize So You Can Reduce Your Stress & Make Higher Quality Decisions?"
         }
       ]
     },
@@ -184,37 +293,37 @@
       "platform": "youtube",
       "items": [
         {
-          "title": "Over Exposure Doesn't Exist",
-          "url": "https://www.youtube.com/shorts/iCn-E0wF9yY",
+          "title": "This one sentence changed her life",
+          "url": "https://www.youtube.com/shorts/YzoWwpzCLok",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "Do you finally get “it”??? Do you? Share this with someone who’s confused",
+          "url": "https://www.youtube.com/shorts/zlLYqhu2-fQ",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
+        },
+        {
+          "title": "Please get a piece of this pie 🥧Live shopping",
+          "url": "https://www.youtube.com/shorts/FZG4rtkpr50",
           "published": "2026-07-16",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
         },
         {
-          "title": "How do you post more positive shit? By posting it 💜💜💜💜",
-          "url": "https://www.youtube.com/shorts/lEu5lQxOi0A",
+          "title": "This video never gets old",
+          "url": "https://www.youtube.com/shorts/0fMUabGuP40",
           "published": "2026-07-16",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
         },
         {
-          "title": "You Dont Need Followers To Get Views",
-          "url": "https://www.youtube.com/shorts/gZsI1QKs_Lc",
+          "title": "Little back seat 💺 rant to wake up all the zombies 🧟‍♂️ walking around like this ain’t your one life",
+          "url": "https://www.youtube.com/shorts/W6lLuqfhGn8",
           "published": "2026-07-16",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "It’s time you understand this is a massive skill, it’s not just posting, it’s posting with purpose …",
-          "url": "https://www.youtube.com/shorts/NsSlDcD0lng",
-          "published": "2026-07-15",
-          "platform": "youtube",
-          "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
-        },
-        {
-          "title": "It’s time to get serious … how much more can we speak on this .. this is the opportunity..",
-          "url": "https://www.youtube.com/shorts/hFTdSN1UWBs",
-          "published": "2026-07-15",
           "platform": "youtube",
           "snippet": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is d"
         }
@@ -224,6 +333,27 @@
       "name": "Dan Martell",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Having an assistant is the best hire you can make",
+          "url": "https://www.youtube.com/shorts/TXrILlR_prg",
+          "published": "2026-07-17",
+          "platform": "youtube",
+          "snippet": "Having an assistant is the best hire you can make"
+        },
+        {
+          "title": "Ranking all the worst ways to lose your money",
+          "url": "https://www.youtube.com/shorts/l8N83zgBcmA",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Ranking all the worst ways to lose your money"
+        },
+        {
+          "title": "AI is just a Yes Man - Comment YES MAN below for the fix",
+          "url": "https://www.youtube.com/shorts/seISZnoASyY",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "AI is just a Yes Man - Comment YES MAN below for the fix"
+        },
         {
           "title": "What makes a good CEO?",
           "url": "https://www.youtube.com/shorts/OynOMoqaHNU",
@@ -237,27 +367,6 @@
           "published": "2026-07-15",
           "platform": "youtube",
           "snippet": "The key to a successful marriage..."
-        },
-        {
-          "title": "If you wanna be the richest person in your family...",
-          "url": "https://www.youtube.com/shorts/Uysrgyd90Kg",
-          "published": "2026-07-15",
-          "platform": "youtube",
-          "snippet": "If you wanna be the richest person in your family..."
-        },
-        {
-          "title": "You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
-          "url": "https://www.youtube.com/watch?v=Bm84BAtOfQw",
-          "published": "2026-07-15",
-          "platform": "youtube",
-          "snippet": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3SXCfgk\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4pjN7RP\n\nBy 2030, the biggest wave of new jobs isn't going to reward people who can chat with AI. It's going to reward people who"
-        },
-        {
-          "title": "How to handle sales with confidence @omareltakrori",
-          "url": "https://www.youtube.com/shorts/fgruv83JcBQ",
-          "published": "2026-07-15",
-          "platform": "youtube",
-          "snippet": "How to handle sales with confidence @omareltakrori"
         }
       ]
     },
@@ -265,6 +374,13 @@
       "name": "Lewis Howes",
       "platform": "youtube",
       "items": [
+        {
+          "title": "This Happens Between 40 & 60",
+          "url": "https://www.youtube.com/shorts/bywZ4U10a3w",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
+        },
         {
           "title": "How to Create a Frequency so Magnetic Your Desires Chase You | David Bayer",
           "url": "https://www.youtube.com/watch?v=xNWnuiwpAOs",
@@ -292,13 +408,6 @@
           "published": "2026-07-13",
           "platform": "youtube",
           "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n▶️ Recommended for you: https://youtu.be/mivxgWFJ6jY\n\nThe best in the world don't have high self-esteem. They have none at all. That single idea changes how you think about confidence, pressure, and every story you tell yourself "
-        },
-        {
-          "title": "How to Unlock Your Next Level",
-          "url": "https://www.youtube.com/shorts/ltLkoSGaBDE",
-          "published": "2026-07-12",
-          "platform": "youtube",
-          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
         }
       ]
     },
@@ -319,13 +428,33 @@
           "published": "2026-07-13",
           "platform": "youtube",
           "snippet": "A free gift for you: http://aiageblueprint.com \n\nQUANTUMPLY YOUR LIFE | Six Steps To A Quantum Leap In Any Area Of Your Life\n\nMost people expect success to happen little by little.\nBut sometimes your greatest breakthrough isn't the result of small improvements—it's the result of a completely differe"
+        }
+      ]
+    },
+    {
+      "name": "Tony Robbins",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "The 10-Minute Priming Exercise That Changes Your Emotional State",
+          "url": "https://www.youtube.com/watch?v=fDXiYiSrG7M",
+          "published": "2026-07-12",
+          "platform": "youtube",
+          "snippet": "Can one simple daily habit completely shift the way you think and feel? In this powerful priming exercise, Tony Robbins shares his exercise that helps you move from fear, anger, and stress into a state of gratitude, joy, and emotional strength. Learn how focusing on your heart can transform your min"
         },
         {
-          "title": "How To Make It Through The Slow Seasons",
-          "url": "https://www.youtube.com/watch?v=O3Iry9qsg-0",
-          "published": "2026-07-09",
+          "title": "You're Not Stuck... You're Repeating a Pattern",
+          "url": "https://www.youtube.com/shorts/T0EOM5Svoj4",
+          "published": "2026-07-11",
           "platform": "youtube",
-          "snippet": "STOP UNDERPRICING | How To Make It Through The Slow Seasons\n\nMost entrepreneurs think the solution to slow seasons is lowering their prices.\nBut underpricing your value often creates a bigger problem than the slowdown itself.\n\nIn this powerful message, Myron Golden explains why reducing your prices "
+          "snippet": "Feeling stuck isn't the problem—the pattern is.\n\nIn this clip, Tony Robbins explains why the language you use can keep you trapped in the same behaviors, and how changing your patterns can completely transform your life.\n\nWhat's one pattern you're ready to break? Let us know in the comments.\n\n#TonyR"
+        },
+        {
+          "title": "Why America Is Racing to Build More Data Centers",
+          "url": "https://www.youtube.com/shorts/oSGk5WsO6N0",
+          "published": "2026-07-10",
+          "platform": "youtube",
+          "snippet": "The AI revolution isn't just about smarter software -- it's about building the infrastructure to power it.\n\nIn this clip, we discuss why America is racing to build more data centers, what's slowing the process down, and how new policy changes could accelerate the future of AI, manufacturing, and ene"
         }
       ]
     }
@@ -334,6 +463,6 @@
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 36
+    "total_items": 51
   }
 }
