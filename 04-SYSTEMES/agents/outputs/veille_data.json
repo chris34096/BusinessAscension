@@ -1,141 +1,95 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "period": {
-    "start": "2026-07-14",
-    "end": "2026-07-21"
+    "start": "2026-07-15",
+    "end": "2026-07-22"
   },
   "competitors": [
     {
-      "name": "Alec Henry",
+      "name": "Marvin Ndiaye",
       "platform": "youtube",
       "items": [
         {
-          "title": "4 000 € de pub, 600 € encaissés : le vrai calcul que personne ne fait",
-          "url": "https://www.youtube.com/shorts/9VNAny8Q0Pc",
-          "published": "2026-07-20",
+          "title": "La perception de valeur change tout",
+          "url": "https://www.youtube.com/shorts/enJR8hwnmNU",
+          "published": "2026-07-22",
           "platform": "youtube",
-          "snippet": "Vous dépensez 4 000 € en publicité et vous projetez 8 000 € de ventes sur l'année. Mais que reste-t-il vraiment dans votre trésorerie ce mois-ci ? Dans ce consulting, je décortique la vraie question : la rentabilité en cash. Je montre l'écart entre le chiffre projeté sur 12 mois et l'argent réelleme"
+          "snippet": "Un cadeau cher ne crée pas forcément plus de valeur perçue.\n\nCe qui marque un client, ce n'est pas le prix. C'est l'attention et la façon dont tu présentes ce que tu offres.\n\nLa perception, c'est une compétence à part entière.\n\n#cadeauclient #fidélisation #entrepreneuriat #perceptiondevaleur\n\nClique"
         },
         {
-          "title": "Le système d'acquisition qui transforme chaque euro de pub en client (à dupliquer dès maintenant)",
-          "url": "https://www.youtube.com/watch?v=DweZustci9w",
-          "published": "2026-07-19",
+          "title": "Son père ne le payait pas, alors il est parti",
+          "url": "https://www.youtube.com/shorts/X0gQ0FylcIE",
+          "published": "2026-07-22",
           "platform": "youtube",
-          "snippet": "💡 BÂTISSEZ UNE ENTREPRISE RENTABLE PAR VOS PROPRES FORCES — La Méthode Bootstrap, c'est le plan pour scaler sans lever un centime. 100% gratuit.\n\nEn vous inscrivant, vous recevez deux choses, dont une instantanément :\n➡️ Le rapport complet de la conférence qu'Anthony Bourbon a donnée sur notre scène"
-        }
-      ]
-    },
-    {
-      "name": "Max Piccinini",
-      "platform": "youtube",
-      "items": [
+          "snippet": "Travailler avec un proche, c'est souvent là que les premières leçons sur la valeur du travail se construisent.\n\nMais c'est aussi là que beaucoup apprennent, parfois douloureusement, que le respect de son propre travail ne peut pas dépendre d'un autre, même en famille.\n\n#entrepreneuriat #travail #min"
+        },
         {
-          "title": "La richesse est une conséquence, pas un objectif.",
-          "url": "https://www.youtube.com/shorts/8KxZK2snSz0",
+          "title": "Ton business est-il revendable ?",
+          "url": "https://www.youtube.com/shorts/LOPpgCdmHqY",
           "published": "2026-07-21",
           "platform": "youtube",
-          "snippet": "La richesse est une conséquence, pas un objectif.\n\nPlus tu crées de valeur, plus tu deviens utile.\nEt plus tu es utile, plus les opportunités viennent à toi.\n\nCommence par résoudre des problèmes. L’argent suivra."
+          "snippet": "Beaucoup d'entrepreneurs construisent un business sans jamais penser à sa valeur de revente.\n\nPourtant, un business structuré sur un modèle récurrent, avec des contrats clairs et des clauses solides, peut devenir un vrai actif.\n\nLa question à se poser dès aujourd'hui : est-ce que quelqu'un aurait en"
         },
         {
-          "title": "L’argent n’est pas une fin.",
-          "url": "https://www.youtube.com/shorts/QlkoZMfILs0",
-          "published": "2026-07-20",
+          "title": "Travailler avec sa femme : bonne idée ?",
+          "url": "https://www.youtube.com/shorts/RZxog8D23RQ",
+          "published": "2026-07-21",
           "platform": "youtube",
-          "snippet": "L’argent n’est pas une fin.\nC’est un outil pour vivre avec goût.\n\nAider sa famille, créer de la beauté, s’offrir ce qui nous élève…\nc’est aussi ça, la liberté financière.\n\nArrêtez de culpabiliser de réussir.\nVous avez le droit d’aimer ce que vous créez — et ce que vous vous offrez."
+          "snippet": "Intégrer son conjoint dans son business, c'est une décision qui ne se prend pas à la légère.\n\nCe n'est pas une question de confiance ou d'amour. C'est une question de complémentarité réelle et de dynamique de couple.\n\nCertains profils d'entrepreneurs ont tout à gagner à travailler ensemble. D'autres"
         },
         {
-          "title": "Travailler dur ne suffit pas.",
-          "url": "https://www.youtube.com/shorts/RWj5_4VhCXU",
-          "published": "2026-07-20",
+          "title": "L'intensité impressionne, la régularité construit",
+          "url": "https://www.youtube.com/shorts/XzZac4w0xbo",
+          "published": "2026-07-21",
           "platform": "youtube",
-          "snippet": "Travailler dur ne suffit pas.\n\nLe vrai déclic, c’est le jour où tu acceptes que quelqu’un sait déjà ce que tu cherches encore à comprendre.\n\nSe faire accompagner, ce n’est pas une faiblesse. C’est le moyen le plus intelligent d’aller plus vite.\n\nParce que le temps est ta ressource la plus précieuse."
-        },
-        {
-          "title": "Ne parle pas d’un sujet sur lequel tu n’es pas crédible.",
-          "url": "https://www.youtube.com/shorts/PMz73P_17YU",
-          "published": "2026-07-20",
-          "platform": "youtube",
-          "snippet": "Ne parle pas d’un sujet sur lequel tu n’es pas crédible.\n\nTa crédibilité vient de ton expérience et de tes résultats.\n\nEnsuite, trouve un positionnement clair : une cible précise, un problème précis.\n\nDemande-toi toujours : quelle est la vraie problématique de mon client, et quelle valeur unique pui"
-        },
-        {
-          "title": "Le problème n’est pas que tu manques de temps, de talent ou d’opportunités.",
-          "url": "https://www.youtube.com/shorts/YjGi6TZrdEY",
-          "published": "2026-07-20",
-          "platform": "youtube",
-          "snippet": "Le problème n’est pas que tu manques de temps, de talent ou d’opportunités.\n\nLe problème, c’est que tu attends d’être prêt.\n\nTu veux être sûr que ça va marcher avant de te lancer.\n\nMais ça ne fonctionne pas comme ça.\n\nLes opportunités vont à ceux qui passent à l’action, pas à ceux qui attendent le m"
+          "snippet": "Ce qui fait la différence ne se passe pas toujours devant les autres.\n\nLes journées se construisent dans les petits moments, les déplacements, les décisions prises quand personne ne regarde.\n\nL'intensité attire l'attention. La régularité, elle, construit quelque chose de durable.\n\n#entrepreneur #dis"
         }
       ]
     },
     {
-      "name": "Julien Himself",
+      "name": "TheBBoost",
       "platform": "youtube",
       "items": [
         {
-          "title": "The Secret To SELF CONFIDENCE! ⚠️",
-          "url": "https://www.youtube.com/shorts/AsuKdPMYrd8",
+          "title": "“Maman, laisse-moi profiter de mon argent !” 😂",
+          "url": "https://www.youtube.com/shorts/xcSY1fCv0PM",
+          "published": "2026-07-21",
+          "platform": "youtube",
+          "snippet": "Vous savez sûrement que l’éducation financière que nous avons reçu pendant notre enfance conditionne notre rapport à l’argent une fois devenus adultes.\n\nMais avez-vous conscience que vous pouvez aussi créer votre propre rapport à l’argent ?\n\nC’est le sujet que j’aborde dans cet épisode de podcast 👇\n"
+        },
+        {
+          "title": "Appel découverte : ma trame exacte en 7 étapes (testée sur 150+ appels)",
+          "url": "https://www.youtube.com/watch?v=AyZQWhj5kio",
           "published": "2026-07-20",
           "platform": "youtube",
-          "snippet": "The secret to SELF CONFIDENCE! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them to cre"
+          "snippet": "Et si je vous disais qu'on peut closer sans jamais avoir l'impression de vendre ?\n\nL'appel découverte est devenu un passage obligé dans mes nouvelles offres mais je déteste le closing. Du coup, plutôt que de subir, j'ai créé ma propre méthode : l’anti-vente.\n\nDans cette vidéo, je vous partage ma tra"
         },
         {
-          "title": "You’re In An ECHO CHAMBER! ⚠️",
-          "url": "https://www.youtube.com/shorts/Do3a45ENOCw",
-          "published": "2026-07-17",
-          "platform": "youtube",
-          "snippet": "You’re in an ECHO CHAMBER… Beware! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them to"
-        },
-        {
-          "title": "Being “Strong” ISN’T What You Think! ⚠️",
-          "url": "https://www.youtube.com/shorts/br8BQTPoGvU",
-          "published": "2026-07-14",
-          "platform": "youtube",
-          "snippet": "Being “strong” ISN’T what you think… \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them "
-        },
-        {
-          "title": "Stop SHRINKING Who You Are! ⚠️",
-          "url": "https://www.youtube.com/shorts/eXalxZ3m2V8",
-          "published": "2026-07-14",
-          "platform": "youtube",
-          "snippet": "Stop SHRINKING who you are! \n\nJulien Blanc (AKA JulienHimself) is a Swiss-born, U.S.-based self-help speaker, entrepreneur and transformational coach.\n\nSince 2010, he has been traveling around the world and has personally coached tens of thousands of clients face to face... Empowering them to create"
-        }
-      ]
-    },
-    {
-      "name": "Chloe Lem",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Pourquoi les gens adorent ton contenu… mais n’achètent pas.ep44",
-          "url": "https://www.youtube.com/watch?v=JkmnH1RlbVo",
-          "published": "2026-07-20",
-          "platform": "youtube",
-          "snippet": "Arrête de faire l'influenceuse et commence à vendre ! \n\n🔗 Mon Mentorat Privée → https://tally.so/r/0Qaz96\n🔗 EVOLUTIO → https://www.chloelemoigne.com/evolutio\n\n📲 Retrouve-moi sur Instagram : @chloe.lemm"
-        }
-      ]
-    },
-    {
-      "name": "Taki Moore",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Irresistible offers are overrated. Build this instead.",
-          "url": "https://www.youtube.com/watch?v=2wEU-mF2KNE",
-          "published": "2026-07-17",
-          "platform": "youtube",
-          "snippet": "Download The Traffic Lights:\nhttps://bit.ly/TheTrafficLights-YouTube\n\n————————————\n\nGetting clients is one thing.\n\nKeeping them is where the money is.\n\nMost coaches don’t have a marketing problem.\n\nThey have a leaky bucket problem.\n\nThey work like maniacs to get more leads, more calls, more buyers…\n"
-        }
-      ]
-    },
-    {
-      "name": "Jeremy Kohlmann",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "JE DÉVOILE LE SYSTÈME QUI X2 LE C.A. DE MES CLIENTS EN 90J",
-          "url": "https://www.youtube.com/watch?v=2ZrnLQSwld4",
+          "title": "\"Hire Slow, Fire Fast\" : Leçon clé pour une recrutement performant 💪",
+          "url": "https://www.youtube.com/shorts/MfUJynqIxuk",
           "published": "2026-07-18",
           "platform": "youtube",
-          "snippet": "Pour passer un appel d'audit de 60 min avec notre équipe :\nhttps://www.kohlmann-publishing.com/audit-youtube?el=youtube180726\n\nTon problème, c'est pas l'IA. C'est qu'on te vend 50 outils, 5 réseaux et des DM à froid — et qu'au bout du compte tu bosses plus pour gagner pareil.\n\nDans cette vidéo, je t"
+          "snippet": "“Recruter lentement mais virer rapidement” 👀\n\nVous connaissiez cette règle RH ?\n\nJe vous partage mon expérience de recrutement chez TheBBoost 👇\n\n🎧 Pour écouter l’épisode complet, c’est par ici : https://smartlink.ausha.co/jpeux-pas-jai-business/7-lecons-que-ce-trimestre-m-a-forcee-a-accepter\n\n🖥️ Et,"
+        },
+        {
+          "title": "Le piège du TJM…😈",
+          "url": "https://www.youtube.com/shorts/mXIXSIhiMNo",
+          "published": "2026-07-16",
+          "platform": "youtube",
+          "snippet": "Votre tarif à la journée ça ne représente pas uniquement un livrable.\n\nC’est votre expérience acquise au fil des années.\n\nCe sont les compétences que vous avez développées et dans lesquelles vous avez sûrement investi de l’argent.\n\nCe sont les outils que vous utilisez dans le cadre de vos missions.\n"
+        }
+      ]
+    },
+    {
+      "name": "Tom Pearson",
+      "platform": "youtube",
+      "items": [
+        {
+          "title": "In 34 minutes you’ll be a PSYCHO aligned 360 (body, mind, biz & life)",
+          "url": "https://www.youtube.com/watch?v=uTrsRFR45TY",
+          "published": "2026-07-20",
+          "platform": "youtube",
+          "snippet": "THE SIGNATURE PROGRAMS : https://becometheman01.com/findyourpath\n\nBecome The MAN. Elite physique, 8% body fat year-round, psycho mindset, peak cognitive performance, complete alignment with your highest self.\n\nBuild The BRAND. Your authentic expertise + story turned into a £10K–£100K+/month brand th"
         }
       ]
     },
@@ -166,50 +120,16 @@
       ]
     },
     {
-      "name": "MoreMozi",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "What if cats only lived 6 months, and I got to hang out with Bill for 18 months?",
-          "url": "https://www.youtube.com/shorts/FtmVbyc4-Rk",
-          "published": "2026-07-21",
-          "platform": "youtube",
-          "snippet": "What if cats only lived 6 months, and I got to hang out with Bill for 18 months?"
-        },
-        {
-          "title": "How to know someone uses AI to write:",
-          "url": "https://www.youtube.com/shorts/n21VAFw6M-Y",
-          "published": "2026-07-21",
-          "platform": "youtube",
-          "snippet": "How to know someone uses AI to write:"
-        },
-        {
-          "title": "Why do people stay broke?",
-          "url": "https://www.youtube.com/shorts/9pUgZxymNng",
-          "published": "2026-07-21",
-          "platform": "youtube",
-          "snippet": "Why do people stay broke?"
-        },
-        {
-          "title": "We never trained together again…",
-          "url": "https://www.youtube.com/shorts/VpNiK3y1nKs",
-          "published": "2026-07-21",
-          "platform": "youtube",
-          "snippet": "We never trained together again…"
-        },
-        {
-          "title": "\"How Do I Get Leads in a Saturated Market?\"",
-          "url": "https://www.youtube.com/watch?v=etKnXriF0tY",
-          "published": "2026-07-21",
-          "platform": "youtube",
-          "snippet": "My Scaling Roadmap (free): https://youtu.be/Y1ZR7CI16hY \n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the founder and managing partner of Acquisition.com. It’s a family office, which is just a formal way of saying we invest our own money into companies. Our 10 portfolio companies bring"
-        }
-      ]
-    },
-    {
       "name": "Lewis Howes",
       "platform": "youtube",
       "items": [
+        {
+          "title": "Love is a Verb",
+          "url": "https://www.youtube.com/shorts/JnULdehvXQE",
+          "published": "2026-07-21",
+          "platform": "youtube",
+          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
+        },
         {
           "title": "How to Quantum Leap Into Your Wealthiest Timeline | Jamie Sea",
           "url": "https://www.youtube.com/watch?v=zWxmb6bHyIs",
@@ -237,33 +157,6 @@
           "published": "2026-07-18",
           "platform": "youtube",
           "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
-        },
-        {
-          "title": "If You Want to Become Abundant...",
-          "url": "https://www.youtube.com/shorts/_63w_AoJk0k",
-          "published": "2026-07-17",
-          "platform": "youtube",
-          "snippet": "🔔 Subscribe for more great content: https://www.youtube.com/lewishowes\n\nListen to this episode on the go!\n🍎 Apple Podcasts: https://podcasts.apple.com/us/podcast/the-school-of-greatness/id596047499\n🟢 Spotify: https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT?si=a03d916bade54d4f\n\n💰 get my NEW YORK"
-        }
-      ]
-    },
-    {
-      "name": "Myron Golden",
-      "platform": "youtube",
-      "items": [
-        {
-          "title": "Why And How Comparison Can Cost You Everything",
-          "url": "https://www.youtube.com/watch?v=IFGOwfefq4w",
-          "published": "2026-07-20",
-          "platform": "youtube",
-          "snippet": "THE COMPARISON TRAP | Why And How Comparison Can Cost You Everything\n\nMost people don't lose because they're incapable.\nThey lose because they're constantly comparing their journey to someone else's.\n\nIn this powerful message, Myron Golden reveals how comparison steals your confidence, distracts you"
-        },
-        {
-          "title": "How To Outperform Everyone Else Using AI",
-          "url": "https://www.youtube.com/watch?v=5_GF5W1Q7dU",
-          "published": "2026-07-15",
-          "platform": "youtube",
-          "snippet": "AI GOAT LEVEL | How To Outperform Everyone Else Using AI\n\nMost people are using AI to save a few minutes.\nBut the highest performers are using AI to create an unfair competitive advantage.\n\nIn this powerful message, Myron Golden reveals how to move beyond basic AI prompts and begin leveraging artifi"
         }
       ]
     },
@@ -271,6 +164,13 @@
       "name": "Tony Robbins",
       "platform": "youtube",
       "items": [
+        {
+          "title": "This Is The Relationship Everyone Wants",
+          "url": "https://www.youtube.com/shorts/Cs59y8EtCiM",
+          "published": "2026-07-21",
+          "platform": "youtube",
+          "snippet": "The only way a relationship lasts is when we treat it as a place we go to give, not to get.\n\nIt changes how we show up. We put our partner's needs ahead of our own. We stop keeping score. We make it our job to light them up, and lighting them up lights us up even more. ❤️"
+        },
         {
           "title": "Why Most People Never Change (And How to Finally Break Through)",
           "url": "https://www.youtube.com/watch?v=8j_8ziBGgBM",
@@ -306,6 +206,6 @@
     "youtube_configured": 34,
     "youtube_missing_ids": [],
     "exa_enabled": false,
-    "total_items": 32
+    "total_items": 22
   }
 }
